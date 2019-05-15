@@ -1,0 +1,4014 @@
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10001.jpg
+ram, tup 0.36985
+ox 0.20538
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10002.jpg
+Labrador retriever 0.213598
+flat-coated retriever 0.121315
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10003.jpg
+ox 0.962377
+oxcart 0.0227482
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10004.jpg
+ram, tup 0.315973
+goose 0.246951
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10005.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.845791
+ox 0.151239
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10006.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.244492
+Boston bull, Boston terrier 0.179476
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10007.jpg
+whippet 0.338547
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.220108
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10008.jpg
+plow, plough 0.482465
+oxcart 0.352699
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10009.jpg
+ox 0.802687
+sorrel 0.052853
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10010.jpg
+sorrel 0.810995
+ox 0.0957175
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10011.jpg
+Appenzeller 0.111109
+Greater Swiss Mountain dog 0.0886092
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10012.jpg
+Brittany spaniel 0.466878
+Welsh springer spaniel 0.216155
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10013.jpg
+ox 0.906011
+sorrel 0.0499141
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10014.jpg
+ox 0.543479
+oxcart 0.19193
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10015.jpg
+Pembroke, Pembroke Welsh corgi 0.0757198
+Cardigan, Cardigan Welsh corgi 0.0746086
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10016.jpg
+sorrel 0.536298
+ox 0.191115
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10017.jpg
+basset, basset hound 0.603755
+Greater Swiss Mountain dog 0.157802
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10018.jpg
+Blenheim spaniel 0.57059
+Brittany spaniel 0.11539
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10019.jpg
+ox 0.250236
+Newfoundland, Newfoundland dog 0.170045
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10020.jpg
+ox 0.260816
+ram, tup 0.185788
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10021.jpg
+Saluki, gazelle hound 0.608389
+whippet 0.173799
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10022.jpg
+lion, king of beasts, Panthera leo 0.136086
+ox 0.121902
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10023.jpg
+croquet ball 0.0563881
+Cardigan, Cardigan Welsh corgi 0.0555953
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10024.jpg
+ox 0.487884
+teddy, teddy bear 0.0591687
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10025.jpg
+ox 0.350336
+ram, tup 0.280588
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10026.jpg
+Rhodesian ridgeback 0.230067
+vizsla, Hungarian pointer 0.165382
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10027.jpg
+ox 0.600626
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.146642
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10028.jpg
+ox 0.609468
+oxcart 0.383633
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10029.jpg
+ram, tup 0.431829
+Arabian camel, dromedary, Camelus dromedarius 0.102484
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10030.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.301694
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.291981
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10031.jpg
+plow, plough 0.334215
+Greater Swiss Mountain dog 0.131112
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10032.jpg
+bison 0.209086
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.188397
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10033.jpg
+white wolf, Arctic wolf, Canis lupus tundrarum 0.695893
+Arctic fox, white fox, Alopex lagopus 0.192132
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10034.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.253753
+Boston bull, Boston terrier 0.139178
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10035.jpg
+kuvasz 0.180746
+ram, tup 0.110425
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10036.jpg
+ox 0.392161
+plow, plough 0.229177
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10037.jpg
+sorrel 0.867075
+ox 0.0882796
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10038.jpg
+ox 0.532467
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.383841
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10039.jpg
+ox 0.183889
+Rhodesian ridgeback 0.147072
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10040.jpg
+gazelle 0.393604
+impala, Aepyceros melampus 0.301165
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10041.jpg
+ox 0.923792
+oxcart 0.0467333
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10042.jpg
+ostrich, Struthio camelus 0.625011
+Saluki, gazelle hound 0.147469
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10043.jpg
+Welsh springer spaniel 0.466251
+gyromitra 0.166637
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10044.jpg
+Ibizan hound, Ibizan Podenco 0.685216
+sorrel 0.237715
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10045.jpg
+ox 0.756351
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.159437
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10046.jpg
+oxcart 0.499856
+ox 0.489156
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10047.jpg
+ram, tup 0.367269
+ox 0.244378
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10048.jpg
+Ibizan hound, Ibizan Podenco 0.112236
+Italian greyhound 0.0796534
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10049.jpg
+oxcart 0.683708
+ox 0.201296
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10050.jpg
+maypole 0.328747
+stretcher 0.0715475
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10051.jpg
+Italian greyhound 0.43131
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.119243
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10052.jpg
+oxcart 0.0607185
+Arabian camel, dromedary, Camelus dromedarius 0.0525927
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10053.jpg
+Doberman, Doberman pinscher 0.045229
+Chesapeake Bay retriever 0.0383153
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10054.jpg
+bison 0.0987598
+Greater Swiss Mountain dog 0.0790458
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10055.jpg
+ox 0.857743
+sorrel 0.095965
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10056.jpg
+whippet 0.353571
+ram, tup 0.218335
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10057.jpg
+ram, tup 0.384483
+llama 0.346552
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10058.jpg
+ox 0.953684
+oxcart 0.0369153
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10059.jpg
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.886878
+hog, pig, grunter, squealer, Sus scrofa 0.0160468
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10060.jpg
+wild boar, boar, Sus scrofa 0.230481
+hog, pig, grunter, squealer, Sus scrofa 0.182361
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10061.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.339739
+Staffordshire bullterrier, Staffordshire bull terrier 0.15238
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10062.jpg
+Saluki, gazelle hound 0.323626
+whippet 0.224681
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10063.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.295037
+ram, tup 0.265771
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10064.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.224686
+hartebeest 0.172753
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10065.jpg
+Lakeland terrier 0.149483
+albatross, mollymawk 0.110584
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10066.jpg
+ram, tup 0.166547
+ox 0.16417
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10067.jpg
+Italian greyhound 0.600006
+whippet 0.124278
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10068.jpg
+ostrich, Struthio camelus 0.840171
+ox 0.0282865
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10069.jpg
+ox 0.828599
+oxcart 0.0514399
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10070.jpg
+basset, basset hound 0.837416
+ox 0.0467941
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10071.jpg
+sorrel 0.982694
+ox 0.0161498
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10072.jpg
+whippet 0.239655
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.152798
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10073.jpg
+ox 0.944971
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0111911
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10074.jpg
+ox 0.91955
+Arabian camel, dromedary, Camelus dromedarius 0.0410114
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10075.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.290918
+kelpie 0.257253
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10076.jpg
+basenji 0.587967
+gazelle 0.103796
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10077.jpg
+Ibizan hound, Ibizan Podenco 0.158888
+ox 0.102613
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10078.jpg
+Bernese mountain dog 0.560013
+Appenzeller 0.153012
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10079.jpg
+dingo, warrigal, warragal, Canis dingo 0.178517
+Pembroke, Pembroke Welsh corgi 0.144496
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10080.jpg
+ox 0.335364
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.142918
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10081.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.305314
+ox 0.10928
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10082.jpg
+dalmatian, coach dog, carriage dog 0.939562
+English setter 0.0153161
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10083.jpg
+ox 0.464093
+llama 0.456446
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10084.jpg
+ox 0.11681
+basset, basset hound 0.111427
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10085.jpg
+ox 0.562973
+oxcart 0.167267
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10086.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.299539
+ox 0.213269
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10087.jpg
+bison 0.820148
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0439474
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10088.jpg
+dalmatian, coach dog, carriage dog 0.18776
+Great Pyrenees 0.0773281
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10089.jpg
+English foxhound 0.484542
+Walker hound, Walker foxhound 0.254105
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10090.jpg
+ox 0.346165
+tiger, Panthera tigris 0.110129
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10091.jpg
+oxcart 0.578816
+ox 0.295645
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10092.jpg
+Great Dane 0.523366
+dalmatian, coach dog, carriage dog 0.242571
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10093.jpg
+ox 0.642877
+oxcart 0.21712
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10094.jpg
+ox 0.623257
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.37364
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10095.jpg
+curly-coated retriever 0.181202
+Staffordshire bullterrier, Staffordshire bull terrier 0.161606
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10096.jpg
+ox 0.389966
+oxcart 0.362777
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10097.jpg
+sorrel 0.257289
+Arabian camel, dromedary, Camelus dromedarius 0.160132
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10098.jpg
+ox 0.799967
+oxcart 0.085097
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10099.jpg
+ox 0.593818
+oxcart 0.132691
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10100.jpg
+Rhodesian ridgeback 0.115013
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0784366
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10101.jpg
+ox 0.949745
+bison 0.0456861
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10102.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.19638
+Border collie 0.0799079
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10103.jpg
+ox 0.175203
+whippet 0.161589
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10104.jpg
+ox 0.966781
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0232386
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10105.jpg
+ram, tup 0.840972
+ox 0.0533273
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10106.jpg
+ox 0.675952
+sorrel 0.0635642
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10107.jpg
+ox 0.474393
+ibex, Capra ibex 0.120719
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10108.jpg
+Irish terrier 0.106522
+muzzle 0.0920512
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10109.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.275015
+ox 0.245679
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10110.jpg
+ox 0.509552
+sorrel 0.162648
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10111.jpg
+whippet 0.361593
+Saluki, gazelle hound 0.144705
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10112.jpg
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.687872
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0778174
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10113.jpg
+ibex, Capra ibex 0.190889
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.118308
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10114.jpg
+whippet 0.201404
+Saluki, gazelle hound 0.130448
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10115.jpg
+ox 0.254651
+llama 0.244328
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10116.jpg
+dalmatian, coach dog, carriage dog 0.529027
+zebra 0.215725
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10117.jpg
+king penguin, Aptenodytes patagonica 0.671395
+ox 0.0233817
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10118.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.518276
+ox 0.286079
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10119.jpg
+Rhodesian ridgeback 0.418995
+basenji 0.186638
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10120.jpg
+Border collie 0.253884
+Cardigan, Cardigan Welsh corgi 0.238295
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10121.jpg
+ox 0.192734
+ostrich, Struthio camelus 0.190305
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10122.jpg
+plow, plough 0.440061
+ox 0.312746
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10123.jpg
+bison 0.484951
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.18561
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10124.jpg
+ox 0.307091
+oxcart 0.15087
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10125.jpg
+ox 0.712398
+English foxhound 0.0822699
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10126.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.225344
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0744415
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10127.jpg
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.184709
+French bulldog 0.074706
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10128.jpg
+brown bear, bruin, Ursus arctos 0.341066
+ox 0.14923
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10129.jpg
+Doberman, Doberman pinscher 0.179479
+Rhodesian ridgeback 0.0847555
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10130.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.3365
+Staffordshire bullterrier, Staffordshire bull terrier 0.174392
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10131.jpg
+sorrel 0.728998
+ox 0.0984053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10132.jpg
+ram, tup 0.407549
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.310656
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10133.jpg
+ox 0.232091
+oxcart 0.223141
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10134.jpg
+sorrel 0.517465
+ox 0.136818
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10135.jpg
+Saluki, gazelle hound 0.15497
+Appenzeller 0.117947
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10136.jpg
+ox 0.684933
+sorrel 0.115651
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10137.jpg
+ox 0.1888
+vulture 0.105631
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10138.jpg
+ram, tup 0.240063
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.213137
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10139.jpg
+dalmatian, coach dog, carriage dog 0.59208
+Great Dane 0.2243
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10140.jpg
+whippet 0.477046
+ox 0.292665
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10141.jpg
+bison 0.580472
+wild boar, boar, Sus scrofa 0.212365
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10142.jpg
+Ibizan hound, Ibizan Podenco 0.266979
+ox 0.183689
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10143.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.231326
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.166697
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10144.jpg
+Walker hound, Walker foxhound 0.153509
+English foxhound 0.132538
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10145.jpg
+ox 0.19975
+kelpie 0.0987477
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10146.jpg
+ox 0.803027
+oxcart 0.179545
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10147.jpg
+ox 0.665116
+ram, tup 0.104715
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10148.jpg
+ibex, Capra ibex 0.117303
+gazelle 0.0682596
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10149.jpg
+llama 0.689694
+ox 0.228913
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10150.jpg
+baseball 0.224205
+soccer ball 0.153573
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10151.jpg
+barn 0.731416
+castle 0.0578692
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10152.jpg
+Ibizan hound, Ibizan Podenco 0.0864659
+ox 0.080399
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10153.jpg
+Saluki, gazelle hound 0.152188
+borzoi, Russian wolfhound 0.125887
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10154.jpg
+oxcart 0.539516
+ox 0.372853
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10155.jpg
+ram, tup 0.247189
+ox 0.186926
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10156.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.464152
+ibex, Capra ibex 0.179614
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10157.jpg
+Great Dane 0.104135
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0667948
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10158.jpg
+whippet 0.820798
+Italian greyhound 0.0817021
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10159.jpg
+ox 0.306723
+bison 0.255288
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10160.jpg
+sandbar, sand bar 0.112511
+schipperke 0.0795946
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10161.jpg
+ox 0.175398
+sorrel 0.116546
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10162.jpg
+ox 0.57893
+sorrel 0.326182
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10163.jpg
+sorrel 0.662263
+Saluki, gazelle hound 0.113369
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10164.jpg
+ram, tup 0.0970706
+ox 0.0947947
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10165.jpg
+llama 0.761603
+ox 0.0338842
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10166.jpg
+kuvasz 0.294731
+Great Pyrenees 0.184512
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10167.jpg
+ox 0.723483
+bison 0.265467
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10168.jpg
+ox 0.532925
+oxcart 0.148171
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10169.jpg
+Italian greyhound 0.13986
+whippet 0.114805
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10170.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.585157
+ox 0.082428
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10171.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.436932
+curly-coated retriever 0.071931
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10172.jpg
+bison 0.452608
+ox 0.213991
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10173.jpg
+English foxhound 0.458828
+Great Dane 0.32537
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10174.jpg
+basenji 0.328895
+sorrel 0.170507
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10175.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.644846
+Ibizan hound, Ibizan Podenco 0.136351
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10176.jpg
+ox 0.204567
+oxcart 0.105521
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10177.jpg
+collie 0.356863
+ox 0.211296
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10178.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.501503
+ram, tup 0.433479
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10179.jpg
+ox 0.712212
+German short-haired pointer 0.0499089
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10180.jpg
+kelpie 0.307338
+Doberman, Doberman pinscher 0.0428448
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10181.jpg
+ox 0.805582
+oxcart 0.0662919
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10182.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.151373
+African elephant, Loxodonta africana 0.133324
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10183.jpg
+rapeseed 0.988465
+bison 0.00489224
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10184.jpg
+Rhodesian ridgeback 0.215684
+ox 0.147999
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10185.jpg
+whippet 0.553158
+ox 0.152168
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10186.jpg
+ox 0.406216
+ram, tup 0.165702
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10187.jpg
+ox 0.514815
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.226996
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10188.jpg
+ox 0.832348
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.164196
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10189.jpg
+Saluki, gazelle hound 0.200023
+whippet 0.143257
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10190.jpg
+ox 0.406561
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.132781
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10191.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.37325
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.257788
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10192.jpg
+bison 0.26581
+ox 0.219963
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10193.jpg
+ox 0.426111
+plow, plough 0.318104
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10194.jpg
+albatross, mollymawk 0.420191
+ram, tup 0.232747
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10195.jpg
+anemone fish 0.316686
+mountain tent 0.193848
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10196.jpg
+ox 0.555756
+ram, tup 0.10131
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10197.jpg
+bison 0.273893
+ox 0.268835
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10198.jpg
+Great Pyrenees 0.559264
+kuvasz 0.0797875
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10199.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.671136
+school bus 0.0584996
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10200.jpg
+oxcart 0.430711
+ox 0.260784
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10201.jpg
+sorrel 0.879125
+ox 0.0501575
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10202.jpg
+megalith, megalithic structure 0.087499
+lakeside, lakeshore 0.0615442
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10203.jpg
+sorrel 0.754478
+ox 0.133252
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10204.jpg
+llama 0.122255
+kuvasz 0.0699457
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10205.jpg
+whippet 0.15204
+sorrel 0.131392
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10206.jpg
+ox 0.840236
+ram, tup 0.0667506
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10207.jpg
+ostrich, Struthio camelus 0.18178
+plow, plough 0.0942338
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10208.jpg
+sorrel 0.962071
+ox 0.0368379
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10209.jpg
+Border collie 0.137377
+ostrich, Struthio camelus 0.114251
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10210.jpg
+Welsh springer spaniel 0.282711
+Brittany spaniel 0.191369
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10211.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.115903
+flat-coated retriever 0.070747
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10212.jpg
+gazelle 0.298676
+ox 0.219081
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10213.jpg
+basset, basset hound 0.219591
+Greater Swiss Mountain dog 0.214524
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10214.jpg
+Border collie 0.271657
+English springer, English springer spaniel 0.212477
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10215.jpg
+ram, tup 0.0491391
+bustard 0.0486518
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10216.jpg
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.450003
+Walker hound, Walker foxhound 0.068607
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10217.jpg
+ox 0.422711
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0818828
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10218.jpg
+basset, basset hound 0.301431
+Welsh springer spaniel 0.168215
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10219.jpg
+ox 0.915548
+ostrich, Struthio camelus 0.0647889
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10220.jpg
+sorrel 0.689449
+boxer 0.132585
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10221.jpg
+basenji 0.793091
+Ibizan hound, Ibizan Podenco 0.055791
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10222.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.122858
+Staffordshire bullterrier, Staffordshire bull terrier 0.0949285
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10223.jpg
+Great Pyrenees 0.199095
+kuvasz 0.109797
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10224.jpg
+sorrel 0.559343
+ox 0.398636
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10225.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.0764072
+basenji 0.045117
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10226.jpg
+Mexican hairless 0.492235
+curly-coated retriever 0.146848
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10227.jpg
+ox 0.633876
+llama 0.0729765
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10228.jpg
+ox 0.228376
+colobus, colobus monkey 0.213499
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10229.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.487214
+ostrich, Struthio camelus 0.218783
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10230.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.626744
+ram, tup 0.300445
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10231.jpg
+ox 0.188422
+Great Dane 0.0683757
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10232.jpg
+Sealyham terrier, Sealyham 0.311206
+ox 0.183017
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10233.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.12629
+Boston bull, Boston terrier 0.114571
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10234.jpg
+ox 0.613006
+oxcart 0.161765
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10235.jpg
+ostrich, Struthio camelus 0.237167
+Great Dane 0.12143
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10236.jpg
+ox 0.611686
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.222477
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10237.jpg
+Irish setter, red setter 0.493914
+redbone 0.0933608
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10238.jpg
+ram, tup 0.35938
+ox 0.299303
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10239.jpg
+ox 0.863247
+oxcart 0.0995837
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10240.jpg
+dalmatian, coach dog, carriage dog 0.444784
+Cardigan, Cardigan Welsh corgi 0.0738149
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10241.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.205353
+fur coat 0.168698
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10242.jpg
+Ibizan hound, Ibizan Podenco 0.48363
+English foxhound 0.0622806
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10243.jpg
+Chihuahua 0.128522
+Pembroke, Pembroke Welsh corgi 0.110731
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10244.jpg
+Greater Swiss Mountain dog 0.377183
+Appenzeller 0.31715
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10245.jpg
+Rhodesian ridgeback 0.258664
+sorrel 0.155185
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10246.jpg
+ostrich, Struthio camelus 0.850414
+kelpie 0.0450116
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10247.jpg
+rapeseed 0.14194
+harvester, reaper 0.0963589
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10248.jpg
+ox 0.597024
+bloodhound, sleuthhound 0.166501
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10249.jpg
+maze, labyrinth 0.26408
+alp 0.11143
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10250.jpg
+hartebeest 0.190299
+Rhodesian ridgeback 0.135027
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10251.jpg
+brown bear, bruin, Ursus arctos 0.85984
+bison 0.0843331
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10252.jpg
+ox 0.728416
+ram, tup 0.109412
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10253.jpg
+ox 0.330084
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.189787
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10254.jpg
+ox 0.230133
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.178671
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10255.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.642369
+bison 0.157794
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10256.jpg
+ox 0.635539
+oxcart 0.282734
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10257.jpg
+whippet 0.267136
+Italian greyhound 0.115191
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10258.jpg
+Boston bull, Boston terrier 0.200848
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.186496
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10259.jpg
+ox 0.761418
+sorrel 0.0812273
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10260.jpg
+Ibizan hound, Ibizan Podenco 0.158875
+Walker hound, Walker foxhound 0.0971869
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10261.jpg
+Italian greyhound 0.628089
+ox 0.20903
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10262.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.586343
+ox 0.328701
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10263.jpg
+Ibizan hound, Ibizan Podenco 0.290012
+oxcart 0.204935
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10264.jpg
+ox 0.929874
+oxcart 0.0372729
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10265.jpg
+birdhouse 0.891375
+howler monkey, howler 0.0216955
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10266.jpg
+ox 0.978789
+piggy bank, penny bank 0.00452618
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10267.jpg
+ox 0.474184
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.315729
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10268.jpg
+malamute, malemute, Alaskan malamute 0.192844
+Norwegian elkhound, elkhound 0.123401
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10269.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.229265
+Walker hound, Walker foxhound 0.203629
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10270.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.600911
+ram, tup 0.0837055
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10271.jpg
+ox 0.394848
+oxcart 0.138571
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10272.jpg
+Pembroke, Pembroke Welsh corgi 0.468496
+dingo, warrigal, warragal, Canis dingo 0.117681
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10273.jpg
+ostrich, Struthio camelus 0.969578
+ox 0.0149429
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10274.jpg
+rapeseed 0.523509
+barn 0.086821
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10275.jpg
+ox 0.480281
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.349796
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10276.jpg
+ox 0.582246
+oxcart 0.265847
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10277.jpg
+ox 0.402515
+llama 0.31479
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10278.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.156747
+Staffordshire bullterrier, Staffordshire bull terrier 0.135669
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10279.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.425267
+ram, tup 0.209391
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10280.jpg
+ox 0.526633
+Saint Bernard, St Bernard 0.168193
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10281.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.969113
+ox 0.0219912
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10282.jpg
+toy terrier 0.374063
+French bulldog 0.228152
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10283.jpg
+bison 0.451412
+ox 0.121468
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10284.jpg
+Brittany spaniel 0.200741
+Walker hound, Walker foxhound 0.194476
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10285.jpg
+English springer, English springer spaniel 0.175113
+ox 0.109076
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10286.jpg
+hartebeest 0.572447
+sorrel 0.210506
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10287.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.251772
+dalmatian, coach dog, carriage dog 0.213835
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10288.jpg
+basset, basset hound 0.418832
+English springer, English springer spaniel 0.0754701
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10289.jpg
+ox 0.366385
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.339983
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10290.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.513418
+llama 0.176023
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10291.jpg
+ox 0.484571
+Arabian camel, dromedary, Camelus dromedarius 0.165685
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10292.jpg
+ox 0.475066
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.364257
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10293.jpg
+ox 0.767641
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.147177
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10294.jpg
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus 0.539582
+sea lion 0.0911987
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10295.jpg
+ostrich, Struthio camelus 0.683522
+Arabian camel, dromedary, Camelus dromedarius 0.0632765
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10296.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.271477
+Staffordshire bullterrier, Staffordshire bull terrier 0.178778
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10297.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.360806
+Staffordshire bullterrier, Staffordshire bull terrier 0.106204
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10298.jpg
+Border collie 0.203503
+English springer, English springer spaniel 0.069048
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10299.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.756078
+bison 0.160626
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10300.jpg
+ram, tup 0.731593
+ox 0.110214
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10301.jpg
+schipperke 0.441082
+ox 0.0882477
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10302.jpg
+English springer, English springer spaniel 0.256345
+Border collie 0.141007
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10303.jpg
+ox 0.896728
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0244205
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10304.jpg
+ram, tup 0.33762
+hog, pig, grunter, squealer, Sus scrofa 0.169835
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10305.jpg
+megalith, megalithic structure 0.152494
+worm fence, snake fence, snake-rail fence, Virginia fence 0.128444
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10306.jpg
+howler monkey, howler 0.367825
+chimpanzee, chimp, Pan troglodytes 0.115472
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10307.jpg
+wild boar, boar, Sus scrofa 0.419151
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.346123
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10308.jpg
+ox 0.923346
+bison 0.0580699
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10309.jpg
+Brittany spaniel 0.258325
+Welsh springer spaniel 0.169562
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10310.jpg
+Ibizan hound, Ibizan Podenco 0.668057
+ram, tup 0.0663557
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10311.jpg
+patas, hussar monkey, Erythrocebus patas 0.169015
+English foxhound 0.165121
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10312.jpg
+ox 0.964953
+oxcart 0.0114896
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10313.jpg
+dishwasher, dish washer, dishwashing machine 0.229128
+Egyptian cat 0.0796647
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10314.jpg
+ox 0.408762
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.387465
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10315.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.327957
+Great Dane 0.152154
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10316.jpg
+ostrich, Struthio camelus 0.462804
+oystercatcher, oyster catcher 0.311211
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10317.jpg
+ox 0.483058
+Appenzeller 0.0460685
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10318.jpg
+king penguin, Aptenodytes patagonica 0.161875
+black stork, Ciconia nigra 0.0974116
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10319.jpg
+Boston bull, Boston terrier 0.188186
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0762903
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10320.jpg
+ox 0.264966
+bull mastiff 0.174983
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10321.jpg
+ox 0.655939
+bull mastiff 0.122303
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10322.jpg
+plow, plough 0.230927
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.180381
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10323.jpg
+ox 0.687465
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.129582
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10324.jpg
+Great Pyrenees 0.462856
+kuvasz 0.0749718
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10325.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.758952
+ox 0.213983
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10326.jpg
+hartebeest 0.337883
+ox 0.316878
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10327.jpg
+Boston bull, Boston terrier 0.317341
+Great Dane 0.122649
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10328.jpg
+ox 0.770329
+oxcart 0.079798
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10329.jpg
+sorrel 0.324975
+Rhodesian ridgeback 0.287987
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10330.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.373722
+ram, tup 0.149352
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10331.jpg
+ox 0.944698
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0276862
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10332.jpg
+ox 0.747859
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.171513
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10333.jpg
+ox 0.900876
+ram, tup 0.0322416
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10334.jpg
+bison 0.698281
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.135532
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10335.jpg
+bison 0.738677
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.103767
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10336.jpg
+thatch, thatched roof 0.22034
+megalith, megalithic structure 0.112252
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10337.jpg
+ox 0.762265
+plow, plough 0.111966
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10338.jpg
+ox 0.549194
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.389575
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10339.jpg
+beagle 0.198032
+ox 0.135286
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10340.jpg
+ox 0.482273
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.453713
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10341.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.487566
+Appenzeller 0.212821
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10342.jpg
+ox 0.201587
+borzoi, Russian wolfhound 0.139893
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10343.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.342851
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.154583
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10344.jpg
+ox 0.881569
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0253062
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10345.jpg
+Ibizan hound, Ibizan Podenco 0.773862
+Saluki, gazelle hound 0.0222212
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10346.jpg
+Ibizan hound, Ibizan Podenco 0.550828
+basenji 0.217514
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10347.jpg
+Great Dane 0.225751
+dalmatian, coach dog, carriage dog 0.221291
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10348.jpg
+ox 0.733823
+oxcart 0.117101
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10349.jpg
+sorrel 0.535355
+ox 0.375913
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10350.jpg
+yurt 0.948046
+mountain tent 0.0180149
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10351.jpg
+ram, tup 0.202142
+ox 0.131771
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10352.jpg
+whippet 0.225942
+Saluki, gazelle hound 0.195552
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10353.jpg
+alp 0.184875
+mountain tent 0.140554
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10354.jpg
+Border collie 0.349761
+ox 0.287903
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10355.jpg
+warthog 0.434365
+ox 0.134283
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10356.jpg
+ox 0.477793
+oxcart 0.108481
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10357.jpg
+flat-coated retriever 0.27492
+Great Dane 0.156249
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10358.jpg
+Walker hound, Walker foxhound 0.14302
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.105749
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10359.jpg
+African elephant, Loxodonta africana 0.624789
+bison 0.199517
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10360.jpg
+albatross, mollymawk 0.167886
+parachute, chute 0.121181
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10361.jpg
+langur 0.413953
+guenon, guenon monkey 0.238177
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10362.jpg
+ox 0.947306
+ram, tup 0.0260797
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10363.jpg
+ox 0.303292
+llama 0.259445
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10364.jpg
+sorrel 0.923087
+basenji 0.036663
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10365.jpg
+ox 0.794653
+sorrel 0.0995597
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10366.jpg
+Ibizan hound, Ibizan Podenco 0.574982
+sorrel 0.118289
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10367.jpg
+marmot 0.318599
+timber wolf, grey wolf, gray wolf, Canis lupus 0.248665
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10368.jpg
+ram, tup 0.420724
+ox 0.215023
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10369.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.559949
+ram, tup 0.435142
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10370.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.243104
+Brabancon griffon 0.218348
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10371.jpg
+English springer, English springer spaniel 0.158857
+Border collie 0.144711
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10372.jpg
+ox 0.536346
+ram, tup 0.164733
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10373.jpg
+white wolf, Arctic wolf, Canis lupus tundrarum 0.284796
+Samoyed, Samoyede 0.203262
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10374.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.24708
+gorilla, Gorilla gorilla 0.183163
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10375.jpg
+oxcart 0.52643
+ox 0.430519
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10376.jpg
+dingo, warrigal, warragal, Canis dingo 0.264012
+gazelle 0.246362
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10377.jpg
+Border collie 0.40952
+English setter 0.127033
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10378.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.451704
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.34402
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10379.jpg
+ox 0.770954
+ram, tup 0.0767757
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10380.jpg
+ox 0.225751
+cock 0.041218
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10381.jpg
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.972483
+dhole, Cuon alpinus 0.0135327
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10382.jpg
+ram, tup 0.336309
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.308163
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10383.jpg
+Italian greyhound 0.865678
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0322971
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10384.jpg
+Border collie 0.267013
+English springer, English springer spaniel 0.121587
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10385.jpg
+assault rifle, assault gun 0.059326
+cowboy hat, ten-gallon hat 0.0538592
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10386.jpg
+Ibizan hound, Ibizan Podenco 0.54301
+whippet 0.0987731
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10387.jpg
+ox 0.93999
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0178452
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10388.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.477295
+ox 0.221746
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10389.jpg
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.986449
+bison 0.00684568
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10390.jpg
+flat-coated retriever 0.306239
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.256634
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10391.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.401855
+ox 0.184509
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10392.jpg
+bison 0.559589
+ox 0.290622
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10393.jpg
+ox 0.717141
+sorrel 0.119058
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10394.jpg
+whippet 0.299749
+Italian greyhound 0.186896
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10395.jpg
+ox 0.827752
+oxcart 0.118891
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10396.jpg
+ram, tup 0.555251
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.38945
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10397.jpg
+ox 0.85464
+Ibizan hound, Ibizan Podenco 0.0294675
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10398.jpg
+Doberman, Doberman pinscher 0.181194
+black-and-tan coonhound 0.175939
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10399.jpg
+ox 0.6174
+Mexican hairless 0.254831
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10400.jpg
+howler monkey, howler 0.426011
+orangutan, orang, orangutang, Pongo pygmaeus 0.327565
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10401.jpg
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.170807
+orangutan, orang, orangutang, Pongo pygmaeus 0.168242
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10402.jpg
+Ibizan hound, Ibizan Podenco 0.570502
+Brittany spaniel 0.182435
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10403.jpg
+kuvasz 0.330664
+Great Pyrenees 0.191962
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10404.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.61986
+ox 0.28584
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10405.jpg
+ox 0.697462
+ram, tup 0.116199
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10406.jpg
+ram, tup 0.485523
+ox 0.299827
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10407.jpg
+basenji 0.250975
+ox 0.207817
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10408.jpg
+ox 0.521593
+oxcart 0.178016
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10409.jpg
+Border collie 0.145445
+English springer, English springer spaniel 0.10515
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10410.jpg
+ox 0.599269
+caldron, cauldron 0.129919
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10411.jpg
+ox 0.458773
+llama 0.251816
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10412.jpg
+Walker hound, Walker foxhound 0.2122
+Saint Bernard, St Bernard 0.0769239
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10413.jpg
+toy terrier 0.249486
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.168954
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10414.jpg
+sorrel 0.408083
+Rhodesian ridgeback 0.151514
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10415.jpg
+basset, basset hound 0.192549
+ox 0.140903
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10416.jpg
+Rhodesian ridgeback 0.617797
+basenji 0.137412
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10417.jpg
+Brittany spaniel 0.871401
+Welsh springer spaniel 0.112992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10418.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.533122
+ox 0.0980241
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10419.jpg
+ox 0.804457
+plow, plough 0.0841044
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10420.jpg
+ox 0.494338
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.322133
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10421.jpg
+ox 0.892031
+oxcart 0.0652257
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10422.jpg
+ox 0.778106
+ram, tup 0.088885
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10423.jpg
+English setter 0.13863
+ram, tup 0.0965126
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10424.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.541052
+ox 0.204888
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10425.jpg
+ox 0.440891
+sorrel 0.147462
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10426.jpg
+ram, tup 0.494473
+ox 0.37842
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10427.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.656637
+ox 0.144962
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10428.jpg
+ox 0.514893
+vizsla, Hungarian pointer 0.0705194
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10429.jpg
+Great Dane 0.275058
+German short-haired pointer 0.10255
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10430.jpg
+dhole, Cuon alpinus 0.475047
+hyena, hyaena 0.0660608
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10431.jpg
+Great Pyrenees 0.163679
+clumber, clumber spaniel 0.130099
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10432.jpg
+Saluki, gazelle hound 0.207661
+English springer, English springer spaniel 0.130173
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10433.jpg
+ox 0.282017
+Ibizan hound, Ibizan Podenco 0.15284
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10434.jpg
+ox 0.748721
+oxcart 0.103084
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10435.jpg
+ram, tup 0.441219
+hog, pig, grunter, squealer, Sus scrofa 0.179798
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10436.jpg
+Norwegian elkhound, elkhound 0.159326
+Eskimo dog, husky 0.123387
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10437.jpg
+llama 0.71822
+sorrel 0.128503
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10438.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.156856
+macaque 0.0999359
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10439.jpg
+Saluki, gazelle hound 0.343705
+whippet 0.183083
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10440.jpg
+Rhodesian ridgeback 0.303265
+vizsla, Hungarian pointer 0.174885
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10441.jpg
+horse cart, horse-cart 0.383646
+plow, plough 0.167464
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10442.jpg
+chocolate sauce, chocolate syrup 0.515272
+ox 0.102091
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10443.jpg
+ram, tup 0.810044
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.125509
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10444.jpg
+ox 0.45232
+dalmatian, coach dog, carriage dog 0.114978
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10445.jpg
+ram, tup 0.609675
+ox 0.183894
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10446.jpg
+gazelle 0.253503
+ibex, Capra ibex 0.205048
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10447.jpg
+Siamese cat, Siamese 0.375527
+dingo, warrigal, warragal, Canis dingo 0.0845774
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10448.jpg
+flat-coated retriever 0.41355
+Newfoundland, Newfoundland dog 0.169895
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10449.jpg
+basset, basset hound 0.346791
+ox 0.0893055
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10450.jpg
+Greater Swiss Mountain dog 0.361655
+Appenzeller 0.128931
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10451.jpg
+Welsh springer spaniel 0.208046
+Shetland sheepdog, Shetland sheep dog, Shetland 0.131114
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10452.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.271815
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0641268
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10453.jpg
+English springer, English springer spaniel 0.170597
+Great Dane 0.146966
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10454.jpg
+rapeseed 0.761641
+valley, vale 0.10464
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10455.jpg
+ox 0.324192
+EntleBucher 0.158339
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10456.jpg
+ox 0.539074
+oxcart 0.211907
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10457.jpg
+Border collie 0.200296
+EntleBucher 0.191912
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10458.jpg
+Appenzeller 0.193572
+Greater Swiss Mountain dog 0.168752
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10459.jpg
+hay 0.864758
+barn 0.0441518
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10460.jpg
+ox 0.93437
+oxcart 0.0307632
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10461.jpg
+ox 0.723151
+oxcart 0.173008
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10462.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.577553
+ox 0.262028
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10463.jpg
+Border collie 0.275142
+English springer, English springer spaniel 0.140098
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10464.jpg
+bison 0.914292
+brown bear, bruin, Ursus arctos 0.034882
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10465.jpg
+Bouvier des Flandres, Bouviers des Flandres 0.888532
+Scotch terrier, Scottish terrier, Scottie 0.0259138
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10466.jpg
+Airedale, Airedale terrier 0.272985
+Irish setter, red setter 0.163294
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10467.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.497462
+megalith, megalithic structure 0.0850695
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10468.jpg
+Norfolk terrier 0.208701
+cairn, cairn terrier 0.104412
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10469.jpg
+malinois 0.0865887
+Norwegian elkhound, elkhound 0.0664668
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10470.jpg
+ox 0.39027
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.132351
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10471.jpg
+kelpie 0.357442
+ox 0.10284
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10472.jpg
+dalmatian, coach dog, carriage dog 0.157534
+Border collie 0.0958507
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10473.jpg
+gazelle 0.373175
+ox 0.301118
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10474.jpg
+dhole, Cuon alpinus 0.28191
+lion, king of beasts, Panthera leo 0.154338
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10475.jpg
+ox 0.303012
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.220478
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10476.jpg
+ram, tup 0.0717178
+English foxhound 0.058028
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10477.jpg
+Saluki, gazelle hound 0.192317
+proboscis monkey, Nasalis larvatus 0.164177
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10478.jpg
+ram, tup 0.517882
+ox 0.167597
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10479.jpg
+ox 0.915536
+oxcart 0.061808
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10480.jpg
+ram, tup 0.400403
+ibex, Capra ibex 0.169793
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10481.jpg
+ox 0.849739
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0761515
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10482.jpg
+ox 0.531261
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.314979
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10483.jpg
+Great Dane 0.194952
+basenji 0.066868
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10484.jpg
+Brittany spaniel 0.3124
+Welsh springer spaniel 0.110418
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10485.jpg
+llama 0.352929
+ram, tup 0.190507
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10486.jpg
+Cardigan, Cardigan Welsh corgi 0.108846
+Welsh springer spaniel 0.0968393
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10487.jpg
+ox 0.901069
+oxcart 0.0744144
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10488.jpg
+Greater Swiss Mountain dog 0.188289
+ox 0.178518
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10489.jpg
+Appenzeller 0.30141
+muzzle 0.121432
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10490.jpg
+rapeseed 0.714805
+hay 0.162572
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10491.jpg
+ox 0.689243
+oxcart 0.146915
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10492.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.13272
+Boston bull, Boston terrier 0.069807
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10493.jpg
+Newfoundland, Newfoundland dog 0.203984
+white stork, Ciconia ciconia 0.148031
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10494.jpg
+plow, plough 0.4127
+oxcart 0.269627
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10495.jpg
+giant schnauzer 0.203396
+Scottish deerhound, deerhound 0.147501
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10496.jpg
+Egyptian cat 0.0490107
+ox 0.0463228
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10497.jpg
+hay 0.132672
+ox 0.0990001
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10498.jpg
+sorrel 0.855054
+ox 0.114957
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10499.jpg
+ram, tup 0.823777
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0760739
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10500.jpg
+boxer 0.170711
+Saint Bernard, St Bernard 0.132273
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10501.jpg
+basenji 0.313056
+oxcart 0.151314
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10502.jpg
+clumber, clumber spaniel 0.150867
+Irish wolfhound 0.13819
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10503.jpg
+barn 0.432325
+hay 0.149551
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10504.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.710897
+ox 0.144682
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10505.jpg
+Appenzeller 0.436423
+EntleBucher 0.144624
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10506.jpg
+bison 0.822879
+Bouvier des Flandres, Bouviers des Flandres 0.0733583
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10507.jpg
+ox 0.655952
+kelpie 0.217005
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10508.jpg
+ox 0.315887
+ram, tup 0.283281
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10509.jpg
+barber chair 0.103049
+lumbermill, sawmill 0.088345
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10510.jpg
+gyromitra 0.116986
+Chesapeake Bay retriever 0.0930108
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10511.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.421249
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.208596
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10512.jpg
+Welsh springer spaniel 0.370846
+fur coat 0.0665583
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10513.jpg
+ox 0.808155
+sorrel 0.095756
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10514.jpg
+mountain bike, all-terrain bike, off-roader 0.131185
+horse cart, horse-cart 0.065808
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10515.jpg
+ox 0.202236
+llama 0.168885
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10516.jpg
+alp 0.315526
+llama 0.210599
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10517.jpg
+oxcart 0.514065
+ox 0.303949
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10518.jpg
+barn 0.998836
+boathouse 0.00106117
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10519.jpg
+ox 0.279
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.277426
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10520.jpg
+hartebeest 0.27515
+ostrich, Struthio camelus 0.206078
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10521.jpg
+plow, plough 0.252022
+EntleBucher 0.133594
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10522.jpg
+tractor 0.206997
+golfcart, golf cart 0.0922947
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10523.jpg
+sorrel 0.504735
+ox 0.255647
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10524.jpg
+African elephant, Loxodonta africana 0.377225
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.305145
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10525.jpg
+mobile home, manufactured home 0.352015
+worm fence, snake fence, snake-rail fence, Virginia fence 0.138158
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10526.jpg
+African elephant, Loxodonta africana 0.661541
+tusker 0.285521
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10527.jpg
+tusker 0.119218
+ox 0.0855688
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10528.jpg
+mountain tent 0.334813
+alp 0.115567
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10529.jpg
+Irish setter, red setter 0.145647
+Welsh springer spaniel 0.0785238
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10530.jpg
+whippet 0.217771
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.139704
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10531.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.214105
+ram, tup 0.134584
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10532.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.362111
+bison 0.327886
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10533.jpg
+lion, king of beasts, Panthera leo 0.178798
+ox 0.139739
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10534.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.24115
+plow, plough 0.183049
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10535.jpg
+ram, tup 0.173487
+albatross, mollymawk 0.169661
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10536.jpg
+ox 0.310746
+whippet 0.224949
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10537.jpg
+ox 0.769047
+oxcart 0.151816
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10538.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.11901
+malamute, malemute, Alaskan malamute 0.0885417
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10539.jpg
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita 0.638244
+West Highland white terrier 0.106181
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10540.jpg
+cinema, movie theater, movie theatre, movie house, picture palace 0.101043
+shoe shop, shoe-shop, shoe store 0.0644639
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10541.jpg
+ox 0.173777
+Leonberg 0.0896393
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10542.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.183129
+ox 0.174449
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10543.jpg
+ox 0.726544
+sorrel 0.196085
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10544.jpg
+ox 0.821525
+gyromitra 0.0361487
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10545.jpg
+llama 0.269518
+ox 0.263711
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10546.jpg
+ox 0.376845
+llama 0.168028
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10547.jpg
+ox 0.844971
+oxcart 0.123774
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10548.jpg
+Walker hound, Walker foxhound 0.166757
+English foxhound 0.111483
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10549.jpg
+ox 0.526836
+ram, tup 0.299001
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10550.jpg
+viaduct 0.996665
+hay 0.000585556
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10551.jpg
+king penguin, Aptenodytes patagonica 0.450177
+academic gown, academic robe, judge's robe 0.293875
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10552.jpg
+bison 0.417123
+hay 0.19907
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10553.jpg
+Boston bull, Boston terrier 0.263282
+whippet 0.0867349
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10554.jpg
+Welsh springer spaniel 0.316311
+English foxhound 0.246106
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10555.jpg
+ox 0.27163
+kelpie 0.0754942
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10556.jpg
+megalith, megalithic structure 0.56347
+ram, tup 0.163772
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10557.jpg
+hay 0.0803136
+white stork, Ciconia ciconia 0.074523
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10558.jpg
+ox 0.322996
+whippet 0.200384
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10559.jpg
+hartebeest 0.51083
+ibex, Capra ibex 0.134456
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10560.jpg
+Border collie 0.214292
+EntleBucher 0.144547
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10561.jpg
+ox 0.402858
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.184772
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10562.jpg
+pug, pug-dog 0.0991521
+malamute, malemute, Alaskan malamute 0.086688
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10563.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.305775
+ox 0.0874414
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10564.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.375268
+ox 0.25183
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10565.jpg
+whippet 0.359546
+ram, tup 0.23093
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10566.jpg
+bison 0.805921
+hay 0.119467
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10567.jpg
+oxcart 0.476084
+ox 0.413603
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10568.jpg
+ox 0.862741
+oxcart 0.0844293
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10569.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.332449
+ram, tup 0.322847
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10570.jpg
+megalith, megalithic structure 0.271508
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.226506
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10571.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.295543
+Great Dane 0.185721
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10572.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.150831
+Border collie 0.119768
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10573.jpg
+ram, tup 0.236825
+ox 0.121156
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10574.jpg
+vizsla, Hungarian pointer 0.06373
+Chesapeake Bay retriever 0.0264659
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10575.jpg
+ox 0.78186
+oxcart 0.190086
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10576.jpg
+sorrel 0.114447
+Rhodesian ridgeback 0.0910532
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10577.jpg
+English springer, English springer spaniel 0.125964
+ox 0.103762
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10578.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.306946
+bison 0.116713
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10579.jpg
+chow, chow chow 0.483994
+llama 0.138717
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10580.jpg
+Tibetan mastiff 0.333368
+curly-coated retriever 0.222299
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10581.jpg
+ox 0.196582
+orangutan, orang, orangutang, Pongo pygmaeus 0.137162
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10582.jpg
+ox 0.190807
+Greater Swiss Mountain dog 0.108853
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10583.jpg
+tusker 0.319775
+mountain tent 0.193131
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10584.jpg
+oxcart 0.740331
+ox 0.233846
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10585.jpg
+ox 0.400151
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.214668
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10586.jpg
+ox 0.376542
+ostrich, Struthio camelus 0.167377
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10587.jpg
+chimpanzee, chimp, Pan troglodytes 0.256917
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.251228
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10588.jpg
+ox 0.415614
+oxcart 0.126452
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10589.jpg
+proboscis monkey, Nasalis larvatus 0.126078
+titi, titi monkey 0.0764135
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10590.jpg
+vizsla, Hungarian pointer 0.349071
+sorrel 0.274877
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10591.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.956781
+bison 0.0144193
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10592.jpg
+Great Dane 0.975881
+English foxhound 0.0176265
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10593.jpg
+hay 0.858769
+balloon 0.0454445
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10594.jpg
+ox 0.232625
+bison 0.195945
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10595.jpg
+German short-haired pointer 0.282443
+ox 0.193121
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10596.jpg
+ostrich, Struthio camelus 0.171911
+Border collie 0.142909
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10597.jpg
+Border collie 0.0940201
+kelpie 0.0752677
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10598.jpg
+llama 0.643615
+ox 0.102177
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10599.jpg
+ox 0.481883
+sorrel 0.427948
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10600.jpg
+crane 0.439425
+whippet 0.0462737
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10601.jpg
+oxcart 0.873283
+ox 0.126391
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10602.jpg
+golf ball 0.481835
+goose 0.14327
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10603.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.237218
+ibex, Capra ibex 0.183735
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10604.jpg
+greenhouse, nursery, glasshouse 0.116111
+barn 0.0929504
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10605.jpg
+ox 0.36684
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.131994
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10606.jpg
+stone wall 0.0974437
+pole 0.0614055
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10607.jpg
+ox 0.235814
+basset, basset hound 0.193308
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10608.jpg
+megalith, megalithic structure 0.359762
+alp 0.172633
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10609.jpg
+plow, plough 0.865368
+ox 0.0499851
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10610.jpg
+kelpie 0.42388
+dingo, warrigal, warragal, Canis dingo 0.0715229
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10611.jpg
+stone wall 0.460995
+promontory, headland, head, foreland 0.106281
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10612.jpg
+ox 0.419491
+oxcart 0.250467
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10613.jpg
+sorrel 0.628706
+ox 0.117704
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10614.jpg
+bison 0.420019
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.255344
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10615.jpg
+whippet 0.206194
+ox 0.17917
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10616.jpg
+dalmatian, coach dog, carriage dog 0.324311
+cannon 0.108924
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10617.jpg
+EntleBucher 0.200745
+Greater Swiss Mountain dog 0.193129
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10618.jpg
+Japanese spaniel 0.320987
+English springer, English springer spaniel 0.205065
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10619.jpg
+whippet 0.22305
+Saluki, gazelle hound 0.12167
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10620.jpg
+hartebeest 0.176028
+llama 0.122503
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10621.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.305704
+plow, plough 0.120229
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10622.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.166528
+Indian elephant, Elephas maximus 0.137589
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10623.jpg
+ox 0.468116
+oxcart 0.158426
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10624.jpg
+EntleBucher 0.324975
+Appenzeller 0.252297
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10625.jpg
+ox 0.563216
+horse cart, horse-cart 0.222667
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10626.jpg
+sorrel 0.187778
+ox 0.130989
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10627.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.994797
+stone wall 0.00222504
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10628.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.785798
+ox 0.129703
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10629.jpg
+cocker spaniel, English cocker spaniel, cocker 0.0516002
+muzzle 0.0462326
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10630.jpg
+EntleBucher 0.223848
+Greater Swiss Mountain dog 0.0957405
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10631.jpg
+alp 0.159901
+llama 0.128169
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10632.jpg
+ox 0.477957
+sorrel 0.242531
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10633.jpg
+alp 0.305119
+valley, vale 0.117353
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10634.jpg
+English springer, English springer spaniel 0.25966
+Greater Swiss Mountain dog 0.183301
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10635.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.679251
+Labrador retriever 0.0671792
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10636.jpg
+gazelle 0.189121
+Saluki, gazelle hound 0.120346
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10637.jpg
+bison 0.791064
+ox 0.0618986
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10638.jpg
+ox 0.335056
+oxcart 0.100564
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10639.jpg
+oxcart 0.830211
+ox 0.168308
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10640.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.408445
+ox 0.285404
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10641.jpg
+bison 0.201782
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.18993
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10642.jpg
+bison 0.918965
+ox 0.0653357
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10643.jpg
+ox 0.393782
+oxcart 0.166146
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10644.jpg
+ox 0.901451
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0908352
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10645.jpg
+Saluki, gazelle hound 0.579934
+whippet 0.225185
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10646.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.622832
+ox 0.223603
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10647.jpg
+plow, plough 0.197587
+Arabian camel, dromedary, Camelus dromedarius 0.11044
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10648.jpg
+oxcart 0.6599
+ox 0.241852
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10649.jpg
+ox 0.479672
+oxcart 0.172799
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10650.jpg
+ox 0.463029
+oxcart 0.237528
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10651.jpg
+Pembroke, Pembroke Welsh corgi 0.271916
+dingo, warrigal, warragal, Canis dingo 0.205893
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10652.jpg
+ox 0.566888
+sorrel 0.395402
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10653.jpg
+ox 0.664291
+sorrel 0.243066
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10654.jpg
+hay 0.98775
+balloon 0.00273429
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10655.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.608986
+sorrel 0.328036
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10656.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.592979
+hartebeest 0.0246211
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10657.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.409732
+bison 0.402619
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10658.jpg
+Chesapeake Bay retriever 0.49409
+African elephant, Loxodonta africana 0.0634692
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10659.jpg
+sorrel 0.818787
+ox 0.105175
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10660.jpg
+ox 0.620378
+oxcart 0.311647
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10661.jpg
+plow, plough 0.501861
+ox 0.1992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10662.jpg
+hay 0.704022
+bison 0.165157
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10663.jpg
+limousine, limo 0.364247
+king penguin, Aptenodytes patagonica 0.20314
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10664.jpg
+ox 0.459879
+oxcart 0.152044
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10665.jpg
+horse cart, horse-cart 0.36214
+boathouse 0.144418
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10666.jpg
+bison 0.744863
+ox 0.0968335
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10667.jpg
+basset, basset hound 0.678641
+Welsh springer spaniel 0.101307
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10668.jpg
+bison 0.45025
+hay 0.313328
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10669.jpg
+ox 0.620096
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.217684
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10670.jpg
+ox 0.669139
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0320931
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10671.jpg
+hay 0.656247
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0433747
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10672.jpg
+lion, king of beasts, Panthera leo 0.137924
+ox 0.0883168
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10673.jpg
+ox 0.674935
+Border collie 0.241242
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10674.jpg
+llama 0.209686
+Saluki, gazelle hound 0.205521
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10675.jpg
+Brittany spaniel 0.696514
+Welsh springer spaniel 0.148541
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10676.jpg
+dogsled, dog sled, dog sleigh 0.902871
+Eskimo dog, husky 0.0270697
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10677.jpg
+ox 0.641001
+oxcart 0.157924
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10678.jpg
+ox 0.75198
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.115343
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10679.jpg
+plow, plough 0.263925
+ox 0.188716
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10680.jpg
+dingo, warrigal, warragal, Canis dingo 0.610993
+hog, pig, grunter, squealer, Sus scrofa 0.125641
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10681.jpg
+ox 0.122921
+oxcart 0.107341
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10682.jpg
+plow, plough 0.274759
+hog, pig, grunter, squealer, Sus scrofa 0.176556
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10683.jpg
+bison 0.934047
+baboon 0.0239824
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10684.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.172631
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.166992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10685.jpg
+bison 0.308206
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0498017
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10686.jpg
+ox 0.567835
+plow, plough 0.133305
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10687.jpg
+stone wall 0.204375
+megalith, megalithic structure 0.193214
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10688.jpg
+ox 0.193932
+Shetland sheepdog, Shetland sheep dog, Shetland 0.159732
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10689.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0980546
+Staffordshire bullterrier, Staffordshire bull terrier 0.0978717
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10690.jpg
+ram, tup 0.731443
+Boston bull, Boston terrier 0.0660559
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10691.jpg
+ostrich, Struthio camelus 0.476253
+Border collie 0.307159
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10692.jpg
+Boston bull, Boston terrier 0.199759
+whippet 0.143062
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10693.jpg
+cloak 0.200842
+oxcart 0.109765
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10694.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.25961
+Staffordshire bullterrier, Staffordshire bull terrier 0.132255
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10695.jpg
+Saluki, gazelle hound 0.315434
+ox 0.259051
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10696.jpg
+king penguin, Aptenodytes patagonica 0.825413
+knee pad 0.0513601
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10697.jpg
+Ibizan hound, Ibizan Podenco 0.508154
+Brittany spaniel 0.141305
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10698.jpg
+ox 0.394218
+Border collie 0.291836
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10699.jpg
+ox 0.354149
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.241931
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10700.jpg
+ox 0.140077
+English foxhound 0.0919628
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10701.jpg
+fur coat 0.260683
+Arabian camel, dromedary, Camelus dromedarius 0.14053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10702.jpg
+Border collie 0.213543
+collie 0.150713
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10703.jpg
+ox 0.812405
+oxcart 0.0898427
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10704.jpg
+Ibizan hound, Ibizan Podenco 0.329801
+ox 0.101324
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10705.jpg
+king penguin, Aptenodytes patagonica 0.243077
+borzoi, Russian wolfhound 0.150888
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10706.jpg
+oxcart 0.207433
+crate 0.204157
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10707.jpg
+white wolf, Arctic wolf, Canis lupus tundrarum 0.452018
+timber wolf, grey wolf, gray wolf, Canis lupus 0.212745
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10708.jpg
+Eskimo dog, husky 0.224469
+Siberian husky 0.126224
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10709.jpg
+English foxhound 0.258871
+Walker hound, Walker foxhound 0.178747
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10710.jpg
+ox 0.267708
+vulture 0.147231
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10711.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.343501
+French bulldog 0.226425
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10712.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.413974
+Staffordshire bullterrier, Staffordshire bull terrier 0.345727
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10713.jpg
+ox 0.639397
+plow, plough 0.0918088
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10714.jpg
+black stork, Ciconia nigra 0.302243
+English foxhound 0.0850723
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10715.jpg
+ox 0.366908
+lion, king of beasts, Panthera leo 0.0872911
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10716.jpg
+llama 0.239424
+ox 0.0768619
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10717.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.45778
+ox 0.169095
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10718.jpg
+German shepherd, German shepherd dog, German police dog, alsatian 0.337506
+malinois 0.296445
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10719.jpg
+Boston bull, Boston terrier 0.336894
+French bulldog 0.206745
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10720.jpg
+ox 0.499803
+worm fence, snake fence, snake-rail fence, Virginia fence 0.103128
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10721.jpg
+hay 0.610332
+bison 0.0762644
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10722.jpg
+ox 0.621898
+ram, tup 0.179189
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10723.jpg
+ox 0.983325
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0133614
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10724.jpg
+ox 0.276224
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.220237
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10725.jpg
+ox 0.313202
+llama 0.290579
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10726.jpg
+oxcart 0.411929
+horse cart, horse-cart 0.146018
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10727.jpg
+boxer 0.324358
+Boston bull, Boston terrier 0.0956083
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10728.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.458354
+shield, buckler 0.20533
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10729.jpg
+oxcart 0.652986
+ox 0.340795
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10730.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.379717
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.114905
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10731.jpg
+oxcart 0.655725
+ox 0.264193
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10732.jpg
+ox 0.723456
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.234236
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10733.jpg
+dingo, warrigal, warragal, Canis dingo 0.321387
+Saluki, gazelle hound 0.262496
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10734.jpg
+ram, tup 0.542365
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.353079
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10735.jpg
+Border collie 0.0874929
+Saluki, gazelle hound 0.0656197
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10736.jpg
+basset, basset hound 0.24588
+English setter 0.145423
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10737.jpg
+ox 0.336996
+basenji 0.0945272
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10738.jpg
+Appenzeller 0.299202
+EntleBucher 0.193595
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10739.jpg
+ox 0.556744
+oxcart 0.113784
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10740.jpg
+ox 0.485606
+ram, tup 0.168898
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10741.jpg
+warthog 0.161622
+Chesapeake Bay retriever 0.0842021
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10742.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.356048
+Arabian camel, dromedary, Camelus dromedarius 0.206197
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10743.jpg
+bison 0.655741
+hay 0.271031
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10744.jpg
+ibex, Capra ibex 0.886379
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0312151
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10745.jpg
+Gordon setter 0.570346
+flat-coated retriever 0.210513
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10746.jpg
+ox 0.886444
+oxcart 0.050811
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10747.jpg
+whippet 0.553533
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.166477
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10748.jpg
+sorrel 0.434155
+ox 0.306987
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10749.jpg
+ox 0.596186
+oxcart 0.354739
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10750.jpg
+albatross, mollymawk 0.77226
+Walker hound, Walker foxhound 0.0772856
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10751.jpg
+ox 0.278229
+Brittany spaniel 0.172219
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10752.jpg
+Border collie 0.64497
+collie 0.0908597
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10753.jpg
+Rhodesian ridgeback 0.586965
+dhole, Cuon alpinus 0.179326
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10754.jpg
+ox 0.43329
+Border collie 0.0831007
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10755.jpg
+oxcart 0.68669
+ox 0.312247
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10756.jpg
+ox 0.547769
+oxcart 0.392846
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10757.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.375442
+Border collie 0.133338
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10758.jpg
+car mirror 0.439913
+vizsla, Hungarian pointer 0.0917032
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10759.jpg
+golfcart, golf cart 0.374205
+half track 0.116002
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10760.jpg
+ox 0.608676
+oxcart 0.175561
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10761.jpg
+basset, basset hound 0.15068
+English foxhound 0.134905
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10762.jpg
+ox 0.561868
+oxcart 0.073197
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10763.jpg
+Border collie 0.381361
+collie 0.322869
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10764.jpg
+basset, basset hound 0.0901591
+whippet 0.0535672
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10765.jpg
+mountain tent 0.174439
+sandbar, sand bar 0.0984331
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10766.jpg
+ox 0.731866
+oxcart 0.116187
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10767.jpg
+sorrel 0.411767
+ox 0.202319
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10768.jpg
+Border collie 0.252974
+ostrich, Struthio camelus 0.233151
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10769.jpg
+mountain tent 0.0978548
+valley, vale 0.0832496
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10770.jpg
+ox 0.693205
+oxcart 0.109848
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10771.jpg
+ox 0.235157
+Saluki, gazelle hound 0.225243
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10772.jpg
+English foxhound 0.529301
+whippet 0.178455
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10773.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.444369
+ox 0.361646
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10774.jpg
+Doberman, Doberman pinscher 0.0584056
+Appenzeller 0.0518212
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10775.jpg
+basset, basset hound 0.317201
+Walker hound, Walker foxhound 0.202784
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10776.jpg
+ox 0.582109
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.112683
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10777.jpg
+ram, tup 0.220222
+impala, Aepyceros melampus 0.186088
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10778.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.931755
+ox 0.0519036
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10779.jpg
+ram, tup 0.215613
+Staffordshire bullterrier, Staffordshire bull terrier 0.103451
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10780.jpg
+basset, basset hound 0.678397
+beagle 0.0558189
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10781.jpg
+soccer ball 0.0522534
+golf ball 0.0426181
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10782.jpg
+valley, vale 0.826977
+alp 0.111135
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10783.jpg
+ox 0.646077
+oxcart 0.351279
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10784.jpg
+Ibizan hound, Ibizan Podenco 0.198035
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.121888
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10785.jpg
+Irish setter, red setter 0.201841
+Chesapeake Bay retriever 0.120783
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10786.jpg
+sorrel 0.775495
+Ibizan hound, Ibizan Podenco 0.104878
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10787.jpg
+llama 0.299755
+indri, indris, Indri indri, Indri brevicaudatus 0.0920118
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10788.jpg
+white stork, Ciconia ciconia 0.751617
+goose 0.0652293
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10789.jpg
+golf ball 0.414404
+hay 0.2537
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10790.jpg
+ox 0.64205
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0917475
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10791.jpg
+ram, tup 0.397398
+ox 0.173662
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10792.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.543498
+Arabian camel, dromedary, Camelus dromedarius 0.14083
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10793.jpg
+Welsh springer spaniel 0.486704
+Sussex spaniel 0.30939
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10794.jpg
+hartebeest 0.323287
+ox 0.0893405
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10795.jpg
+ox 0.485877
+Brittany spaniel 0.200345
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10796.jpg
+Chesapeake Bay retriever 0.241306
+kelpie 0.223106
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10797.jpg
+ox 0.479919
+ram, tup 0.29309
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10798.jpg
+borzoi, Russian wolfhound 0.476809
+Saluki, gazelle hound 0.120812
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10799.jpg
+oxcart 0.699384
+ox 0.256375
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10800.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.618682
+sorrel 0.140142
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10801.jpg
+lakeside, lakeshore 0.348701
+seashore, coast, seacoast, sea-coast 0.0723007
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10802.jpg
+ox 0.716685
+llama 0.108935
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10803.jpg
+Sealyham terrier, Sealyham 0.33983
+Maltese dog, Maltese terrier, Maltese 0.187245
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10804.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.553401
+goose 0.1135
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10805.jpg
+llama 0.21718
+ram, tup 0.148266
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10806.jpg
+ox 0.496653
+dalmatian, coach dog, carriage dog 0.195513
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10807.jpg
+ram, tup 0.669545
+ox 0.211363
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10808.jpg
+llama 0.440247
+ox 0.153647
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10809.jpg
+king penguin, Aptenodytes patagonica 0.125773
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.066198
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10810.jpg
+EntleBucher 0.446842
+Appenzeller 0.203616
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10811.jpg
+Cardigan, Cardigan Welsh corgi 0.292162
+collie 0.137316
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10812.jpg
+ox 0.270772
+Great Dane 0.175617
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10813.jpg
+plow, plough 0.285068
+ox 0.0916712
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10814.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.279024
+kit fox, Vulpes macrotis 0.204887
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10815.jpg
+bison 0.797841
+ox 0.0368207
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10816.jpg
+whippet 0.132029
+Walker hound, Walker foxhound 0.110516
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10817.jpg
+English setter 0.140979
+Welsh springer spaniel 0.136257
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10818.jpg
+ox 0.272807
+oxcart 0.129903
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10819.jpg
+Leonberg 0.16966
+Shetland sheepdog, Shetland sheep dog, Shetland 0.135624
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10820.jpg
+Boston bull, Boston terrier 0.309527
+plow, plough 0.139149
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10821.jpg
+bonnet, poke bonnet 0.121671
+broccoli 0.110891
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10822.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.365124
+sorrel 0.107354
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10823.jpg
+plow, plough 0.745397
+oxcart 0.128577
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10824.jpg
+oxcart 0.763824
+ox 0.233069
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10825.jpg
+Newfoundland, Newfoundland dog 0.0798636
+Border collie 0.0677371
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10826.jpg
+plow, plough 0.79406
+ox 0.0661369
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10827.jpg
+sorrel 0.522165
+Ibizan hound, Ibizan Podenco 0.296516
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10828.jpg
+bison 0.573843
+ox 0.384031
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10829.jpg
+Saint Bernard, St Bernard 0.649182
+Welsh springer spaniel 0.0788777
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10830.jpg
+Saluki, gazelle hound 0.49776
+ram, tup 0.0892267
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10831.jpg
+ox 0.788306
+orangutan, orang, orangutang, Pongo pygmaeus 0.137056
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10832.jpg
+ox 0.937425
+oxcart 0.0328285
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10833.jpg
+Saluki, gazelle hound 0.367301
+basenji 0.256947
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10834.jpg
+ox 0.945648
+basset, basset hound 0.0200992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10835.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.989216
+thresher, thrasher, threshing machine 0.00503674
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10836.jpg
+collie 0.246884
+Tibetan terrier, chrysanthemum dog 0.134774
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10837.jpg
+dingo, warrigal, warragal, Canis dingo 0.357496
+bloodhound, sleuthhound 0.128188
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10838.jpg
+bison 0.872316
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0455442
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10839.jpg
+gazelle 0.488995
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.116729
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10840.jpg
+sorrel 0.409499
+ox 0.125387
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10841.jpg
+ox 0.404055
+ram, tup 0.248426
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10842.jpg
+plow, plough 0.605572
+ox 0.173019
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10843.jpg
+ox 0.698585
+oxcart 0.143353
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10844.jpg
+ox 0.441189
+llama 0.130005
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10845.jpg
+ox 0.777424
+Arabian camel, dromedary, Camelus dromedarius 0.0932105
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10846.jpg
+ox 0.723041
+llama 0.0912429
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10847.jpg
+plow, plough 0.968866
+ox 0.0152603
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10848.jpg
+ox 0.725873
+oxcart 0.137528
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10849.jpg
+ox 0.665231
+hog, pig, grunter, squealer, Sus scrofa 0.164614
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10850.jpg
+sorrel 0.985746
+ox 0.00675502
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10851.jpg
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens 0.841597
+lynx, catamount 0.0249646
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10852.jpg
+ox 0.884732
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0431671
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10853.jpg
+megalith, megalithic structure 0.150331
+ox 0.0549305
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10854.jpg
+ox 0.437606
+oxcart 0.19559
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10855.jpg
+Italian greyhound 0.351154
+ram, tup 0.201525
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10856.jpg
+Australian terrier 0.504909
+Sussex spaniel 0.350528
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10857.jpg
+bison 0.34409
+ox 0.195834
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10858.jpg
+ox 0.538484
+brown bear, bruin, Ursus arctos 0.0529056
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10859.jpg
+ox 0.788359
+bison 0.111326
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10860.jpg
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi 0.618896
+horse cart, horse-cart 0.181711
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10861.jpg
+bison 0.53276
+llama 0.0908275
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10862.jpg
+bison 0.93679
+ox 0.058483
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10863.jpg
+bison 0.560914
+ox 0.181152
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10864.jpg
+Ibizan hound, Ibizan Podenco 0.519964
+sorrel 0.355097
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10865.jpg
+ibex, Capra ibex 0.110801
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0876782
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10866.jpg
+Ibizan hound, Ibizan Podenco 0.997262
+ox 0.000828368
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10867.jpg
+basset, basset hound 0.19057
+Walker hound, Walker foxhound 0.1018
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10868.jpg
+Doberman, Doberman pinscher 0.145171
+whippet 0.134744
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10869.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.549838
+bison 0.305947
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10870.jpg
+rapeseed 0.292897
+castle 0.0565064
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10871.jpg
+Great Dane 0.306831
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.15772
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10872.jpg
+Boston bull, Boston terrier 0.361038
+French bulldog 0.336884
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10873.jpg
+Border collie 0.519184
+ram, tup 0.0699932
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10874.jpg
+ox 0.486933
+oxcart 0.160645
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10875.jpg
+Weimaraner 0.437052
+whippet 0.162143
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10876.jpg
+rapeseed 0.965588
+park bench 0.00567819
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10877.jpg
+ox 0.530665
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.140047
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10878.jpg
+ox 0.813216
+oxcart 0.120993
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10879.jpg
+ox 0.865407
+ram, tup 0.114131
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10880.jpg
+birdhouse 0.148297
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin 0.144699
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10881.jpg
+dhole, Cuon alpinus 0.180322
+basenji 0.131457
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10882.jpg
+mushroom 0.159814
+ox 0.0472535
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10883.jpg
+ox 0.334646
+oxcart 0.137197
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10884.jpg
+plow, plough 0.984292
+ox 0.00621843
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10885.jpg
+ox 0.875747
+oxcart 0.0815841
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10886.jpg
+hartebeest 0.974707
+sorrel 0.00561022
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10887.jpg
+ox 0.326082
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.174062
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10888.jpg
+ox 0.377732
+ram, tup 0.116118
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10889.jpg
+ox 0.633906
+oxcart 0.15145
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10890.jpg
+ox 0.366259
+king penguin, Aptenodytes patagonica 0.166316
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10891.jpg
+ox 0.730179
+Arabian camel, dromedary, Camelus dromedarius 0.205913
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10892.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.701658
+ox 0.118488
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10893.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.693805
+ox 0.276829
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10894.jpg
+dhole, Cuon alpinus 0.22035
+bison 0.0999367
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10895.jpg
+llama 0.814825
+bison 0.0506181
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10896.jpg
+Great Dane 0.799564
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0538147
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10897.jpg
+hay 0.50798
+megalith, megalithic structure 0.0956856
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10898.jpg
+ram, tup 0.609434
+Border collie 0.142811
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10899.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.310634
+Staffordshire bullterrier, Staffordshire bull terrier 0.189987
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10900.jpg
+ram, tup 0.745099
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.130034
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10901.jpg
+warthog 0.296409
+wild boar, boar, Sus scrofa 0.227255
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10902.jpg
+Border collie 0.267901
+Boston bull, Boston terrier 0.223793
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10903.jpg
+sorrel 0.518792
+hartebeest 0.120939
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10904.jpg
+ox 0.809138
+bison 0.131653
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10905.jpg
+ox 0.807346
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0882368
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10906.jpg
+ox 0.443584
+plow, plough 0.292447
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10907.jpg
+ox 0.531782
+oxcart 0.141484
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10908.jpg
+ox 0.406718
+Arabian camel, dromedary, Camelus dromedarius 0.174779
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10909.jpg
+ox 0.784651
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0710149
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10910.jpg
+ox 0.563794
+Arabian camel, dromedary, Camelus dromedarius 0.188555
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10911.jpg
+sorrel 0.477035
+muzzle 0.264029
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10912.jpg
+vizsla, Hungarian pointer 0.467615
+Rhodesian ridgeback 0.394523
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10913.jpg
+ostrich, Struthio camelus 0.706878
+ox 0.175336
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10914.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.281874
+dalmatian, coach dog, carriage dog 0.177103
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10915.jpg
+bison 0.508943
+tusker 0.18623
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10916.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.325845
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.244709
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10917.jpg
+ox 0.728503
+beagle 0.040044
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10918.jpg
+whippet 0.529552
+Italian greyhound 0.245263
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10919.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.832742
+ox 0.151392
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10920.jpg
+hartebeest 0.160903
+Rhodesian ridgeback 0.149823
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10921.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.497826
+ram, tup 0.236684
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10922.jpg
+ram, tup 0.793209
+ox 0.0648197
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10923.jpg
+ox 0.95399
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0113927
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10924.jpg
+hay 0.251796
+yurt 0.214014
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10925.jpg
+ox 0.529263
+sorrel 0.458338
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10926.jpg
+lion, king of beasts, Panthera leo 0.208671
+African elephant, Loxodonta africana 0.111992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10927.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.710014
+ram, tup 0.186307
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10928.jpg
+ram, tup 0.542213
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.382268
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10929.jpg
+golfcart, golf cart 0.425824
+forklift 0.422602
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10930.jpg
+oxcart 0.56531
+ox 0.423444
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10931.jpg
+impala, Aepyceros melampus 0.196092
+gazelle 0.141137
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10932.jpg
+Saluki, gazelle hound 0.452818
+Ibizan hound, Ibizan Podenco 0.150397
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10933.jpg
+spider monkey, Ateles geoffroyi 0.441298
+langur 0.123082
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10934.jpg
+sorrel 0.735712
+ox 0.261581
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10935.jpg
+Cardigan, Cardigan Welsh corgi 0.178639
+Welsh springer spaniel 0.0815706
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10936.jpg
+ox 0.65141
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.33804
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10937.jpg
+ox 0.0953382
+Brittany spaniel 0.0901537
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10938.jpg
+kelpie 0.109948
+Greater Swiss Mountain dog 0.0723935
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10939.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.261563
+ox 0.194617
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10940.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.202653
+ram, tup 0.148724
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10941.jpg
+English foxhound 0.478234
+Walker hound, Walker foxhound 0.237529
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10942.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.557887
+golden retriever 0.25969
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10943.jpg
+hen 0.0741682
+English foxhound 0.0428255
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10944.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.397968
+ram, tup 0.326082
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10945.jpg
+magpie 0.106088
+French bulldog 0.0598097
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10946.jpg
+borzoi, Russian wolfhound 0.182497
+English foxhound 0.143301
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10947.jpg
+oxcart 0.27641
+ox 0.154375
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10948.jpg
+dalmatian, coach dog, carriage dog 0.487603
+Great Dane 0.161453
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10949.jpg
+Great Dane 0.245729
+whippet 0.112705
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10950.jpg
+ox 0.396478
+ram, tup 0.320287
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10951.jpg
+dalmatian, coach dog, carriage dog 0.329638
+Great Dane 0.253912
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10952.jpg
+basset, basset hound 0.207461
+Welsh springer spaniel 0.162726
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10953.jpg
+sorrel 0.571357
+ox 0.230154
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10954.jpg
+ox 0.581398
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.318607
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10955.jpg
+king penguin, Aptenodytes patagonica 0.999412
+drake 0.000222847
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10956.jpg
+ram, tup 0.349825
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.348361
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10957.jpg
+gazelle 0.496082
+llama 0.180954
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10958.jpg
+basenji 0.365558
+Ibizan hound, Ibizan Podenco 0.155889
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10959.jpg
+Irish setter, red setter 0.152084
+gyromitra 0.147349
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10960.jpg
+Ibizan hound, Ibizan Podenco 0.310001
+basenji 0.144098
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10961.jpg
+sorrel 0.531701
+llama 0.138266
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10962.jpg
+ox 0.771102
+sorrel 0.136548
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10963.jpg
+basset, basset hound 0.354662
+Ibizan hound, Ibizan Podenco 0.249486
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10964.jpg
+alp 0.403003
+cliff, drop, drop-off 0.121159
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10965.jpg
+llama 0.368916
+gazelle 0.299116
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10966.jpg
+ox 0.707845
+oxcart 0.0915833
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10967.jpg
+bison 0.717711
+African elephant, Loxodonta africana 0.11183
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10968.jpg
+Brittany spaniel 0.578954
+Blenheim spaniel 0.172471
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10969.jpg
+ox 0.467723
+oxcart 0.283398
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10970.jpg
+llama 0.12681
+indri, indris, Indri indri, Indri brevicaudatus 0.0365909
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10971.jpg
+Ibizan hound, Ibizan Podenco 0.297461
+ox 0.160723
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10972.jpg
+ox 0.365427
+warthog 0.291514
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10973.jpg
+tusker 0.152999
+Indian elephant, Elephas maximus 0.102806
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10974.jpg
+hartebeest 0.156669
+ibex, Capra ibex 0.155548
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10975.jpg
+ox 0.676743
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0727439
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10976.jpg
+ox 0.969368
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0298296
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10977.jpg
+sorrel 0.398283
+Saint Bernard, St Bernard 0.266053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10978.jpg
+sorrel 0.433079
+Ibizan hound, Ibizan Podenco 0.280557
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10979.jpg
+bison 0.522978
+ox 0.219859
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10980.jpg
+Scottish deerhound, deerhound 0.202204
+Irish wolfhound 0.112285
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10981.jpg
+dingo, warrigal, warragal, Canis dingo 0.274128
+lion, king of beasts, Panthera leo 0.191422
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10982.jpg
+lumbermill, sawmill 0.153224
+brown bear, bruin, Ursus arctos 0.136844
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10983.jpg
+Ibizan hound, Ibizan Podenco 0.0939411
+Brittany spaniel 0.0703821
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10984.jpg
+ox 0.615958
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.195154
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10985.jpg
+Weimaraner 0.361968
+Labrador retriever 0.0965186
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10986.jpg
+ox 0.775268
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.11901
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10987.jpg
+ox 0.621982
+oxcart 0.245396
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10988.jpg
+African elephant, Loxodonta africana 0.347966
+bison 0.219171
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10989.jpg
+sorrel 0.123629
+Italian greyhound 0.120168
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10990.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.181826
+chimpanzee, chimp, Pan troglodytes 0.0945366
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10991.jpg
+bison 0.920639
+ox 0.0464951
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10992.jpg
+ox 0.112193
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.101829
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10993.jpg
+ox 0.283117
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0878496
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10994.jpg
+Brittany spaniel 0.185118
+golden retriever 0.0799854
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10995.jpg
+ox 0.845359
+llama 0.0604343
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10996.jpg
+alp 0.510923
+Saluki, gazelle hound 0.0465804
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10997.jpg
+dalmatian, coach dog, carriage dog 0.227827
+English foxhound 0.0602362
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10998.jpg
+ox 0.527456
+sorrel 0.428702
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_10999.jpg
+whippet 0.0783428
+Rhodesian ridgeback 0.0747283
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11000.jpg
+Border collie 0.0722524
+Appenzeller 0.0536796
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11001.jpg
+sorrel 0.689527
+Arabian camel, dromedary, Camelus dromedarius 0.271666
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11002.jpg
+ox 0.185706
+plow, plough 0.132697
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11003.jpg
+basset, basset hound 0.435281
+Ibizan hound, Ibizan Podenco 0.212738
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11004.jpg
+gazelle 0.379563
+hartebeest 0.316149
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11005.jpg
+alp 0.478356
+mountain tent 0.134502
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11006.jpg
+Ibizan hound, Ibizan Podenco 0.35789
+ram, tup 0.251898
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11007.jpg
+kelpie 0.147838
+Doberman, Doberman pinscher 0.0781529
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11008.jpg
+sorrel 0.253277
+Rhodesian ridgeback 0.239911
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11009.jpg
+gazelle 0.350605
+dhole, Cuon alpinus 0.251104
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11010.jpg
+sorrel 0.997776
+basenji 0.00125738
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11011.jpg
+ox 0.462113
+Weimaraner 0.170745
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11012.jpg
+Great Dane 0.311467
+Saluki, gazelle hound 0.263247
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11013.jpg
+ox 0.577264
+oxcart 0.275893
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11014.jpg
+ox 0.976942
+oxcart 0.0129064
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11015.jpg
+ox 0.738476
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.226751
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11016.jpg
+ox 0.626808
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.338504
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11017.jpg
+king penguin, Aptenodytes patagonica 0.0756321
+giant schnauzer 0.0564098
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11018.jpg
+chimpanzee, chimp, Pan troglodytes 0.407587
+Boston bull, Boston terrier 0.18992
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11019.jpg
+ox 0.796749
+ram, tup 0.132632
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11020.jpg
+bison 0.765335
+hay 0.124819
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11021.jpg
+shield, buckler 0.17221
+Great Dane 0.148342
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11022.jpg
+maze, labyrinth 0.182114
+crane 0.0670926
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11023.jpg
+dalmatian, coach dog, carriage dog 0.255564
+EntleBucher 0.187711
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11024.jpg
+stone wall 0.344922
+zebra 0.17454
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11025.jpg
+ox 0.780786
+African elephant, Loxodonta africana 0.0443866
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11026.jpg
+trifle 0.148274
+butcher shop, meat market 0.0884855
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11027.jpg
+ram, tup 0.74508
+ox 0.13543
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11028.jpg
+magpie 0.950543
+goose 0.0135677
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11029.jpg
+Border collie 0.313827
+llama 0.160782
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11030.jpg
+golden retriever 0.165819
+Pembroke, Pembroke Welsh corgi 0.0608199
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11031.jpg
+Ibizan hound, Ibizan Podenco 0.50161
+English foxhound 0.386172
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11032.jpg
+oystercatcher, oyster catcher 0.175058
+magpie 0.136483
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11033.jpg
+sorrel 0.561862
+ox 0.413472
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11034.jpg
+ox 0.800207
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0981974
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11035.jpg
+bison 0.328364
+African elephant, Loxodonta africana 0.244396
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11036.jpg
+ox 0.752519
+oxcart 0.147836
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11037.jpg
+Ibizan hound, Ibizan Podenco 0.708237
+Brittany spaniel 0.100921
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11038.jpg
+Welsh springer spaniel 0.297269
+Blenheim spaniel 0.292129
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11039.jpg
+basset, basset hound 0.288182
+Ibizan hound, Ibizan Podenco 0.0981318
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11040.jpg
+basset, basset hound 0.155087
+ox 0.0835824
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11041.jpg
+chimpanzee, chimp, Pan troglodytes 0.523618
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.15882
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11042.jpg
+plow, plough 0.458338
+ox 0.321949
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11043.jpg
+ox 0.595708
+oxcart 0.314132
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11044.jpg
+Saluki, gazelle hound 0.332234
+gazelle 0.287102
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11045.jpg
+ox 0.626526
+plow, plough 0.121349
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11046.jpg
+basset, basset hound 0.648576
+Ibizan hound, Ibizan Podenco 0.0952411
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11047.jpg
+ox 0.315956
+Rhodesian ridgeback 0.0731058
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11048.jpg
+proboscis monkey, Nasalis larvatus 0.809359
+gyromitra 0.166846
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11049.jpg
+Border collie 0.352944
+collie 0.105029
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11050.jpg
+bison 0.565825
+ox 0.327599
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11051.jpg
+EntleBucher 0.195477
+Greater Swiss Mountain dog 0.121804
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11052.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.31697
+oxcart 0.254237
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11053.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.230797
+hog, pig, grunter, squealer, Sus scrofa 0.135002
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11054.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.664056
+Labrador retriever 0.108868
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11055.jpg
+bison 0.992629
+ox 0.00481022
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11056.jpg
+indri, indris, Indri indri, Indri brevicaudatus 0.375646
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0802121
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11057.jpg
+ox 0.704012
+sorrel 0.0683277
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11058.jpg
+llama 0.257193
+horse cart, horse-cart 0.193544
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11059.jpg
+ox 0.351154
+llama 0.259515
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11060.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.447638
+ox 0.206376
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11061.jpg
+ox 0.250423
+ram, tup 0.100284
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11062.jpg
+dalmatian, coach dog, carriage dog 0.22201
+borzoi, Russian wolfhound 0.201398
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11063.jpg
+ox 0.432883
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.31503
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11064.jpg
+ostrich, Struthio camelus 0.931835
+llama 0.0240548
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11065.jpg
+oxcart 0.757482
+ox 0.238046
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11066.jpg
+oxcart 0.538737
+ox 0.359304
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11067.jpg
+Saluki, gazelle hound 0.329761
+borzoi, Russian wolfhound 0.310416
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11068.jpg
+ox 0.621526
+ostrich, Struthio camelus 0.0813479
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11069.jpg
+ox 0.34627
+oxcart 0.218079
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11070.jpg
+Great Pyrenees 0.253955
+ram, tup 0.125303
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11071.jpg
+ox 0.783243
+oxcart 0.165333
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11072.jpg
+beagle 0.144216
+basenji 0.111501
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11073.jpg
+sorrel 0.423768
+ox 0.263135
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11074.jpg
+brown bear, bruin, Ursus arctos 0.941625
+bison 0.0432729
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11075.jpg
+boxer 0.349229
+sorrel 0.103071
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11076.jpg
+lion, king of beasts, Panthera leo 0.273685
+dingo, warrigal, warragal, Canis dingo 0.1327
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11077.jpg
+Ibizan hound, Ibizan Podenco 0.110338
+Pembroke, Pembroke Welsh corgi 0.0700664
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11078.jpg
+triceratops 0.725352
+Weimaraner 0.0727862
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11079.jpg
+Walker hound, Walker foxhound 0.393488
+English foxhound 0.312358
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11080.jpg
+Ibizan hound, Ibizan Podenco 0.968598
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0116373
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11081.jpg
+plow, plough 0.0950714
+Border collie 0.0678016
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11082.jpg
+vizsla, Hungarian pointer 0.300086
+Irish setter, red setter 0.150431
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11083.jpg
+ox 0.631566
+ram, tup 0.280698
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11084.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.13043
+macaque 0.0825856
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11085.jpg
+ox 0.905682
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0533212
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11086.jpg
+ox 0.451259
+ram, tup 0.127884
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11087.jpg
+sorrel 0.230556
+vizsla, Hungarian pointer 0.220321
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11088.jpg
+Brittany spaniel 0.368284
+Ibizan hound, Ibizan Podenco 0.172941
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11089.jpg
+Irish setter, red setter 0.376025
+volcano 0.141371
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11090.jpg
+clumber, clumber spaniel 0.186132
+Ibizan hound, Ibizan Podenco 0.132867
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11091.jpg
+ox 0.977915
+sorrel 0.0197373
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11092.jpg
+sorrel 0.969883
+kelpie 0.0106802
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11093.jpg
+Chesapeake Bay retriever 0.148536
+kelpie 0.121229
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11094.jpg
+ox 0.486192
+bison 0.432576
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11095.jpg
+llama 0.24569
+oxcart 0.119729
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11096.jpg
+ox 0.961829
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0177497
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11097.jpg
+ox 0.523313
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.209959
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11098.jpg
+ram, tup 0.402892
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.256274
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11099.jpg
+EntleBucher 0.353445
+Greater Swiss Mountain dog 0.271272
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11100.jpg
+ram, tup 0.333478
+ox 0.136607
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11101.jpg
+guinea pig, Cavia cobaya 0.664109
+Maltese dog, Maltese terrier, Maltese 0.0365268
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11102.jpg
+Irish wolfhound 0.157708
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.13674
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11103.jpg
+Rhodesian ridgeback 0.565058
+bloodhound, sleuthhound 0.149164
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11104.jpg
+marmoset 0.212173
+spider monkey, Ateles geoffroyi 0.195792
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11105.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.21448
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.204325
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11106.jpg
+ram, tup 0.121359
+ox 0.0875559
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11107.jpg
+Great Dane 0.201295
+giant schnauzer 0.125794
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11108.jpg
+ox 0.283001
+Boston bull, Boston terrier 0.140113
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11109.jpg
+ox 0.302976
+brown bear, bruin, Ursus arctos 0.235257
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11110.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.24075
+ox 0.155225
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11111.jpg
+ox 0.539002
+ram, tup 0.235343
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11112.jpg
+ram, tup 0.823537
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.03711
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11113.jpg
+ox 0.730176
+oxcart 0.123733
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11114.jpg
+dalmatian, coach dog, carriage dog 0.231341
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita 0.130268
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11115.jpg
+ox 0.608548
+oxcart 0.12548
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11116.jpg
+ox 0.705419
+plow, plough 0.0321883
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11117.jpg
+ox 0.444731
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.169963
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11118.jpg
+Mexican hairless 0.276054
+Arabian camel, dromedary, Camelus dromedarius 0.121251
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11119.jpg
+llama 0.251462
+Walker hound, Walker foxhound 0.12652
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11120.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.185436
+warthog 0.132089
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11121.jpg
+ox 0.305541
+gazelle 0.269823
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11122.jpg
+sorrel 0.411158
+ox 0.189304
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11123.jpg
+bison 0.263351
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.250777
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11124.jpg
+sorrel 0.559238
+ox 0.399831
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11125.jpg
+ox 0.797037
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.151578
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11126.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.758487
+tusker 0.0666737
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11127.jpg
+ram, tup 0.751368
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.152088
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11128.jpg
+ox 0.789369
+ram, tup 0.107101
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11129.jpg
+ox 0.772336
+ram, tup 0.144828
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11130.jpg
+ox 0.615214
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0952767
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11131.jpg
+ox 0.821549
+oxcart 0.172053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11132.jpg
+lakeside, lakeshore 0.0942716
+birdhouse 0.0641194
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11133.jpg
+dalmatian, coach dog, carriage dog 0.681943
+English setter 0.0261125
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11134.jpg
+ox 0.189417
+Border collie 0.068028
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11135.jpg
+ostrich, Struthio camelus 0.217647
+whippet 0.151277
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11136.jpg
+French bulldog 0.154077
+hog, pig, grunter, squealer, Sus scrofa 0.0944101
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11137.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.335835
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.150066
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11138.jpg
+sorrel 0.549456
+ox 0.188923
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11139.jpg
+bison 0.299566
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.264585
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11140.jpg
+ox 0.33651
+Ibizan hound, Ibizan Podenco 0.312126
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11141.jpg
+Saluki, gazelle hound 0.159373
+whippet 0.157165
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11142.jpg
+ox 0.450404
+Arabian camel, dromedary, Camelus dromedarius 0.25593
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11143.jpg
+ox 0.533165
+Greater Swiss Mountain dog 0.0915086
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11144.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.384224
+ibex, Capra ibex 0.25764
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11145.jpg
+dalmatian, coach dog, carriage dog 0.916938
+Siberian husky 0.0270653
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11146.jpg
+ox 0.421199
+hartebeest 0.331751
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11147.jpg
+ox 0.667535
+Ibizan hound, Ibizan Podenco 0.181944
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11148.jpg
+black grouse 0.108738
+magpie 0.10169
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11149.jpg
+ox 0.532519
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.26056
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11150.jpg
+plow, plough 0.650983
+ox 0.24854
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11151.jpg
+ox 0.207349
+oxcart 0.122516
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11152.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.259982
+ox 0.234179
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11153.jpg
+bison 0.230797
+ram, tup 0.226474
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11154.jpg
+ox 0.858624
+puffer, pufferfish, blowfish, globefish 0.0849962
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11155.jpg
+ox 0.872926
+gazelle 0.0414363
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11156.jpg
+Ibizan hound, Ibizan Podenco 0.306394
+sorrel 0.167656
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11157.jpg
+ox 0.554129
+Ibizan hound, Ibizan Podenco 0.0981942
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11158.jpg
+English setter 0.215912
+Brittany spaniel 0.206544
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11159.jpg
+dhole, Cuon alpinus 0.308236
+gazelle 0.152673
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11160.jpg
+hartebeest 0.370217
+gazelle 0.282754
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11161.jpg
+Chesapeake Bay retriever 0.374105
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.364388
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11162.jpg
+sorrel 0.617875
+ox 0.373367
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11163.jpg
+dalmatian, coach dog, carriage dog 0.274866
+ox 0.227053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11164.jpg
+ox 0.664199
+plow, plough 0.0892841
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11165.jpg
+Border collie 0.60779
+collie 0.176733
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11166.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.360643
+ram, tup 0.248909
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11167.jpg
+basset, basset hound 0.526939
+Welsh springer spaniel 0.253595
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11168.jpg
+Italian greyhound 0.366594
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.188566
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11169.jpg
+ox 0.475876
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.318221
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11170.jpg
+sorrel 0.587378
+ox 0.127872
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11171.jpg
+ox 0.619043
+oxcart 0.328223
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11172.jpg
+sorrel 0.332338
+Irish setter, red setter 0.307111
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11173.jpg
+Border collie 0.255805
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.120512
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11174.jpg
+malinois 0.72186
+French bulldog 0.0564374
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11175.jpg
+Border collie 0.102201
+collie 0.0764956
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11176.jpg
+English springer, English springer spaniel 0.281018
+Border collie 0.170529
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11177.jpg
+clumber, clumber spaniel 0.435755
+Brittany spaniel 0.230491
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11178.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.41936
+sorrel 0.377946
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11179.jpg
+ox 0.888194
+oxcart 0.0727999
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11180.jpg
+llama 0.452908
+Border collie 0.0951671
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11181.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.167811
+ox 0.160849
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11182.jpg
+plow, plough 0.263691
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.236813
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11183.jpg
+Border collie 0.0973549
+EntleBucher 0.0899373
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11184.jpg
+Italian greyhound 0.354587
+whippet 0.219698
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11185.jpg
+hartebeest 0.422041
+gazelle 0.403255
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11186.jpg
+stone wall 0.22599
+maypole 0.0571834
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11187.jpg
+ox 0.812564
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.175701
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11188.jpg
+ox 0.861628
+basset, basset hound 0.0325217
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11189.jpg
+dalmatian, coach dog, carriage dog 0.941781
+Great Dane 0.00521591
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11190.jpg
+hartebeest 0.413007
+gazelle 0.13071
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11191.jpg
+ox 0.583218
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0571011
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11192.jpg
+ostrich, Struthio camelus 0.415856
+Border collie 0.115184
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11193.jpg
+plow, plough 0.660893
+ox 0.0889234
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11194.jpg
+lion, king of beasts, Panthera leo 0.4581
+coyote, prairie wolf, brush wolf, Canis latrans 0.0809602
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11195.jpg
+Ibizan hound, Ibizan Podenco 0.644382
+Saluki, gazelle hound 0.137416
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11196.jpg
+English foxhound 0.442409
+Newfoundland, Newfoundland dog 0.105534
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11197.jpg
+bison 0.582516
+ram, tup 0.176736
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11198.jpg
+sorrel 0.515864
+ox 0.412723
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11199.jpg
+ox 0.506391
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.361258
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11200.jpg
+Italian greyhound 0.166169
+sorrel 0.133984
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11201.jpg
+chow, chow chow 0.247172
+Newfoundland, Newfoundland dog 0.170395
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11202.jpg
+bison 0.567172
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.338846
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11203.jpg
+ram, tup 0.348366
+borzoi, Russian wolfhound 0.170118
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11204.jpg
+ox 0.490733
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.286514
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11205.jpg
+llama 0.115657
+ox 0.107864
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11206.jpg
+basset, basset hound 0.520573
+Welsh springer spaniel 0.305573
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11207.jpg
+sorrel 0.986812
+ox 0.00972472
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11208.jpg
+ox 0.93716
+oxcart 0.059088
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11209.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.624239
+ox 0.22805
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11210.jpg
+sorrel 0.657786
+ox 0.33288
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11211.jpg
+Weimaraner 0.130453
+EntleBucher 0.0940381
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11212.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.896619
+mailbox, letter box 0.0135824
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11213.jpg
+impala, Aepyceros melampus 0.682893
+gazelle 0.222925
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11214.jpg
+Great Dane 0.557539
+dalmatian, coach dog, carriage dog 0.308121
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11215.jpg
+ram, tup 0.350857
+Scottish deerhound, deerhound 0.10251
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11216.jpg
+ox 0.54332
+sorrel 0.109712
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11217.jpg
+ox 0.913836
+ram, tup 0.0570346
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11218.jpg
+golden retriever 0.711652
+dingo, warrigal, warragal, Canis dingo 0.145391
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11219.jpg
+ibex, Capra ibex 0.401066
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.127825
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11220.jpg
+ox 0.921928
+oxcart 0.0150742
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11221.jpg
+ox 0.51889
+Staffordshire bullterrier, Staffordshire bull terrier 0.0803053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11222.jpg
+baseball 0.0805365
+ballplayer, baseball player 0.071772
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11223.jpg
+Pembroke, Pembroke Welsh corgi 0.282037
+basset, basset hound 0.26662
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11224.jpg
+bison 0.724726
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.112053
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11225.jpg
+ox 0.878191
+oxcart 0.0391377
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11226.jpg
+Ibizan hound, Ibizan Podenco 0.705873
+ox 0.195482
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11227.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.128109
+African elephant, Loxodonta africana 0.0697222
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11228.jpg
+Walker hound, Walker foxhound 0.230038
+Great Dane 0.1761
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11229.jpg
+ox 0.649935
+Greater Swiss Mountain dog 0.074591
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11230.jpg
+vizsla, Hungarian pointer 0.776646
+Rhodesian ridgeback 0.160618
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11231.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.0748531
+Border collie 0.0618785
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11232.jpg
+hip, rose hip, rosehip 0.0988068
+parachute, chute 0.07445
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11233.jpg
+sorrel 0.929974
+ox 0.0635538
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11234.jpg
+oxcart 0.704593
+ox 0.268719
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11235.jpg
+ram, tup 0.21921
+schipperke 0.174479
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11236.jpg
+ox 0.81118
+oxcart 0.0567768
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11237.jpg
+ox 0.861164
+oxcart 0.132637
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11238.jpg
+Boston bull, Boston terrier 0.171339
+ox 0.112857
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11239.jpg
+ox 0.750952
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.130958
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11240.jpg
+ox 0.274167
+bison 0.209465
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11241.jpg
+ox 0.328781
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.260026
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11242.jpg
+ox 0.481774
+oxcart 0.442299
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11243.jpg
+ox 0.178964
+chimpanzee, chimp, Pan troglodytes 0.0847294
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11244.jpg
+ox 0.993378
+sorrel 0.00536222
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11245.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.283493
+ox 0.201609
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11246.jpg
+ox 0.321118
+llama 0.196122
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11247.jpg
+Great Dane 0.378309
+dalmatian, coach dog, carriage dog 0.190737
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11248.jpg
+ox 0.523904
+ram, tup 0.148957
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11249.jpg
+ox 0.442215
+ram, tup 0.231105
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11250.jpg
+EntleBucher 0.554275
+Greater Swiss Mountain dog 0.156733
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11251.jpg
+Saluki, gazelle hound 0.486823
+whippet 0.137963
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11252.jpg
+ram, tup 0.537015
+kuvasz 0.073095
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11253.jpg
+Appenzeller 0.403862
+Greater Swiss Mountain dog 0.215659
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11254.jpg
+ox 0.449328
+Arabian camel, dromedary, Camelus dromedarius 0.322347
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11255.jpg
+Appenzeller 0.132634
+EntleBucher 0.10112
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11256.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.246
+African elephant, Loxodonta africana 0.135678
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11257.jpg
+hay 0.979711
+barn 0.00425249
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11258.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.218344
+Staffordshire bullterrier, Staffordshire bull terrier 0.14546
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11259.jpg
+Leonberg 0.123622
+Rhodesian ridgeback 0.0849758
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11260.jpg
+sorrel 0.261199
+English foxhound 0.143357
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11261.jpg
+ox 0.937075
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0340097
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11262.jpg
+oxcart 0.943241
+ox 0.0478254
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11263.jpg
+llama 0.273246
+white wolf, Arctic wolf, Canis lupus tundrarum 0.106423
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11264.jpg
+Border collie 0.211695
+Cardigan, Cardigan Welsh corgi 0.146224
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11265.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.42343
+ox 0.270803
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11266.jpg
+oxcart 0.522516
+ox 0.473473
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11267.jpg
+English springer, English springer spaniel 0.458973
+Newfoundland, Newfoundland dog 0.0600471
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11268.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.645265
+ox 0.158013
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11269.jpg
+ox 0.822031
+bison 0.0892866
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11270.jpg
+Walker hound, Walker foxhound 0.118089
+basset, basset hound 0.0941334
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11271.jpg
+Ibizan hound, Ibizan Podenco 0.0888181
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0626342
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11272.jpg
+ox 0.735333
+oxcart 0.207382
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11273.jpg
+ox 0.258717
+dingo, warrigal, warragal, Canis dingo 0.10126
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11274.jpg
+ox 0.546417
+Border collie 0.277531
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11275.jpg
+ibex, Capra ibex 0.263266
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.18039
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11276.jpg
+sorrel 0.339816
+basset, basset hound 0.108109
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11277.jpg
+Irish setter, red setter 0.457314
+sorrel 0.256176
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11278.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.163443
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.148719
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11279.jpg
+Greater Swiss Mountain dog 0.322644
+Appenzeller 0.262499
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11280.jpg
+ox 0.528294
+sorrel 0.446759
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11281.jpg
+dalmatian, coach dog, carriage dog 0.582436
+Great Dane 0.163279
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11282.jpg
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.999855
+soccer ball 6.81874e-05
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11283.jpg
+Border collie 0.194711
+Newfoundland, Newfoundland dog 0.157558
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11284.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.430318
+hartebeest 0.16347
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11285.jpg
+ox 0.749122
+sorrel 0.178507
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11286.jpg
+ox 0.646659
+sorrel 0.326534
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11287.jpg
+English foxhound 0.423661
+Brittany spaniel 0.0979619
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11288.jpg
+Border collie 0.41059
+collie 0.0634237
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11289.jpg
+wreck 0.269738
+hartebeest 0.191673
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11290.jpg
+ram, tup 0.472301
+ox 0.470699
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11291.jpg
+Rhodesian ridgeback 0.486277
+bloodhound, sleuthhound 0.219312
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11292.jpg
+sorrel 0.791992
+ox 0.200863
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11293.jpg
+lion, king of beasts, Panthera leo 0.720925
+dingo, warrigal, warragal, Canis dingo 0.138771
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11294.jpg
+Brittany spaniel 0.758848
+Ibizan hound, Ibizan Podenco 0.127861
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11295.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.179355
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.174866
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11296.jpg
+ox 0.509041
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.432425
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11297.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.184398
+Great Dane 0.0823012
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11298.jpg
+oxcart 0.81598
+ox 0.183265
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11299.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.330418
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.240389
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11300.jpg
+malamute, malemute, Alaskan malamute 0.145652
+Siberian husky 0.130861
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11301.jpg
+oxcart 0.578776
+ox 0.357401
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11302.jpg
+garbage truck, dustcart 0.528139
+mobile home, manufactured home 0.170186
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11303.jpg
+oxcart 0.561168
+ox 0.392221
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11304.jpg
+Saluki, gazelle hound 0.534005
+Siberian husky 0.108286
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11305.jpg
+beagle 0.152812
+whippet 0.128202
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11306.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.317301
+ram, tup 0.255335
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11307.jpg
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.74626
+goose 0.209755
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11308.jpg
+Border collie 0.224148
+Boston bull, Boston terrier 0.101374
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11309.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.151746
+ox 0.0923705
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11310.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.269709
+whippet 0.139726
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11311.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.130816
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.0749976
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11312.jpg
+ox 0.465588
+oxcart 0.197938
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11313.jpg
+llama 0.445903
+gazelle 0.1517
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11314.jpg
+Saluki, gazelle hound 0.289071
+ox 0.115987
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11315.jpg
+pug, pug-dog 0.247024
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.102814
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11316.jpg
+ram, tup 0.371674
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.270938
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11317.jpg
+ox 0.747597
+oxcart 0.197146
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11318.jpg
+golden retriever 0.326136
+lion, king of beasts, Panthera leo 0.190428
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11319.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.401525
+white wolf, Arctic wolf, Canis lupus tundrarum 0.210247
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11320.jpg
+llama 0.624603
+ram, tup 0.106421
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11321.jpg
+Ibizan hound, Ibizan Podenco 0.966474
+Brittany spaniel 0.00726942
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11322.jpg
+triceratops 0.184903
+ibex, Capra ibex 0.176209
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11323.jpg
+Brittany spaniel 0.0620151
+hog, pig, grunter, squealer, Sus scrofa 0.0618216
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11324.jpg
+ox 0.904831
+oxcart 0.0532838
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11325.jpg
+Great Pyrenees 0.402003
+kuvasz 0.187561
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11326.jpg
+oxcart 0.399961
+ox 0.264316
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11327.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.642678
+ram, tup 0.275367
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11328.jpg
+ox 0.442057
+ostrich, Struthio camelus 0.146826
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11329.jpg
+whippet 0.592052
+Italian greyhound 0.174798
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11330.jpg
+ox 0.701792
+oxcart 0.134763
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11331.jpg
+Saluki, gazelle hound 0.575218
+ox 0.0563575
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11332.jpg
+Siberian husky 0.400558
+mountain bike, all-terrain bike, off-roader 0.104853
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11333.jpg
+ox 0.239548
+borzoi, Russian wolfhound 0.224685
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11334.jpg
+ox 0.825149
+oxcart 0.166548
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11335.jpg
+ox 0.735591
+ostrich, Struthio camelus 0.0820056
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11336.jpg
+whippet 0.326473
+Saluki, gazelle hound 0.245328
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11337.jpg
+curly-coated retriever 0.0882633
+dhole, Cuon alpinus 0.0676136
+./datasets/Animals_with_Attributes2/JPEGImages/cow/cow_11338.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.701558
+ox 0.224798

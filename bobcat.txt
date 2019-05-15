@@ -1,0 +1,1890 @@
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10001.jpg
+lynx, catamount 0.814808
+kit fox, Vulpes macrotis 0.0367671
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10002.jpg
+lynx, catamount 0.999162
+tiger cat 0.000554743
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10003.jpg
+lynx, catamount 0.99969
+coyote, prairie wolf, brush wolf, Canis latrans 0.000197269
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10004.jpg
+lynx, catamount 0.683333
+tiger cat 0.182571
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10005.jpg
+lynx, catamount 0.926515
+coyote, prairie wolf, brush wolf, Canis latrans 0.0268381
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10006.jpg
+lynx, catamount 0.99889
+cheetah, chetah, Acinonyx jubatus 0.000445264
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10007.jpg
+lynx, catamount 0.99989
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 5.25297e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10008.jpg
+lynx, catamount 0.964121
+leopard, Panthera pardus 0.0161086
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10009.jpg
+lynx, catamount 0.995463
+tiger cat 0.00334763
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10010.jpg
+lynx, catamount 0.998786
+tiger cat 0.000413336
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10011.jpg
+lynx, catamount 0.99989
+coyote, prairie wolf, brush wolf, Canis latrans 4.35686e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10012.jpg
+lynx, catamount 0.95038
+impala, Aepyceros melampus 0.0473576
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10013.jpg
+lynx, catamount 0.995495
+Egyptian cat 0.00228575
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10014.jpg
+gyromitra 0.444924
+lynx, catamount 0.165679
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10015.jpg
+lynx, catamount 0.825842
+tiger cat 0.114755
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10016.jpg
+lynx, catamount 0.999989
+tiger cat 6.69029e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10017.jpg
+lynx, catamount 0.999852
+tiger cat 0.000124718
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10018.jpg
+lynx, catamount 0.599904
+tiger cat 0.162391
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10019.jpg
+lynx, catamount 0.997486
+Egyptian cat 0.0012778
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10020.jpg
+lynx, catamount 0.97883
+tiger cat 0.018153
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10021.jpg
+lynx, catamount 0.985012
+Egyptian cat 0.00775394
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10022.jpg
+lynx, catamount 0.92586
+tiger cat 0.0188336
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10023.jpg
+lynx, catamount 0.96387
+tiger cat 0.0265135
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10024.jpg
+lynx, catamount 0.705034
+tiger, Panthera tigris 0.079586
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10025.jpg
+lynx, catamount 0.850795
+ruffed grouse, partridge, Bonasa umbellus 0.0380415
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10026.jpg
+lynx, catamount 0.331235
+cheetah, chetah, Acinonyx jubatus 0.287335
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10027.jpg
+lynx, catamount 0.971044
+tiger cat 0.00525848
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10028.jpg
+lynx, catamount 0.982989
+tiger cat 0.00782019
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10029.jpg
+lynx, catamount 0.778163
+jaguar, panther, Panthera onca, Felis onca 0.0479062
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10030.jpg
+lynx, catamount 0.895514
+jaguar, panther, Panthera onca, Felis onca 0.0312318
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10031.jpg
+lynx, catamount 0.516384
+cheetah, chetah, Acinonyx jubatus 0.436306
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10032.jpg
+lynx, catamount 0.84495
+tiger cat 0.110549
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10033.jpg
+lynx, catamount 0.975737
+tiger cat 0.0189143
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10034.jpg
+lynx, catamount 0.999468
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000376382
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10035.jpg
+lynx, catamount 0.9999
+coyote, prairie wolf, brush wolf, Canis latrans 5.95056e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10036.jpg
+lynx, catamount 0.999571
+tiger cat 0.000168899
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10037.jpg
+lynx, catamount 0.99984
+coyote, prairie wolf, brush wolf, Canis latrans 0.00010305
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10038.jpg
+lynx, catamount 0.999994
+tiger cat 3.24666e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10039.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10040.jpg
+lynx, catamount 0.998042
+cheetah, chetah, Acinonyx jubatus 0.000859909
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10041.jpg
+lynx, catamount 0.999931
+tiger cat 5.2295e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10042.jpg
+lynx, catamount 0.999706
+tiger cat 0.000224656
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10043.jpg
+lynx, catamount 0.999985
+tiger cat 1.16586e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10044.jpg
+lynx, catamount 0.690077
+coyote, prairie wolf, brush wolf, Canis latrans 0.14046
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10045.jpg
+lynx, catamount 0.379063
+grey fox, gray fox, Urocyon cinereoargenteus 0.273748
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10046.jpg
+lynx, catamount 0.998986
+lion, king of beasts, Panthera leo 0.000395511
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10047.jpg
+lynx, catamount 0.997271
+tiger cat 0.00181592
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10048.jpg
+lynx, catamount 0.500318
+tiger cat 0.432744
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10049.jpg
+lynx, catamount 0.999919
+cheetah, chetah, Acinonyx jubatus 2.32121e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10050.jpg
+lynx, catamount 0.999988
+snow leopard, ounce, Panthera uncia 9.02359e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10051.jpg
+lynx, catamount 0.998308
+tiger cat 0.00140854
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10052.jpg
+lynx, catamount 0.890787
+tiger cat 0.052522
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10053.jpg
+lynx, catamount 0.999345
+Egyptian cat 0.000447976
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10054.jpg
+lynx, catamount 0.999926
+cheetah, chetah, Acinonyx jubatus 5.29508e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10055.jpg
+lynx, catamount 0.971822
+lion, king of beasts, Panthera leo 0.0135446
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10056.jpg
+lynx, catamount 0.990859
+tiger cat 0.00693503
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10057.jpg
+lynx, catamount 0.722815
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus 0.0814408
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10058.jpg
+lynx, catamount 0.685579
+tiger cat 0.24367
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10059.jpg
+American chameleon, anole, Anolis carolinensis 0.392222
+grasshopper, hopper 0.24091
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10060.jpg
+cheetah, chetah, Acinonyx jubatus 0.350888
+leopard, Panthera pardus 0.0743215
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10061.jpg
+grasshopper, hopper 0.163146
+ruffed grouse, partridge, Bonasa umbellus 0.116748
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10062.jpg
+lynx, catamount 0.898825
+ruffed grouse, partridge, Bonasa umbellus 0.0320229
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10063.jpg
+lynx, catamount 0.998241
+coyote, prairie wolf, brush wolf, Canis latrans 0.000698337
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10064.jpg
+lynx, catamount 0.99921
+tiger cat 0.000306387
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10065.jpg
+lynx, catamount 0.887252
+tiger cat 0.0753616
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10066.jpg
+lynx, catamount 0.395175
+tiger cat 0.230262
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10067.jpg
+lynx, catamount 0.993143
+tiger cat 0.00677328
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10068.jpg
+lynx, catamount 0.999727
+tiger cat 0.000260328
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10069.jpg
+lynx, catamount 0.999758
+Egyptian cat 0.000129396
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10070.jpg
+lynx, catamount 0.976749
+tiger cat 0.0162786
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10071.jpg
+lynx, catamount 0.188692
+great grey owl, great gray owl, Strix nebulosa 0.172075
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10072.jpg
+lynx, catamount 0.338238
+tiger cat 0.118448
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10073.jpg
+lynx, catamount 0.99972
+tiger cat 0.000128694
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10074.jpg
+lynx, catamount 0.975967
+tiger cat 0.0170733
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10075.jpg
+lynx, catamount 0.999793
+tiger cat 0.000164568
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10076.jpg
+lynx, catamount 0.995698
+tiger cat 0.00143325
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10077.jpg
+lynx, catamount 0.974356
+tiger cat 0.0146757
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10078.jpg
+lynx, catamount 0.999991
+tiger cat 5.06033e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10079.jpg
+lynx, catamount 0.997246
+leopard, Panthera pardus 0.0008644
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10080.jpg
+lynx, catamount 0.91655
+leopard, Panthera pardus 0.0236123
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10081.jpg
+lynx, catamount 0.837332
+cheetah, chetah, Acinonyx jubatus 0.0789577
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10082.jpg
+lynx, catamount 0.983837
+tiger cat 0.00611966
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10083.jpg
+lynx, catamount 0.751381
+tiger cat 0.0707589
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10084.jpg
+lynx, catamount 0.997476
+tiger cat 0.00132309
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10085.jpg
+lynx, catamount 0.946605
+Egyptian cat 0.0146993
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10086.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10087.jpg
+lynx, catamount 0.193693
+fox squirrel, eastern fox squirrel, Sciurus niger 0.104991
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10088.jpg
+lynx, catamount 0.999881
+cheetah, chetah, Acinonyx jubatus 4.68719e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10089.jpg
+bustard 0.22101
+ptarmigan 0.155543
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10090.jpg
+wallaby, brush kangaroo 0.282869
+meerkat, mierkat 0.141453
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10091.jpg
+lynx, catamount 0.999525
+coyote, prairie wolf, brush wolf, Canis latrans 0.000385779
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10092.jpg
+lynx, catamount 0.947254
+coyote, prairie wolf, brush wolf, Canis latrans 0.0342254
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10093.jpg
+lynx, catamount 0.999872
+coyote, prairie wolf, brush wolf, Canis latrans 8.71794e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10094.jpg
+lynx, catamount 0.93128
+coyote, prairie wolf, brush wolf, Canis latrans 0.0565543
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10095.jpg
+lynx, catamount 0.999363
+coyote, prairie wolf, brush wolf, Canis latrans 0.000381081
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10096.jpg
+lynx, catamount 0.999677
+tiger cat 0.000172586
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10097.jpg
+lynx, catamount 0.999507
+cheetah, chetah, Acinonyx jubatus 0.000372374
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10098.jpg
+lynx, catamount 0.999952
+leopard, Panthera pardus 3.11141e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10099.jpg
+lynx, catamount 0.999595
+leopard, Panthera pardus 0.000197046
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10100.jpg
+lynx, catamount 0.999987
+tiger cat 8.95406e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10101.jpg
+lynx, catamount 0.999706
+snow leopard, ounce, Panthera uncia 0.000175336
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10102.jpg
+lynx, catamount 0.996147
+tiger cat 0.001335
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10103.jpg
+marmoset 0.758426
+lynx, catamount 0.0605841
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10104.jpg
+lynx, catamount 0.99999
+tiger cat 1.0146e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10105.jpg
+lynx, catamount 0.996401
+tiger cat 0.0018766
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10106.jpg
+lynx, catamount 0.998383
+tiger cat 0.00122554
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10107.jpg
+lynx, catamount 0.999863
+leopard, Panthera pardus 4.01558e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10108.jpg
+lynx, catamount 0.999748
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00012297
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10109.jpg
+lynx, catamount 0.996591
+coyote, prairie wolf, brush wolf, Canis latrans 0.00212005
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10110.jpg
+lynx, catamount 0.819648
+tiger cat 0.160206
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10111.jpg
+lynx, catamount 0.999987
+tiger cat 1.31711e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10112.jpg
+lynx, catamount 0.999973
+lion, king of beasts, Panthera leo 1.29779e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10113.jpg
+lynx, catamount 0.999973
+lion, king of beasts, Panthera leo 2.44372e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10114.jpg
+lynx, catamount 0.999398
+tiger cat 0.00045566
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10115.jpg
+lynx, catamount 0.954438
+tiger cat 0.0182279
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10116.jpg
+lynx, catamount 0.999663
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000257023
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10117.jpg
+lynx, catamount 0.983499
+tiger cat 0.0136641
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10118.jpg
+lynx, catamount 0.999486
+tiger cat 0.000268792
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10119.jpg
+lynx, catamount 0.996295
+tiger cat 0.00217132
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10120.jpg
+lynx, catamount 0.581539
+cheetah, chetah, Acinonyx jubatus 0.130128
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10121.jpg
+lynx, catamount 0.997211
+tiger cat 0.00153298
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10122.jpg
+lynx, catamount 0.988236
+tiger cat 0.00692882
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10123.jpg
+lynx, catamount 0.999918
+tiger cat 6.69204e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10124.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10125.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10126.jpg
+lynx, catamount 0.997376
+leopard, Panthera pardus 0.000800207
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10127.jpg
+lynx, catamount 0.999987
+coyote, prairie wolf, brush wolf, Canis latrans 1.25757e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10128.jpg
+lynx, catamount 0.999682
+tiger cat 0.000102252
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10129.jpg
+lynx, catamount 0.932725
+tiger cat 0.0520331
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10130.jpg
+lynx, catamount 0.999988
+leopard, Panthera pardus 9.34766e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10131.jpg
+lynx, catamount 0.999972
+tiger cat 2.10055e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10132.jpg
+lynx, catamount 0.999962
+coyote, prairie wolf, brush wolf, Canis latrans 1.25575e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10133.jpg
+lynx, catamount 0.99947
+jaguar, panther, Panthera onca, Felis onca 0.000175579
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10134.jpg
+lynx, catamount 0.999622
+tiger cat 0.000154354
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10135.jpg
+lynx, catamount 0.999973
+snow leopard, ounce, Panthera uncia 1.16512e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10136.jpg
+lynx, catamount 0.997974
+snow leopard, ounce, Panthera uncia 0.000526565
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10137.jpg
+lynx, catamount 0.992123
+leopard, Panthera pardus 0.00249538
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10138.jpg
+lynx, catamount 0.99854
+jaguar, panther, Panthera onca, Felis onca 0.00031031
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10139.jpg
+lynx, catamount 0.981594
+leopard, Panthera pardus 0.00988117
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10140.jpg
+lynx, catamount 0.999332
+tiger cat 0.00033796
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10141.jpg
+lynx, catamount 0.999977
+lion, king of beasts, Panthera leo 1.42412e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10142.jpg
+lynx, catamount 0.449553
+leopard, Panthera pardus 0.303342
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10143.jpg
+lynx, catamount 0.991267
+tiger, Panthera tigris 0.00513769
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10144.jpg
+lynx, catamount 0.997493
+tiger cat 0.00162805
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10145.jpg
+lynx, catamount 0.996448
+tiger cat 0.00313187
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10146.jpg
+lynx, catamount 0.989926
+tiger cat 0.00571668
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10147.jpg
+cheetah, chetah, Acinonyx jubatus 0.399102
+leopard, Panthera pardus 0.231718
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10148.jpg
+lynx, catamount 0.99889
+Egyptian cat 0.000396304
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10149.jpg
+lynx, catamount 0.97272
+tiger cat 0.00994235
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10150.jpg
+lynx, catamount 0.53451
+Egyptian cat 0.29236
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10151.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.667744
+lynx, catamount 0.171057
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10152.jpg
+lynx, catamount 0.910126
+tiger cat 0.0804505
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10153.jpg
+lynx, catamount 0.309325
+tiger cat 0.179111
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10154.jpg
+lynx, catamount 0.988694
+snow leopard, ounce, Panthera uncia 0.00925312
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10155.jpg
+lynx, catamount 0.985661
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0071975
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10156.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.200981
+lynx, catamount 0.189023
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10157.jpg
+lynx, catamount 0.983812
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00700156
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10158.jpg
+lynx, catamount 0.64353
+coyote, prairie wolf, brush wolf, Canis latrans 0.183133
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10159.jpg
+lynx, catamount 0.962051
+coyote, prairie wolf, brush wolf, Canis latrans 0.0256455
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10160.jpg
+great grey owl, great gray owl, Strix nebulosa 0.0755371
+Bedlington terrier 0.0702981
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10161.jpg
+tractor 0.434174
+thresher, thrasher, threshing machine 0.0894063
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10162.jpg
+lynx, catamount 0.999273
+tiger cat 0.000424738
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10163.jpg
+lynx, catamount 0.79044
+coyote, prairie wolf, brush wolf, Canis latrans 0.0587309
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10164.jpg
+lynx, catamount 0.0975448
+church, church building 0.071789
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10165.jpg
+lynx, catamount 0.886874
+tiger cat 0.0464451
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10166.jpg
+tabby, tabby cat 0.221204
+Egyptian cat 0.185792
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10167.jpg
+lynx, catamount 0.978373
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0192725
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10168.jpg
+lynx, catamount 0.94796
+jaguar, panther, Panthera onca, Felis onca 0.0221167
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10169.jpg
+lynx, catamount 0.781713
+leopard, Panthera pardus 0.107646
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10170.jpg
+lynx, catamount 0.719143
+tiger cat 0.185599
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10171.jpg
+tiger cat 0.542325
+Egyptian cat 0.177419
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10172.jpg
+lynx, catamount 0.984161
+Egyptian cat 0.00978596
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10173.jpg
+lynx, catamount 0.995269
+snow leopard, ounce, Panthera uncia 0.00422668
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10174.jpg
+stone wall 0.269662
+coral fungus 0.132943
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10175.jpg
+lynx, catamount 0.677223
+ruffed grouse, partridge, Bonasa umbellus 0.115642
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10176.jpg
+lynx, catamount 0.866047
+tiger cat 0.115423
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10177.jpg
+lynx, catamount 0.954273
+tiger cat 0.0191384
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10178.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.485232
+weasel 0.0907364
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10179.jpg
+mongoose 0.219215
+marmot 0.106203
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10180.jpg
+lynx, catamount 0.954408
+Egyptian cat 0.014791
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10181.jpg
+lynx, catamount 0.280606
+coyote, prairie wolf, brush wolf, Canis latrans 0.26819
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10182.jpg
+lynx, catamount 0.561744
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.101474
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10183.jpg
+lynx, catamount 0.507515
+red fox, Vulpes vulpes 0.130836
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10184.jpg
+lynx, catamount 0.445657
+coyote, prairie wolf, brush wolf, Canis latrans 0.105101
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10185.jpg
+lynx, catamount 0.999995
+tiger cat 5.43967e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10186.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.105785
+coyote, prairie wolf, brush wolf, Canis latrans 0.0817334
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10187.jpg
+warthog 0.701934
+coyote, prairie wolf, brush wolf, Canis latrans 0.104208
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10188.jpg
+lynx, catamount 0.900145
+hyena, hyaena 0.0383474
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10189.jpg
+kit fox, Vulpes macrotis 0.458211
+grey fox, gray fox, Urocyon cinereoargenteus 0.309175
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10190.jpg
+lynx, catamount 0.996672
+tiger cat 0.00117865
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10191.jpg
+kit fox, Vulpes macrotis 0.284943
+baboon 0.0938725
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10192.jpg
+hare 0.240336
+wood rabbit, cottontail, cottontail rabbit 0.22118
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10193.jpg
+lynx, catamount 0.942875
+tiger cat 0.03655
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10194.jpg
+lynx, catamount 0.711553
+tiger cat 0.16239
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10195.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.441688
+kit fox, Vulpes macrotis 0.0868701
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10196.jpg
+lynx, catamount 0.997047
+tiger cat 0.00181337
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10197.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.741052
+lynx, catamount 0.21267
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10198.jpg
+lynx, catamount 0.464665
+tiger cat 0.141429
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10199.jpg
+lynx, catamount 0.887078
+snow leopard, ounce, Panthera uncia 0.0490885
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10200.jpg
+lynx, catamount 0.832341
+Egyptian cat 0.0965827
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10201.jpg
+ostrich, Struthio camelus 0.102419
+Lakeland terrier 0.0910374
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10202.jpg
+lynx, catamount 0.967343
+hare 0.0173919
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10203.jpg
+stone wall 0.0396374
+apiary, bee house 0.0384968
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10204.jpg
+lynx, catamount 0.932123
+snow leopard, ounce, Panthera uncia 0.0215802
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10205.jpg
+lynx, catamount 0.343002
+ibex, Capra ibex 0.205389
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10206.jpg
+lynx, catamount 0.938416
+hyena, hyaena 0.0199474
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10207.jpg
+lynx, catamount 0.251833
+jaguar, panther, Panthera onca, Felis onca 0.207274
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10208.jpg
+canoe 0.229116
+apiary, bee house 0.059811
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10209.jpg
+lynx, catamount 0.995491
+coyote, prairie wolf, brush wolf, Canis latrans 0.000936462
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10210.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.598949
+lynx, catamount 0.155021
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10211.jpg
+lynx, catamount 0.930885
+tiger cat 0.0150497
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10212.jpg
+cheetah, chetah, Acinonyx jubatus 0.284552
+coyote, prairie wolf, brush wolf, Canis latrans 0.102774
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10213.jpg
+lynx, catamount 0.838292
+snow leopard, ounce, Panthera uncia 0.0394568
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10214.jpg
+shovel 0.0762234
+chain saw, chainsaw 0.04696
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10215.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.348663
+lynx, catamount 0.340543
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10216.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.337557
+lynx, catamount 0.175009
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10217.jpg
+lynx, catamount 0.998872
+tiger cat 0.000241408
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10218.jpg
+hyena, hyaena 0.960214
+cheetah, chetah, Acinonyx jubatus 0.0250737
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10219.jpg
+lynx, catamount 0.466604
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.327145
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10220.jpg
+lynx, catamount 0.902015
+coyote, prairie wolf, brush wolf, Canis latrans 0.0332928
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10221.jpg
+hare 0.787216
+ibex, Capra ibex 0.191107
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10222.jpg
+lynx, catamount 0.838119
+tiger cat 0.103681
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10223.jpg
+tiger cat 0.653143
+tabby, tabby cat 0.222161
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10224.jpg
+tiger cat 0.30826
+lynx, catamount 0.244988
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10225.jpg
+lynx, catamount 0.995304
+snow leopard, ounce, Panthera uncia 0.00104021
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10226.jpg
+wallaby, brush kangaroo 0.109089
+coyote, prairie wolf, brush wolf, Canis latrans 0.086537
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10227.jpg
+lynx, catamount 0.287909
+tabby, tabby cat 0.264095
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10228.jpg
+lynx, catamount 0.351301
+Egyptian cat 0.212465
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10229.jpg
+Egyptian cat 0.353085
+lynx, catamount 0.338703
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10230.jpg
+lynx, catamount 0.742393
+hyena, hyaena 0.190187
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10231.jpg
+macaque 0.255371
+baboon 0.208269
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10232.jpg
+lynx, catamount 0.771332
+leopard, Panthera pardus 0.107463
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10233.jpg
+hyena, hyaena 0.845718
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0979037
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10234.jpg
+lynx, catamount 0.840251
+snow leopard, ounce, Panthera uncia 0.0635493
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10235.jpg
+lynx, catamount 0.829506
+wallaby, brush kangaroo 0.0464936
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10236.jpg
+tiger cat 0.411949
+tiger, Panthera tigris 0.272139
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10237.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.261484
+kit fox, Vulpes macrotis 0.190841
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10238.jpg
+lynx, catamount 0.996343
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00159894
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10239.jpg
+lynx, catamount 0.853444
+tiger cat 0.0433436
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10240.jpg
+beaver 0.182784
+ruffed grouse, partridge, Bonasa umbellus 0.090259
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10241.jpg
+wood rabbit, cottontail, cottontail rabbit 0.327064
+hare 0.190525
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10242.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.33879
+hyena, hyaena 0.207209
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10243.jpg
+lynx, catamount 0.999642
+leopard, Panthera pardus 0.000128942
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10244.jpg
+lynx, catamount 0.99979
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000122197
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10245.jpg
+lynx, catamount 0.513593
+tiger cat 0.184078
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10246.jpg
+lynx, catamount 0.988543
+tiger cat 0.00407242
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10247.jpg
+lynx, catamount 0.61528
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0857889
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10248.jpg
+lynx, catamount 0.710316
+snow leopard, ounce, Panthera uncia 0.182338
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10249.jpg
+lynx, catamount 0.996184
+tiger cat 0.00181252
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10250.jpg
+lynx, catamount 0.451809
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.11392
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10251.jpg
+lynx, catamount 0.889508
+leopard, Panthera pardus 0.0320104
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10252.jpg
+lynx, catamount 0.758006
+tiger cat 0.0501811
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10253.jpg
+lynx, catamount 0.997937
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000885384
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10254.jpg
+lynx, catamount 0.681378
+leopard, Panthera pardus 0.0819715
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10255.jpg
+lynx, catamount 0.996183
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00127349
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10256.jpg
+lynx, catamount 0.994783
+tiger cat 0.00364829
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10257.jpg
+lynx, catamount 0.930359
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0208948
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10258.jpg
+lynx, catamount 0.905829
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0433991
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10259.jpg
+lynx, catamount 0.997805
+tiger cat 0.000775179
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10260.jpg
+lynx, catamount 0.991844
+tiger cat 0.00493248
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10261.jpg
+lynx, catamount 0.934967
+Egyptian cat 0.0399896
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10262.jpg
+lynx, catamount 0.634781
+hyena, hyaena 0.149399
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10263.jpg
+lynx, catamount 0.997658
+leopard, Panthera pardus 0.000826104
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10264.jpg
+carousel, carrousel, merry-go-round, roundabout, whirligig 0.03822
+hare 0.0380955
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10265.jpg
+lynx, catamount 0.971372
+ruffed grouse, partridge, Bonasa umbellus 0.00606583
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10266.jpg
+lynx, catamount 0.683424
+leopard, Panthera pardus 0.116349
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10267.jpg
+triceratops 0.127921
+common iguana, iguana, Iguana iguana 0.0730204
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10268.jpg
+lynx, catamount 0.869914
+tiger cat 0.101991
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10269.jpg
+lynx, catamount 0.948651
+hyena, hyaena 0.024642
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10270.jpg
+baboon 0.232857
+mountain bike, all-terrain bike, off-roader 0.0704516
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10271.jpg
+lynx, catamount 0.999718
+tiger cat 9.58928e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10272.jpg
+lynx, catamount 0.908547
+snow leopard, ounce, Panthera uncia 0.0339373
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10273.jpg
+lynx, catamount 0.9998
+snow leopard, ounce, Panthera uncia 0.000156459
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10274.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.275373
+Egyptian cat 0.20849
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10275.jpg
+lynx, catamount 0.681459
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.210014
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10276.jpg
+lynx, catamount 0.999055
+tiger cat 0.000415057
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10277.jpg
+lynx, catamount 0.967031
+tiger cat 0.0248506
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10278.jpg
+lynx, catamount 0.980506
+tiger cat 0.00868663
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10279.jpg
+lynx, catamount 0.989779
+tiger cat 0.00252199
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10280.jpg
+lynx, catamount 0.923792
+tiger cat 0.0321991
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10281.jpg
+warthog 0.298827
+coyote, prairie wolf, brush wolf, Canis latrans 0.242688
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10282.jpg
+lynx, catamount 0.985311
+lion, king of beasts, Panthera leo 0.00999981
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10283.jpg
+lynx, catamount 0.373852
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.153937
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10284.jpg
+lynx, catamount 0.999356
+tiger cat 0.000314369
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10285.jpg
+lynx, catamount 0.702637
+Egyptian cat 0.255845
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10286.jpg
+lynx, catamount 0.352461
+coyote, prairie wolf, brush wolf, Canis latrans 0.281697
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10287.jpg
+ruffed grouse, partridge, Bonasa umbellus 0.770769
+black grouse 0.0662096
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10288.jpg
+lynx, catamount 0.379417
+great grey owl, great gray owl, Strix nebulosa 0.165866
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10289.jpg
+cheetah, chetah, Acinonyx jubatus 0.969751
+lynx, catamount 0.0213731
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10290.jpg
+snow leopard, ounce, Panthera uncia 0.673032
+leopard, Panthera pardus 0.164977
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10291.jpg
+lynx, catamount 0.945222
+leopard, Panthera pardus 0.0091754
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10292.jpg
+leopard, Panthera pardus 0.301691
+cheetah, chetah, Acinonyx jubatus 0.200232
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10293.jpg
+Madagascar cat, ring-tailed lemur, Lemur catta 0.683264
+baboon 0.0263634
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10294.jpg
+lynx, catamount 0.999507
+coyote, prairie wolf, brush wolf, Canis latrans 0.000483135
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10295.jpg
+lynx, catamount 0.909089
+jaguar, panther, Panthera onca, Felis onca 0.0473026
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10296.jpg
+hyena, hyaena 0.644462
+lynx, catamount 0.1351
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10297.jpg
+lynx, catamount 0.968852
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0203044
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10298.jpg
+lynx, catamount 0.999808
+tiger cat 6.66273e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10299.jpg
+lynx, catamount 0.387884
+grey fox, gray fox, Urocyon cinereoargenteus 0.108486
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10300.jpg
+pitcher, ewer 0.0686932
+beer glass 0.0526801
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10301.jpg
+lynx, catamount 0.962202
+snow leopard, ounce, Panthera uncia 0.0143521
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10302.jpg
+lynx, catamount 0.19323
+cheetah, chetah, Acinonyx jubatus 0.122058
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10303.jpg
+brown bear, bruin, Ursus arctos 0.340716
+hyena, hyaena 0.11143
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10304.jpg
+hatchet 0.0508402
+window screen 0.0347234
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10305.jpg
+lynx, catamount 0.894336
+snow leopard, ounce, Panthera uncia 0.0398632
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10306.jpg
+lynx, catamount 0.999771
+tiger cat 7.38324e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10307.jpg
+lynx, catamount 0.999809
+coyote, prairie wolf, brush wolf, Canis latrans 9.61779e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10308.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.597656
+howler monkey, howler 0.264757
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10309.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.682749
+lynx, catamount 0.0600063
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10310.jpg
+leopard, Panthera pardus 0.40648
+lynx, catamount 0.312799
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10311.jpg
+lynx, catamount 0.519038
+grey fox, gray fox, Urocyon cinereoargenteus 0.15493
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10312.jpg
+lynx, catamount 0.996568
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00168153
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10313.jpg
+lynx, catamount 0.966217
+tiger cat 0.0322891
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10314.jpg
+marmot 0.210468
+red fox, Vulpes vulpes 0.175085
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10315.jpg
+lynx, catamount 0.927675
+tiger cat 0.0202498
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10316.jpg
+hyena, hyaena 0.650278
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0928445
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10317.jpg
+jaguar, panther, Panthera onca, Felis onca 0.208359
+Gila monster, Heloderma suspectum 0.165352
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10318.jpg
+lynx, catamount 0.924732
+snow leopard, ounce, Panthera uncia 0.0390914
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10319.jpg
+lynx, catamount 0.637519
+tiger cat 0.19475
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10320.jpg
+lynx, catamount 0.992801
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00325581
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10321.jpg
+lynx, catamount 0.999854
+tiger cat 9.48911e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10322.jpg
+lynx, catamount 0.467688
+hyena, hyaena 0.128076
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10323.jpg
+lynx, catamount 0.999247
+coyote, prairie wolf, brush wolf, Canis latrans 0.000408567
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10324.jpg
+cheetah, chetah, Acinonyx jubatus 0.395982
+lynx, catamount 0.371229
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10325.jpg
+hyena, hyaena 0.185316
+hartebeest 0.13139
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10326.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.459621
+tiger cat 0.192868
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10327.jpg
+lynx, catamount 0.886268
+tiger cat 0.0550916
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10328.jpg
+tabby, tabby cat 0.187687
+tiger cat 0.103609
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10329.jpg
+lynx, catamount 0.999774
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 8.41067e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10330.jpg
+lynx, catamount 0.890873
+leopard, Panthera pardus 0.029345
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10331.jpg
+lynx, catamount 0.954348
+tiger cat 0.0226245
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10332.jpg
+hyena, hyaena 0.966554
+baboon 0.00948652
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10333.jpg
+lynx, catamount 0.822168
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.106677
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10334.jpg
+lynx, catamount 0.99491
+snow leopard, ounce, Panthera uncia 0.00349668
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10335.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.256031
+lynx, catamount 0.165686
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10336.jpg
+ibex, Capra ibex 0.271882
+llama 0.193665
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10337.jpg
+snow leopard, ounce, Panthera uncia 0.952391
+lynx, catamount 0.015711
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10338.jpg
+lynx, catamount 0.450964
+snow leopard, ounce, Panthera uncia 0.342926
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10339.jpg
+lynx, catamount 0.999208
+snow leopard, ounce, Panthera uncia 0.000300099
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10340.jpg
+lynx, catamount 0.880318
+cheetah, chetah, Acinonyx jubatus 0.0477914
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10341.jpg
+lynx, catamount 0.999897
+snow leopard, ounce, Panthera uncia 5.4815e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10342.jpg
+lynx, catamount 0.981186
+snow leopard, ounce, Panthera uncia 0.010251
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10343.jpg
+lynx, catamount 0.999837
+snow leopard, ounce, Panthera uncia 0.000107591
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10344.jpg
+lynx, catamount 0.950653
+coyote, prairie wolf, brush wolf, Canis latrans 0.0410387
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10345.jpg
+lynx, catamount 0.971583
+Egyptian cat 0.00694605
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10346.jpg
+Egyptian cat 0.259041
+lynx, catamount 0.137422
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10347.jpg
+lynx, catamount 0.999979
+lion, king of beasts, Panthera leo 9.88122e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10348.jpg
+lynx, catamount 0.998212
+coyote, prairie wolf, brush wolf, Canis latrans 0.00129453
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10349.jpg
+lynx, catamount 0.999297
+tiger cat 0.00034575
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10350.jpg
+lynx, catamount 0.999892
+snow leopard, ounce, Panthera uncia 8.43154e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10351.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.963316
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0252082
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10352.jpg
+lynx, catamount 0.999781
+coyote, prairie wolf, brush wolf, Canis latrans 0.000184414
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10353.jpg
+lynx, catamount 0.996349
+tiger cat 0.00334977
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10354.jpg
+giant schnauzer 0.137575
+baboon 0.136493
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10355.jpg
+lynx, catamount 0.999987
+tiger cat 1.25678e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10356.jpg
+lynx, catamount 0.965118
+Egyptian cat 0.0273856
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10357.jpg
+lynx, catamount 0.996758
+lion, king of beasts, Panthera leo 0.000821815
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10358.jpg
+lynx, catamount 0.98352
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0074453
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10359.jpg
+lynx, catamount 0.773048
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.209177
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10360.jpg
+kit fox, Vulpes macrotis 0.323949
+lynx, catamount 0.222497
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10361.jpg
+lynx, catamount 0.999304
+impala, Aepyceros melampus 0.00039724
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10362.jpg
+lynx, catamount 0.994089
+tiger cat 0.00425161
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10363.jpg
+lynx, catamount 0.544743
+leopard, Panthera pardus 0.0970232
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10364.jpg
+lynx, catamount 0.996682
+tiger cat 0.00160379
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10365.jpg
+lynx, catamount 0.799261
+tiger cat 0.147837
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10366.jpg
+lynx, catamount 0.999778
+lion, king of beasts, Panthera leo 0.000147039
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10367.jpg
+hare 0.338565
+wallaby, brush kangaroo 0.218163
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10368.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.166516
+dhole, Cuon alpinus 0.100042
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10369.jpg
+lynx, catamount 0.999861
+tiger cat 0.000125246
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10370.jpg
+lynx, catamount 0.337851
+tiger cat 0.225119
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10371.jpg
+marmoset 0.314074
+Madagascar cat, ring-tailed lemur, Lemur catta 0.0732044
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10372.jpg
+lynx, catamount 0.866962
+jaguar, panther, Panthera onca, Felis onca 0.0836243
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10373.jpg
+lynx, catamount 0.981551
+tiger cat 0.00784932
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10374.jpg
+lynx, catamount 0.998923
+tiger cat 0.000823942
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10375.jpg
+lynx, catamount 0.999929
+lion, king of beasts, Panthera leo 2.13136e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10376.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.278032
+Walker hound, Walker foxhound 0.0862578
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10377.jpg
+lynx, catamount 0.970122
+tiger cat 0.0149359
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10378.jpg
+lynx, catamount 0.910462
+Egyptian cat 0.0438143
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10379.jpg
+lynx, catamount 0.981014
+snow leopard, ounce, Panthera uncia 0.00765485
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10380.jpg
+lynx, catamount 0.999237
+snow leopard, ounce, Panthera uncia 0.000323649
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10381.jpg
+lynx, catamount 0.999466
+snow leopard, ounce, Panthera uncia 0.000351838
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10382.jpg
+lynx, catamount 0.999379
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000573321
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10383.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.548765
+grey fox, gray fox, Urocyon cinereoargenteus 0.121626
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10384.jpg
+lynx, catamount 0.996558
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00236887
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10385.jpg
+lynx, catamount 0.992116
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00400198
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10386.jpg
+lynx, catamount 0.995568
+tiger cat 0.00363052
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10387.jpg
+lynx, catamount 0.999958
+tiger cat 3.88709e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10388.jpg
+lynx, catamount 0.929834
+tiger cat 0.0157968
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10389.jpg
+lynx, catamount 0.951221
+tiger cat 0.0131216
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10390.jpg
+lynx, catamount 0.997204
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00250516
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10391.jpg
+lynx, catamount 0.952586
+ruffed grouse, partridge, Bonasa umbellus 0.00651416
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10392.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10393.jpg
+lynx, catamount 0.998462
+tiger cat 0.000922475
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10394.jpg
+lynx, catamount 0.999463
+tiger cat 0.000212619
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10395.jpg
+dingo, warrigal, warragal, Canis dingo 0.566569
+impala, Aepyceros melampus 0.373898
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10396.jpg
+lynx, catamount 0.978918
+tiger cat 0.00655821
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10397.jpg
+lynx, catamount 0.462641
+grasshopper, hopper 0.130676
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10398.jpg
+lynx, catamount 0.990779
+snow leopard, ounce, Panthera uncia 0.00278113
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10399.jpg
+lynx, catamount 0.999311
+grey fox, gray fox, Urocyon cinereoargenteus 0.000187279
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10400.jpg
+lynx, catamount 0.998861
+tiger cat 0.000366439
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10401.jpg
+lynx, catamount 0.992947
+coyote, prairie wolf, brush wolf, Canis latrans 0.00476595
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10402.jpg
+marmot 0.136364
+hare 0.0933383
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10403.jpg
+cheetah, chetah, Acinonyx jubatus 0.511722
+mongoose 0.2268
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10404.jpg
+lynx, catamount 0.994303
+tiger cat 0.00292691
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10405.jpg
+lynx, catamount 0.994223
+coyote, prairie wolf, brush wolf, Canis latrans 0.00449953
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10406.jpg
+Egyptian cat 0.315239
+tiger cat 0.192067
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10407.jpg
+lynx, catamount 0.775328
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.160558
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10408.jpg
+lynx, catamount 0.995187
+tabby, tabby cat 0.00150436
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10409.jpg
+lynx, catamount 0.863564
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0421828
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10410.jpg
+lynx, catamount 0.991177
+tiger cat 0.00429398
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10411.jpg
+shopping basket 0.103312
+shopping cart 0.0515192
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10412.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10413.jpg
+lynx, catamount 0.646507
+snow leopard, ounce, Panthera uncia 0.332797
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10414.jpg
+lynx, catamount 0.967994
+coyote, prairie wolf, brush wolf, Canis latrans 0.0113127
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10415.jpg
+meerkat, mierkat 0.512036
+mongoose 0.330177
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10416.jpg
+lynx, catamount 0.70226
+mongoose 0.0536988
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10417.jpg
+lynx, catamount 0.886499
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0327877
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10418.jpg
+great grey owl, great gray owl, Strix nebulosa 0.341311
+ruffed grouse, partridge, Bonasa umbellus 0.209978
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10419.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.559032
+coyote, prairie wolf, brush wolf, Canis latrans 0.278599
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10420.jpg
+snow leopard, ounce, Panthera uncia 0.342011
+lynx, catamount 0.17502
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10421.jpg
+lynx, catamount 0.567595
+Egyptian cat 0.161673
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10422.jpg
+lynx, catamount 0.849706
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.109605
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10423.jpg
+lynx, catamount 0.998808
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000882667
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10424.jpg
+lynx, catamount 0.744524
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.174128
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10425.jpg
+lynx, catamount 0.244553
+dhole, Cuon alpinus 0.155617
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10426.jpg
+tiger cat 0.308241
+lynx, catamount 0.302649
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10427.jpg
+lynx, catamount 0.999961
+snow leopard, ounce, Panthera uncia 2.96479e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10428.jpg
+lynx, catamount 0.719151
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.101093
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10429.jpg
+lynx, catamount 0.999669
+tiger cat 0.000169756
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10430.jpg
+lynx, catamount 0.984454
+tiger cat 0.00536659
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10431.jpg
+lynx, catamount 0.999978
+tiger cat 1.4471e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10432.jpg
+lynx, catamount 0.940564
+leopard, Panthera pardus 0.0206401
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10433.jpg
+lynx, catamount 0.599455
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.119264
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10434.jpg
+squirrel monkey, Saimiri sciureus 0.369441
+macaque 0.167169
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10435.jpg
+lynx, catamount 0.980456
+coyote, prairie wolf, brush wolf, Canis latrans 0.00820528
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10436.jpg
+lynx, catamount 0.999121
+tiger cat 0.000293646
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10437.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10438.jpg
+lynx, catamount 0.990691
+kit fox, Vulpes macrotis 0.00416405
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10439.jpg
+lynx, catamount 0.999797
+coyote, prairie wolf, brush wolf, Canis latrans 0.00011648
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10440.jpg
+leopard, Panthera pardus 0.17474
+jaguar, panther, Panthera onca, Felis onca 0.157839
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10441.jpg
+lynx, catamount 0.998703
+tiger cat 0.000417251
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10442.jpg
+lynx, catamount 0.999985
+tiger cat 1.54537e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10443.jpg
+lynx, catamount 0.994407
+tiger cat 0.00394999
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10444.jpg
+lynx, catamount 0.995463
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00249428
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10445.jpg
+lynx, catamount 0.999949
+coyote, prairie wolf, brush wolf, Canis latrans 4.30157e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10446.jpg
+lynx, catamount 0.999994
+tiger cat 6.1425e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10447.jpg
+lynx, catamount 0.99895
+tiger cat 0.000850169
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10448.jpg
+lynx, catamount 0.998078
+coyote, prairie wolf, brush wolf, Canis latrans 0.000592961
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10449.jpg
+lynx, catamount 0.997463
+tiger cat 0.00108022
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10450.jpg
+lynx, catamount 0.996721
+tiger cat 0.00202039
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10451.jpg
+lynx, catamount 0.993334
+tiger cat 0.0056716
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10452.jpg
+lynx, catamount 0.999913
+lion, king of beasts, Panthera leo 3.86478e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10453.jpg
+lynx, catamount 0.999854
+tiger cat 5.96974e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10454.jpg
+lynx, catamount 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10455.jpg
+lynx, catamount 0.926111
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.029809
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10456.jpg
+lynx, catamount 0.317074
+timber wolf, grey wolf, gray wolf, Canis lupus 0.290247
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10457.jpg
+lynx, catamount 0.998835
+coyote, prairie wolf, brush wolf, Canis latrans 0.000556943
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10458.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.738999
+lynx, catamount 0.184452
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10459.jpg
+lynx, catamount 0.988859
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00980585
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10460.jpg
+cheetah, chetah, Acinonyx jubatus 0.291058
+lynx, catamount 0.198371
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10461.jpg
+lynx, catamount 0.999334
+coyote, prairie wolf, brush wolf, Canis latrans 0.000446706
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10462.jpg
+lynx, catamount 0.979132
+coyote, prairie wolf, brush wolf, Canis latrans 0.00835663
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10463.jpg
+lynx, catamount 0.999994
+snow leopard, ounce, Panthera uncia 5.7205e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10464.jpg
+red fox, Vulpes vulpes 0.415463
+coyote, prairie wolf, brush wolf, Canis latrans 0.341923
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10465.jpg
+lynx, catamount 0.944125
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0295487
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10466.jpg
+lynx, catamount 0.993649
+tiger cat 0.00392567
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10467.jpg
+lynx, catamount 0.7803
+coyote, prairie wolf, brush wolf, Canis latrans 0.155877
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10468.jpg
+lynx, catamount 0.831283
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.161655
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10469.jpg
+lynx, catamount 0.281486
+timber wolf, grey wolf, gray wolf, Canis lupus 0.267742
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10470.jpg
+lynx, catamount 0.999924
+snow leopard, ounce, Panthera uncia 4.05238e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10471.jpg
+fur coat 0.281881
+meerkat, mierkat 0.137653
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10472.jpg
+lynx, catamount 0.332286
+grey fox, gray fox, Urocyon cinereoargenteus 0.204863
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10473.jpg
+lynx, catamount 0.676445
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.160886
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10474.jpg
+lynx, catamount 0.819946
+dhole, Cuon alpinus 0.0615333
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10475.jpg
+lynx, catamount 0.612914
+coyote, prairie wolf, brush wolf, Canis latrans 0.106171
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10476.jpg
+lynx, catamount 0.98367
+tiger cat 0.0103763
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10477.jpg
+lynx, catamount 0.999505
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000154901
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10478.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.251963
+red wolf, maned wolf, Canis rufus, Canis niger 0.127556
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10479.jpg
+standard schnauzer 0.120255
+Airedale, Airedale terrier 0.0607167
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10480.jpg
+lynx, catamount 0.999682
+leopard, Panthera pardus 0.000145586
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10481.jpg
+mink 0.193813
+mongoose 0.153506
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10482.jpg
+lynx, catamount 0.975146
+coyote, prairie wolf, brush wolf, Canis latrans 0.0124046
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10483.jpg
+tiger cat 0.234952
+tabby, tabby cat 0.223964
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10484.jpg
+leopard, Panthera pardus 0.610175
+lynx, catamount 0.270483
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10485.jpg
+lynx, catamount 0.997548
+tiger cat 0.00138609
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10486.jpg
+lynx, catamount 0.997945
+tiger cat 0.00164788
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10487.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.467232
+lynx, catamount 0.15494
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10488.jpg
+lynx, catamount 0.966758
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0248851
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10489.jpg
+lynx, catamount 0.352753
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.193963
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10490.jpg
+lynx, catamount 0.952319
+lion, king of beasts, Panthera leo 0.0160356
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10491.jpg
+Border terrier 0.122444
+Leonberg 0.0627907
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10492.jpg
+diamondback, diamondback rattlesnake, Crotalus adamanteus 0.270604
+ruffed grouse, partridge, Bonasa umbellus 0.162737
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10493.jpg
+lynx, catamount 0.577767
+coyote, prairie wolf, brush wolf, Canis latrans 0.196098
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10494.jpg
+lynx, catamount 0.702659
+lumbermill, sawmill 0.0449381
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10495.jpg
+lynx, catamount 0.999935
+tiger cat 4.96971e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10496.jpg
+lynx, catamount 0.371574
+grey fox, gray fox, Urocyon cinereoargenteus 0.16679
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10497.jpg
+lynx, catamount 0.776588
+Egyptian cat 0.107406
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10498.jpg
+lynx, catamount 0.984126
+tiger cat 0.00882137
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10499.jpg
+lynx, catamount 0.992333
+jaguar, panther, Panthera onca, Felis onca 0.00346295
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10500.jpg
+lynx, catamount 0.999996
+tiger cat 4.45151e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10501.jpg
+whiptail, whiptail lizard 0.0604459
+common newt, Triturus vulgaris 0.0299113
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10502.jpg
+fountain 0.213708
+tiger cat 0.0652181
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10503.jpg
+lynx, catamount 0.42628
+snow leopard, ounce, Panthera uncia 0.268879
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10504.jpg
+lynx, catamount 0.997014
+tiger cat 0.0021593
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10505.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.917754
+lynx, catamount 0.0605173
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10506.jpg
+dhole, Cuon alpinus 0.362164
+red wolf, maned wolf, Canis rufus, Canis niger 0.196144
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10507.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.268433
+lynx, catamount 0.212857
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10508.jpg
+lynx, catamount 0.999632
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000345941
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10509.jpg
+lynx, catamount 0.977025
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0136985
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10510.jpg
+lynx, catamount 0.987007
+Egyptian cat 0.00839129
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10511.jpg
+lynx, catamount 0.466945
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.302919
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10512.jpg
+lynx, catamount 0.882598
+tiger cat 0.0373164
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10513.jpg
+lynx, catamount 0.98755
+lion, king of beasts, Panthera leo 0.0061268
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10514.jpg
+lynx, catamount 0.998155
+tiger cat 0.00121828
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10515.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.258866
+lynx, catamount 0.202925
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10516.jpg
+diamondback, diamondback rattlesnake, Crotalus adamanteus 0.480528
+boa constrictor, Constrictor constrictor 0.171627
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10517.jpg
+lynx, catamount 0.986014
+Egyptian cat 0.00795483
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10518.jpg
+lynx, catamount 0.928219
+dhole, Cuon alpinus 0.0234947
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10519.jpg
+lynx, catamount 0.999825
+coyote, prairie wolf, brush wolf, Canis latrans 8.10849e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10520.jpg
+lynx, catamount 0.960798
+Egyptian cat 0.00928402
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10521.jpg
+lynx, catamount 0.410484
+red wolf, maned wolf, Canis rufus, Canis niger 0.111308
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10522.jpg
+hyena, hyaena 0.226216
+Leonberg 0.138075
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10523.jpg
+lynx, catamount 0.184595
+macaque 0.164606
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10524.jpg
+lynx, catamount 0.975163
+tiger cat 0.00665029
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10525.jpg
+dingo, warrigal, warragal, Canis dingo 0.246303
+coyote, prairie wolf, brush wolf, Canis latrans 0.163526
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10526.jpg
+marmot 0.129999
+lynx, catamount 0.1169
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10527.jpg
+lynx, catamount 0.99876
+leopard, Panthera pardus 0.000526956
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10528.jpg
+lynx, catamount 0.998574
+tiger cat 0.000675047
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10529.jpg
+lynx, catamount 0.999804
+coyote, prairie wolf, brush wolf, Canis latrans 0.00010788
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10530.jpg
+lynx, catamount 0.99487
+snow leopard, ounce, Panthera uncia 0.00128664
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10531.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.37714
+grey fox, gray fox, Urocyon cinereoargenteus 0.189561
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10532.jpg
+lynx, catamount 0.47512
+snow leopard, ounce, Panthera uncia 0.111179
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10533.jpg
+lynx, catamount 0.995435
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00253089
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10534.jpg
+lynx, catamount 0.47596
+ruffed grouse, partridge, Bonasa umbellus 0.416409
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10535.jpg
+lynx, catamount 0.999716
+lion, king of beasts, Panthera leo 0.000169549
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10536.jpg
+lynx, catamount 0.895472
+hare 0.0346006
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10537.jpg
+patas, hussar monkey, Erythrocebus patas 0.281272
+lynx, catamount 0.159659
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10538.jpg
+lynx, catamount 0.903343
+Egyptian cat 0.057943
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10539.jpg
+lynx, catamount 0.526029
+coyote, prairie wolf, brush wolf, Canis latrans 0.14495
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10540.jpg
+lynx, catamount 0.503224
+dhole, Cuon alpinus 0.295977
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10541.jpg
+lynx, catamount 0.997007
+tiger cat 0.00142695
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10542.jpg
+lynx, catamount 0.999996
+tiger cat 4.24215e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10543.jpg
+lynx, catamount 0.993152
+tiger cat 0.00346134
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10544.jpg
+lynx, catamount 0.984218
+coyote, prairie wolf, brush wolf, Canis latrans 0.0115624
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10545.jpg
+hyena, hyaena 0.922174
+lynx, catamount 0.0591407
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10546.jpg
+lynx, catamount 0.923554
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0378722
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10547.jpg
+lynx, catamount 0.438763
+coyote, prairie wolf, brush wolf, Canis latrans 0.162799
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10548.jpg
+lynx, catamount 0.721884
+dhole, Cuon alpinus 0.132381
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10549.jpg
+lynx, catamount 0.999972
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 1.60209e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10550.jpg
+lynx, catamount 0.999993
+tiger cat 3.77915e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10551.jpg
+lynx, catamount 0.992017
+tiger cat 0.00460815
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10552.jpg
+lynx, catamount 0.996596
+tiger cat 0.00333171
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10553.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.355286
+dingo, warrigal, warragal, Canis dingo 0.225556
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10554.jpg
+lynx, catamount 0.999937
+coyote, prairie wolf, brush wolf, Canis latrans 6.34603e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10555.jpg
+tractor 0.0894034
+barrow, garden cart, lawn cart, wheelbarrow 0.0808387
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10556.jpg
+lynx, catamount 0.728151
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.186794
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10557.jpg
+lynx, catamount 0.999861
+tiger cat 8.75874e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10558.jpg
+lynx, catamount 0.644483
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.143919
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10559.jpg
+lynx, catamount 0.999844
+coyote, prairie wolf, brush wolf, Canis latrans 0.000143612
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10560.jpg
+lynx, catamount 0.973982
+snow leopard, ounce, Panthera uncia 0.0142989
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10561.jpg
+lynx, catamount 0.999665
+snow leopard, ounce, Panthera uncia 0.000289525
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10562.jpg
+lynx, catamount 0.941165
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0157112
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10563.jpg
+lynx, catamount 0.34974
+whiptail, whiptail lizard 0.118671
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10564.jpg
+lynx, catamount 0.993403
+Persian cat 0.00352279
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10565.jpg
+lynx, catamount 0.995147
+tiger cat 0.0021308
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10566.jpg
+lynx, catamount 0.830754
+tiger cat 0.0928562
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10567.jpg
+lynx, catamount 0.689394
+dhole, Cuon alpinus 0.122917
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10568.jpg
+lynx, catamount 0.575681
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0890216
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10569.jpg
+lynx, catamount 0.995393
+tiger cat 0.00136122
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10570.jpg
+lynx, catamount 0.983908
+tiger cat 0.0088887
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10571.jpg
+lynx, catamount 0.999733
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000193251
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10572.jpg
+lynx, catamount 0.999982
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 9.66029e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10573.jpg
+lynx, catamount 0.99948
+tiger cat 0.000166643
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10574.jpg
+lynx, catamount 0.660368
+soft-coated wheaten terrier 0.0416062
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10575.jpg
+lynx, catamount 0.986042
+coyote, prairie wolf, brush wolf, Canis latrans 0.00582214
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10576.jpg
+lynx, catamount 0.999787
+snow leopard, ounce, Panthera uncia 0.000157285
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10577.jpg
+lynx, catamount 0.852601
+coyote, prairie wolf, brush wolf, Canis latrans 0.0689396
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10578.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.301603
+wallaby, brush kangaroo 0.169449
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10579.jpg
+lynx, catamount 0.999967
+tiger cat 1.47527e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10580.jpg
+lynx, catamount 0.993811
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00616286
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10581.jpg
+lynx, catamount 0.999048
+Egyptian cat 0.000477075
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10582.jpg
+lynx, catamount 0.997452
+coyote, prairie wolf, brush wolf, Canis latrans 0.00253187
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10583.jpg
+lynx, catamount 0.999337
+tiger cat 0.000600977
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10584.jpg
+lynx, catamount 0.494531
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.154743
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10585.jpg
+lynx, catamount 0.999821
+tiger cat 0.000116445
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10586.jpg
+baboon 0.227917
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.124325
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10587.jpg
+lynx, catamount 0.982699
+wallaby, brush kangaroo 0.00637608
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10588.jpg
+lynx, catamount 0.999404
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000252861
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10589.jpg
+lynx, catamount 0.999848
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.000115507
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10590.jpg
+tabby, tabby cat 0.35853
+tiger cat 0.311303
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10591.jpg
+lynx, catamount 0.980584
+leopard, Panthera pardus 0.0121046
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10592.jpg
+lynx, catamount 0.999107
+tiger cat 0.000352276
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10593.jpg
+lynx, catamount 0.983454
+wallaby, brush kangaroo 0.00753445
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10594.jpg
+lynx, catamount 0.793198
+dhole, Cuon alpinus 0.0791819
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10595.jpg
+lynx, catamount 0.999922
+tiger cat 5.38357e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10596.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.298932
+ruffed grouse, partridge, Bonasa umbellus 0.225359
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10597.jpg
+lynx, catamount 0.999988
+lion, king of beasts, Panthera leo 6.7589e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10598.jpg
+lynx, catamount 0.969676
+coyote, prairie wolf, brush wolf, Canis latrans 0.00923877
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10599.jpg
+lynx, catamount 0.97011
+Egyptian cat 0.0101369
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10600.jpg
+lynx, catamount 0.999864
+tiger cat 3.353e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10601.jpg
+lynx, catamount 0.963807
+wood rabbit, cottontail, cottontail rabbit 0.0051692
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10602.jpg
+lynx, catamount 0.499538
+cheetah, chetah, Acinonyx jubatus 0.301393
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10603.jpg
+lynx, catamount 0.983269
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0098396
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10604.jpg
+lynx, catamount 0.999662
+coyote, prairie wolf, brush wolf, Canis latrans 0.000116174
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10605.jpg
+lynx, catamount 0.999085
+lion, king of beasts, Panthera leo 0.00036554
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10606.jpg
+lynx, catamount 0.471119
+leopard, Panthera pardus 0.213865
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10607.jpg
+cheetah, chetah, Acinonyx jubatus 0.521637
+hyena, hyaena 0.163355
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10608.jpg
+lynx, catamount 0.925099
+tiger cat 0.0363578
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10609.jpg
+lynx, catamount 0.999368
+coyote, prairie wolf, brush wolf, Canis latrans 0.000564492
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10610.jpg
+lynx, catamount 0.290551
+Irish terrier 0.13775
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10611.jpg
+lynx, catamount 0.512445
+Egyptian cat 0.147214
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10612.jpg
+lynx, catamount 0.919909
+Egyptian cat 0.0393428
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10613.jpg
+lynx, catamount 0.441259
+gazelle 0.254136
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10614.jpg
+Egyptian cat 0.388395
+lynx, catamount 0.1492
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10615.jpg
+lynx, catamount 0.999994
+tiger cat 6.50481e-06
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10616.jpg
+lynx, catamount 0.820888
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0468608
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10617.jpg
+lynx, catamount 0.930729
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0516659
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10618.jpg
+wallaby, brush kangaroo 0.596633
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0839628
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10619.jpg
+lynx, catamount 0.696644
+coyote, prairie wolf, brush wolf, Canis latrans 0.149277
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10620.jpg
+lynx, catamount 0.99759
+tiger cat 0.00126073
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10621.jpg
+lynx, catamount 0.999958
+coyote, prairie wolf, brush wolf, Canis latrans 3.38527e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10622.jpg
+tiger, Panthera tigris 0.235053
+lynx, catamount 0.164179
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10623.jpg
+lynx, catamount 0.818625
+tiger cat 0.0735279
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10624.jpg
+lynx, catamount 0.967605
+leopard, Panthera pardus 0.0121164
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10625.jpg
+lynx, catamount 0.872445
+leopard, Panthera pardus 0.0331164
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10626.jpg
+hyena, hyaena 0.731388
+baboon 0.155177
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10627.jpg
+lynx, catamount 0.999984
+lion, king of beasts, Panthera leo 1.19317e-05
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10628.jpg
+leopard, Panthera pardus 0.234489
+boa constrictor, Constrictor constrictor 0.214713
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10629.jpg
+Cardigan, Cardigan Welsh corgi 0.664167
+hyena, hyaena 0.0918671
+./datasets/Animals_with_Attributes2/JPEGImages/bobcat/bobcat_10630.jpg
+lynx, catamount 0.991419
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.00467749

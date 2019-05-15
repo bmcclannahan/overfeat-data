@@ -1,0 +1,4032 @@
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10001.jpg
+warthog 0.206102
+zebra 0.158463
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10002.jpg
+gazelle 0.554419
+hartebeest 0.198875
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10003.jpg
+ibex, Capra ibex 0.511477
+hare 0.057908
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10004.jpg
+dhole, Cuon alpinus 0.506778
+vizsla, Hungarian pointer 0.243172
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10005.jpg
+ibex, Capra ibex 0.550987
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.141197
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10006.jpg
+impala, Aepyceros melampus 0.491803
+hartebeest 0.264331
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10007.jpg
+impala, Aepyceros melampus 0.244148
+coyote, prairie wolf, brush wolf, Canis latrans 0.158515
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10008.jpg
+wallaby, brush kangaroo 0.965109
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0117397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10009.jpg
+hare 0.326578
+ibex, Capra ibex 0.224014
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10010.jpg
+gazelle 0.452582
+impala, Aepyceros melampus 0.250064
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10011.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.378883
+coyote, prairie wolf, brush wolf, Canis latrans 0.200369
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10012.jpg
+gazelle 0.171524
+malinois 0.119771
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10013.jpg
+impala, Aepyceros melampus 0.514541
+gazelle 0.235657
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10014.jpg
+Rhodesian ridgeback 0.400591
+Ibizan hound, Ibizan Podenco 0.143775
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10015.jpg
+impala, Aepyceros melampus 0.250237
+hartebeest 0.159286
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10016.jpg
+bison 0.353675
+hay 0.271527
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10017.jpg
+gazelle 0.864706
+impala, Aepyceros melampus 0.0823208
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10018.jpg
+impala, Aepyceros melampus 0.783585
+hartebeest 0.0874709
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10019.jpg
+gazelle 0.862763
+impala, Aepyceros melampus 0.134006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10020.jpg
+llama 0.26246
+gazelle 0.251478
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10021.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.293701
+coyote, prairie wolf, brush wolf, Canis latrans 0.194897
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10022.jpg
+gazelle 0.436879
+impala, Aepyceros melampus 0.327051
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10023.jpg
+impala, Aepyceros melampus 0.907479
+gazelle 0.0669322
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10024.jpg
+impala, Aepyceros melampus 0.418263
+gazelle 0.315181
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10025.jpg
+wallaby, brush kangaroo 0.570163
+wild boar, boar, Sus scrofa 0.114418
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10026.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.419831
+ram, tup 0.35347
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10027.jpg
+impala, Aepyceros melampus 0.427612
+gazelle 0.171416
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10028.jpg
+dhole, Cuon alpinus 0.956017
+red fox, Vulpes vulpes 0.0370121
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10029.jpg
+wallaby, brush kangaroo 0.614344
+coyote, prairie wolf, brush wolf, Canis latrans 0.081052
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10030.jpg
+impala, Aepyceros melampus 0.3313
+wallaby, brush kangaroo 0.320803
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10031.jpg
+gazelle 0.970738
+impala, Aepyceros melampus 0.0288127
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10032.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.357373
+impala, Aepyceros melampus 0.282976
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10033.jpg
+impala, Aepyceros melampus 0.914141
+dingo, warrigal, warragal, Canis dingo 0.0612427
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10034.jpg
+impala, Aepyceros melampus 0.414008
+gazelle 0.274755
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10035.jpg
+hartebeest 0.462081
+impala, Aepyceros melampus 0.278731
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10036.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.343895
+dhole, Cuon alpinus 0.307514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10037.jpg
+wallaby, brush kangaroo 0.706685
+hare 0.116597
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10038.jpg
+gazelle 0.477064
+wallaby, brush kangaroo 0.0876411
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10039.jpg
+ibex, Capra ibex 0.390115
+impala, Aepyceros melampus 0.297308
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10040.jpg
+ibex, Capra ibex 0.57944
+wallaby, brush kangaroo 0.167493
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10041.jpg
+wallaby, brush kangaroo 0.368677
+hyena, hyaena 0.122315
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10042.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.28935
+ram, tup 0.177547
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10043.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.237913
+lion, king of beasts, Panthera leo 0.23268
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10044.jpg
+proboscis monkey, Nasalis larvatus 0.308881
+red wolf, maned wolf, Canis rufus, Canis niger 0.292543
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10045.jpg
+impala, Aepyceros melampus 0.422358
+hartebeest 0.321025
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10046.jpg
+ibex, Capra ibex 0.550844
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.31991
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10047.jpg
+gazelle 0.36377
+impala, Aepyceros melampus 0.251223
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10048.jpg
+hartebeest 0.875703
+gazelle 0.0649998
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10049.jpg
+impala, Aepyceros melampus 0.728298
+gazelle 0.256514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10050.jpg
+impala, Aepyceros melampus 0.552399
+gazelle 0.22368
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10051.jpg
+dhole, Cuon alpinus 0.336032
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.166481
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10052.jpg
+gazelle 0.700129
+impala, Aepyceros melampus 0.178552
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10053.jpg
+impala, Aepyceros melampus 0.456702
+dhole, Cuon alpinus 0.113916
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10054.jpg
+impala, Aepyceros melampus 0.626687
+gazelle 0.289864
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10055.jpg
+gazelle 0.912145
+impala, Aepyceros melampus 0.0427773
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10056.jpg
+Saluki, gazelle hound 0.156937
+whippet 0.145564
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10057.jpg
+gazelle 0.501039
+ibex, Capra ibex 0.314119
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10058.jpg
+gazelle 0.378011
+triceratops 0.0730551
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10059.jpg
+ibex, Capra ibex 0.775643
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.108762
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10060.jpg
+bustard 0.577423
+impala, Aepyceros melampus 0.192909
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10061.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.886002
+ostrich, Struthio camelus 0.0384852
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10062.jpg
+gazelle 0.467877
+impala, Aepyceros melampus 0.313832
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10063.jpg
+hare 0.673026
+gazelle 0.12231
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10064.jpg
+impala, Aepyceros melampus 0.730148
+gazelle 0.0773766
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10065.jpg
+dingo, warrigal, warragal, Canis dingo 0.3277
+miniature pinscher 0.227728
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10066.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.384564
+timber wolf, grey wolf, gray wolf, Canis lupus 0.298047
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10067.jpg
+impala, Aepyceros melampus 0.881292
+gazelle 0.0464717
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10068.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.887114
+red wolf, maned wolf, Canis rufus, Canis niger 0.0706159
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10069.jpg
+impala, Aepyceros melampus 0.771
+gazelle 0.108962
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10070.jpg
+gazelle 0.287742
+impala, Aepyceros melampus 0.158081
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10071.jpg
+impala, Aepyceros melampus 0.837319
+gazelle 0.0704074
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10072.jpg
+Chesapeake Bay retriever 0.245313
+Irish wolfhound 0.183527
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10073.jpg
+impala, Aepyceros melampus 0.576806
+gazelle 0.340949
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10074.jpg
+impala, Aepyceros melampus 0.756822
+gazelle 0.2369
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10075.jpg
+gazelle 0.639503
+impala, Aepyceros melampus 0.168975
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10076.jpg
+ibex, Capra ibex 0.349474
+coyote, prairie wolf, brush wolf, Canis latrans 0.128707
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10077.jpg
+hartebeest 0.499019
+gazelle 0.371223
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10078.jpg
+impala, Aepyceros melampus 0.875543
+gazelle 0.0989085
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10079.jpg
+gazelle 0.333931
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.166257
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10080.jpg
+impala, Aepyceros melampus 0.819933
+gazelle 0.0928651
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10081.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.32176
+timber wolf, grey wolf, gray wolf, Canis lupus 0.196509
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10082.jpg
+gazelle 0.468294
+impala, Aepyceros melampus 0.270083
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10083.jpg
+gazelle 0.721356
+impala, Aepyceros melampus 0.1807
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10084.jpg
+impala, Aepyceros melampus 0.294614
+gazelle 0.241464
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10085.jpg
+impala, Aepyceros melampus 0.513054
+gazelle 0.329013
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10086.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.234427
+red wolf, maned wolf, Canis rufus, Canis niger 0.171628
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10087.jpg
+gazelle 0.545864
+impala, Aepyceros melampus 0.397869
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10088.jpg
+hartebeest 0.973003
+impala, Aepyceros melampus 0.0183716
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10089.jpg
+gazelle 0.664944
+impala, Aepyceros melampus 0.170679
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10090.jpg
+impala, Aepyceros melampus 0.489487
+gazelle 0.458546
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10091.jpg
+hartebeest 0.764986
+impala, Aepyceros melampus 0.197975
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10092.jpg
+ibex, Capra ibex 0.854698
+triceratops 0.0267052
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10093.jpg
+Mexican hairless 0.503331
+ibex, Capra ibex 0.302668
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10094.jpg
+ibex, Capra ibex 0.517813
+hartebeest 0.252333
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10095.jpg
+gazelle 0.486595
+impala, Aepyceros melampus 0.397203
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10096.jpg
+gazelle 0.504649
+impala, Aepyceros melampus 0.205121
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10097.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.396468
+impala, Aepyceros melampus 0.168314
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10098.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.100691
+impala, Aepyceros melampus 0.0614795
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10099.jpg
+gazelle 0.379104
+impala, Aepyceros melampus 0.215444
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10100.jpg
+gazelle 0.859186
+impala, Aepyceros melampus 0.0601725
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10101.jpg
+gazelle 0.728233
+impala, Aepyceros melampus 0.166816
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10102.jpg
+triceratops 0.405614
+ibex, Capra ibex 0.225234
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10103.jpg
+dingo, warrigal, warragal, Canis dingo 0.4466
+impala, Aepyceros melampus 0.198
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10104.jpg
+llama 0.459133
+wallaby, brush kangaroo 0.417592
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10105.jpg
+dhole, Cuon alpinus 0.39768
+red fox, Vulpes vulpes 0.1584
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10106.jpg
+dhole, Cuon alpinus 0.491131
+impala, Aepyceros melampus 0.430702
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10107.jpg
+dingo, warrigal, warragal, Canis dingo 0.252166
+Pembroke, Pembroke Welsh corgi 0.228297
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10108.jpg
+impala, Aepyceros melampus 0.860535
+gazelle 0.13044
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10109.jpg
+impala, Aepyceros melampus 0.380082
+gazelle 0.163238
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10110.jpg
+impala, Aepyceros melampus 0.308519
+red wolf, maned wolf, Canis rufus, Canis niger 0.251706
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10111.jpg
+hartebeest 0.47287
+ibex, Capra ibex 0.18717
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10112.jpg
+impala, Aepyceros melampus 0.51361
+gazelle 0.370668
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10113.jpg
+wallaby, brush kangaroo 0.186937
+coyote, prairie wolf, brush wolf, Canis latrans 0.133404
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10114.jpg
+gazelle 0.640055
+impala, Aepyceros melampus 0.173351
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10115.jpg
+dingo, warrigal, warragal, Canis dingo 0.549935
+malinois 0.0874239
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10116.jpg
+ibex, Capra ibex 0.904676
+impala, Aepyceros melampus 0.0483781
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10117.jpg
+gazelle 0.233289
+coyote, prairie wolf, brush wolf, Canis latrans 0.0868278
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10118.jpg
+llama 0.938999
+gazelle 0.035424
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10119.jpg
+Chihuahua 0.186278
+dhole, Cuon alpinus 0.133565
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10120.jpg
+limpkin, Aramus pictus 0.638618
+dowitcher 0.107543
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10121.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.911441
+ram, tup 0.0606089
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10122.jpg
+whippet 0.37284
+Ibizan hound, Ibizan Podenco 0.327226
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10123.jpg
+gazelle 0.919184
+impala, Aepyceros melampus 0.0756549
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10124.jpg
+ibex, Capra ibex 0.304583
+impala, Aepyceros melampus 0.174412
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10125.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.87056
+ram, tup 0.127594
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10126.jpg
+dhole, Cuon alpinus 0.350123
+coyote, prairie wolf, brush wolf, Canis latrans 0.164085
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10127.jpg
+warthog 0.189591
+impala, Aepyceros melampus 0.11643
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10128.jpg
+impala, Aepyceros melampus 0.672824
+gazelle 0.207337
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10129.jpg
+hare 0.465444
+llama 0.143597
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10130.jpg
+impala, Aepyceros melampus 0.69608
+gazelle 0.289865
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10131.jpg
+ram, tup 0.390015
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.15201
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10132.jpg
+mongoose 0.207296
+bittern 0.0890875
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10133.jpg
+gazelle 0.59017
+impala, Aepyceros melampus 0.135457
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10134.jpg
+impala, Aepyceros melampus 0.679401
+gazelle 0.306377
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10135.jpg
+gazelle 0.594301
+impala, Aepyceros melampus 0.198858
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10136.jpg
+gazelle 0.73398
+impala, Aepyceros melampus 0.264339
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10137.jpg
+impala, Aepyceros melampus 0.653195
+gazelle 0.157592
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10138.jpg
+impala, Aepyceros melampus 0.798028
+gazelle 0.116942
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10139.jpg
+gazelle 0.525226
+impala, Aepyceros melampus 0.319356
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10140.jpg
+impala, Aepyceros melampus 0.428187
+gazelle 0.382332
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10141.jpg
+gazelle 0.779538
+impala, Aepyceros melampus 0.2081
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10142.jpg
+gazelle 0.271068
+hartebeest 0.246125
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10143.jpg
+hartebeest 0.814949
+impala, Aepyceros melampus 0.087544
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10144.jpg
+hartebeest 0.849983
+impala, Aepyceros melampus 0.0890474
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10145.jpg
+gazelle 0.987551
+impala, Aepyceros melampus 0.0122744
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10146.jpg
+gazelle 0.8015
+ibex, Capra ibex 0.172103
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10147.jpg
+hartebeest 0.450572
+impala, Aepyceros melampus 0.320352
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10148.jpg
+impala, Aepyceros melampus 0.776864
+gazelle 0.207551
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10149.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.307517
+coyote, prairie wolf, brush wolf, Canis latrans 0.258993
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10150.jpg
+impala, Aepyceros melampus 0.293048
+red fox, Vulpes vulpes 0.278204
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10151.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.390837
+dingo, warrigal, warragal, Canis dingo 0.213187
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10152.jpg
+impala, Aepyceros melampus 0.513268
+gazelle 0.295514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10153.jpg
+ibex, Capra ibex 0.741899
+wallaby, brush kangaroo 0.185442
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10154.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.569149
+ibex, Capra ibex 0.399467
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10155.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.205072
+ox 0.130503
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10156.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.352322
+dingo, warrigal, warragal, Canis dingo 0.139295
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10157.jpg
+wallaby, brush kangaroo 0.990241
+hare 0.0042702
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10158.jpg
+wallaby, brush kangaroo 0.395587
+llama 0.34665
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10159.jpg
+ibex, Capra ibex 0.784469
+hare 0.120308
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10160.jpg
+gazelle 0.374307
+hartebeest 0.364762
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10161.jpg
+impala, Aepyceros melampus 0.371119
+gazelle 0.325461
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10162.jpg
+dhole, Cuon alpinus 0.104156
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.099153
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10163.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.866894
+dingo, warrigal, warragal, Canis dingo 0.0401444
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10164.jpg
+wallaby, brush kangaroo 0.810968
+ibex, Capra ibex 0.0983631
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10165.jpg
+hartebeest 0.305362
+dhole, Cuon alpinus 0.215374
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10166.jpg
+ibex, Capra ibex 0.629155
+gazelle 0.18062
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10167.jpg
+hare 0.674874
+lynx, catamount 0.124482
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10168.jpg
+impala, Aepyceros melampus 0.734725
+gazelle 0.207684
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10169.jpg
+impala, Aepyceros melampus 0.275533
+gazelle 0.240194
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10170.jpg
+impala, Aepyceros melampus 0.529277
+gazelle 0.428955
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10171.jpg
+hare 0.824651
+ibex, Capra ibex 0.0815125
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10172.jpg
+gazelle 0.214366
+Saluki, gazelle hound 0.172819
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10173.jpg
+sorrel 0.169295
+redbone 0.0853576
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10174.jpg
+ibex, Capra ibex 0.41349
+wallaby, brush kangaroo 0.176554
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10175.jpg
+gazelle 0.51813
+llama 0.157316
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10176.jpg
+gazelle 0.730057
+impala, Aepyceros melampus 0.265337
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10177.jpg
+hare 0.387195
+impala, Aepyceros melampus 0.269093
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10178.jpg
+hare 0.175767
+gazelle 0.111992
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10179.jpg
+hartebeest 0.45672
+impala, Aepyceros melampus 0.28923
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10180.jpg
+gazelle 0.618791
+impala, Aepyceros melampus 0.152442
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10181.jpg
+wallaby, brush kangaroo 0.464699
+ibex, Capra ibex 0.245859
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10182.jpg
+hartebeest 0.499981
+impala, Aepyceros melampus 0.278112
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10183.jpg
+hartebeest 0.492022
+ibex, Capra ibex 0.29595
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10184.jpg
+gazelle 0.554804
+impala, Aepyceros melampus 0.290922
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10185.jpg
+impala, Aepyceros melampus 0.587636
+gazelle 0.410692
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10186.jpg
+vizsla, Hungarian pointer 0.418004
+dhole, Cuon alpinus 0.130759
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10187.jpg
+ibex, Capra ibex 0.887666
+hartebeest 0.0694921
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10188.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.334933
+lynx, catamount 0.267801
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10189.jpg
+ibex, Capra ibex 0.725753
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.16186
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10190.jpg
+ibex, Capra ibex 0.737873
+gazelle 0.0978706
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10191.jpg
+hartebeest 0.859022
+gazelle 0.0776407
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10192.jpg
+gazelle 0.827331
+impala, Aepyceros melampus 0.0730441
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10193.jpg
+impala, Aepyceros melampus 0.572346
+gazelle 0.190207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10194.jpg
+whippet 0.583349
+impala, Aepyceros melampus 0.349081
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10195.jpg
+dingo, warrigal, warragal, Canis dingo 0.456658
+impala, Aepyceros melampus 0.143571
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10196.jpg
+vulture 0.162705
+kite 0.12329
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10197.jpg
+impala, Aepyceros melampus 0.543228
+hartebeest 0.398983
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10198.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.917964
+ibex, Capra ibex 0.0405387
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10199.jpg
+impala, Aepyceros melampus 0.289452
+gazelle 0.274505
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10200.jpg
+gazelle 0.465469
+impala, Aepyceros melampus 0.255743
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10201.jpg
+ibex, Capra ibex 0.937669
+gazelle 0.0375244
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10202.jpg
+dingo, warrigal, warragal, Canis dingo 0.228562
+Irish terrier 0.208658
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10203.jpg
+gazelle 0.816251
+impala, Aepyceros melampus 0.10675
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10204.jpg
+wallaby, brush kangaroo 0.632498
+impala, Aepyceros melampus 0.196845
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10205.jpg
+wallaby, brush kangaroo 0.729607
+ibex, Capra ibex 0.0734773
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10206.jpg
+hare 0.723731
+wallaby, brush kangaroo 0.0778741
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10207.jpg
+impala, Aepyceros melampus 0.323121
+dingo, warrigal, warragal, Canis dingo 0.184755
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10208.jpg
+hartebeest 0.507217
+impala, Aepyceros melampus 0.380397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10209.jpg
+gazelle 0.686029
+impala, Aepyceros melampus 0.171059
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10210.jpg
+gazelle 0.665842
+impala, Aepyceros melampus 0.177808
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10211.jpg
+ibex, Capra ibex 0.771822
+wallaby, brush kangaroo 0.183092
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10212.jpg
+impala, Aepyceros melampus 0.657096
+gazelle 0.326795
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10213.jpg
+dhole, Cuon alpinus 0.512065
+vizsla, Hungarian pointer 0.208842
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10214.jpg
+ibex, Capra ibex 0.212992
+hare 0.172387
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10215.jpg
+ibex, Capra ibex 0.441804
+impala, Aepyceros melampus 0.157544
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10216.jpg
+gazelle 0.512103
+impala, Aepyceros melampus 0.475981
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10217.jpg
+impala, Aepyceros melampus 0.174562
+muzzle 0.0622299
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10218.jpg
+ibex, Capra ibex 0.325838
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.261691
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10219.jpg
+dingo, warrigal, warragal, Canis dingo 0.215552
+coyote, prairie wolf, brush wolf, Canis latrans 0.178861
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10220.jpg
+gazelle 0.855212
+impala, Aepyceros melampus 0.0585072
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10221.jpg
+Italian greyhound 0.442182
+llama 0.141279
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10222.jpg
+gazelle 0.675455
+impala, Aepyceros melampus 0.303172
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10223.jpg
+whippet 0.241784
+Saluki, gazelle hound 0.111839
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10224.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.376176
+red wolf, maned wolf, Canis rufus, Canis niger 0.358121
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10225.jpg
+gazelle 0.425512
+impala, Aepyceros melampus 0.23871
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10226.jpg
+ibex, Capra ibex 0.518043
+impala, Aepyceros melampus 0.241966
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10227.jpg
+ibex, Capra ibex 0.471324
+impala, Aepyceros melampus 0.229264
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10228.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.231004
+wallaby, brush kangaroo 0.122104
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10229.jpg
+dingo, warrigal, warragal, Canis dingo 0.225543
+red wolf, maned wolf, Canis rufus, Canis niger 0.0764039
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10230.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.934212
+hartebeest 0.0597281
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10231.jpg
+gazelle 0.296991
+white stork, Ciconia ciconia 0.279475
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10232.jpg
+hartebeest 0.996863
+impala, Aepyceros melampus 0.00188514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10233.jpg
+impala, Aepyceros melampus 0.604132
+hartebeest 0.249413
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10234.jpg
+impala, Aepyceros melampus 0.730864
+gazelle 0.260504
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10235.jpg
+hartebeest 0.371782
+impala, Aepyceros melampus 0.225662
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10236.jpg
+impala, Aepyceros melampus 0.614879
+gazelle 0.359255
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10237.jpg
+spider monkey, Ateles geoffroyi 0.226192
+squirrel monkey, Saimiri sciureus 0.135163
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10238.jpg
+gazelle 0.44531
+hartebeest 0.287214
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10239.jpg
+red fox, Vulpes vulpes 0.303755
+coyote, prairie wolf, brush wolf, Canis latrans 0.225652
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10240.jpg
+ibex, Capra ibex 0.797089
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.127793
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10241.jpg
+gazelle 0.493901
+impala, Aepyceros melampus 0.450732
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10242.jpg
+impala, Aepyceros melampus 0.651514
+gazelle 0.140523
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10243.jpg
+llama 0.206264
+Welsh springer spaniel 0.105346
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10244.jpg
+gazelle 0.541344
+impala, Aepyceros melampus 0.312392
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10245.jpg
+gazelle 0.375736
+crane 0.231029
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10246.jpg
+dingo, warrigal, warragal, Canis dingo 0.243827
+coyote, prairie wolf, brush wolf, Canis latrans 0.0850097
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10247.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.646211
+ram, tup 0.0789854
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10248.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.093478
+Rottweiler 0.0690005
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10249.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.21329
+hartebeest 0.212619
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10250.jpg
+hartebeest 0.770671
+ibex, Capra ibex 0.121217
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10251.jpg
+impala, Aepyceros melampus 0.44986
+hartebeest 0.271014
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10252.jpg
+gazelle 0.54985
+impala, Aepyceros melampus 0.444506
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10253.jpg
+gazelle 0.46145
+coyote, prairie wolf, brush wolf, Canis latrans 0.241476
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10254.jpg
+wallaby, brush kangaroo 0.309046
+coyote, prairie wolf, brush wolf, Canis latrans 0.23849
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10255.jpg
+impala, Aepyceros melampus 0.470164
+hartebeest 0.357474
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10256.jpg
+impala, Aepyceros melampus 0.185068
+red wolf, maned wolf, Canis rufus, Canis niger 0.171151
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10257.jpg
+ibex, Capra ibex 0.0609248
+ox 0.0553405
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10258.jpg
+impala, Aepyceros melampus 0.175882
+gazelle 0.144931
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10259.jpg
+ram, tup 0.363259
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.347928
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10260.jpg
+impala, Aepyceros melampus 0.454546
+Italian greyhound 0.11395
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10261.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.260116
+dingo, warrigal, warragal, Canis dingo 0.0834694
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10262.jpg
+impala, Aepyceros melampus 0.181595
+warthog 0.118523
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10263.jpg
+fox squirrel, eastern fox squirrel, Sciurus niger 0.114389
+birdhouse 0.0724778
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10264.jpg
+ram, tup 0.334551
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.166808
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10265.jpg
+gazelle 0.916531
+impala, Aepyceros melampus 0.0512217
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10266.jpg
+impala, Aepyceros melampus 0.871629
+gazelle 0.125013
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10267.jpg
+bloodhound, sleuthhound 0.167924
+wild boar, boar, Sus scrofa 0.151012
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10268.jpg
+impala, Aepyceros melampus 0.641954
+ibex, Capra ibex 0.21379
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10269.jpg
+ibex, Capra ibex 0.537168
+impala, Aepyceros melampus 0.158735
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10270.jpg
+gazelle 0.222711
+impala, Aepyceros melampus 0.202927
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10271.jpg
+impala, Aepyceros melampus 0.849317
+gazelle 0.109854
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10272.jpg
+impala, Aepyceros melampus 0.551383
+gazelle 0.386224
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10273.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.409069
+kit fox, Vulpes macrotis 0.19674
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10274.jpg
+wallaby, brush kangaroo 0.49338
+impala, Aepyceros melampus 0.210585
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10275.jpg
+ibex, Capra ibex 0.875105
+gazelle 0.0299341
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10276.jpg
+lion, king of beasts, Panthera leo 0.277746
+impala, Aepyceros melampus 0.160525
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10277.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.552208
+ram, tup 0.396798
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10278.jpg
+hare 0.972293
+ostrich, Struthio camelus 0.0098384
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10279.jpg
+ibex, Capra ibex 0.547881
+impala, Aepyceros melampus 0.365585
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10280.jpg
+impala, Aepyceros melampus 0.393817
+red wolf, maned wolf, Canis rufus, Canis niger 0.306288
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10281.jpg
+impala, Aepyceros melampus 0.581621
+gazelle 0.204926
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10282.jpg
+impala, Aepyceros melampus 0.783221
+gazelle 0.214219
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10283.jpg
+impala, Aepyceros melampus 0.797674
+hartebeest 0.0688296
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10284.jpg
+malinois 0.43044
+impala, Aepyceros melampus 0.354436
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10285.jpg
+impala, Aepyceros melampus 0.375486
+coyote, prairie wolf, brush wolf, Canis latrans 0.209465
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10286.jpg
+ibex, Capra ibex 0.660822
+ram, tup 0.159081
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10287.jpg
+gazelle 0.313395
+llama 0.196831
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10288.jpg
+triceratops 0.631392
+wood rabbit, cottontail, cottontail rabbit 0.0968645
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10289.jpg
+wallaby, brush kangaroo 0.699116
+red wolf, maned wolf, Canis rufus, Canis niger 0.159667
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10290.jpg
+ibex, Capra ibex 0.589845
+impala, Aepyceros melampus 0.356729
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10291.jpg
+impala, Aepyceros melampus 0.677813
+gazelle 0.225749
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10292.jpg
+ibex, Capra ibex 0.789878
+wallaby, brush kangaroo 0.0684599
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10293.jpg
+ibex, Capra ibex 0.937507
+gazelle 0.0290638
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10294.jpg
+ibex, Capra ibex 0.302292
+impala, Aepyceros melampus 0.235534
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10295.jpg
+hare 0.306982
+hartebeest 0.263507
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10296.jpg
+dhole, Cuon alpinus 0.3067
+red wolf, maned wolf, Canis rufus, Canis niger 0.217579
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10297.jpg
+gazelle 0.59267
+impala, Aepyceros melampus 0.307911
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10298.jpg
+bustard 0.267679
+bittern 0.153217
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10299.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.279956
+ibex, Capra ibex 0.220977
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10300.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.65927
+grey fox, gray fox, Urocyon cinereoargenteus 0.116225
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10301.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.465542
+impala, Aepyceros melampus 0.39201
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10302.jpg
+ibex, Capra ibex 0.308231
+impala, Aepyceros melampus 0.298736
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10303.jpg
+impala, Aepyceros melampus 0.587656
+gazelle 0.261389
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10304.jpg
+barrow, garden cart, lawn cart, wheelbarrow 0.824256
+red fox, Vulpes vulpes 0.0812059
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10305.jpg
+dhole, Cuon alpinus 0.645056
+dingo, warrigal, warragal, Canis dingo 0.158428
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10306.jpg
+ibex, Capra ibex 0.406417
+hartebeest 0.279474
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10307.jpg
+gazelle 0.608539
+impala, Aepyceros melampus 0.227858
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10308.jpg
+impala, Aepyceros melampus 0.520046
+ibex, Capra ibex 0.230043
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10309.jpg
+ibex, Capra ibex 0.438983
+impala, Aepyceros melampus 0.232817
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10310.jpg
+wallaby, brush kangaroo 0.643648
+ibex, Capra ibex 0.0977006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10311.jpg
+hartebeest 0.330497
+crane 0.267091
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10312.jpg
+impala, Aepyceros melampus 0.724586
+gazelle 0.11443
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10313.jpg
+kit fox, Vulpes macrotis 0.445116
+red wolf, maned wolf, Canis rufus, Canis niger 0.167065
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10314.jpg
+impala, Aepyceros melampus 0.112877
+Rhodesian ridgeback 0.0702054
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10315.jpg
+Chihuahua 0.120504
+llama 0.10785
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10316.jpg
+wallaby, brush kangaroo 0.364716
+ibex, Capra ibex 0.194843
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10317.jpg
+impala, Aepyceros melampus 0.703426
+gazelle 0.208367
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10318.jpg
+impala, Aepyceros melampus 0.340594
+Rhodesian ridgeback 0.165533
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10319.jpg
+Mexican hairless 0.132288
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.097216
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10320.jpg
+impala, Aepyceros melampus 0.592546
+gazelle 0.167742
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10321.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.884054
+dhole, Cuon alpinus 0.0202414
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10322.jpg
+gazelle 0.96216
+impala, Aepyceros melampus 0.026555
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10323.jpg
+gazelle 0.200927
+dingo, warrigal, warragal, Canis dingo 0.182799
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10324.jpg
+gazelle 0.706886
+crane 0.123147
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10325.jpg
+impala, Aepyceros melampus 0.419053
+hartebeest 0.235917
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10326.jpg
+hartebeest 0.817128
+impala, Aepyceros melampus 0.130034
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10327.jpg
+Ibizan hound, Ibizan Podenco 0.517052
+gazelle 0.103004
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10328.jpg
+impala, Aepyceros melampus 0.869464
+gazelle 0.0678841
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10329.jpg
+gazelle 0.90848
+impala, Aepyceros melampus 0.0884584
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10330.jpg
+dhole, Cuon alpinus 0.314815
+dingo, warrigal, warragal, Canis dingo 0.263673
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10331.jpg
+gazelle 0.584815
+impala, Aepyceros melampus 0.413591
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10332.jpg
+impala, Aepyceros melampus 0.917181
+gazelle 0.0492085
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10333.jpg
+wallaby, brush kangaroo 0.538786
+hare 0.389305
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10334.jpg
+dhole, Cuon alpinus 0.159114
+hare 0.117103
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10335.jpg
+ibex, Capra ibex 0.436914
+dhole, Cuon alpinus 0.180405
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10336.jpg
+ibex, Capra ibex 0.419703
+wallaby, brush kangaroo 0.299504
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10337.jpg
+hartebeest 0.705504
+gazelle 0.0671952
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10338.jpg
+ibex, Capra ibex 0.391822
+gazelle 0.221703
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10339.jpg
+impala, Aepyceros melampus 0.514928
+ibex, Capra ibex 0.259829
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10340.jpg
+redbone 0.349377
+Walker hound, Walker foxhound 0.105183
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10341.jpg
+hare 0.991417
+ibex, Capra ibex 0.00536911
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10342.jpg
+ibex, Capra ibex 0.59838
+wallaby, brush kangaroo 0.0982968
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10343.jpg
+ibex, Capra ibex 0.744671
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.23257
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10344.jpg
+ibex, Capra ibex 0.836535
+hare 0.082382
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10345.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.283425
+cheetah, chetah, Acinonyx jubatus 0.069585
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10346.jpg
+hartebeest 0.593878
+gazelle 0.208274
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10347.jpg
+hartebeest 0.927768
+impala, Aepyceros melampus 0.0538005
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10348.jpg
+gazelle 0.586415
+impala, Aepyceros melampus 0.314647
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10349.jpg
+gazelle 0.231545
+impala, Aepyceros melampus 0.210057
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10350.jpg
+wild boar, boar, Sus scrofa 0.188383
+dingo, warrigal, warragal, Canis dingo 0.155666
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10351.jpg
+ibex, Capra ibex 0.621535
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.144831
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10352.jpg
+impala, Aepyceros melampus 0.226839
+wallaby, brush kangaroo 0.166996
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10353.jpg
+barn 0.905513
+impala, Aepyceros melampus 0.0228981
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10354.jpg
+impala, Aepyceros melampus 0.330942
+gazelle 0.270327
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10355.jpg
+llama 0.525639
+gazelle 0.359833
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10356.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.801921
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0705337
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10357.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.18234
+gazelle 0.182026
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10358.jpg
+hartebeest 0.242287
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.198031
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10359.jpg
+impala, Aepyceros melampus 0.757439
+gazelle 0.227814
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10360.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.223547
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.175812
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10361.jpg
+impala, Aepyceros melampus 0.36297
+red wolf, maned wolf, Canis rufus, Canis niger 0.346243
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10362.jpg
+impala, Aepyceros melampus 0.533008
+gazelle 0.403392
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10363.jpg
+hartebeest 0.323568
+impala, Aepyceros melampus 0.226996
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10364.jpg
+impala, Aepyceros melampus 0.393409
+red wolf, maned wolf, Canis rufus, Canis niger 0.155913
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10365.jpg
+impala, Aepyceros melampus 0.597156
+hartebeest 0.299287
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10366.jpg
+ibex, Capra ibex 0.342304
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.136919
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10367.jpg
+ibex, Capra ibex 0.733102
+impala, Aepyceros melampus 0.132943
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10368.jpg
+impala, Aepyceros melampus 0.426147
+hartebeest 0.356567
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10369.jpg
+impala, Aepyceros melampus 0.790034
+gazelle 0.184878
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10370.jpg
+impala, Aepyceros melampus 0.955893
+gazelle 0.0388907
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10371.jpg
+impala, Aepyceros melampus 0.671637
+gazelle 0.266155
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10372.jpg
+hare 0.322134
+bustard 0.159133
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10373.jpg
+dingo, warrigal, warragal, Canis dingo 0.368378
+red fox, Vulpes vulpes 0.27943
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10374.jpg
+gazelle 0.308298
+flamingo 0.222546
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10375.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.653587
+red fox, Vulpes vulpes 0.212975
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10376.jpg
+hartebeest 0.874918
+impala, Aepyceros melampus 0.0852347
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10377.jpg
+gazelle 0.898971
+impala, Aepyceros melampus 0.0995941
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10378.jpg
+gazelle 0.434941
+impala, Aepyceros melampus 0.325488
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10379.jpg
+impala, Aepyceros melampus 0.375028
+gazelle 0.177202
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10380.jpg
+ibex, Capra ibex 0.269118
+impala, Aepyceros melampus 0.255164
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10381.jpg
+impala, Aepyceros melampus 0.585549
+gazelle 0.216831
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10382.jpg
+gazelle 0.756122
+ostrich, Struthio camelus 0.0679579
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10383.jpg
+ibex, Capra ibex 0.168264
+coyote, prairie wolf, brush wolf, Canis latrans 0.167683
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10384.jpg
+dhole, Cuon alpinus 0.421248
+impala, Aepyceros melampus 0.12096
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10385.jpg
+impala, Aepyceros melampus 0.793248
+gazelle 0.190115
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10386.jpg
+impala, Aepyceros melampus 0.740303
+hartebeest 0.169377
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10387.jpg
+impala, Aepyceros melampus 0.704525
+gazelle 0.272272
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10388.jpg
+ibex, Capra ibex 0.716605
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0770234
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10389.jpg
+hartebeest 0.442737
+gazelle 0.165033
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10390.jpg
+hartebeest 0.677416
+gazelle 0.129237
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10391.jpg
+dhole, Cuon alpinus 0.133688
+soft-coated wheaten terrier 0.1141
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10392.jpg
+ibex, Capra ibex 0.377919
+wallaby, brush kangaroo 0.189464
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10393.jpg
+red fox, Vulpes vulpes 0.283226
+dhole, Cuon alpinus 0.1514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10394.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.401995
+red fox, Vulpes vulpes 0.157652
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10395.jpg
+impala, Aepyceros melampus 0.376435
+coyote, prairie wolf, brush wolf, Canis latrans 0.146098
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10396.jpg
+ibex, Capra ibex 0.392228
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0926489
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10397.jpg
+impala, Aepyceros melampus 0.895057
+gazelle 0.0860134
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10398.jpg
+impala, Aepyceros melampus 0.479309
+gazelle 0.18529
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10399.jpg
+ibex, Capra ibex 0.628914
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.156515
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10400.jpg
+dingo, warrigal, warragal, Canis dingo 0.230144
+impala, Aepyceros melampus 0.11355
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10401.jpg
+impala, Aepyceros melampus 0.647644
+gazelle 0.259147
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10402.jpg
+vizsla, Hungarian pointer 0.339746
+dhole, Cuon alpinus 0.254086
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10403.jpg
+wallaby, brush kangaroo 0.431815
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.202804
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10404.jpg
+gazelle 0.861883
+impala, Aepyceros melampus 0.0475848
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10405.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.486816
+Italian greyhound 0.211505
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10406.jpg
+ibex, Capra ibex 0.517416
+impala, Aepyceros melampus 0.244817
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10407.jpg
+llama 0.49426
+impala, Aepyceros melampus 0.189493
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10408.jpg
+impala, Aepyceros melampus 0.505581
+gazelle 0.109035
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10409.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.846434
+dingo, warrigal, warragal, Canis dingo 0.0601466
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10410.jpg
+ibex, Capra ibex 0.801798
+hartebeest 0.0867896
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10411.jpg
+impala, Aepyceros melampus 0.800222
+hartebeest 0.17871
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10412.jpg
+wallaby, brush kangaroo 0.904052
+hyena, hyaena 0.0331
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10413.jpg
+red fox, Vulpes vulpes 0.551309
+kit fox, Vulpes macrotis 0.303782
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10414.jpg
+ostrich, Struthio camelus 0.454273
+bustard 0.132851
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10415.jpg
+ibex, Capra ibex 0.545775
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.25125
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10416.jpg
+gazelle 0.746029
+impala, Aepyceros melampus 0.231098
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10417.jpg
+impala, Aepyceros melampus 0.443586
+hare 0.302433
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10418.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.219372
+wallaby, brush kangaroo 0.102657
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10419.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.411203
+red wolf, maned wolf, Canis rufus, Canis niger 0.170782
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10420.jpg
+ibex, Capra ibex 0.290409
+ram, tup 0.136021
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10421.jpg
+impala, Aepyceros melampus 0.505805
+gazelle 0.49399
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10422.jpg
+gazelle 0.23639
+ostrich, Struthio camelus 0.0920377
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10423.jpg
+gazelle 0.601053
+impala, Aepyceros melampus 0.34722
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10424.jpg
+impala, Aepyceros melampus 0.328456
+red wolf, maned wolf, Canis rufus, Canis niger 0.240559
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10425.jpg
+impala, Aepyceros melampus 0.925761
+gazelle 0.0730432
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10426.jpg
+hare 0.805422
+coyote, prairie wolf, brush wolf, Canis latrans 0.131363
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10427.jpg
+hartebeest 0.759039
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0876791
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10428.jpg
+gazelle 0.35907
+impala, Aepyceros melampus 0.339767
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10429.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.455439
+red wolf, maned wolf, Canis rufus, Canis niger 0.289867
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10430.jpg
+ibex, Capra ibex 0.761537
+ox 0.0550293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10431.jpg
+dhole, Cuon alpinus 0.342327
+red wolf, maned wolf, Canis rufus, Canis niger 0.130755
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10432.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.365766
+ibex, Capra ibex 0.339079
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10433.jpg
+gazelle 0.619883
+impala, Aepyceros melampus 0.283466
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10434.jpg
+gazelle 0.540187
+impala, Aepyceros melampus 0.352572
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10435.jpg
+llama 0.520518
+dhole, Cuon alpinus 0.15532
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10436.jpg
+gazelle 0.260981
+impala, Aepyceros melampus 0.146795
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10437.jpg
+impala, Aepyceros melampus 0.765976
+gazelle 0.217082
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10438.jpg
+gazelle 0.455323
+impala, Aepyceros melampus 0.256473
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10439.jpg
+impala, Aepyceros melampus 0.790734
+gazelle 0.0558977
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10440.jpg
+impala, Aepyceros melampus 0.499438
+hartebeest 0.39305
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10441.jpg
+gazelle 0.184749
+ram, tup 0.104962
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10442.jpg
+impala, Aepyceros melampus 0.439551
+gazelle 0.218202
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10443.jpg
+impala, Aepyceros melampus 0.757183
+gazelle 0.159535
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10444.jpg
+hartebeest 0.596755
+impala, Aepyceros melampus 0.152094
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10445.jpg
+impala, Aepyceros melampus 0.741371
+hartebeest 0.172345
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10446.jpg
+hartebeest 0.515427
+impala, Aepyceros melampus 0.23255
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10447.jpg
+llama 0.748116
+gazelle 0.201823
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10448.jpg
+lynx, catamount 0.32217
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.281162
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10449.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.391597
+dhole, Cuon alpinus 0.291097
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10450.jpg
+gazelle 0.343103
+llama 0.306259
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10451.jpg
+gazelle 0.417304
+impala, Aepyceros melampus 0.260879
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10452.jpg
+impala, Aepyceros melampus 0.374802
+gazelle 0.314766
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10453.jpg
+ibex, Capra ibex 0.965874
+coyote, prairie wolf, brush wolf, Canis latrans 0.0123847
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10454.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.818774
+hartebeest 0.0695467
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10455.jpg
+dhole, Cuon alpinus 0.932859
+impala, Aepyceros melampus 0.0187899
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10456.jpg
+hartebeest 0.985919
+impala, Aepyceros melampus 0.0098854
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10457.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.715284
+dingo, warrigal, warragal, Canis dingo 0.0412608
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10458.jpg
+hartebeest 0.315946
+impala, Aepyceros melampus 0.216619
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10459.jpg
+ibex, Capra ibex 0.672936
+wallaby, brush kangaroo 0.14463
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10460.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.578068
+ox 0.0888538
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10461.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.686911
+impala, Aepyceros melampus 0.172542
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10462.jpg
+impala, Aepyceros melampus 0.430717
+gazelle 0.183557
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10463.jpg
+gazelle 0.455876
+hartebeest 0.257717
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10464.jpg
+hartebeest 0.971787
+gazelle 0.0124415
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10465.jpg
+gazelle 0.271473
+llama 0.181715
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10466.jpg
+wallaby, brush kangaroo 0.163146
+gazelle 0.14013
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10467.jpg
+wallaby, brush kangaroo 0.246355
+red fox, Vulpes vulpes 0.10287
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10468.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.619045
+impala, Aepyceros melampus 0.0652446
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10469.jpg
+impala, Aepyceros melampus 0.317259
+gazelle 0.297107
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10470.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.109691
+coyote, prairie wolf, brush wolf, Canis latrans 0.10854
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10471.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.576001
+lynx, catamount 0.149042
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10472.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.793331
+ibex, Capra ibex 0.0887265
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10473.jpg
+gazelle 0.381819
+dhole, Cuon alpinus 0.212206
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10474.jpg
+impala, Aepyceros melampus 0.658948
+gazelle 0.323183
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10475.jpg
+impala, Aepyceros melampus 0.542779
+gazelle 0.304959
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10476.jpg
+gazelle 0.745027
+impala, Aepyceros melampus 0.236024
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10477.jpg
+gazelle 0.623464
+wallaby, brush kangaroo 0.186295
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10478.jpg
+dhole, Cuon alpinus 0.25528
+impala, Aepyceros melampus 0.242525
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10479.jpg
+gazelle 0.52953
+impala, Aepyceros melampus 0.456872
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10480.jpg
+dhole, Cuon alpinus 0.360595
+red fox, Vulpes vulpes 0.2094
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10481.jpg
+gazelle 0.564654
+impala, Aepyceros melampus 0.395514
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10482.jpg
+gazelle 0.571791
+impala, Aepyceros melampus 0.388139
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10483.jpg
+impala, Aepyceros melampus 0.501208
+Italian greyhound 0.244233
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10484.jpg
+hartebeest 0.632947
+impala, Aepyceros melampus 0.137971
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10485.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.13933
+dingo, warrigal, warragal, Canis dingo 0.138665
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10486.jpg
+impala, Aepyceros melampus 0.478015
+hartebeest 0.41799
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10487.jpg
+impala, Aepyceros melampus 0.395775
+Ibizan hound, Ibizan Podenco 0.186076
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10488.jpg
+hare 0.652437
+coyote, prairie wolf, brush wolf, Canis latrans 0.144453
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10489.jpg
+gazelle 0.801864
+impala, Aepyceros melampus 0.188843
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10490.jpg
+impala, Aepyceros melampus 0.85591
+hartebeest 0.0954736
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10491.jpg
+impala, Aepyceros melampus 0.521909
+gazelle 0.470868
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10492.jpg
+llama 0.547818
+ox 0.117096
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10493.jpg
+hare 0.650733
+wallaby, brush kangaroo 0.264236
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10494.jpg
+impala, Aepyceros melampus 0.36699
+wallaby, brush kangaroo 0.360715
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10495.jpg
+wallaby, brush kangaroo 0.827673
+ibex, Capra ibex 0.141399
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10496.jpg
+ibex, Capra ibex 0.652627
+hyena, hyaena 0.0811581
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10497.jpg
+wallaby, brush kangaroo 0.876724
+gazelle 0.0801661
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10498.jpg
+dingo, warrigal, warragal, Canis dingo 0.269872
+coyote, prairie wolf, brush wolf, Canis latrans 0.196802
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10499.jpg
+gazelle 0.84777
+impala, Aepyceros melampus 0.137246
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10500.jpg
+hartebeest 0.487994
+gazelle 0.19312
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10501.jpg
+ibex, Capra ibex 0.382025
+gazelle 0.210354
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10502.jpg
+ibex, Capra ibex 0.973196
+hare 0.0175293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10503.jpg
+red fox, Vulpes vulpes 0.585737
+red wolf, maned wolf, Canis rufus, Canis niger 0.238203
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10504.jpg
+impala, Aepyceros melampus 0.570616
+gazelle 0.216274
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10505.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.741651
+coyote, prairie wolf, brush wolf, Canis latrans 0.0883875
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10506.jpg
+hartebeest 0.753402
+impala, Aepyceros melampus 0.182959
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10507.jpg
+impala, Aepyceros melampus 0.49953
+dingo, warrigal, warragal, Canis dingo 0.15484
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10508.jpg
+impala, Aepyceros melampus 0.590617
+dingo, warrigal, warragal, Canis dingo 0.225363
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10509.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.820347
+impala, Aepyceros melampus 0.0759908
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10510.jpg
+wallaby, brush kangaroo 0.265138
+hare 0.2485
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10511.jpg
+dingo, warrigal, warragal, Canis dingo 0.258247
+malinois 0.090381
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10512.jpg
+wallaby, brush kangaroo 0.224251
+red fox, Vulpes vulpes 0.174385
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10513.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.306526
+bison 0.141987
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10514.jpg
+impala, Aepyceros melampus 0.510562
+gazelle 0.318943
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10515.jpg
+llama 0.333272
+kelpie 0.204327
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10516.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.220699
+impala, Aepyceros melampus 0.10983
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10517.jpg
+impala, Aepyceros melampus 0.695878
+hartebeest 0.2136
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10518.jpg
+gazelle 0.781434
+impala, Aepyceros melampus 0.208057
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10519.jpg
+gazelle 0.627995
+impala, Aepyceros melampus 0.318608
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10520.jpg
+German short-haired pointer 0.195332
+English foxhound 0.118139
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10521.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.598146
+ram, tup 0.205054
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10522.jpg
+red fox, Vulpes vulpes 0.238393
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.177968
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10523.jpg
+Madagascar cat, ring-tailed lemur, Lemur catta 0.188244
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.182052
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10524.jpg
+ibex, Capra ibex 0.417139
+impala, Aepyceros melampus 0.260713
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10525.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.433394
+wallaby, brush kangaroo 0.233591
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10526.jpg
+dingo, warrigal, warragal, Canis dingo 0.634445
+red fox, Vulpes vulpes 0.106592
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10527.jpg
+gazelle 0.983947
+impala, Aepyceros melampus 0.0107824
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10528.jpg
+impala, Aepyceros melampus 0.74974
+gazelle 0.212058
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10529.jpg
+gazelle 0.843304
+impala, Aepyceros melampus 0.115368
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10530.jpg
+dhole, Cuon alpinus 0.291238
+dingo, warrigal, warragal, Canis dingo 0.18535
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10531.jpg
+impala, Aepyceros melampus 0.305124
+red wolf, maned wolf, Canis rufus, Canis niger 0.263163
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10532.jpg
+gazelle 0.385335
+hartebeest 0.38374
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10533.jpg
+Rhodesian ridgeback 0.389037
+vizsla, Hungarian pointer 0.325322
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10534.jpg
+gazelle 0.472648
+impala, Aepyceros melampus 0.364981
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10535.jpg
+impala, Aepyceros melampus 0.337982
+gazelle 0.319048
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10536.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.489695
+hare 0.134941
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10537.jpg
+impala, Aepyceros melampus 0.932555
+gazelle 0.0673996
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10538.jpg
+sorrel 0.382632
+Ibizan hound, Ibizan Podenco 0.158149
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10539.jpg
+gazelle 0.504171
+bustard 0.101491
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10540.jpg
+impala, Aepyceros melampus 0.799144
+gazelle 0.13406
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10541.jpg
+impala, Aepyceros melampus 0.690127
+gazelle 0.309296
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10542.jpg
+hartebeest 0.583571
+gazelle 0.246677
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10543.jpg
+impala, Aepyceros melampus 0.40956
+dhole, Cuon alpinus 0.237061
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10544.jpg
+impala, Aepyceros melampus 0.387461
+ibex, Capra ibex 0.28682
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10545.jpg
+gazelle 0.440737
+impala, Aepyceros melampus 0.223445
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10546.jpg
+wallaby, brush kangaroo 0.216654
+kit fox, Vulpes macrotis 0.189111
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10547.jpg
+Ibizan hound, Ibizan Podenco 0.452373
+ram, tup 0.173687
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10548.jpg
+wallaby, brush kangaroo 0.822848
+ibex, Capra ibex 0.0869914
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10549.jpg
+impala, Aepyceros melampus 0.621027
+gazelle 0.231346
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10550.jpg
+Italian greyhound 0.496481
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.113665
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10551.jpg
+ibex, Capra ibex 0.294047
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.282014
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10552.jpg
+hartebeest 0.286033
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.240145
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10553.jpg
+Italian greyhound 0.503088
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.127213
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10554.jpg
+limpkin, Aramus pictus 0.412859
+impala, Aepyceros melampus 0.0831692
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10555.jpg
+impala, Aepyceros melampus 0.785886
+gazelle 0.177154
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10556.jpg
+dingo, warrigal, warragal, Canis dingo 0.699983
+malinois 0.0840048
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10557.jpg
+dhole, Cuon alpinus 0.205573
+dingo, warrigal, warragal, Canis dingo 0.160946
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10558.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.237777
+coyote, prairie wolf, brush wolf, Canis latrans 0.156828
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10559.jpg
+wallaby, brush kangaroo 0.468034
+gazelle 0.145839
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10560.jpg
+impala, Aepyceros melampus 0.952228
+gazelle 0.0461097
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10561.jpg
+wallaby, brush kangaroo 0.509432
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.201512
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10562.jpg
+ibex, Capra ibex 0.134442
+red wolf, maned wolf, Canis rufus, Canis niger 0.124754
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10563.jpg
+impala, Aepyceros melampus 0.594325
+gazelle 0.292775
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10564.jpg
+dhole, Cuon alpinus 0.948713
+red fox, Vulpes vulpes 0.0285631
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10565.jpg
+wallaby, brush kangaroo 0.408017
+ibex, Capra ibex 0.299536
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10566.jpg
+impala, Aepyceros melampus 0.251142
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.241889
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10567.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.486365
+ibex, Capra ibex 0.186856
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10568.jpg
+impala, Aepyceros melampus 0.486493
+gazelle 0.45716
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10569.jpg
+Ibizan hound, Ibizan Podenco 0.200975
+triceratops 0.14927
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10570.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.646557
+ram, tup 0.1725
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10571.jpg
+dingo, warrigal, warragal, Canis dingo 0.394063
+coyote, prairie wolf, brush wolf, Canis latrans 0.1421
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10572.jpg
+dingo, warrigal, warragal, Canis dingo 0.759308
+Ibizan hound, Ibizan Podenco 0.0619103
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10573.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.241151
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0990167
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10574.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.451555
+hyena, hyaena 0.225971
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10575.jpg
+gazelle 0.393299
+red wolf, maned wolf, Canis rufus, Canis niger 0.286191
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10576.jpg
+dhole, Cuon alpinus 0.895571
+red fox, Vulpes vulpes 0.0605052
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10577.jpg
+hartebeest 0.447712
+impala, Aepyceros melampus 0.324267
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10578.jpg
+gazelle 0.595722
+impala, Aepyceros melampus 0.145848
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10579.jpg
+impala, Aepyceros melampus 0.634993
+gazelle 0.16594
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10580.jpg
+hartebeest 0.231207
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.173857
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10581.jpg
+hare 0.487872
+red fox, Vulpes vulpes 0.144665
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10582.jpg
+ibex, Capra ibex 0.426732
+gazelle 0.420368
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10583.jpg
+impala, Aepyceros melampus 0.425711
+gazelle 0.266506
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10584.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.305457
+gazelle 0.190214
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10585.jpg
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.106672
+grey fox, gray fox, Urocyon cinereoargenteus 0.0748972
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10586.jpg
+impala, Aepyceros melampus 0.805526
+gazelle 0.117684
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10587.jpg
+ibex, Capra ibex 0.443626
+impala, Aepyceros melampus 0.158188
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10588.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.782657
+impala, Aepyceros melampus 0.104433
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10589.jpg
+impala, Aepyceros melampus 0.770608
+hartebeest 0.131611
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10590.jpg
+patas, hussar monkey, Erythrocebus patas 0.278468
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.171056
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10591.jpg
+crane 0.964009
+bustard 0.0123707
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10592.jpg
+impala, Aepyceros melampus 0.586933
+gazelle 0.151196
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10593.jpg
+gazelle 0.968462
+impala, Aepyceros melampus 0.0274031
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10594.jpg
+oxcart 0.215725
+red wolf, maned wolf, Canis rufus, Canis niger 0.129974
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10595.jpg
+hartebeest 0.614444
+tusker 0.223192
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10596.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.409938
+dingo, warrigal, warragal, Canis dingo 0.0800945
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10597.jpg
+gazelle 0.40905
+impala, Aepyceros melampus 0.325031
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10598.jpg
+ibex, Capra ibex 0.808057
+ram, tup 0.0487994
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10599.jpg
+impala, Aepyceros melampus 0.206035
+ibex, Capra ibex 0.137805
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10600.jpg
+impala, Aepyceros melampus 0.844004
+gazelle 0.0764777
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10601.jpg
+ibex, Capra ibex 0.430509
+wallaby, brush kangaroo 0.259006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10602.jpg
+ibex, Capra ibex 0.450304
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.246084
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10603.jpg
+impala, Aepyceros melampus 0.795714
+gazelle 0.143277
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10604.jpg
+impala, Aepyceros melampus 0.348679
+ibex, Capra ibex 0.236294
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10605.jpg
+whippet 0.325841
+Saluki, gazelle hound 0.251782
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10606.jpg
+llama 0.636081
+impala, Aepyceros melampus 0.12615
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10607.jpg
+dhole, Cuon alpinus 0.504355
+hartebeest 0.418087
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10608.jpg
+ibex, Capra ibex 0.859876
+Irish terrier 0.0262009
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10609.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.20211
+red fox, Vulpes vulpes 0.168446
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10610.jpg
+gazelle 0.802763
+impala, Aepyceros melampus 0.140122
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10611.jpg
+impala, Aepyceros melampus 0.510263
+plow, plough 0.170673
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10612.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.163412
+impala, Aepyceros melampus 0.0875684
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10613.jpg
+ibex, Capra ibex 0.453288
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.434055
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10614.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.735072
+red fox, Vulpes vulpes 0.0527929
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10615.jpg
+impala, Aepyceros melampus 0.66432
+dhole, Cuon alpinus 0.119187
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10616.jpg
+impala, Aepyceros melampus 0.712984
+gazelle 0.251426
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10617.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.262356
+bustard 0.186398
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10618.jpg
+impala, Aepyceros melampus 0.727807
+gazelle 0.266911
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10619.jpg
+drake 0.454314
+mountain bike, all-terrain bike, off-roader 0.271449
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10620.jpg
+hartebeest 0.433386
+sorrel 0.199058
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10621.jpg
+impala, Aepyceros melampus 0.935261
+gazelle 0.0610596
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10622.jpg
+warthog 0.361541
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.143005
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10623.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.496574
+Arabian camel, dromedary, Camelus dromedarius 0.232491
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10624.jpg
+hare 0.361803
+dhole, Cuon alpinus 0.181901
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10625.jpg
+gazelle 0.582668
+impala, Aepyceros melampus 0.416555
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10626.jpg
+wallaby, brush kangaroo 0.430494
+gazelle 0.397889
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10627.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.318562
+dhole, Cuon alpinus 0.157528
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10628.jpg
+impala, Aepyceros melampus 0.336774
+red wolf, maned wolf, Canis rufus, Canis niger 0.264872
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10629.jpg
+impala, Aepyceros melampus 0.871459
+gazelle 0.0847496
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10630.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.520253
+ibex, Capra ibex 0.2688
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10631.jpg
+whippet 0.602612
+cheetah, chetah, Acinonyx jubatus 0.0976684
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10632.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.307679
+ibex, Capra ibex 0.298539
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10633.jpg
+gazelle 0.98077
+impala, Aepyceros melampus 0.0132047
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10634.jpg
+ibex, Capra ibex 0.66933
+gazelle 0.108775
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10635.jpg
+impala, Aepyceros melampus 0.338191
+gazelle 0.330963
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10636.jpg
+hartebeest 0.582871
+impala, Aepyceros melampus 0.391968
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10637.jpg
+impala, Aepyceros melampus 0.641437
+gazelle 0.176803
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10638.jpg
+impala, Aepyceros melampus 0.367034
+gazelle 0.316571
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10639.jpg
+hartebeest 0.434455
+impala, Aepyceros melampus 0.3968
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10640.jpg
+mongoose 0.871303
+red fox, Vulpes vulpes 0.0455829
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10641.jpg
+warthog 0.27507
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.208029
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10642.jpg
+ibex, Capra ibex 0.423247
+impala, Aepyceros melampus 0.32889
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10643.jpg
+hartebeest 0.817853
+impala, Aepyceros melampus 0.0989798
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10644.jpg
+centipede 0.36696
+common newt, Triturus vulgaris 0.0829419
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10645.jpg
+ibex, Capra ibex 0.993877
+hartebeest 0.00449143
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10646.jpg
+vizsla, Hungarian pointer 0.353347
+Rhodesian ridgeback 0.166204
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10647.jpg
+wallaby, brush kangaroo 0.368255
+dingo, warrigal, warragal, Canis dingo 0.230424
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10648.jpg
+llama 0.42655
+gazelle 0.319884
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10649.jpg
+impala, Aepyceros melampus 0.516796
+Italian greyhound 0.144982
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10650.jpg
+gazelle 0.408653
+ibex, Capra ibex 0.181085
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10651.jpg
+impala, Aepyceros melampus 0.712329
+gazelle 0.143714
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10652.jpg
+gazelle 0.415036
+cheetah, chetah, Acinonyx jubatus 0.401781
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10653.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.414503
+lynx, catamount 0.18386
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10654.jpg
+impala, Aepyceros melampus 0.722093
+gazelle 0.149897
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10655.jpg
+gazelle 0.312824
+impala, Aepyceros melampus 0.277897
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10656.jpg
+gazelle 0.473387
+impala, Aepyceros melampus 0.210667
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10657.jpg
+dhole, Cuon alpinus 0.248899
+red fox, Vulpes vulpes 0.166475
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10658.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.864297
+dhole, Cuon alpinus 0.0268304
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10659.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.539733
+gazelle 0.204416
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10660.jpg
+gazelle 0.851765
+impala, Aepyceros melampus 0.0520579
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10661.jpg
+impala, Aepyceros melampus 0.384283
+gazelle 0.249848
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10662.jpg
+ibex, Capra ibex 0.795334
+wallaby, brush kangaroo 0.0886021
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10663.jpg
+malinois 0.32074
+Saluki, gazelle hound 0.274657
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10664.jpg
+gazelle 0.755978
+impala, Aepyceros melampus 0.0885386
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10665.jpg
+gazelle 0.531511
+impala, Aepyceros melampus 0.43984
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10666.jpg
+impala, Aepyceros melampus 0.485748
+gazelle 0.331933
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10667.jpg
+impala, Aepyceros melampus 0.3831
+hartebeest 0.315516
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10668.jpg
+dhole, Cuon alpinus 0.30201
+impala, Aepyceros melampus 0.299255
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10669.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.217761
+Ibizan hound, Ibizan Podenco 0.201743
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10670.jpg
+impala, Aepyceros melampus 0.397757
+ibex, Capra ibex 0.188942
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10671.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.418383
+llama 0.351999
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10672.jpg
+gazelle 0.439628
+impala, Aepyceros melampus 0.29582
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10673.jpg
+partridge 0.324334
+hare 0.184395
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10674.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.672383
+kit fox, Vulpes macrotis 0.145432
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10675.jpg
+impala, Aepyceros melampus 0.515719
+gazelle 0.396793
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10676.jpg
+dhole, Cuon alpinus 0.858101
+red wolf, maned wolf, Canis rufus, Canis niger 0.0618342
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10677.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.29598
+dingo, warrigal, warragal, Canis dingo 0.13614
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10678.jpg
+ibex, Capra ibex 0.312152
+gazelle 0.271583
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10679.jpg
+impala, Aepyceros melampus 0.864871
+dingo, warrigal, warragal, Canis dingo 0.0731758
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10680.jpg
+ibex, Capra ibex 0.70862
+gazelle 0.122173
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10681.jpg
+Italian greyhound 0.307159
+ibex, Capra ibex 0.172787
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10682.jpg
+impala, Aepyceros melampus 0.594284
+gazelle 0.170455
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10683.jpg
+hartebeest 0.737723
+impala, Aepyceros melampus 0.21535
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10684.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.910594
+red wolf, maned wolf, Canis rufus, Canis niger 0.0443717
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10685.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.398253
+llama 0.220245
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10686.jpg
+ibex, Capra ibex 0.350259
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.247889
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10687.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.383725
+llama 0.312469
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10688.jpg
+malinois 0.293676
+red wolf, maned wolf, Canis rufus, Canis niger 0.204281
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10689.jpg
+hare 0.175561
+grey fox, gray fox, Urocyon cinereoargenteus 0.153375
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10690.jpg
+dingo, warrigal, warragal, Canis dingo 0.379411
+dhole, Cuon alpinus 0.250706
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10691.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.415123
+impala, Aepyceros melampus 0.182709
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10692.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.83013
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0323815
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10693.jpg
+gazelle 0.206994
+lynx, catamount 0.189383
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10694.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.487387
+coyote, prairie wolf, brush wolf, Canis latrans 0.315907
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10695.jpg
+dhole, Cuon alpinus 0.563325
+red wolf, maned wolf, Canis rufus, Canis niger 0.24231
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10696.jpg
+impala, Aepyceros melampus 0.869492
+gazelle 0.126685
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10697.jpg
+impala, Aepyceros melampus 0.688804
+gazelle 0.195927
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10698.jpg
+wallaby, brush kangaroo 0.203298
+gazelle 0.133431
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10699.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.213821
+Saluki, gazelle hound 0.119863
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10700.jpg
+impala, Aepyceros melampus 0.472182
+hartebeest 0.204511
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10701.jpg
+wallaby, brush kangaroo 0.166207
+hyena, hyaena 0.148993
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10702.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.399894
+dhole, Cuon alpinus 0.123518
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10703.jpg
+dhole, Cuon alpinus 0.907682
+red wolf, maned wolf, Canis rufus, Canis niger 0.0191151
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10704.jpg
+ibex, Capra ibex 0.464828
+basenji 0.193679
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10705.jpg
+red fox, Vulpes vulpes 0.495442
+red wolf, maned wolf, Canis rufus, Canis niger 0.336254
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10706.jpg
+wild boar, boar, Sus scrofa 0.225897
+hog, pig, grunter, squealer, Sus scrofa 0.146078
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10707.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.576124
+hartebeest 0.152555
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10708.jpg
+llama 0.948978
+borzoi, Russian wolfhound 0.010647
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10709.jpg
+rocking chair, rocker 0.260014
+shopping cart 0.126782
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10710.jpg
+hare 0.371643
+impala, Aepyceros melampus 0.28807
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10711.jpg
+wild boar, boar, Sus scrofa 0.390218
+warthog 0.302619
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10712.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.953628
+grey fox, gray fox, Urocyon cinereoargenteus 0.0374173
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10713.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.139127
+dingo, warrigal, warragal, Canis dingo 0.109394
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10714.jpg
+llama 0.258486
+gazelle 0.253906
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10715.jpg
+hartebeest 0.496724
+impala, Aepyceros melampus 0.17844
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10716.jpg
+warthog 0.443111
+grey fox, gray fox, Urocyon cinereoargenteus 0.175828
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10717.jpg
+hartebeest 0.448743
+impala, Aepyceros melampus 0.345553
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10718.jpg
+warthog 0.543707
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.127119
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10719.jpg
+impala, Aepyceros melampus 0.356121
+gazelle 0.247997
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10720.jpg
+ibex, Capra ibex 0.880563
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0676041
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10721.jpg
+impala, Aepyceros melampus 0.85107
+gazelle 0.0488925
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10722.jpg
+dhole, Cuon alpinus 0.260117
+grey fox, gray fox, Urocyon cinereoargenteus 0.0651544
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10723.jpg
+impala, Aepyceros melampus 0.63648
+coyote, prairie wolf, brush wolf, Canis latrans 0.0950845
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10724.jpg
+impala, Aepyceros melampus 0.394185
+hartebeest 0.311143
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10725.jpg
+ibex, Capra ibex 0.89957
+gazelle 0.0445428
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10726.jpg
+sorrel 0.351257
+Ibizan hound, Ibizan Podenco 0.17731
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10727.jpg
+hartebeest 0.479149
+impala, Aepyceros melampus 0.179177
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10728.jpg
+impala, Aepyceros melampus 0.58849
+gazelle 0.377944
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10729.jpg
+llama 0.756877
+ram, tup 0.0376927
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10730.jpg
+hartebeest 0.797285
+impala, Aepyceros melampus 0.116245
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10731.jpg
+gazelle 0.563921
+impala, Aepyceros melampus 0.419272
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10732.jpg
+Weimaraner 0.14225
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.121352
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10733.jpg
+impala, Aepyceros melampus 0.456085
+red fox, Vulpes vulpes 0.229848
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10734.jpg
+ibex, Capra ibex 0.722854
+impala, Aepyceros melampus 0.207193
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10735.jpg
+dhole, Cuon alpinus 0.42004
+ibex, Capra ibex 0.125572
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10736.jpg
+hartebeest 0.813409
+impala, Aepyceros melampus 0.114378
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10737.jpg
+gazelle 0.743171
+llama 0.133399
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10738.jpg
+malinois 0.673023
+Rhodesian ridgeback 0.0527864
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10739.jpg
+impala, Aepyceros melampus 0.940338
+hartebeest 0.0435662
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10740.jpg
+impala, Aepyceros melampus 0.948345
+hartebeest 0.0264791
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10741.jpg
+impala, Aepyceros melampus 0.726531
+wallaby, brush kangaroo 0.154994
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10742.jpg
+Irish terrier 0.688783
+Ibizan hound, Ibizan Podenco 0.065278
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10743.jpg
+dhole, Cuon alpinus 0.322242
+gazelle 0.200505
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10744.jpg
+gazelle 0.578119
+impala, Aepyceros melampus 0.410012
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10745.jpg
+Italian greyhound 0.890631
+impala, Aepyceros melampus 0.0683933
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10746.jpg
+malinois 0.432311
+Rhodesian ridgeback 0.29113
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10747.jpg
+dhole, Cuon alpinus 0.94945
+impala, Aepyceros melampus 0.0121734
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10748.jpg
+dhole, Cuon alpinus 0.261505
+warthog 0.120608
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10749.jpg
+impala, Aepyceros melampus 0.441832
+lion, king of beasts, Panthera leo 0.171058
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10750.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.190576
+gazelle 0.150208
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10751.jpg
+impala, Aepyceros melampus 0.841441
+dingo, warrigal, warragal, Canis dingo 0.0565012
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10752.jpg
+prairie chicken, prairie grouse, prairie fowl 0.324108
+bustard 0.319117
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10753.jpg
+impala, Aepyceros melampus 0.401624
+gazelle 0.247345
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10754.jpg
+gazelle 0.477369
+impala, Aepyceros melampus 0.428819
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10755.jpg
+impala, Aepyceros melampus 0.464308
+gazelle 0.254617
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10756.jpg
+impala, Aepyceros melampus 0.784615
+gazelle 0.159771
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10757.jpg
+gazelle 0.12544
+ibex, Capra ibex 0.120658
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10758.jpg
+hare 0.641425
+impala, Aepyceros melampus 0.142667
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10759.jpg
+ibex, Capra ibex 0.888566
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0428838
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10760.jpg
+impala, Aepyceros melampus 0.67436
+gazelle 0.241236
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10761.jpg
+dingo, warrigal, warragal, Canis dingo 0.353069
+whippet 0.28435
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10762.jpg
+llama 0.59945
+gazelle 0.298079
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10763.jpg
+impala, Aepyceros melampus 0.381534
+gazelle 0.0826231
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10764.jpg
+red fox, Vulpes vulpes 0.341057
+kit fox, Vulpes macrotis 0.247293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10765.jpg
+impala, Aepyceros melampus 0.553975
+gazelle 0.144885
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10766.jpg
+ibex, Capra ibex 0.250159
+coyote, prairie wolf, brush wolf, Canis latrans 0.173234
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10767.jpg
+hartebeest 0.212139
+bald eagle, American eagle, Haliaeetus leucocephalus 0.159976
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10768.jpg
+impala, Aepyceros melampus 0.609513
+gazelle 0.337325
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10769.jpg
+impala, Aepyceros melampus 0.672964
+dhole, Cuon alpinus 0.246937
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10770.jpg
+gazelle 0.727266
+impala, Aepyceros melampus 0.184942
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10771.jpg
+impala, Aepyceros melampus 0.542409
+dhole, Cuon alpinus 0.182381
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10772.jpg
+impala, Aepyceros melampus 0.524139
+gazelle 0.445262
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10773.jpg
+ram, tup 0.479539
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.189401
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10774.jpg
+impala, Aepyceros melampus 0.763506
+gazelle 0.190277
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10775.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.373314
+red fox, Vulpes vulpes 0.171522
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10776.jpg
+gazelle 0.741675
+impala, Aepyceros melampus 0.243019
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10777.jpg
+impala, Aepyceros melampus 0.464853
+hartebeest 0.449147
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10778.jpg
+hartebeest 0.342048
+gazelle 0.102823
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10779.jpg
+gazelle 0.762068
+llama 0.103828
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10780.jpg
+impala, Aepyceros melampus 0.51056
+hartebeest 0.193697
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10781.jpg
+impala, Aepyceros melampus 0.614584
+gazelle 0.157985
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10782.jpg
+impala, Aepyceros melampus 0.710813
+gazelle 0.134081
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10783.jpg
+Ibizan hound, Ibizan Podenco 0.212613
+basenji 0.143255
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10784.jpg
+impala, Aepyceros melampus 0.357092
+hartebeest 0.289261
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10785.jpg
+impala, Aepyceros melampus 0.577308
+hartebeest 0.235909
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10786.jpg
+impala, Aepyceros melampus 0.553843
+dingo, warrigal, warragal, Canis dingo 0.132251
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10787.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.267479
+wallaby, brush kangaroo 0.25484
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10788.jpg
+impala, Aepyceros melampus 0.317687
+gazelle 0.272939
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10789.jpg
+dhole, Cuon alpinus 0.770951
+impala, Aepyceros melampus 0.0915403
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10790.jpg
+impala, Aepyceros melampus 0.520629
+gazelle 0.419665
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10791.jpg
+wallaby, brush kangaroo 0.269456
+hare 0.135277
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10792.jpg
+lynx, catamount 0.199869
+red wolf, maned wolf, Canis rufus, Canis niger 0.152306
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10793.jpg
+ibex, Capra ibex 0.750088
+impala, Aepyceros melampus 0.183309
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10794.jpg
+impala, Aepyceros melampus 0.496205
+gazelle 0.467411
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10795.jpg
+impala, Aepyceros melampus 0.532831
+gazelle 0.360573
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10796.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.243351
+wallaby, brush kangaroo 0.189208
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10797.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.418219
+ibex, Capra ibex 0.148959
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10798.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.259894
+hare 0.23112
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10799.jpg
+impala, Aepyceros melampus 0.924715
+gazelle 0.0748857
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10800.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.469727
+grey fox, gray fox, Urocyon cinereoargenteus 0.138923
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10801.jpg
+hartebeest 0.59359
+impala, Aepyceros melampus 0.170869
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10802.jpg
+hartebeest 0.80444
+impala, Aepyceros melampus 0.122285
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10803.jpg
+dhole, Cuon alpinus 0.745424
+impala, Aepyceros melampus 0.0741059
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10804.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.428671
+grey fox, gray fox, Urocyon cinereoargenteus 0.153593
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10805.jpg
+wallaby, brush kangaroo 0.150441
+coyote, prairie wolf, brush wolf, Canis latrans 0.136095
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10806.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.628901
+hare 0.23278
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10807.jpg
+impala, Aepyceros melampus 0.504666
+gazelle 0.426189
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10808.jpg
+hartebeest 0.741411
+impala, Aepyceros melampus 0.176905
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10809.jpg
+ibex, Capra ibex 0.508163
+dhole, Cuon alpinus 0.190076
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10810.jpg
+wallaby, brush kangaroo 0.474297
+kit fox, Vulpes macrotis 0.14798
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10811.jpg
+impala, Aepyceros melampus 0.329022
+Ibizan hound, Ibizan Podenco 0.236247
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10812.jpg
+wild boar, boar, Sus scrofa 0.16685
+warthog 0.137568
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10813.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.380746
+dhole, Cuon alpinus 0.218578
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10814.jpg
+ibex, Capra ibex 0.937629
+hartebeest 0.0216704
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10815.jpg
+gazelle 0.417477
+impala, Aepyceros melampus 0.293127
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10816.jpg
+ram, tup 0.375975
+gazelle 0.260104
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10817.jpg
+gazelle 0.951082
+impala, Aepyceros melampus 0.0380006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10818.jpg
+impala, Aepyceros melampus 0.807306
+gazelle 0.0861207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10819.jpg
+hare 0.56652
+wood rabbit, cottontail, cottontail rabbit 0.401808
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10820.jpg
+ibex, Capra ibex 0.730049
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.088998
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10821.jpg
+gazelle 0.709006
+impala, Aepyceros melampus 0.280658
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10822.jpg
+gazelle 0.397022
+Ibizan hound, Ibizan Podenco 0.203614
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10823.jpg
+gazelle 0.443578
+agaric 0.118438
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10824.jpg
+gazelle 0.649777
+llama 0.0833643
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10825.jpg
+dogsled, dog sled, dog sleigh 0.996485
+Eskimo dog, husky 0.00261262
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10826.jpg
+gazelle 0.949804
+bustard 0.0392024
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10827.jpg
+impala, Aepyceros melampus 0.655838
+gazelle 0.0885861
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10828.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.836466
+timber wolf, grey wolf, gray wolf, Canis lupus 0.156427
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10829.jpg
+gazelle 0.925141
+impala, Aepyceros melampus 0.0212381
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10830.jpg
+impala, Aepyceros melampus 0.637947
+ibex, Capra ibex 0.26447
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10831.jpg
+gazelle 0.687784
+impala, Aepyceros melampus 0.150607
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10832.jpg
+gazelle 0.565781
+impala, Aepyceros melampus 0.339473
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10833.jpg
+impala, Aepyceros melampus 0.2618
+hare 0.240981
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10834.jpg
+llama 0.414475
+wallaby, brush kangaroo 0.393399
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10835.jpg
+gazelle 0.300822
+llama 0.249506
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10836.jpg
+ostrich, Struthio camelus 0.138073
+impala, Aepyceros melampus 0.12161
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10837.jpg
+gazelle 0.0630385
+coyote, prairie wolf, brush wolf, Canis latrans 0.0453442
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10838.jpg
+gazelle 0.181803
+impala, Aepyceros melampus 0.164063
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10839.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.738813
+red wolf, maned wolf, Canis rufus, Canis niger 0.128266
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10840.jpg
+hare 0.431951
+coyote, prairie wolf, brush wolf, Canis latrans 0.191357
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10841.jpg
+impala, Aepyceros melampus 0.584797
+gazelle 0.410706
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10842.jpg
+impala, Aepyceros melampus 0.543196
+gazelle 0.456531
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10843.jpg
+impala, Aepyceros melampus 0.836768
+gazelle 0.130904
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10844.jpg
+impala, Aepyceros melampus 0.540298
+gazelle 0.20795
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10845.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.68004
+grey fox, gray fox, Urocyon cinereoargenteus 0.110613
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10846.jpg
+kit fox, Vulpes macrotis 0.334189
+red wolf, maned wolf, Canis rufus, Canis niger 0.224634
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10847.jpg
+Italian greyhound 0.246095
+whippet 0.13926
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10848.jpg
+hare 0.378944
+wood rabbit, cottontail, cottontail rabbit 0.292813
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10849.jpg
+gazelle 0.432003
+impala, Aepyceros melampus 0.394561
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10850.jpg
+borzoi, Russian wolfhound 0.230988
+llama 0.220193
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10851.jpg
+gazelle 0.776754
+impala, Aepyceros melampus 0.134528
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10852.jpg
+gazelle 0.571043
+impala, Aepyceros melampus 0.428575
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10853.jpg
+wallaby, brush kangaroo 0.770898
+coyote, prairie wolf, brush wolf, Canis latrans 0.0389458
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10854.jpg
+Ibizan hound, Ibizan Podenco 0.821796
+gazelle 0.04724
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10855.jpg
+impala, Aepyceros melampus 0.767084
+gazelle 0.198523
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10856.jpg
+Italian greyhound 0.307121
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.129303
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10857.jpg
+ibex, Capra ibex 0.885169
+mongoose 0.0220098
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10858.jpg
+ibex, Capra ibex 0.823244
+gazelle 0.0917113
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10859.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.731272
+ram, tup 0.141109
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10860.jpg
+impala, Aepyceros melampus 0.305851
+ibex, Capra ibex 0.239688
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10861.jpg
+impala, Aepyceros melampus 0.423625
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.232826
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10862.jpg
+impala, Aepyceros melampus 0.0692347
+Saluki, gazelle hound 0.063913
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10863.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.297234
+red wolf, maned wolf, Canis rufus, Canis niger 0.166714
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10864.jpg
+lynx, catamount 0.34271
+coyote, prairie wolf, brush wolf, Canis latrans 0.268479
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10865.jpg
+llama 0.733893
+wallaby, brush kangaroo 0.13145
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10866.jpg
+impala, Aepyceros melampus 0.73544
+gazelle 0.234158
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10867.jpg
+gazelle 0.69018
+impala, Aepyceros melampus 0.309598
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10868.jpg
+gazelle 0.520447
+impala, Aepyceros melampus 0.327971
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10869.jpg
+ibex, Capra ibex 0.226347
+llama 0.126672
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10870.jpg
+hartebeest 0.499339
+gazelle 0.206681
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10871.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.302344
+gazelle 0.172949
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10872.jpg
+gazelle 0.38257
+impala, Aepyceros melampus 0.299308
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10873.jpg
+ram, tup 0.165787
+otter 0.146582
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10874.jpg
+impala, Aepyceros melampus 0.906467
+gazelle 0.0656341
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10875.jpg
+hartebeest 0.565534
+impala, Aepyceros melampus 0.331847
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10876.jpg
+Ibizan hound, Ibizan Podenco 0.310656
+gazelle 0.274112
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10877.jpg
+hartebeest 0.30174
+Arabian camel, dromedary, Camelus dromedarius 0.291226
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10878.jpg
+hartebeest 0.215829
+Mexican hairless 0.198549
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10879.jpg
+bow 0.110758
+gazelle 0.0863121
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10880.jpg
+hare 0.750037
+llama 0.082424
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10881.jpg
+gazelle 0.38354
+Ibizan hound, Ibizan Podenco 0.268725
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10882.jpg
+gazelle 0.50053
+impala, Aepyceros melampus 0.19548
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10883.jpg
+dhole, Cuon alpinus 0.41039
+ibex, Capra ibex 0.296221
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10884.jpg
+impala, Aepyceros melampus 0.0969807
+hare 0.0963851
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10885.jpg
+ibex, Capra ibex 0.286308
+dingo, warrigal, warragal, Canis dingo 0.147163
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10886.jpg
+hartebeest 0.786609
+impala, Aepyceros melampus 0.0854056
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10887.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.495969
+ram, tup 0.141342
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10888.jpg
+impala, Aepyceros melampus 0.250177
+gazelle 0.22907
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10889.jpg
+gazelle 0.548552
+impala, Aepyceros melampus 0.304341
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10890.jpg
+whippet 0.604336
+impala, Aepyceros melampus 0.162121
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10891.jpg
+hare 0.501221
+llama 0.180141
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10892.jpg
+gazelle 0.371532
+wallaby, brush kangaroo 0.16036
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10893.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.557124
+ibex, Capra ibex 0.268931
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10894.jpg
+hartebeest 0.778004
+gazelle 0.10969
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10895.jpg
+gazelle 0.563921
+impala, Aepyceros melampus 0.239321
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10896.jpg
+dhole, Cuon alpinus 0.344566
+gazelle 0.238929
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10897.jpg
+impala, Aepyceros melampus 0.930934
+gazelle 0.0555949
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10898.jpg
+ibex, Capra ibex 0.701888
+ox 0.0960521
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10899.jpg
+impala, Aepyceros melampus 0.48011
+gazelle 0.166342
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10900.jpg
+ibex, Capra ibex 0.57678
+llama 0.202762
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10901.jpg
+gazelle 0.294587
+impala, Aepyceros melampus 0.171898
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10902.jpg
+impala, Aepyceros melampus 0.319393
+gazelle 0.30931
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10903.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.910808
+ram, tup 0.0845987
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10904.jpg
+impala, Aepyceros melampus 0.467336
+gazelle 0.222602
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10905.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.474731
+Arabian camel, dromedary, Camelus dromedarius 0.178489
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10906.jpg
+impala, Aepyceros melampus 0.414
+hartebeest 0.16568
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10907.jpg
+impala, Aepyceros melampus 0.502384
+gazelle 0.212644
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10908.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.457628
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.1358
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10909.jpg
+hartebeest 0.930651
+gazelle 0.021939
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10910.jpg
+ibex, Capra ibex 0.358782
+hare 0.170267
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10911.jpg
+impala, Aepyceros melampus 0.418164
+gazelle 0.366807
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10912.jpg
+hare 0.387109
+gazelle 0.252994
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10913.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.174252
+dingo, warrigal, warragal, Canis dingo 0.138865
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10914.jpg
+hartebeest 0.418242
+red wolf, maned wolf, Canis rufus, Canis niger 0.202196
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10915.jpg
+llama 0.556473
+dingo, warrigal, warragal, Canis dingo 0.0962065
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10916.jpg
+dhole, Cuon alpinus 0.360199
+impala, Aepyceros melampus 0.34666
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10917.jpg
+dingo, warrigal, warragal, Canis dingo 0.566275
+oxcart 0.0768461
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10918.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.522976
+impala, Aepyceros melampus 0.260263
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10919.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.24474
+impala, Aepyceros melampus 0.189956
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10920.jpg
+dingo, warrigal, warragal, Canis dingo 0.591271
+red wolf, maned wolf, Canis rufus, Canis niger 0.0867895
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10921.jpg
+impala, Aepyceros melampus 0.732605
+gazelle 0.223747
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10922.jpg
+wallaby, brush kangaroo 0.223779
+red wolf, maned wolf, Canis rufus, Canis niger 0.0905677
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10923.jpg
+dogsled, dog sled, dog sleigh 0.93815
+oxcart 0.0412262
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10924.jpg
+impala, Aepyceros melampus 0.471614
+gazelle 0.361891
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10925.jpg
+ibex, Capra ibex 0.378881
+llama 0.182352
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10926.jpg
+impala, Aepyceros melampus 0.570314
+gazelle 0.310331
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10927.jpg
+hartebeest 0.630216
+impala, Aepyceros melampus 0.245418
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10928.jpg
+sorrel 0.275712
+dhole, Cuon alpinus 0.122767
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10929.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.311129
+dingo, warrigal, warragal, Canis dingo 0.278753
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10930.jpg
+warthog 0.487749
+hartebeest 0.434006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10931.jpg
+gazelle 0.852425
+impala, Aepyceros melampus 0.0918617
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10932.jpg
+impala, Aepyceros melampus 0.481184
+ibex, Capra ibex 0.318354
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10933.jpg
+impala, Aepyceros melampus 0.375312
+ibex, Capra ibex 0.346887
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10934.jpg
+hartebeest 0.408276
+impala, Aepyceros melampus 0.316673
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10935.jpg
+dhole, Cuon alpinus 0.328722
+red fox, Vulpes vulpes 0.19051
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10936.jpg
+impala, Aepyceros melampus 0.414841
+hartebeest 0.353124
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10937.jpg
+hartebeest 0.475158
+impala, Aepyceros melampus 0.250874
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10938.jpg
+bison 0.180395
+hay 0.0929481
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10939.jpg
+gazelle 0.540679
+impala, Aepyceros melampus 0.186458
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10940.jpg
+gazelle 0.546506
+ostrich, Struthio camelus 0.328297
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10941.jpg
+impala, Aepyceros melampus 0.335573
+ibex, Capra ibex 0.243523
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10942.jpg
+impala, Aepyceros melampus 0.699715
+hartebeest 0.0995743
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10943.jpg
+impala, Aepyceros melampus 0.751822
+gazelle 0.193918
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10944.jpg
+gazelle 0.45046
+ibex, Capra ibex 0.406013
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10945.jpg
+hartebeest 0.833297
+impala, Aepyceros melampus 0.115824
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10946.jpg
+llama 0.198407
+Irish terrier 0.127162
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10947.jpg
+wallaby, brush kangaroo 0.70672
+ibex, Capra ibex 0.140335
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10948.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.0701626
+lynx, catamount 0.0485453
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10949.jpg
+Great Dane 0.221285
+Weimaraner 0.199462
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10950.jpg
+impala, Aepyceros melampus 0.511172
+gazelle 0.311974
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10951.jpg
+red fox, Vulpes vulpes 0.429693
+dhole, Cuon alpinus 0.100961
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10952.jpg
+impala, Aepyceros melampus 0.823634
+hartebeest 0.0767349
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10953.jpg
+gazelle 0.86081
+impala, Aepyceros melampus 0.102659
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10954.jpg
+gazelle 0.986607
+impala, Aepyceros melampus 0.013096
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10955.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.329788
+gazelle 0.261809
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10956.jpg
+hartebeest 0.436347
+impala, Aepyceros melampus 0.377042
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10957.jpg
+hartebeest 0.666176
+impala, Aepyceros melampus 0.296573
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10958.jpg
+timber wolf, grey wolf, gray wolf, Canis lupus 0.394477
+coyote, prairie wolf, brush wolf, Canis latrans 0.0986524
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10959.jpg
+gazelle 0.631568
+impala, Aepyceros melampus 0.36834
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10960.jpg
+ibex, Capra ibex 0.860957
+hartebeest 0.113452
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10961.jpg
+impala, Aepyceros melampus 0.464032
+gazelle 0.127653
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10962.jpg
+Mexican hairless 0.366238
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.221694
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10963.jpg
+dingo, warrigal, warragal, Canis dingo 0.532574
+kelpie 0.154067
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10964.jpg
+gazelle 0.296435
+wallaby, brush kangaroo 0.14747
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10965.jpg
+impala, Aepyceros melampus 0.333632
+wallaby, brush kangaroo 0.284158
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10966.jpg
+Rhodesian ridgeback 0.421273
+bull mastiff 0.0566136
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10967.jpg
+impala, Aepyceros melampus 0.777515
+gazelle 0.217441
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10968.jpg
+ibex, Capra ibex 0.350153
+ox 0.235078
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10969.jpg
+ibex, Capra ibex 0.337947
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.177469
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10970.jpg
+gazelle 0.320987
+coyote, prairie wolf, brush wolf, Canis latrans 0.284039
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10971.jpg
+hartebeest 0.387861
+impala, Aepyceros melampus 0.306783
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10972.jpg
+wallaby, brush kangaroo 0.417463
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.117432
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10973.jpg
+gazelle 0.839004
+impala, Aepyceros melampus 0.12329
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10974.jpg
+impala, Aepyceros melampus 0.815581
+gazelle 0.118923
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10975.jpg
+impala, Aepyceros melampus 0.767118
+gazelle 0.230594
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10976.jpg
+impala, Aepyceros melampus 0.680309
+gazelle 0.304102
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10977.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.866432
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0874009
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10978.jpg
+impala, Aepyceros melampus 0.882752
+gazelle 0.113033
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10979.jpg
+impala, Aepyceros melampus 0.661177
+gazelle 0.317141
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10980.jpg
+impala, Aepyceros melampus 0.554903
+wallaby, brush kangaroo 0.257267
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10981.jpg
+impala, Aepyceros melampus 0.706948
+red wolf, maned wolf, Canis rufus, Canis niger 0.169436
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10982.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.275051
+impala, Aepyceros melampus 0.156676
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10983.jpg
+wallaby, brush kangaroo 0.726301
+impala, Aepyceros melampus 0.0836929
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10984.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.225594
+hyena, hyaena 0.185114
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10985.jpg
+impala, Aepyceros melampus 0.575939
+ibex, Capra ibex 0.194136
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10986.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.768437
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.211705
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10987.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.445453
+impala, Aepyceros melampus 0.182718
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10988.jpg
+hartebeest 0.875755
+impala, Aepyceros melampus 0.0854064
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10989.jpg
+wallaby, brush kangaroo 0.472182
+gazelle 0.290069
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10990.jpg
+gazelle 0.162084
+hartebeest 0.0926017
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10991.jpg
+borzoi, Russian wolfhound 0.283159
+gazelle 0.225315
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10992.jpg
+Chesapeake Bay retriever 0.339883
+coyote, prairie wolf, brush wolf, Canis latrans 0.273649
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10993.jpg
+ibex, Capra ibex 0.783411
+ox 0.105642
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10994.jpg
+hartebeest 0.519477
+impala, Aepyceros melampus 0.361543
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10995.jpg
+gazelle 0.79162
+impala, Aepyceros melampus 0.206877
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10996.jpg
+gazelle 0.607674
+impala, Aepyceros melampus 0.316179
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10997.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.341283
+bittern 0.199319
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10998.jpg
+impala, Aepyceros melampus 0.537078
+gazelle 0.321447
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_10999.jpg
+gazelle 0.6381
+impala, Aepyceros melampus 0.318891
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11000.jpg
+impala, Aepyceros melampus 0.842264
+gazelle 0.0970238
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11001.jpg
+oxcart 0.778195
+ox 0.0839317
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11002.jpg
+impala, Aepyceros melampus 0.862741
+gazelle 0.134521
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11003.jpg
+impala, Aepyceros melampus 0.601511
+gazelle 0.321553
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11004.jpg
+impala, Aepyceros melampus 0.35989
+gazelle 0.264027
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11005.jpg
+American egret, great white heron, Egretta albus 0.120138
+little blue heron, Egretta caerulea 0.0800632
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11006.jpg
+impala, Aepyceros melampus 0.728852
+gazelle 0.14972
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11007.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.684636
+impala, Aepyceros melampus 0.248351
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11008.jpg
+impala, Aepyceros melampus 0.451289
+hartebeest 0.383652
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11009.jpg
+dingo, warrigal, warragal, Canis dingo 0.562978
+malinois 0.0501799
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11010.jpg
+dingo, warrigal, warragal, Canis dingo 0.27456
+ibex, Capra ibex 0.207994
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11011.jpg
+Ibizan hound, Ibizan Podenco 0.327004
+dingo, warrigal, warragal, Canis dingo 0.268569
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11012.jpg
+wallaby, brush kangaroo 0.489381
+hare 0.378378
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11013.jpg
+impala, Aepyceros melampus 0.489029
+ibex, Capra ibex 0.145138
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11014.jpg
+gazelle 0.28221
+dowitcher 0.155155
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11015.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.989154
+grey fox, gray fox, Urocyon cinereoargenteus 0.00736106
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11016.jpg
+warthog 0.295343
+red fox, Vulpes vulpes 0.0994322
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11017.jpg
+impala, Aepyceros melampus 0.713023
+hartebeest 0.162138
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11018.jpg
+gazelle 0.337588
+impala, Aepyceros melampus 0.0601985
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11019.jpg
+gazelle 0.649869
+impala, Aepyceros melampus 0.201351
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11020.jpg
+dhole, Cuon alpinus 0.619359
+impala, Aepyceros melampus 0.36397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11021.jpg
+gazelle 0.344525
+impala, Aepyceros melampus 0.204218
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11022.jpg
+wallaby, brush kangaroo 0.562035
+hare 0.141276
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11023.jpg
+ibex, Capra ibex 0.552768
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.260039
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11024.jpg
+wallaby, brush kangaroo 0.56504
+kit fox, Vulpes macrotis 0.115213
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11025.jpg
+kit fox, Vulpes macrotis 0.83548
+red fox, Vulpes vulpes 0.12658
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11026.jpg
+dhole, Cuon alpinus 0.554773
+impala, Aepyceros melampus 0.361215
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11027.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.784917
+ibex, Capra ibex 0.0657194
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11028.jpg
+impala, Aepyceros melampus 0.525951
+gazelle 0.315357
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11029.jpg
+ibex, Capra ibex 0.92981
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0248
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11030.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.197215
+grey fox, gray fox, Urocyon cinereoargenteus 0.190405
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11031.jpg
+impala, Aepyceros melampus 0.303322
+gazelle 0.24622
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11032.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.5373
+wallaby, brush kangaroo 0.170242
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11033.jpg
+ibex, Capra ibex 0.677019
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.274379
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11034.jpg
+gazelle 0.476095
+impala, Aepyceros melampus 0.410695
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11035.jpg
+gazelle 0.38806
+llama 0.253642
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11036.jpg
+Mexican hairless 0.413948
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.235375
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11037.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.813428
+ram, tup 0.0730312
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11038.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.615855
+red wolf, maned wolf, Canis rufus, Canis niger 0.143592
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11039.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.183876
+red wolf, maned wolf, Canis rufus, Canis niger 0.17998
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11040.jpg
+ibex, Capra ibex 0.198756
+coyote, prairie wolf, brush wolf, Canis latrans 0.134781
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11041.jpg
+impala, Aepyceros melampus 0.584369
+gazelle 0.363967
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11042.jpg
+impala, Aepyceros melampus 0.660323
+gazelle 0.158771
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11043.jpg
+impala, Aepyceros melampus 0.381016
+hartebeest 0.376573
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11044.jpg
+wallaby, brush kangaroo 0.667343
+impala, Aepyceros melampus 0.177282
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11045.jpg
+impala, Aepyceros melampus 0.368344
+crane 0.300195
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11046.jpg
+impala, Aepyceros melampus 0.327258
+ibex, Capra ibex 0.325119
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11047.jpg
+gazelle 0.445704
+ibex, Capra ibex 0.331164
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11048.jpg
+impala, Aepyceros melampus 0.442892
+red wolf, maned wolf, Canis rufus, Canis niger 0.2223
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11049.jpg
+hartebeest 0.483947
+impala, Aepyceros melampus 0.407527
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11050.jpg
+impala, Aepyceros melampus 0.478038
+ibex, Capra ibex 0.386161
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11051.jpg
+space shuttle 0.638166
+white stork, Ciconia ciconia 0.114083
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11052.jpg
+impala, Aepyceros melampus 0.432763
+gazelle 0.309128
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11053.jpg
+gazelle 0.268741
+impala, Aepyceros melampus 0.210374
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11054.jpg
+impala, Aepyceros melampus 0.679555
+gazelle 0.318815
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11055.jpg
+dingo, warrigal, warragal, Canis dingo 0.249799
+dhole, Cuon alpinus 0.230704
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11056.jpg
+dingo, warrigal, warragal, Canis dingo 0.333256
+impala, Aepyceros melampus 0.0773762
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11057.jpg
+dingo, warrigal, warragal, Canis dingo 0.327249
+ibex, Capra ibex 0.186556
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11058.jpg
+hare 0.374722
+ibex, Capra ibex 0.149431
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11059.jpg
+llama 0.296281
+hyena, hyaena 0.265828
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11060.jpg
+ibex, Capra ibex 0.917848
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0456015
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11061.jpg
+impala, Aepyceros melampus 0.59964
+gazelle 0.201144
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11062.jpg
+dhole, Cuon alpinus 0.199361
+dingo, warrigal, warragal, Canis dingo 0.114833
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11063.jpg
+langur 0.14778
+wallaby, brush kangaroo 0.112284
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11064.jpg
+ibex, Capra ibex 0.880346
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0607096
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11065.jpg
+ibex, Capra ibex 0.647294
+warthog 0.052837
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11066.jpg
+gazelle 0.296124
+impala, Aepyceros melampus 0.250851
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11067.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.322646
+red wolf, maned wolf, Canis rufus, Canis niger 0.170798
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11068.jpg
+hartebeest 0.695393
+Arabian camel, dromedary, Camelus dromedarius 0.116449
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11069.jpg
+Mexican hairless 0.645506
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.170607
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11070.jpg
+wallaby, brush kangaroo 0.857045
+coyote, prairie wolf, brush wolf, Canis latrans 0.0740014
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11071.jpg
+hen 0.371619
+partridge 0.272421
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11072.jpg
+warthog 0.354956
+dingo, warrigal, warragal, Canis dingo 0.124331
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11073.jpg
+gazelle 0.6267
+impala, Aepyceros melampus 0.345884
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11074.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.356882
+dhole, Cuon alpinus 0.277271
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11075.jpg
+gazelle 0.245195
+hare 0.143161
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11076.jpg
+hartebeest 0.441582
+impala, Aepyceros melampus 0.284753
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11077.jpg
+impala, Aepyceros melampus 0.439138
+ibex, Capra ibex 0.287817
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11078.jpg
+ibex, Capra ibex 0.915179
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0243285
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11079.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.57942
+timber wolf, grey wolf, gray wolf, Canis lupus 0.140291
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11080.jpg
+impala, Aepyceros melampus 0.569167
+hartebeest 0.196006
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11081.jpg
+hartebeest 0.577662
+impala, Aepyceros melampus 0.200084
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11082.jpg
+dhole, Cuon alpinus 0.587442
+red wolf, maned wolf, Canis rufus, Canis niger 0.126114
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11083.jpg
+ibex, Capra ibex 0.748108
+ox 0.0967495
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11084.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.35568
+coyote, prairie wolf, brush wolf, Canis latrans 0.24868
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11085.jpg
+hartebeest 0.502384
+impala, Aepyceros melampus 0.429384
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11086.jpg
+hartebeest 0.578101
+ibex, Capra ibex 0.118022
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11087.jpg
+hartebeest 0.977318
+impala, Aepyceros melampus 0.0206393
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11088.jpg
+wallaby, brush kangaroo 0.497053
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0802435
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11089.jpg
+dhole, Cuon alpinus 0.182821
+red wolf, maned wolf, Canis rufus, Canis niger 0.143094
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11090.jpg
+impala, Aepyceros melampus 0.601238
+gazelle 0.218397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11091.jpg
+gazelle 0.45797
+impala, Aepyceros melampus 0.144898
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11092.jpg
+hartebeest 0.90205
+impala, Aepyceros melampus 0.0706734
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11093.jpg
+Rhodesian ridgeback 0.51164
+whippet 0.13661
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11094.jpg
+proboscis monkey, Nasalis larvatus 0.584115
+impala, Aepyceros melampus 0.106254
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11095.jpg
+gazelle 0.539269
+impala, Aepyceros melampus 0.46063
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11096.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.421823
+coyote, prairie wolf, brush wolf, Canis latrans 0.121519
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11097.jpg
+gazelle 0.596889
+impala, Aepyceros melampus 0.402979
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11098.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.350752
+wild boar, boar, Sus scrofa 0.224128
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11099.jpg
+impala, Aepyceros melampus 0.830235
+gazelle 0.0982293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11100.jpg
+ibex, Capra ibex 0.411764
+coyote, prairie wolf, brush wolf, Canis latrans 0.221939
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11101.jpg
+patas, hussar monkey, Erythrocebus patas 0.183497
+gazelle 0.130657
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11102.jpg
+gazelle 0.972161
+impala, Aepyceros melampus 0.0267138
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11103.jpg
+impala, Aepyceros melampus 0.294251
+hartebeest 0.206673
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11104.jpg
+ibex, Capra ibex 0.267045
+dhole, Cuon alpinus 0.18813
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11105.jpg
+impala, Aepyceros melampus 0.685024
+gazelle 0.222703
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11106.jpg
+impala, Aepyceros melampus 0.722001
+hartebeest 0.146125
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11107.jpg
+llama 0.984326
+patas, hussar monkey, Erythrocebus patas 0.00531244
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11108.jpg
+hartebeest 0.500853
+ibex, Capra ibex 0.2015
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11109.jpg
+gazelle 0.336749
+impala, Aepyceros melampus 0.188516
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11110.jpg
+gazelle 0.689716
+impala, Aepyceros melampus 0.0753491
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11111.jpg
+impala, Aepyceros melampus 0.275541
+gazelle 0.197434
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11112.jpg
+hartebeest 0.443541
+ibex, Capra ibex 0.363354
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11113.jpg
+ibex, Capra ibex 0.175997
+impala, Aepyceros melampus 0.164778
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11114.jpg
+impala, Aepyceros melampus 0.182503
+grey fox, gray fox, Urocyon cinereoargenteus 0.174921
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11115.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.586564
+ibex, Capra ibex 0.145195
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11116.jpg
+impala, Aepyceros melampus 0.665783
+gazelle 0.308879
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11117.jpg
+hartebeest 0.590145
+impala, Aepyceros melampus 0.224288
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11118.jpg
+ibex, Capra ibex 0.72876
+impala, Aepyceros melampus 0.128127
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11119.jpg
+wallaby, brush kangaroo 0.269065
+hare 0.215927
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11120.jpg
+impala, Aepyceros melampus 0.784612
+gazelle 0.115394
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11121.jpg
+gazelle 0.337011
+bustard 0.221755
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11122.jpg
+impala, Aepyceros melampus 0.441207
+gazelle 0.355469
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11123.jpg
+hare 0.243025
+coyote, prairie wolf, brush wolf, Canis latrans 0.0734278
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11124.jpg
+bustard 0.299304
+cheetah, chetah, Acinonyx jubatus 0.230535
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11125.jpg
+Saluki, gazelle hound 0.280746
+Siberian husky 0.259022
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11126.jpg
+ibex, Capra ibex 0.529996
+impala, Aepyceros melampus 0.187807
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11127.jpg
+gazelle 0.850586
+impala, Aepyceros melampus 0.107856
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11128.jpg
+impala, Aepyceros melampus 0.891088
+gazelle 0.103388
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11129.jpg
+impala, Aepyceros melampus 0.450962
+gazelle 0.271773
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11130.jpg
+German short-haired pointer 0.377525
+curly-coated retriever 0.115462
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11131.jpg
+ibex, Capra ibex 0.474897
+impala, Aepyceros melampus 0.292102
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11132.jpg
+ox 0.250999
+gazelle 0.202483
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11133.jpg
+hartebeest 0.835243
+ibex, Capra ibex 0.0774207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11134.jpg
+warthog 0.419436
+ibex, Capra ibex 0.282276
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11135.jpg
+ibex, Capra ibex 0.309314
+impala, Aepyceros melampus 0.214293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11136.jpg
+impala, Aepyceros melampus 0.401233
+gazelle 0.35295
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11137.jpg
+hare 0.192602
+wood rabbit, cottontail, cottontail rabbit 0.128733
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11138.jpg
+llama 0.559687
+bison 0.0894606
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11139.jpg
+dhole, Cuon alpinus 0.344862
+dingo, warrigal, warragal, Canis dingo 0.133047
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11140.jpg
+warthog 0.765604
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.223258
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11141.jpg
+impala, Aepyceros melampus 0.55809
+hartebeest 0.254533
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11142.jpg
+hartebeest 0.556845
+impala, Aepyceros melampus 0.204617
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11143.jpg
+hartebeest 0.405612
+impala, Aepyceros melampus 0.320459
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11144.jpg
+ibex, Capra ibex 0.607362
+hartebeest 0.173471
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11145.jpg
+impala, Aepyceros melampus 0.904244
+gazelle 0.0663116
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11146.jpg
+ibex, Capra ibex 0.535591
+hartebeest 0.266279
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11147.jpg
+impala, Aepyceros melampus 0.501781
+gazelle 0.459197
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11148.jpg
+ibex, Capra ibex 0.499239
+red wolf, maned wolf, Canis rufus, Canis niger 0.423593
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11149.jpg
+hartebeest 0.455074
+gazelle 0.320484
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11150.jpg
+hartebeest 0.7779
+gazelle 0.109042
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11151.jpg
+ibex, Capra ibex 0.588724
+wallaby, brush kangaroo 0.288248
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11152.jpg
+ibex, Capra ibex 0.902588
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0477141
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11153.jpg
+hare 0.428291
+wood rabbit, cottontail, cottontail rabbit 0.296368
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11154.jpg
+impala, Aepyceros melampus 0.560669
+gazelle 0.386799
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11155.jpg
+ibex, Capra ibex 0.369348
+hartebeest 0.328531
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11156.jpg
+impala, Aepyceros melampus 0.379119
+gazelle 0.298131
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11157.jpg
+ibex, Capra ibex 0.953231
+hare 0.0454953
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11158.jpg
+ibex, Capra ibex 0.778626
+impala, Aepyceros melampus 0.052041
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11159.jpg
+ibex, Capra ibex 0.209122
+gazelle 0.198144
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11160.jpg
+ibex, Capra ibex 0.814718
+ram, tup 0.102352
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11161.jpg
+hartebeest 0.968329
+impala, Aepyceros melampus 0.0206748
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11162.jpg
+impala, Aepyceros melampus 0.879526
+gazelle 0.12025
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11163.jpg
+impala, Aepyceros melampus 0.357485
+gazelle 0.241961
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11164.jpg
+hare 0.760061
+gazelle 0.0370008
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11165.jpg
+llama 0.759095
+gazelle 0.106494
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11166.jpg
+impala, Aepyceros melampus 0.457626
+gazelle 0.417048
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11167.jpg
+impala, Aepyceros melampus 0.541551
+hartebeest 0.414784
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11168.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.430498
+hartebeest 0.218746
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11169.jpg
+whippet 0.54359
+gazelle 0.362569
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11170.jpg
+gazelle 0.395255
+impala, Aepyceros melampus 0.365207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11171.jpg
+gazelle 0.416533
+impala, Aepyceros melampus 0.386559
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11172.jpg
+impala, Aepyceros melampus 0.345487
+gazelle 0.212127
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11173.jpg
+hartebeest 0.537185
+impala, Aepyceros melampus 0.381761
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11174.jpg
+gazelle 0.382971
+impala, Aepyceros melampus 0.299088
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11175.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.87312
+ram, tup 0.0865173
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11176.jpg
+impala, Aepyceros melampus 0.585566
+hartebeest 0.215848
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11177.jpg
+wallaby, brush kangaroo 0.494334
+ibex, Capra ibex 0.153389
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11178.jpg
+ibex, Capra ibex 0.991238
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.00429493
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11179.jpg
+hartebeest 0.460209
+ibex, Capra ibex 0.298592
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11180.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.469152
+timber wolf, grey wolf, gray wolf, Canis lupus 0.346924
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11181.jpg
+wallaby, brush kangaroo 0.494626
+dhole, Cuon alpinus 0.180035
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11182.jpg
+dhole, Cuon alpinus 0.567186
+ibex, Capra ibex 0.0864657
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11183.jpg
+hartebeest 0.784684
+impala, Aepyceros melampus 0.12346
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11184.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.326777
+mongoose 0.104408
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11185.jpg
+rapeseed 0.980371
+impala, Aepyceros melampus 0.00328554
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11186.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.294705
+dhole, Cuon alpinus 0.17602
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11187.jpg
+gazelle 0.272351
+hare 0.148055
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11188.jpg
+ibex, Capra ibex 0.0867561
+wolf spider, hunting spider 0.0773928
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11189.jpg
+gazelle 0.401497
+Saluki, gazelle hound 0.138244
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11190.jpg
+hartebeest 0.127213
+llama 0.0944067
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11191.jpg
+dowitcher 0.60025
+limpkin, Aramus pictus 0.0833822
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11192.jpg
+gazelle 0.448167
+dhole, Cuon alpinus 0.154463
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11193.jpg
+ibex, Capra ibex 0.819664
+impala, Aepyceros melampus 0.105004
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11194.jpg
+impala, Aepyceros melampus 0.284172
+wallaby, brush kangaroo 0.179656
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11195.jpg
+impala, Aepyceros melampus 0.75604
+dingo, warrigal, warragal, Canis dingo 0.165824
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11196.jpg
+Irish wolfhound 0.244048
+Scottish deerhound, deerhound 0.127823
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11197.jpg
+hartebeest 0.603185
+bison 0.25246
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11198.jpg
+dhole, Cuon alpinus 0.234264
+wallaby, brush kangaroo 0.10347
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11199.jpg
+gazelle 0.675183
+impala, Aepyceros melampus 0.0747122
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11200.jpg
+wallaby, brush kangaroo 0.33486
+Madagascar cat, ring-tailed lemur, Lemur catta 0.16041
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11201.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.96994
+timber wolf, grey wolf, gray wolf, Canis lupus 0.019505
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11202.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.158565
+Scottish deerhound, deerhound 0.156223
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11203.jpg
+impala, Aepyceros melampus 0.470408
+gazelle 0.103959
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11204.jpg
+impala, Aepyceros melampus 0.744228
+gazelle 0.0801994
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11205.jpg
+bustard 0.317347
+crane 0.211862
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11206.jpg
+plow, plough 0.339077
+barrow, garden cart, lawn cart, wheelbarrow 0.133647
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11207.jpg
+gazelle 0.511162
+impala, Aepyceros melampus 0.485479
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11208.jpg
+wallaby, brush kangaroo 0.859798
+ibex, Capra ibex 0.054517
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11209.jpg
+hartebeest 0.34145
+gazelle 0.317269
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11210.jpg
+impala, Aepyceros melampus 0.501918
+hartebeest 0.4763
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11211.jpg
+wallaby, brush kangaroo 0.68016
+indri, indris, Indri indri, Indri brevicaudatus 0.111653
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11212.jpg
+hare 0.355472
+wallaby, brush kangaroo 0.240638
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11213.jpg
+impala, Aepyceros melampus 0.571797
+gazelle 0.284104
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11214.jpg
+wallaby, brush kangaroo 0.380532
+gazelle 0.210207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11215.jpg
+hare 0.423466
+impala, Aepyceros melampus 0.207029
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11216.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.174072
+gazelle 0.168946
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11217.jpg
+lynx, catamount 0.453544
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.155261
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11218.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.622845
+impala, Aepyceros melampus 0.273469
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11219.jpg
+partridge 0.412466
+ruffed grouse, partridge, Bonasa umbellus 0.14008
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11220.jpg
+impala, Aepyceros melampus 0.711624
+gazelle 0.280977
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11221.jpg
+impala, Aepyceros melampus 0.314751
+hare 0.248074
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11222.jpg
+impala, Aepyceros melampus 0.463922
+gazelle 0.106784
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11223.jpg
+impala, Aepyceros melampus 0.501705
+bustard 0.133961
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11224.jpg
+hare 0.912809
+impala, Aepyceros melampus 0.0277871
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11225.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.317239
+red wolf, maned wolf, Canis rufus, Canis niger 0.176914
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11226.jpg
+hartebeest 0.413542
+impala, Aepyceros melampus 0.36993
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11227.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.798941
+dhole, Cuon alpinus 0.185979
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11228.jpg
+gazelle 0.644426
+impala, Aepyceros melampus 0.28901
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11229.jpg
+impala, Aepyceros melampus 0.560313
+hartebeest 0.232697
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11230.jpg
+impala, Aepyceros melampus 0.388049
+gazelle 0.318546
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11231.jpg
+hartebeest 0.888953
+ibex, Capra ibex 0.0962236
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11232.jpg
+ibex, Capra ibex 0.645384
+llama 0.195596
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11233.jpg
+ibex, Capra ibex 0.389511
+llama 0.209288
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11234.jpg
+impala, Aepyceros melampus 0.495449
+gazelle 0.284351
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11235.jpg
+dhole, Cuon alpinus 0.463658
+red fox, Vulpes vulpes 0.215306
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11236.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.241235
+red fox, Vulpes vulpes 0.225642
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11237.jpg
+gazelle 0.326904
+Ibizan hound, Ibizan Podenco 0.149956
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11238.jpg
+ibex, Capra ibex 0.663318
+impala, Aepyceros melampus 0.276231
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11239.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.935548
+grey fox, gray fox, Urocyon cinereoargenteus 0.0339814
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11240.jpg
+gazelle 0.279846
+bustard 0.184393
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11241.jpg
+ruffed grouse, partridge, Bonasa umbellus 0.0924177
+impala, Aepyceros melampus 0.0788157
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11242.jpg
+llama 0.460659
+gazelle 0.412032
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11243.jpg
+king penguin, Aptenodytes patagonica 0.373737
+crane 0.0575858
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11244.jpg
+gazelle 0.806097
+impala, Aepyceros melampus 0.187132
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11245.jpg
+gazelle 0.808977
+impala, Aepyceros melampus 0.187158
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11246.jpg
+crane 0.157448
+Scottish deerhound, deerhound 0.0973964
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11247.jpg
+hartebeest 0.632673
+gazelle 0.252068
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11248.jpg
+impala, Aepyceros melampus 0.528112
+hartebeest 0.298329
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11249.jpg
+hartebeest 0.536975
+impala, Aepyceros melampus 0.284584
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11250.jpg
+ibex, Capra ibex 0.322963
+impala, Aepyceros melampus 0.0728915
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11251.jpg
+gazelle 0.52037
+impala, Aepyceros melampus 0.187921
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11252.jpg
+ibex, Capra ibex 0.418101
+ram, tup 0.223946
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11253.jpg
+wallaby, brush kangaroo 0.41977
+ibex, Capra ibex 0.311308
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11254.jpg
+dingo, warrigal, warragal, Canis dingo 0.76343
+Ibizan hound, Ibizan Podenco 0.0817636
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11255.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.74105
+warthog 0.0521211
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11256.jpg
+impala, Aepyceros melampus 0.547971
+gazelle 0.356044
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11257.jpg
+llama 0.325314
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.230845
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11258.jpg
+dhole, Cuon alpinus 0.526317
+red fox, Vulpes vulpes 0.249321
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11259.jpg
+impala, Aepyceros melampus 0.187645
+ox 0.107102
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11260.jpg
+impala, Aepyceros melampus 0.472788
+dhole, Cuon alpinus 0.193329
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11261.jpg
+dhole, Cuon alpinus 0.183902
+malinois 0.168127
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11262.jpg
+Saluki, gazelle hound 0.111404
+dingo, warrigal, warragal, Canis dingo 0.097614
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11263.jpg
+impala, Aepyceros melampus 0.461141
+coyote, prairie wolf, brush wolf, Canis latrans 0.197513
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11264.jpg
+wallaby, brush kangaroo 0.279064
+impala, Aepyceros melampus 0.247839
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11265.jpg
+hyena, hyaena 0.761
+warthog 0.0768527
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11266.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.638117
+coyote, prairie wolf, brush wolf, Canis latrans 0.133391
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11267.jpg
+wallaby, brush kangaroo 0.463814
+impala, Aepyceros melampus 0.414663
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11268.jpg
+impala, Aepyceros melampus 0.30035
+ostrich, Struthio camelus 0.143574
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11269.jpg
+llama 0.424225
+ibex, Capra ibex 0.222419
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11270.jpg
+impala, Aepyceros melampus 0.834908
+gazelle 0.134293
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11271.jpg
+impala, Aepyceros melampus 0.773204
+gazelle 0.191345
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11272.jpg
+red fox, Vulpes vulpes 0.306095
+dhole, Cuon alpinus 0.168107
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11273.jpg
+ibex, Capra ibex 0.183321
+wallaby, brush kangaroo 0.142855
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11274.jpg
+gazelle 0.872914
+impala, Aepyceros melampus 0.0693974
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11275.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.142289
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0735326
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11276.jpg
+coyote, prairie wolf, brush wolf, Canis latrans 0.563938
+ostrich, Struthio camelus 0.0642832
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11277.jpg
+gazelle 0.540295
+whippet 0.156712
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11278.jpg
+hartebeest 0.641232
+impala, Aepyceros melampus 0.301919
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11279.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.433531
+ibex, Capra ibex 0.325229
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11280.jpg
+impala, Aepyceros melampus 0.493884
+hare 0.104334
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11281.jpg
+gazelle 0.518139
+impala, Aepyceros melampus 0.109842
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11282.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.201035
+impala, Aepyceros melampus 0.18375
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11283.jpg
+impala, Aepyceros melampus 0.241192
+gazelle 0.13397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11284.jpg
+gazelle 0.682656
+dhole, Cuon alpinus 0.155173
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11285.jpg
+whippet 0.313847
+gazelle 0.181419
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11286.jpg
+impala, Aepyceros melampus 0.491244
+gazelle 0.357856
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11287.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.211404
+impala, Aepyceros melampus 0.198195
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11288.jpg
+gazelle 0.758674
+impala, Aepyceros melampus 0.156543
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11289.jpg
+hartebeest 0.52591
+impala, Aepyceros melampus 0.247188
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11290.jpg
+impala, Aepyceros melampus 0.630445
+gazelle 0.205226
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11291.jpg
+peacock 0.0694188
+malinois 0.0585207
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11292.jpg
+llama 0.273118
+impala, Aepyceros melampus 0.237362
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11293.jpg
+ibex, Capra ibex 0.619534
+impala, Aepyceros melampus 0.141895
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11294.jpg
+impala, Aepyceros melampus 0.668479
+gazelle 0.29982
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11295.jpg
+ibex, Capra ibex 0.210468
+coyote, prairie wolf, brush wolf, Canis latrans 0.190535
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11296.jpg
+impala, Aepyceros melampus 0.790227
+gazelle 0.18639
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11297.jpg
+crane 0.31746
+borzoi, Russian wolfhound 0.187299
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11298.jpg
+wallaby, brush kangaroo 0.163714
+dingo, warrigal, warragal, Canis dingo 0.0631666
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11299.jpg
+gazelle 0.932584
+wallaby, brush kangaroo 0.0291258
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11300.jpg
+ibex, Capra ibex 0.83584
+gazelle 0.0588836
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11301.jpg
+impala, Aepyceros melampus 0.835753
+gazelle 0.113591
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11302.jpg
+impala, Aepyceros melampus 0.208773
+gazelle 0.181358
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11303.jpg
+impala, Aepyceros melampus 0.746761
+Italian greyhound 0.191414
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11304.jpg
+impala, Aepyceros melampus 0.649505
+gazelle 0.349142
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11305.jpg
+impala, Aepyceros melampus 0.298577
+ram, tup 0.145586
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11306.jpg
+gazelle 0.181678
+whippet 0.12914
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11307.jpg
+whippet 0.253259
+ram, tup 0.200559
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11308.jpg
+impala, Aepyceros melampus 0.282663
+red wolf, maned wolf, Canis rufus, Canis niger 0.217151
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11309.jpg
+impala, Aepyceros melampus 0.289542
+ibex, Capra ibex 0.231783
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11310.jpg
+impala, Aepyceros melampus 0.195369
+dingo, warrigal, warragal, Canis dingo 0.195013
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11311.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.290986
+impala, Aepyceros melampus 0.238284
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11312.jpg
+impala, Aepyceros melampus 0.786641
+gazelle 0.20809
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11313.jpg
+impala, Aepyceros melampus 0.883559
+gazelle 0.109907
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11314.jpg
+impala, Aepyceros melampus 0.752833
+gazelle 0.243738
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11315.jpg
+impala, Aepyceros melampus 0.93284
+gazelle 0.043397
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11316.jpg
+hare 0.357517
+wood rabbit, cottontail, cottontail rabbit 0.258898
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11317.jpg
+gazelle 0.528361
+impala, Aepyceros melampus 0.467112
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11318.jpg
+dingo, warrigal, warragal, Canis dingo 0.416675
+impala, Aepyceros melampus 0.195831
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11319.jpg
+ibex, Capra ibex 0.997591
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.000968177
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11320.jpg
+impala, Aepyceros melampus 0.652448
+gazelle 0.285595
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11321.jpg
+cliff, drop, drop-off 0.235309
+thatch, thatched roof 0.163733
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11322.jpg
+hare 0.606937
+impala, Aepyceros melampus 0.090274
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11323.jpg
+Irish wolfhound 0.181288
+whippet 0.166032
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11324.jpg
+gazelle 0.717676
+impala, Aepyceros melampus 0.230846
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11325.jpg
+ibex, Capra ibex 0.466204
+hartebeest 0.416386
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11326.jpg
+ibex, Capra ibex 0.98102
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0116974
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11327.jpg
+impala, Aepyceros melampus 0.222856
+ibex, Capra ibex 0.168009
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11328.jpg
+hartebeest 0.898759
+impala, Aepyceros melampus 0.0786859
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11329.jpg
+llama 0.514345
+gazelle 0.283215
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11330.jpg
+hare 0.572101
+impala, Aepyceros melampus 0.143811
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11331.jpg
+ibex, Capra ibex 0.707844
+impala, Aepyceros melampus 0.0776073
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11332.jpg
+impala, Aepyceros melampus 0.893982
+gazelle 0.105906
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11333.jpg
+impala, Aepyceros melampus 0.671541
+gazelle 0.276734
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11334.jpg
+impala, Aepyceros melampus 0.532937
+gazelle 0.464517
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11335.jpg
+gazelle 0.789573
+impala, Aepyceros melampus 0.202574
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11336.jpg
+gazelle 0.63926
+hare 0.130922
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11337.jpg
+mongoose 0.684172
+dhole, Cuon alpinus 0.137939
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11338.jpg
+dhole, Cuon alpinus 0.224633
+red wolf, maned wolf, Canis rufus, Canis niger 0.193951
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11339.jpg
+impala, Aepyceros melampus 0.293056
+hartebeest 0.290119
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11340.jpg
+gazelle 0.443626
+impala, Aepyceros melampus 0.212816
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11341.jpg
+gazelle 0.75309
+impala, Aepyceros melampus 0.116213
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11342.jpg
+gazelle 0.787551
+impala, Aepyceros melampus 0.100761
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11343.jpg
+ibex, Capra ibex 0.807981
+hare 0.158126
+./datasets/Animals_with_Attributes2/JPEGImages/deer/deer_11344.jpg
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis 0.342458
+plow, plough 0.148425

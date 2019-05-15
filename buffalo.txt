@@ -1,0 +1,2685 @@
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10001.jpg
+brown bear, bruin, Ursus arctos 0.389529
+bison 0.277736
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10002.jpg
+bison 0.879587
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0541299
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10003.jpg
+bison 0.999749
+ox 0.000241625
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10004.jpg
+bison 0.999409
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00027175
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10005.jpg
+bison 0.938913
+ox 0.0248647
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10006.jpg
+bison 0.38685
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.134331
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10007.jpg
+bison 0.998565
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000688387
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10008.jpg
+bison 0.842787
+wild boar, boar, Sus scrofa 0.0356999
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10009.jpg
+bison 0.213257
+baboon 0.128956
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10010.jpg
+bison 0.457881
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.222723
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10011.jpg
+bison 0.998668
+ox 0.000694501
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10012.jpg
+bison 0.910364
+brown bear, bruin, Ursus arctos 0.0633424
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10013.jpg
+bison 0.989074
+brown bear, bruin, Ursus arctos 0.00458753
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10014.jpg
+bison 0.999969
+ox 2.12237e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10015.jpg
+bison 0.999946
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 3.50641e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10016.jpg
+bison 0.998131
+ox 0.00135985
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10017.jpg
+bison 0.940897
+brown bear, bruin, Ursus arctos 0.0282041
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10018.jpg
+bison 0.992883
+warthog 0.00241391
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10019.jpg
+bison 0.957
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0288748
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10020.jpg
+bison 0.999937
+ox 2.99006e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10021.jpg
+bison 0.99567
+ox 0.00432092
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10022.jpg
+bison 0.999666
+ox 0.000155566
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10023.jpg
+bison 0.999985
+ox 1.5251e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10024.jpg
+bison 0.989312
+ox 0.00548382
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10025.jpg
+bison 0.829982
+ox 0.0637105
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10026.jpg
+bison 0.997633
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00118009
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10027.jpg
+ibex, Capra ibex 0.324351
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.194582
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10028.jpg
+bison 0.997001
+ox 0.00185015
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10029.jpg
+bison 0.896037
+brown bear, bruin, Ursus arctos 0.0612571
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10030.jpg
+bison 0.999369
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000209175
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10031.jpg
+bison 0.416055
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.316091
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10032.jpg
+bison 0.999996
+ox 4.10907e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10033.jpg
+bison 0.97761
+ox 0.0223074
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10034.jpg
+bison 0.999286
+ox 0.000210827
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10035.jpg
+bison 0.894165
+ox 0.103278
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10036.jpg
+bison 0.93623
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0229363
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10037.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10038.jpg
+bison 0.971648
+ox 0.027308
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10039.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10040.jpg
+bison 0.937341
+warthog 0.0252483
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10041.jpg
+bison 0.963857
+ox 0.0353374
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10042.jpg
+bison 0.994627
+ox 0.00256584
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10043.jpg
+bison 0.998074
+ox 0.00191782
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10044.jpg
+bison 0.514829
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.292294
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10045.jpg
+bison 0.999752
+ox 0.000242622
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10046.jpg
+bison 0.899742
+ox 0.0726695
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10047.jpg
+bison 0.967825
+wild boar, boar, Sus scrofa 0.015479
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10048.jpg
+bison 0.991661
+ox 0.00559365
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10049.jpg
+bison 0.999382
+ox 0.000286157
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10050.jpg
+bison 0.497335
+ox 0.45356
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10051.jpg
+bison 0.9994
+ox 0.000380956
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10052.jpg
+bison 0.999979
+brown bear, bruin, Ursus arctos 9.78416e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10053.jpg
+bison 0.996062
+ox 0.00337184
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10054.jpg
+bison 0.999818
+ox 0.000151826
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10055.jpg
+bison 0.999179
+ox 0.000699344
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10056.jpg
+bison 0.999982
+ox 1.45309e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10057.jpg
+bison 0.999973
+ox 2.68872e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10058.jpg
+bison 0.999522
+ox 0.000417582
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10059.jpg
+bison 0.999995
+ox 4.61069e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10060.jpg
+bison 0.999519
+wild boar, boar, Sus scrofa 0.000163827
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10061.jpg
+bison 0.99986
+ox 8.26761e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10062.jpg
+bison 0.999976
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 1.43633e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10063.jpg
+bison 0.796428
+ox 0.203072
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10064.jpg
+bison 0.911683
+ox 0.070072
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10065.jpg
+bison 0.999133
+ox 0.000459967
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10066.jpg
+bison 0.64316
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.239666
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10067.jpg
+bison 0.995212
+ox 0.00435055
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10068.jpg
+bison 0.983989
+wild boar, boar, Sus scrofa 0.00587757
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10069.jpg
+bison 0.342597
+ox 0.117137
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10070.jpg
+bison 0.895968
+ox 0.0433141
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10071.jpg
+bison 0.906327
+ox 0.0161269
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10072.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.518881
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0821054
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10073.jpg
+bison 0.916726
+wild boar, boar, Sus scrofa 0.0302963
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10074.jpg
+bison 0.987101
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00896814
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10075.jpg
+bison 0.967402
+ox 0.032362
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10076.jpg
+bison 0.992662
+ox 0.00616971
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10077.jpg
+bison 0.859519
+brown bear, bruin, Ursus arctos 0.070857
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10078.jpg
+bison 0.998265
+ox 0.00166142
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10079.jpg
+bison 0.999955
+ox 4.54574e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10080.jpg
+bison 0.959396
+brown bear, bruin, Ursus arctos 0.00740787
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10081.jpg
+Bouvier des Flandres, Bouviers des Flandres 0.189985
+Leonberg 0.163275
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10082.jpg
+bison 0.967296
+ox 0.0118863
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10083.jpg
+bison 0.99939
+ox 0.000296108
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10084.jpg
+bison 0.999996
+ox 4.4933e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10085.jpg
+bison 0.991456
+ox 0.00292279
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10086.jpg
+bison 0.999941
+ox 5.91263e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10087.jpg
+bison 0.998417
+ox 0.00130065
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10088.jpg
+bison 0.99926
+ox 0.000460974
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10089.jpg
+bison 0.995723
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00271187
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10090.jpg
+bison 0.983423
+ox 0.0162338
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10091.jpg
+bison 0.999992
+ox 7.48924e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10092.jpg
+bison 0.995956
+brown bear, bruin, Ursus arctos 0.00210661
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10093.jpg
+bison 0.956836
+ox 0.0189507
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10094.jpg
+bison 0.999975
+ram, tup 1.24124e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10095.jpg
+bison 0.999833
+ox 0.000144038
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10096.jpg
+bison 0.865769
+warthog 0.0583063
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10097.jpg
+bison 0.999989
+ox 1.12389e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10098.jpg
+bison 0.831544
+wild boar, boar, Sus scrofa 0.071543
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10099.jpg
+bison 0.991717
+ibex, Capra ibex 0.00625355
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10100.jpg
+bison 0.99519
+ox 0.0047574
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10101.jpg
+bison 0.996565
+ox 0.00333218
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10102.jpg
+bison 0.999931
+wild boar, boar, Sus scrofa 4.47737e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10103.jpg
+bison 0.912911
+ox 0.0865063
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10104.jpg
+bison 0.991997
+ox 0.00662455
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10105.jpg
+bison 0.643234
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.303001
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10106.jpg
+bison 0.984303
+ox 0.00662704
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10107.jpg
+bison 0.999983
+ox 1.664e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10108.jpg
+bison 0.93153
+ibex, Capra ibex 0.0270654
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10109.jpg
+ox 0.871002
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0558498
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10110.jpg
+bison 0.99679
+ox 0.00206473
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10111.jpg
+bison 0.998241
+ox 0.00156363
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10112.jpg
+bison 0.992446
+ox 0.00754304
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10113.jpg
+bison 0.430095
+ox 0.39989
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10114.jpg
+bison 0.997967
+ox 0.00188854
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10115.jpg
+bison 0.999387
+ox 0.000596761
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10116.jpg
+bison 0.999781
+ox 0.000138828
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10117.jpg
+bison 0.981381
+ox 0.00798471
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10118.jpg
+bison 0.999358
+ox 0.00051466
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10119.jpg
+bison 0.999969
+ox 3.11383e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10120.jpg
+bison 0.999992
+ox 8.17924e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10121.jpg
+bison 0.988491
+ox 0.0100461
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10122.jpg
+bison 0.681678
+llama 0.229743
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10123.jpg
+bison 0.999662
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000190961
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10124.jpg
+bison 0.994012
+ox 0.00511702
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10125.jpg
+bison 0.999753
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000170192
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10126.jpg
+bison 0.902685
+ox 0.0793888
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10127.jpg
+gorilla, Gorilla gorilla 0.246621
+bison 0.206743
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10128.jpg
+bison 0.999859
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 7.49992e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10129.jpg
+bison 0.997035
+ox 0.00207117
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10130.jpg
+bison 0.976335
+brown bear, bruin, Ursus arctos 0.00553151
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10131.jpg
+bison 0.950453
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0323418
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10132.jpg
+bison 0.997449
+ox 0.00246503
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10133.jpg
+bison 0.999555
+ox 0.00039197
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10134.jpg
+bison 0.99907
+ox 0.000860114
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10135.jpg
+ox 0.33886
+bison 0.261534
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10136.jpg
+bison 0.999891
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 8.7385e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10137.jpg
+bison 0.997006
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0021161
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10138.jpg
+bison 0.997364
+ox 0.00255687
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10139.jpg
+bison 0.919687
+ram, tup 0.0331191
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10140.jpg
+bison 0.999757
+ox 0.000149263
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10141.jpg
+bison 0.999971
+ox 1.73062e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10142.jpg
+bison 0.999874
+ox 0.000125843
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10143.jpg
+bison 0.884896
+African elephant, Loxodonta africana 0.094545
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10144.jpg
+bison 0.931767
+African elephant, Loxodonta africana 0.024919
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10145.jpg
+bison 0.990723
+ox 0.00859823
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10146.jpg
+bison 0.624029
+warthog 0.22272
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10147.jpg
+bison 0.999181
+ox 0.000819278
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10148.jpg
+bison 0.991068
+ox 0.00739823
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10149.jpg
+bison 0.923509
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0574722
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10150.jpg
+bison 0.999332
+ox 0.000601911
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10151.jpg
+bison 0.957024
+ox 0.01355
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10152.jpg
+bison 0.999966
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 2.25944e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10153.jpg
+bison 0.996216
+ox 0.00309831
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10154.jpg
+bison 0.999833
+ox 0.00011422
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10155.jpg
+bison 0.9997
+ox 0.00027309
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10156.jpg
+bison 0.983806
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00728614
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10157.jpg
+bison 0.660796
+oxcart 0.115695
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10158.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10159.jpg
+bison 0.999654
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000255128
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10160.jpg
+bison 0.999482
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000336291
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10161.jpg
+hay 0.762036
+bison 0.031517
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10162.jpg
+bison 0.996095
+ox 0.00385589
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10163.jpg
+bison 0.999572
+ram, tup 0.000333522
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10164.jpg
+bison 0.999792
+ox 0.000182369
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10165.jpg
+bison 0.997123
+ox 0.00262919
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10166.jpg
+wild boar, boar, Sus scrofa 0.336344
+warthog 0.330926
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10167.jpg
+bison 0.56722
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.324518
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10168.jpg
+bison 0.99564
+brown bear, bruin, Ursus arctos 0.00221012
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10169.jpg
+bison 0.99558
+warthog 0.00244803
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10170.jpg
+beaver 0.62197
+goose 0.0511628
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10171.jpg
+bison 0.998228
+ox 0.00122375
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10172.jpg
+bison 0.858131
+ox 0.0938121
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10173.jpg
+red fox, Vulpes vulpes 0.204373
+hyena, hyaena 0.149815
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10174.jpg
+bison 0.972311
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0177688
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10175.jpg
+bison 0.984391
+ox 0.0109173
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10176.jpg
+bison 0.999949
+ox 4.77289e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10177.jpg
+bison 0.997557
+ox 0.00188328
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10178.jpg
+bison 0.951805
+ox 0.0327594
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10179.jpg
+bison 0.996592
+ox 0.0032069
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10180.jpg
+bison 0.983821
+wild boar, boar, Sus scrofa 0.0115658
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10181.jpg
+bison 0.999944
+ox 3.10396e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10182.jpg
+bison 0.998996
+ox 0.00080038
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10183.jpg
+bison 0.999358
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000275867
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10184.jpg
+bison 0.999669
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000234317
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10185.jpg
+bison 0.691213
+ox 0.0715641
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10186.jpg
+bison 0.860719
+brown bear, bruin, Ursus arctos 0.0831681
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10187.jpg
+bison 0.999479
+ox 0.000446315
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10188.jpg
+bison 0.951372
+warthog 0.0251406
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10189.jpg
+bison 0.954287
+brown bear, bruin, Ursus arctos 0.0251695
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10190.jpg
+bison 0.998627
+ox 0.000896851
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10191.jpg
+bison 0.999293
+ox 0.000697398
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10192.jpg
+bison 0.998107
+ox 0.00171272
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10193.jpg
+bison 0.999896
+ox 0.000104481
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10194.jpg
+bison 0.998081
+brown bear, bruin, Ursus arctos 0.000620682
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10195.jpg
+hay 0.445958
+gazelle 0.170252
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10196.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10197.jpg
+bison 0.716831
+ox 0.214222
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10198.jpg
+bison 0.999939
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 3.26867e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10199.jpg
+bison 0.908911
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0537313
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10200.jpg
+bison 0.938427
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0268882
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10201.jpg
+bison 0.842346
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.116349
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10202.jpg
+bison 0.974937
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0246223
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10203.jpg
+bison 0.812289
+ox 0.0801189
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10204.jpg
+bison 0.999958
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 3.21922e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10205.jpg
+Greater Swiss Mountain dog 0.199969
+bloodhound, sleuthhound 0.0852258
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10206.jpg
+bison 0.785863
+ox 0.0887169
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10207.jpg
+brown bear, bruin, Ursus arctos 0.517253
+lion, king of beasts, Panthera leo 0.159526
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10208.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10209.jpg
+bison 0.999767
+ox 0.000174271
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10210.jpg
+bison 0.99873
+ox 0.00116951
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10211.jpg
+bison 0.895322
+ox 0.0966712
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10212.jpg
+bison 0.999812
+ox 0.000172045
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10213.jpg
+bison 0.977129
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0193904
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10214.jpg
+bison 0.999898
+ox 9.77987e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10215.jpg
+bison 0.984999
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0103149
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10216.jpg
+bison 0.999916
+ox 8.3753e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10217.jpg
+bison 0.876704
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0800265
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10218.jpg
+bison 0.981202
+ibex, Capra ibex 0.00493651
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10219.jpg
+shovel 0.0390501
+chainlink fence 0.0344577
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10220.jpg
+bison 0.888178
+ram, tup 0.0869384
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10221.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.10619
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0929405
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10222.jpg
+bison 0.934895
+wild boar, boar, Sus scrofa 0.0510553
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10223.jpg
+bison 0.999902
+ox 7.72667e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10224.jpg
+bison 0.987406
+ox 0.0120924
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10225.jpg
+bison 0.993584
+ox 0.00451834
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10226.jpg
+bison 0.965152
+warthog 0.0137051
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10227.jpg
+bison 0.979309
+ox 0.0200127
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10228.jpg
+bison 0.416998
+ox 0.241197
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10229.jpg
+bison 0.554191
+hay 0.248912
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10230.jpg
+bison 0.997859
+ox 0.00162318
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10231.jpg
+bison 0.994324
+ox 0.00234865
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10232.jpg
+bison 0.94847
+wild boar, boar, Sus scrofa 0.0113141
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10233.jpg
+bison 0.995832
+wild boar, boar, Sus scrofa 0.0013561
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10234.jpg
+bison 0.939855
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0282455
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10235.jpg
+bison 0.960635
+ostrich, Struthio camelus 0.0208319
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10236.jpg
+bison 0.999455
+ox 0.000457646
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10237.jpg
+ox 0.854598
+bison 0.144133
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10238.jpg
+bison 0.999898
+ox 9.59841e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10239.jpg
+bison 0.998286
+brown bear, bruin, Ursus arctos 0.00122401
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10240.jpg
+bison 0.984236
+brown bear, bruin, Ursus arctos 0.00582251
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10241.jpg
+bison 0.971468
+ox 0.010651
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10242.jpg
+bison 0.987956
+ox 0.008762
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10243.jpg
+bison 0.999216
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000514834
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10244.jpg
+bison 0.998873
+ox 0.000438297
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10245.jpg
+bison 0.984999
+ox 0.0120028
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10246.jpg
+bison 0.89236
+ox 0.0991566
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10247.jpg
+bison 0.999592
+ox 0.000190771
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10248.jpg
+bison 0.996783
+ox 0.00287738
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10249.jpg
+bison 0.738621
+ox 0.25186
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10250.jpg
+bison 0.652849
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.18645
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10251.jpg
+bison 0.999953
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 3.38055e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10252.jpg
+bison 0.6917
+ox 0.0582281
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10253.jpg
+bison 0.974787
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0191554
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10254.jpg
+bison 0.985337
+ox 0.00969636
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10255.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10256.jpg
+bison 0.983918
+ox 0.0109068
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10257.jpg
+bison 0.998836
+ox 0.000584566
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10258.jpg
+bison 0.997217
+ox 0.00215173
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10259.jpg
+bison 0.989379
+ox 0.0102697
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10260.jpg
+bison 0.993658
+ox 0.00355892
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10261.jpg
+bison 0.997267
+ox 0.00264785
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10262.jpg
+bison 0.994561
+ox 0.002118
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10263.jpg
+bison 0.999992
+ox 8.00284e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10264.jpg
+bison 0.917117
+ox 0.0777118
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10265.jpg
+bison 0.609059
+ox 0.381127
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10266.jpg
+bison 0.168919
+Rottweiler 0.132687
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10267.jpg
+bison 0.999807
+ox 0.000159408
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10268.jpg
+ox 0.425968
+bison 0.289118
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10269.jpg
+bison 0.895678
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0442348
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10270.jpg
+bison 0.984426
+ox 0.0127786
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10271.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.266276
+bison 0.22092
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10272.jpg
+bison 0.999439
+ox 0.000104585
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10273.jpg
+bison 0.735135
+brown bear, bruin, Ursus arctos 0.166738
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10274.jpg
+bison 0.472391
+ostrich, Struthio camelus 0.279237
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10275.jpg
+bison 0.999727
+ox 0.000143603
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10276.jpg
+bison 0.999907
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 6.7884e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10277.jpg
+bison 0.728454
+schipperke 0.0655391
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10278.jpg
+dogsled, dog sled, dog sleigh 0.328205
+snowmobile 0.307249
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10279.jpg
+bison 0.942467
+brown bear, bruin, Ursus arctos 0.0208411
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10280.jpg
+bison 0.999676
+wild boar, boar, Sus scrofa 0.000192648
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10281.jpg
+African elephant, Loxodonta africana 0.365725
+tusker 0.266381
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10282.jpg
+bison 0.999209
+ox 0.000308668
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10283.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.341931
+bison 0.311861
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10284.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.253521
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0671642
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10285.jpg
+bison 0.999
+ox 0.000513684
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10286.jpg
+bison 0.976777
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0154091
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10287.jpg
+bison 0.75016
+ox 0.248938
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10288.jpg
+bison 0.652915
+hog, pig, grunter, squealer, Sus scrofa 0.08983
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10289.jpg
+ox 0.50888
+bison 0.453922
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10290.jpg
+bison 0.569483
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.189751
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10291.jpg
+bison 0.999865
+ox 0.0001208
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10292.jpg
+hyena, hyaena 0.200248
+brown bear, bruin, Ursus arctos 0.153265
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10293.jpg
+bison 0.936585
+ox 0.0607896
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10294.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.480856
+bison 0.465232
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10295.jpg
+bison 0.989056
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00693739
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10296.jpg
+bison 0.999972
+ox 2.35857e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10297.jpg
+bison 0.99992
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 3.57488e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10298.jpg
+bison 0.999381
+ox 0.000609383
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10299.jpg
+bison 0.999603
+ox 0.000396661
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10300.jpg
+bison 0.999707
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000234382
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10301.jpg
+bison 0.35096
+cliff dwelling 0.251858
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10302.jpg
+bison 0.998148
+ox 0.000693835
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10303.jpg
+bison 0.644413
+Arabian camel, dromedary, Camelus dromedarius 0.11156
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10304.jpg
+bison 0.985343
+ox 0.0143961
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10305.jpg
+ox 0.297237
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.26719
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10306.jpg
+rapeseed 0.747388
+Bouvier des Flandres, Bouviers des Flandres 0.0479469
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10307.jpg
+bison 0.973092
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0117092
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10308.jpg
+bison 0.998977
+ram, tup 0.000547669
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10309.jpg
+bison 0.996659
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00216105
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10310.jpg
+bison 0.98517
+ox 0.0115688
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10311.jpg
+snowplow, snowplough 0.580907
+wreck 0.28777
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10312.jpg
+bison 0.96718
+ox 0.00714822
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10313.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.281697
+wild boar, boar, Sus scrofa 0.24893
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10314.jpg
+bison 0.519958
+ox 0.31115
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10315.jpg
+valley, vale 0.241758
+sandbar, sand bar 0.2266
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10316.jpg
+maze, labyrinth 0.349129
+megalith, megalithic structure 0.288781
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10317.jpg
+brown bear, bruin, Ursus arctos 0.341157
+bison 0.203608
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10318.jpg
+bison 0.99996
+wild boar, boar, Sus scrofa 1.98981e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10319.jpg
+bison 0.527958
+warthog 0.077583
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10320.jpg
+bison 0.862016
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.107328
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10321.jpg
+bison 0.937942
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0195017
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10322.jpg
+bison 0.960663
+ox 0.0387937
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10323.jpg
+bison 0.977998
+ox 0.0118528
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10324.jpg
+bison 0.998165
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00134628
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10325.jpg
+bison 0.995769
+ox 0.00408503
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10326.jpg
+bison 0.99409
+ox 0.00585551
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10327.jpg
+bison 0.593499
+brown bear, bruin, Ursus arctos 0.316444
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10328.jpg
+bison 0.926395
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0278837
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10329.jpg
+bison 0.999996
+ox 3.8311e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10330.jpg
+bison 0.977298
+brown bear, bruin, Ursus arctos 0.00696513
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10331.jpg
+bison 0.801655
+brown bear, bruin, Ursus arctos 0.135214
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10332.jpg
+bison 0.982648
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00873999
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10333.jpg
+bison 0.997935
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.00183605
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10334.jpg
+warthog 0.391365
+bison 0.203041
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10335.jpg
+bison 0.99636
+ram, tup 0.00116172
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10336.jpg
+bison 0.996475
+ox 0.00239238
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10337.jpg
+bison 0.984583
+ox 0.0154167
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10338.jpg
+bison 0.949966
+ox 0.0265461
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10339.jpg
+bison 0.596095
+ox 0.402717
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10340.jpg
+bison 0.952222
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0178631
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10341.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.154915
+African elephant, Loxodonta africana 0.135804
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10342.jpg
+bison 0.999817
+brown bear, bruin, Ursus arctos 9.31272e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10343.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10344.jpg
+bison 0.997508
+ox 0.00175008
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10345.jpg
+bison 0.979644
+ox 0.0198977
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10346.jpg
+bison 0.822757
+ox 0.0991267
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10347.jpg
+bison 0.939103
+ostrich, Struthio camelus 0.0228969
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10348.jpg
+bison 0.997678
+ox 0.00231495
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10349.jpg
+bison 0.991616
+ox 0.00668562
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10350.jpg
+bison 0.996102
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00245854
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10351.jpg
+bison 0.990333
+ox 0.00476368
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10352.jpg
+bison 0.994715
+ox 0.00261182
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10353.jpg
+bison 0.999583
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000181838
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10354.jpg
+bison 0.999003
+ox 0.000872816
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10355.jpg
+bison 0.998895
+ox 0.00107247
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10356.jpg
+bison 0.445732
+ox 0.418396
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10357.jpg
+bison 0.991908
+hay 0.00521416
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10358.jpg
+bison 0.987017
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00931509
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10359.jpg
+bison 0.998814
+ox 0.0011858
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10360.jpg
+bison 0.997273
+ox 0.00263101
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10361.jpg
+bison 0.913702
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0452258
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10362.jpg
+bison 0.67034
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0723198
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10363.jpg
+bison 0.946331
+ox 0.0353401
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10364.jpg
+tusker 0.410333
+African elephant, Loxodonta africana 0.265258
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10365.jpg
+bison 0.999151
+ox 0.000298369
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10366.jpg
+bison 0.9997
+ox 0.000296355
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10367.jpg
+bison 0.894044
+ox 0.071466
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10368.jpg
+bison 0.974859
+brown bear, bruin, Ursus arctos 0.0121476
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10369.jpg
+bison 0.421919
+wombat 0.127786
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10370.jpg
+ox 0.398064
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.289255
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10371.jpg
+ibex, Capra ibex 0.643408
+ox 0.136004
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10372.jpg
+bison 0.960219
+ox 0.0368474
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10373.jpg
+bison 0.933555
+brown bear, bruin, Ursus arctos 0.0333478
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10374.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10375.jpg
+bison 0.999895
+ox 9.19149e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10376.jpg
+ox 0.93404
+bison 0.0368783
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10377.jpg
+ox 0.389868
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.176588
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10378.jpg
+bison 0.991971
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00312477
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10379.jpg
+bison 0.693659
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.209012
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10380.jpg
+bison 0.117054
+flat-coated retriever 0.0618145
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10381.jpg
+bison 0.991408
+brown bear, bruin, Ursus arctos 0.00390046
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10382.jpg
+bison 0.316114
+ox 0.256598
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10383.jpg
+bison 0.98324
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0131317
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10384.jpg
+bison 0.999629
+ox 0.000365701
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10385.jpg
+monastery 0.600446
+cliff dwelling 0.169034
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10386.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.668717
+bison 0.319085
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10387.jpg
+bison 0.0798951
+ox 0.0620227
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10388.jpg
+bison 0.999966
+ox 3.40695e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10389.jpg
+bison 0.800886
+ibex, Capra ibex 0.14243
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10390.jpg
+bison 0.738178
+warthog 0.121
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10391.jpg
+bison 0.998298
+ox 0.000755692
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10392.jpg
+bison 0.993694
+ibex, Capra ibex 0.00241855
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10393.jpg
+bison 0.987526
+ox 0.012361
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10394.jpg
+brown bear, bruin, Ursus arctos 0.478333
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.171902
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10395.jpg
+bison 0.906287
+ox 0.0412591
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10396.jpg
+bison 0.999779
+ox 0.000220754
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10397.jpg
+bison 0.998343
+ox 0.000308852
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10398.jpg
+bison 0.990714
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00193838
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10399.jpg
+bison 0.996232
+ox 0.00204357
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10400.jpg
+bison 0.317739
+dhole, Cuon alpinus 0.231357
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10401.jpg
+bison 0.991878
+ox 0.00804634
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10402.jpg
+bison 0.843779
+brown bear, bruin, Ursus arctos 0.0500982
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10403.jpg
+bison 0.902799
+ox 0.0915202
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10404.jpg
+bison 0.291161
+hay 0.0805087
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10405.jpg
+bison 0.778628
+ox 0.170293
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10406.jpg
+bison 0.999869
+ox 3.64604e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10407.jpg
+bison 0.998165
+ox 0.00139256
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10408.jpg
+bison 0.864695
+ox 0.0652967
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10409.jpg
+bison 0.219168
+lion, king of beasts, Panthera leo 0.21746
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10410.jpg
+bison 0.999829
+ox 0.000171236
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10411.jpg
+bison 0.976187
+ox 0.0165231
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10412.jpg
+brown bear, bruin, Ursus arctos 0.173853
+baboon 0.171752
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10413.jpg
+bison 0.986295
+ox 0.0136775
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10414.jpg
+bison 0.993521
+ox 0.00646398
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10415.jpg
+bison 0.794631
+wild boar, boar, Sus scrofa 0.0856423
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10416.jpg
+patio, terrace 0.282364
+lumbermill, sawmill 0.262411
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10417.jpg
+bison 0.992517
+African elephant, Loxodonta africana 0.00432303
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10418.jpg
+bison 0.912548
+ox 0.0859993
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10419.jpg
+bison 0.998831
+ox 0.000576033
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10420.jpg
+bison 0.999661
+ox 0.000323543
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10421.jpg
+bison 0.987936
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00504334
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10422.jpg
+bison 0.799472
+brown bear, bruin, Ursus arctos 0.0556854
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10423.jpg
+bison 0.975993
+ox 0.0181198
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10424.jpg
+bison 0.996848
+ox 0.00238987
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10425.jpg
+bison 0.86589
+ram, tup 0.0272219
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10426.jpg
+bison 0.999807
+ox 0.000185869
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10427.jpg
+bison 0.938826
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0572872
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10428.jpg
+hay 0.94016
+megalith, megalithic structure 0.0256413
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10429.jpg
+bison 0.985343
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00972152
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10430.jpg
+bison 0.999865
+ox 0.000131193
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10431.jpg
+bison 0.754746
+wild boar, boar, Sus scrofa 0.0553308
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10432.jpg
+bison 0.973712
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0241623
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10433.jpg
+bison 0.988564
+ram, tup 0.00391574
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10434.jpg
+bison 0.999411
+ox 0.000588966
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10435.jpg
+bison 0.999886
+ox 5.8489e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10436.jpg
+bison 0.980848
+ox 0.00608457
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10437.jpg
+bison 0.990287
+hyena, hyaena 0.00521388
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10438.jpg
+bison 0.999342
+warthog 0.000489006
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10439.jpg
+hyena, hyaena 0.475297
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.146035
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10440.jpg
+bison 0.984472
+warthog 0.00822316
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10441.jpg
+basset, basset hound 0.276069
+beagle 0.101259
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10442.jpg
+bison 0.930017
+wild boar, boar, Sus scrofa 0.02058
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10443.jpg
+bison 0.56443
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.378381
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10444.jpg
+bison 0.920574
+ox 0.0581326
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10445.jpg
+bison 0.464377
+Newfoundland, Newfoundland dog 0.0556248
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10446.jpg
+bison 0.97345
+ox 0.0262488
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10447.jpg
+bison 0.968383
+ox 0.028365
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10448.jpg
+bison 0.915548
+ox 0.0341263
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10449.jpg
+bison 0.922752
+ox 0.0517763
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10450.jpg
+snowmobile 0.275227
+snowplow, snowplough 0.225
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10451.jpg
+bison 0.999366
+ox 0.000286725
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10452.jpg
+bison 0.999576
+ibex, Capra ibex 0.000113694
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10453.jpg
+bison 0.982829
+ox 0.0129329
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10454.jpg
+bison 0.842791
+brown bear, bruin, Ursus arctos 0.101346
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10455.jpg
+bison 0.1636
+standard poodle 0.138327
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10456.jpg
+bison 0.986776
+ox 0.0108631
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10457.jpg
+bison 0.985349
+wild boar, boar, Sus scrofa 0.00851564
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10458.jpg
+bison 0.999046
+ox 0.000800524
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10459.jpg
+bison 0.962006
+ox 0.0125899
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10460.jpg
+bison 0.982895
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0112628
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10461.jpg
+bison 0.984494
+ox 0.0145317
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10462.jpg
+bison 0.896341
+wild boar, boar, Sus scrofa 0.0475375
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10463.jpg
+bison 0.930498
+ox 0.0187411
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10464.jpg
+ox 0.554206
+bison 0.313778
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10465.jpg
+brown bear, bruin, Ursus arctos 0.244429
+tusker 0.172848
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10466.jpg
+bison 0.987081
+ox 0.0124112
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10467.jpg
+bison 0.996355
+ox 0.00346766
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10468.jpg
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor 0.138735
+orangutan, orang, orangutang, Pongo pygmaeus 0.0701952
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10469.jpg
+bison 0.876149
+ox 0.0562342
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10470.jpg
+bison 0.999993
+ox 6.56754e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10471.jpg
+bison 0.999448
+ox 0.000544491
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10472.jpg
+bison 0.999912
+ox 5.49956e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10473.jpg
+bison 0.999616
+ox 0.000351534
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10474.jpg
+bison 0.987546
+ox 0.0112052
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10475.jpg
+bison 0.996777
+ox 0.00225673
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10476.jpg
+bison 0.999793
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000104084
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10477.jpg
+bison 0.9999
+ox 8.78518e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10478.jpg
+bison 0.838947
+warthog 0.0481711
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10479.jpg
+bison 0.297185
+warthog 0.177125
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10480.jpg
+bison 0.999717
+ox 0.000273916
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10481.jpg
+bison 0.995904
+ox 0.00355152
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10482.jpg
+bison 0.998236
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00145235
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10483.jpg
+bison 0.999492
+ox 0.000436317
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10484.jpg
+bison 0.996497
+ox 0.00348638
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10485.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.309342
+African elephant, Loxodonta africana 0.103964
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10486.jpg
+bison 0.999458
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000439975
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10487.jpg
+bison 0.999622
+African elephant, Loxodonta africana 0.000134592
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10488.jpg
+bison 0.976408
+hay 0.0190606
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10489.jpg
+bison 0.986792
+ox 0.0069186
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10490.jpg
+bison 0.999698
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00016427
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10491.jpg
+bison 0.972187
+brown bear, bruin, Ursus arctos 0.02666
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10492.jpg
+bison 0.940852
+ostrich, Struthio camelus 0.00910229
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10493.jpg
+bison 0.878826
+ox 0.0500244
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10494.jpg
+bison 0.997201
+ox 0.0017986
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10495.jpg
+bison 0.958361
+ox 0.0262769
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10496.jpg
+bison 0.999811
+ox 0.000148343
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10497.jpg
+bison 0.991189
+ox 0.00875142
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10498.jpg
+bison 0.999617
+ox 0.00037866
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10499.jpg
+dhole, Cuon alpinus 0.211616
+warthog 0.15706
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10500.jpg
+bison 0.387726
+ox 0.199487
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10501.jpg
+bison 0.429709
+wallaby, brush kangaroo 0.313804
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10502.jpg
+bison 0.491071
+brown bear, bruin, Ursus arctos 0.315212
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10503.jpg
+bison 0.995941
+ox 0.00399977
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10504.jpg
+bison 0.990738
+ox 0.00545327
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10505.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.627279
+ox 0.293924
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10506.jpg
+bison 0.991466
+ox 0.0050998
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10507.jpg
+bison 0.683232
+llama 0.228749
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10508.jpg
+bison 0.817439
+ox 0.0716342
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10509.jpg
+bison 0.77405
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.19641
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10510.jpg
+bison 0.985776
+ox 0.0138894
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10511.jpg
+bison 0.904304
+ox 0.092096
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10512.jpg
+bison 0.997347
+ox 0.00220087
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10513.jpg
+bison 0.99988
+ox 0.000119576
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10514.jpg
+bison 0.999786
+ox 0.00020913
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10515.jpg
+bison 0.999376
+ox 0.000534436
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10516.jpg
+bison 0.999629
+ox 0.000312699
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10517.jpg
+bison 0.99975
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000152102
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10518.jpg
+bison 0.712122
+ox 0.165458
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10519.jpg
+bison 0.651289
+ox 0.348389
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10520.jpg
+ox 0.602762
+bison 0.373014
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10521.jpg
+bison 0.672754
+ostrich, Struthio camelus 0.160542
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10522.jpg
+bison 0.826273
+ox 0.123644
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10523.jpg
+bison 0.909902
+brown bear, bruin, Ursus arctos 0.0800457
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10524.jpg
+bison 0.998484
+wild boar, boar, Sus scrofa 0.00106394
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10525.jpg
+bison 0.999775
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000149086
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10526.jpg
+bison 0.629539
+ox 0.172942
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10527.jpg
+bison 0.999973
+ox 2.33915e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10528.jpg
+bison 0.999524
+ox 0.000476017
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10529.jpg
+bison 0.999659
+ox 0.000298024
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10530.jpg
+bison 0.675255
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.322073
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10531.jpg
+bison 0.711289
+ox 0.28856
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10532.jpg
+bison 0.801975
+ox 0.0953786
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10533.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.83379
+warthog 0.0753999
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10534.jpg
+wild boar, boar, Sus scrofa 0.468666
+bison 0.355904
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10535.jpg
+bison 0.999473
+ox 0.000518624
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10536.jpg
+bison 0.967637
+ox 0.0321069
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10537.jpg
+bison 0.999716
+ox 0.000198153
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10538.jpg
+llama 0.263195
+Arabian camel, dromedary, Camelus dromedarius 0.259938
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10539.jpg
+bison 0.997252
+ox 0.00268496
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10540.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.542425
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0656233
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10541.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.140537
+vulture 0.135617
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10542.jpg
+bison 0.997344
+ox 0.0021859
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10543.jpg
+bison 0.995295
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00259188
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10544.jpg
+bison 0.999989
+ox 1.07272e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10545.jpg
+bison 0.99992
+ox 7.99223e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10546.jpg
+bison 0.997616
+ox 0.00137044
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10547.jpg
+bison 0.982628
+ox 0.0172509
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10548.jpg
+bison 0.956475
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0248443
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10549.jpg
+bison 0.817838
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.057232
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10550.jpg
+bison 0.842545
+ox 0.132425
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10551.jpg
+bison 0.999643
+ox 0.000308456
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10552.jpg
+bison 0.998898
+ox 0.000958057
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10553.jpg
+bison 0.982614
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.00685057
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10554.jpg
+bison 0.998128
+ram, tup 0.00106731
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10555.jpg
+bison 0.918446
+ox 0.0653739
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10556.jpg
+bison 0.990615
+ox 0.00721273
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10557.jpg
+bison 0.983125
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0115646
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10558.jpg
+bison 0.999659
+ox 0.00034137
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10559.jpg
+bison 0.99715
+ox 0.00274757
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10560.jpg
+bison 0.995048
+ox 0.00453309
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10561.jpg
+bison 0.999444
+ox 0.000549799
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10562.jpg
+bison 0.99148
+ox 0.00456381
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10563.jpg
+bison 0.999946
+ox 5.14254e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10564.jpg
+bison 0.944384
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0322704
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10565.jpg
+bison 0.955251
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0228856
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10566.jpg
+bison 0.988218
+ox 0.0104848
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10567.jpg
+bison 0.997532
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00135703
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10568.jpg
+bison 0.999364
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000295105
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10569.jpg
+brown bear, bruin, Ursus arctos 0.461186
+bison 0.243631
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10570.jpg
+bison 0.996124
+ox 0.0034996
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10571.jpg
+bison 0.967119
+brown bear, bruin, Ursus arctos 0.0150961
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10572.jpg
+bison 0.709798
+African elephant, Loxodonta africana 0.17299
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10573.jpg
+bison 0.856374
+ox 0.134658
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10574.jpg
+bison 0.998768
+ox 0.00088378
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10575.jpg
+bison 0.999411
+ox 0.000530196
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10576.jpg
+bison 0.995233
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00248233
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10577.jpg
+bison 0.997165
+ox 0.00165843
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10578.jpg
+bison 0.996672
+ox 0.00258495
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10579.jpg
+bison 0.997318
+ox 0.00217946
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10580.jpg
+bison 0.999923
+ox 7.35305e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10581.jpg
+bison 0.999985
+brown bear, bruin, Ursus arctos 1.04407e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10582.jpg
+bison 0.998016
+ox 0.00115047
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10583.jpg
+bison 0.995725
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00184803
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10584.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10585.jpg
+bison 0.996425
+ox 0.00353929
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10586.jpg
+bison 0.998093
+ox 0.00182862
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10587.jpg
+bison 0.973825
+ox 0.015421
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10588.jpg
+bison 0.965278
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0284693
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10589.jpg
+bison 0.999893
+ox 9.67614e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10590.jpg
+bison 0.999996
+ox 3.7315e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10591.jpg
+bison 0.999986
+ox 1.3791e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10592.jpg
+bison 0.996941
+brown bear, bruin, Ursus arctos 0.0019871
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10593.jpg
+bison 0.908358
+African elephant, Loxodonta africana 0.070586
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10594.jpg
+bison 0.998538
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000841172
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10595.jpg
+bison 0.988545
+ox 0.00982148
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10596.jpg
+bison 0.997945
+ox 0.00143595
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10597.jpg
+bison 0.999988
+ox 1.24305e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10598.jpg
+bison 0.931531
+African elephant, Loxodonta africana 0.0420275
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10599.jpg
+bison 0.982465
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00732248
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10600.jpg
+bison 0.871327
+warthog 0.0365965
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10601.jpg
+bison 0.998819
+ox 0.00109424
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10602.jpg
+African elephant, Loxodonta africana 0.756462
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.101019
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10603.jpg
+bison 0.991117
+ox 0.00463121
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10604.jpg
+bison 0.999682
+ox 0.000243727
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10605.jpg
+bison 0.993982
+ox 0.00598011
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10606.jpg
+bison 0.997072
+ox 0.0029179
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10607.jpg
+bison 0.999902
+ox 9.83835e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10608.jpg
+bison 0.997782
+ox 0.000703944
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10609.jpg
+bison 0.999661
+ox 0.000339009
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10610.jpg
+bison 0.318156
+Bouvier des Flandres, Bouviers des Flandres 0.310946
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10611.jpg
+bison 0.994985
+ox 0.00485659
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10612.jpg
+bison 0.971024
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0243767
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10613.jpg
+bison 0.999853
+ox 0.000142528
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10614.jpg
+bison 0.764269
+warthog 0.0247736
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10615.jpg
+bison 0.982932
+ram, tup 0.00520092
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10616.jpg
+bison 0.957886
+ox 0.0334392
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10617.jpg
+bison 0.997911
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00121306
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10618.jpg
+bison 0.8332
+llama 0.128899
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10619.jpg
+bison 0.983651
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00916278
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10620.jpg
+bison 0.987969
+ox 0.00531811
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10621.jpg
+bison 0.999529
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.000119982
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10622.jpg
+bison 0.93363
+ox 0.0639651
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10623.jpg
+bison 0.98126
+ox 0.0174532
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10624.jpg
+bison 0.993281
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00619755
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10625.jpg
+bison 0.582252
+ox 0.252203
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10626.jpg
+bison 0.730083
+ox 0.204338
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10627.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.387462
+warthog 0.126682
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10628.jpg
+bison 0.988883
+ox 0.0110724
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10629.jpg
+bison 0.728326
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0981484
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10630.jpg
+bison 0.969888
+ox 0.0274846
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10631.jpg
+bison 0.999637
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000288897
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10632.jpg
+bison 0.944963
+brown bear, bruin, Ursus arctos 0.0268142
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10633.jpg
+bison 0.910381
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0705652
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10634.jpg
+bison 0.99973
+ox 0.000265363
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10635.jpg
+bison 0.999974
+ox 2.61146e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10636.jpg
+bison 0.958255
+ox 0.0298285
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10637.jpg
+bison 0.999801
+ox 0.000194763
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10638.jpg
+bison 0.452273
+ram, tup 0.177991
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10639.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.380128
+bison 0.313113
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10640.jpg
+bison 0.907032
+ox 0.0520054
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10641.jpg
+bison 0.994487
+ox 0.00310056
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10642.jpg
+bison 0.997731
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00127265
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10643.jpg
+bison 0.991395
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.00615767
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10644.jpg
+bison 0.999764
+ox 0.000217319
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10645.jpg
+bison 0.868717
+ox 0.0742326
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10646.jpg
+bison 0.541116
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.27645
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10647.jpg
+bison 0.85143
+warthog 0.0259392
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10648.jpg
+bison 0.997215
+ox 0.00228835
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10649.jpg
+bison 0.912132
+ox 0.0586364
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10650.jpg
+bison 0.940321
+ox 0.0146516
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10651.jpg
+bison 0.998595
+ox 0.0008764
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10652.jpg
+bison 0.998971
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000594439
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10653.jpg
+bison 0.904552
+ox 0.0884783
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10654.jpg
+collie 0.246915
+llama 0.117773
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10655.jpg
+car mirror 0.243376
+go-kart 0.116594
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10656.jpg
+bison 0.967524
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0146702
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10657.jpg
+bison 0.808641
+ox 0.188435
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10658.jpg
+bison 0.999959
+ox 4.12294e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10659.jpg
+bison 0.822905
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.13896
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10660.jpg
+hyena, hyaena 0.173459
+warthog 0.0947391
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10661.jpg
+wild boar, boar, Sus scrofa 0.588575
+hog, pig, grunter, squealer, Sus scrofa 0.284654
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10662.jpg
+bison 0.818267
+brown bear, bruin, Ursus arctos 0.0979296
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10663.jpg
+bison 0.92372
+hog, pig, grunter, squealer, Sus scrofa 0.024698
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10664.jpg
+bison 0.99999
+ox 9.96973e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10665.jpg
+bison 0.999463
+ox 0.000280381
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10666.jpg
+bison 0.991403
+ox 0.00552914
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10667.jpg
+bison 0.999882
+ox 0.000109667
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10668.jpg
+bison 0.995896
+African elephant, Loxodonta africana 0.00286958
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10669.jpg
+bison 0.998092
+ox 0.00113608
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10670.jpg
+bison 0.999378
+ox 0.000580458
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10671.jpg
+bison 0.958395
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0216659
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10672.jpg
+bison 0.999989
+ox 5.87029e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10673.jpg
+bison 0.999655
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000251822
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10674.jpg
+bison 0.985024
+ox 0.0134742
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10675.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10676.jpg
+bison 0.992552
+ram, tup 0.00214844
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10677.jpg
+bison 0.999834
+ox 8.68501e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10678.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.38428
+wild boar, boar, Sus scrofa 0.078561
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10679.jpg
+bison 0.279261
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.174126
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10680.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10681.jpg
+ostrich, Struthio camelus 0.975921
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0145593
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10682.jpg
+bison 0.999075
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000522609
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10683.jpg
+bison 0.70762
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.147981
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10684.jpg
+bison 0.985052
+ox 0.0124399
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10685.jpg
+bison 0.998835
+ox 0.000793615
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10686.jpg
+bison 0.996373
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0021571
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10687.jpg
+bison 0.99626
+ox 0.00225573
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10688.jpg
+bison 0.605495
+Newfoundland, Newfoundland dog 0.0424661
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10689.jpg
+bison 0.997041
+ox 0.00289196
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10690.jpg
+ox 0.389901
+bison 0.348622
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10691.jpg
+bison 0.998155
+ox 0.00132375
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10692.jpg
+bison 0.427224
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.417386
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10693.jpg
+bison 0.614362
+brown bear, bruin, Ursus arctos 0.155616
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10694.jpg
+bison 0.999771
+ox 0.000228752
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10695.jpg
+bison 0.994842
+ox 0.00240953
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10696.jpg
+bison 0.999807
+ox 0.000189728
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10697.jpg
+hyena, hyaena 0.349756
+lion, king of beasts, Panthera leo 0.199169
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10698.jpg
+hyena, hyaena 0.281716
+lion, king of beasts, Panthera leo 0.18729
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10699.jpg
+bison 0.998841
+ibex, Capra ibex 0.000496913
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10700.jpg
+bison 0.93732
+ox 0.036849
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10701.jpg
+bison 0.326202
+warthog 0.0639769
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10702.jpg
+bison 0.999136
+ox 0.00062906
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10703.jpg
+plow, plough 0.103191
+ox 0.0732324
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10704.jpg
+wild boar, boar, Sus scrofa 0.482694
+hog, pig, grunter, squealer, Sus scrofa 0.141592
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10705.jpg
+bison 0.653036
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.325242
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10706.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10707.jpg
+gorilla, Gorilla gorilla 0.346423
+orangutan, orang, orangutang, Pongo pygmaeus 0.260645
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10708.jpg
+Rhodesian ridgeback 0.11434
+Rottweiler 0.109364
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10709.jpg
+bison 0.999995
+ox 5.32267e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10710.jpg
+bison 0.996619
+brown bear, bruin, Ursus arctos 0.00256084
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10711.jpg
+bison 0.996274
+ox 0.0037265
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10712.jpg
+bison 0.409021
+promontory, headland, head, foreland 0.0999753
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10713.jpg
+bison 0.86975
+brown bear, bruin, Ursus arctos 0.0764271
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10714.jpg
+brown bear, bruin, Ursus arctos 0.882493
+lion, king of beasts, Panthera leo 0.0528733
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10715.jpg
+bison 0.528409
+pickup, pickup truck 0.021383
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10716.jpg
+bison 0.999988
+ox 1.24028e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10717.jpg
+bison 0.999407
+warthog 0.00020012
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10718.jpg
+bison 0.979084
+bald eagle, American eagle, Haliaeetus leucocephalus 0.00755899
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10719.jpg
+bison 0.880613
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.109458
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10720.jpg
+bison 0.912938
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0219749
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10721.jpg
+bison 0.996874
+ox 0.00310936
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10722.jpg
+bison 0.965819
+ox 0.019185
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10723.jpg
+bison 0.999991
+ox 8.87407e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10724.jpg
+ram, tup 0.353844
+ibex, Capra ibex 0.245312
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10725.jpg
+bison 0.987623
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00948752
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10726.jpg
+bison 0.977399
+ox 0.0196343
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10727.jpg
+tusker 0.0871069
+mountain bike, all-terrain bike, off-roader 0.0724283
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10728.jpg
+bison 0.977446
+brown bear, bruin, Ursus arctos 0.0107537
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10729.jpg
+bison 0.997413
+ox 0.00195883
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10730.jpg
+bison 0.998633
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.000861078
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10731.jpg
+bison 0.990881
+ox 0.00829944
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10732.jpg
+bison 0.716934
+ox 0.281557
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10733.jpg
+bison 0.897023
+ox 0.101983
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10734.jpg
+bison 0.99938
+ox 0.000463183
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10735.jpg
+bison 0.999954
+ox 2.93877e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10736.jpg
+ox 0.99939
+bison 0.000510325
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10737.jpg
+bison 0.99976
+ox 0.000232114
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10738.jpg
+bison 0.992917
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00327753
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10739.jpg
+bison 0.993595
+ox 0.00545053
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10740.jpg
+bison 0.935889
+hay 0.0323611
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10741.jpg
+bison 0.929732
+ox 0.031745
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10742.jpg
+bison 0.980733
+warthog 0.00908797
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10743.jpg
+African elephant, Loxodonta africana 0.839047
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0537328
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10744.jpg
+bison 0.997748
+ox 0.00205588
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10745.jpg
+bison 0.997233
+ox 0.00144265
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10746.jpg
+bison 0.668993
+tusker 0.151246
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10747.jpg
+bison 0.993001
+brown bear, bruin, Ursus arctos 0.0022218
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10748.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10749.jpg
+bison 0.969005
+brown bear, bruin, Ursus arctos 0.0196869
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10750.jpg
+bison 0.999967
+ox 1.83855e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10751.jpg
+bison 0.963572
+Irish water spaniel 0.014095
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10752.jpg
+bison 0.944158
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0527076
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10753.jpg
+bison 0.655122
+wild boar, boar, Sus scrofa 0.132699
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10754.jpg
+bison 0.989111
+ox 0.0105155
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10755.jpg
+bison 0.976125
+ox 0.0192419
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10756.jpg
+bison 0.989302
+ox 0.00585928
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10757.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10758.jpg
+bison 0.99891
+ox 0.00107845
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10759.jpg
+bison 0.964777
+ox 0.0313715
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10760.jpg
+bison 0.999983
+ox 1.6919e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10761.jpg
+bison 0.708116
+ox 0.270848
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10762.jpg
+bison 0.692833
+ox 0.282824
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10763.jpg
+bison 0.999665
+ox 0.000310427
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10764.jpg
+bison 0.999909
+ox 8.25114e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10765.jpg
+bison 0.999403
+ox 0.000298718
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10766.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.201064
+ram, tup 0.10834
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10767.jpg
+bison 0.674484
+hog, pig, grunter, squealer, Sus scrofa 0.106132
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10768.jpg
+bison 0.975312
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0112413
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10769.jpg
+bison 0.996726
+ox 0.00323635
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10770.jpg
+bison 0.896419
+hay 0.0586918
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10771.jpg
+bison 0.60937
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.170458
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10772.jpg
+bison 0.923751
+ox 0.0232774
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10773.jpg
+bison 0.690751
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.170371
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10774.jpg
+bison 0.783688
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.116482
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10775.jpg
+bison 0.998527
+ox 0.0010972
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10776.jpg
+bison 0.985208
+ox 0.00656377
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10777.jpg
+bison 0.917295
+tusker 0.0307415
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10778.jpg
+bison 0.949434
+warthog 0.0148839
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10779.jpg
+bison 0.851519
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.097889
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10780.jpg
+bison 0.999567
+llama 0.000143135
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10781.jpg
+briard 0.247556
+Newfoundland, Newfoundland dog 0.22056
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10782.jpg
+bison 0.91605
+wild boar, boar, Sus scrofa 0.0346326
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10783.jpg
+bison 0.852942
+ox 0.146712
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10784.jpg
+bison 0.980631
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00800505
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10785.jpg
+ostrich, Struthio camelus 0.737873
+bison 0.248551
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10786.jpg
+bison 0.978391
+ox 0.0134784
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10787.jpg
+bison 0.999558
+ox 0.000396981
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10788.jpg
+bison 0.963058
+tow truck, tow car, wrecker 0.00490254
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10789.jpg
+bison 0.997899
+brown bear, bruin, Ursus arctos 0.00129434
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10790.jpg
+bison 0.954346
+Indian elephant, Elephas maximus 0.0104905
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10791.jpg
+bison 0.983926
+brown bear, bruin, Ursus arctos 0.00676971
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10792.jpg
+bison 0.833844
+ox 0.0887673
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10793.jpg
+bison 0.999113
+ox 0.000666011
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10794.jpg
+bison 0.770937
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.210091
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10795.jpg
+bison 0.912203
+ox 0.0846973
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10796.jpg
+bison 0.466912
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.415505
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10797.jpg
+bison 0.884823
+ram, tup 0.0906367
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10798.jpg
+bison 0.998523
+ox 0.00121316
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10799.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10800.jpg
+bison 0.999522
+ox 0.000399143
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10801.jpg
+bison 0.972335
+hay 0.0267854
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10802.jpg
+bison 0.635225
+Irish water spaniel 0.0970727
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10803.jpg
+bison 0.998924
+ox 0.00106715
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10804.jpg
+bison 0.890733
+wild boar, boar, Sus scrofa 0.0253054
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10805.jpg
+bison 0.962165
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0169701
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10806.jpg
+bison 0.992528
+ox 0.00665559
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10807.jpg
+bison 0.994791
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00493704
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10808.jpg
+bison 0.655279
+African elephant, Loxodonta africana 0.300487
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10809.jpg
+African elephant, Loxodonta africana 0.475772
+bison 0.18416
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10810.jpg
+bison 0.999002
+African elephant, Loxodonta africana 0.000430974
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10811.jpg
+bison 0.971577
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00864117
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10812.jpg
+bison 0.999673
+ox 0.000317913
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10813.jpg
+tusker 0.19697
+hartebeest 0.146101
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10814.jpg
+bison 0.955943
+wild boar, boar, Sus scrofa 0.0177331
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10815.jpg
+hyena, hyaena 0.511163
+warthog 0.158817
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10816.jpg
+bison 0.999727
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00013442
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10817.jpg
+bison 0.987754
+ox 0.00825804
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10818.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.279025
+sloth bear, Melursus ursinus, Ursus ursinus 0.162194
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10819.jpg
+bison 0.983119
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0103654
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10820.jpg
+bison 0.999381
+ox 0.000545901
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10821.jpg
+bison 0.992671
+ox 0.00558868
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10822.jpg
+bison 0.954464
+ox 0.0403877
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10823.jpg
+bison 0.975114
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0128
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10824.jpg
+bison 0.377693
+ostrich, Struthio camelus 0.301132
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10825.jpg
+bison 0.729585
+lion, king of beasts, Panthera leo 0.109734
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10826.jpg
+bison 0.989188
+ox 0.0107908
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10827.jpg
+bison 0.99712
+ox 0.00287231
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10828.jpg
+bison 0.999649
+ox 0.000351228
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10829.jpg
+wild boar, boar, Sus scrofa 0.467703
+warthog 0.358866
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10830.jpg
+bison 0.861879
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0948362
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10831.jpg
+bison 0.999955
+ox 4.17183e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10832.jpg
+bison 0.6057
+ostrich, Struthio camelus 0.263359
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10833.jpg
+bison 0.905645
+ox 0.0581437
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10834.jpg
+bison 0.967841
+ox 0.0320933
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10835.jpg
+bison 0.99514
+brown bear, bruin, Ursus arctos 0.00188276
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10836.jpg
+bison 0.999945
+ox 4.93172e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10837.jpg
+bison 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10838.jpg
+bison 0.999589
+ox 0.000410951
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10839.jpg
+bison 0.995172
+ox 0.0024035
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10840.jpg
+bison 0.980973
+ox 0.0190272
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10841.jpg
+bison 0.990164
+ox 0.0092783
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10842.jpg
+bison 0.999293
+ox 0.000333522
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10843.jpg
+bison 0.328272
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.226426
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10844.jpg
+bison 0.999874
+ox 0.000106919
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10845.jpg
+bison 0.521835
+brown bear, bruin, Ursus arctos 0.332922
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10846.jpg
+bison 0.984969
+wild boar, boar, Sus scrofa 0.00357692
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10847.jpg
+wild boar, boar, Sus scrofa 0.42883
+hog, pig, grunter, squealer, Sus scrofa 0.101805
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10848.jpg
+bison 0.999992
+ox 8.23033e-06
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10849.jpg
+bison 0.998356
+wild boar, boar, Sus scrofa 0.000592559
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10850.jpg
+bison 0.975928
+brown bear, bruin, Ursus arctos 0.010865
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10851.jpg
+bison 0.998192
+ox 0.000651751
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10852.jpg
+bison 0.960835
+ox 0.0340714
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10853.jpg
+bison 0.982032
+brown bear, bruin, Ursus arctos 0.01098
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10854.jpg
+bison 0.997176
+ox 0.00206075
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10855.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.303166
+bison 0.200945
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10856.jpg
+bison 0.981285
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.00797654
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10857.jpg
+bison 0.999898
+ox 8.63217e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10858.jpg
+bison 0.998434
+ox 0.00133298
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10859.jpg
+bison 0.993991
+ox 0.00161545
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10860.jpg
+bison 0.999474
+ox 0.000413996
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10861.jpg
+bison 0.998914
+ox 0.00104266
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10862.jpg
+bison 0.886249
+brown bear, bruin, Ursus arctos 0.0522786
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10863.jpg
+bison 0.695183
+African elephant, Loxodonta africana 0.138105
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10864.jpg
+bison 0.999478
+ox 0.000512111
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10865.jpg
+bison 0.986209
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00453186
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10866.jpg
+bison 0.984471
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0069684
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10867.jpg
+bison 0.996471
+ox 0.00116878
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10868.jpg
+bison 0.927174
+ox 0.0725748
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10869.jpg
+bison 0.999305
+ox 0.000329705
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10870.jpg
+bison 0.619148
+ox 0.226483
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10871.jpg
+bison 0.98186
+ox 0.0159345
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10872.jpg
+bison 0.691767
+ox 0.117457
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10873.jpg
+bison 0.839722
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.101416
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10874.jpg
+bison 0.985568
+ox 0.0127482
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10875.jpg
+bison 0.999937
+hog, pig, grunter, squealer, Sus scrofa 2.34414e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10876.jpg
+bison 0.994784
+brown bear, bruin, Ursus arctos 0.00504069
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10877.jpg
+bison 0.999864
+ox 0.00013572
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10878.jpg
+bison 0.999965
+ox 2.91306e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10879.jpg
+bison 0.286889
+sandbar, sand bar 0.178309
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10880.jpg
+bison 0.996735
+African elephant, Loxodonta africana 0.0028509
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10881.jpg
+bison 0.999788
+ox 0.000211599
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10882.jpg
+bison 0.844851
+brown bear, bruin, Ursus arctos 0.0721435
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10883.jpg
+bison 0.75042
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.168769
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10884.jpg
+bison 0.999973
+ox 2.74478e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10885.jpg
+bison 0.999719
+ox 0.00012131
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10886.jpg
+bison 0.99995
+ox 2.82223e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10887.jpg
+bison 0.994103
+ox 0.0034961
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10888.jpg
+bison 0.960673
+wild boar, boar, Sus scrofa 0.0239891
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10889.jpg
+bison 0.996016
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00325479
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10890.jpg
+bison 0.998528
+ox 0.00140506
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10891.jpg
+bison 0.93536
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0417751
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10892.jpg
+bison 0.999928
+ox 5.80912e-05
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10893.jpg
+wombat 0.280622
+otter 0.11668
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10894.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.683995
+Indian elephant, Elephas maximus 0.0828729
+./datasets/Animals_with_Attributes2/JPEGImages/buffalo/buffalo_10895.jpg
+bison 0.837209
+brown bear, bruin, Ursus arctos 0.11395

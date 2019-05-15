@@ -1,0 +1,522 @@
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10001.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.684716
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.305639
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10002.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.729321
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.241932
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10003.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.577579
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.420892
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10004.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.598574
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.203278
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10005.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.666626
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.198075
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10006.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.843761
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.108926
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10007.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.848789
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0694003
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10008.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.933277
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.0476875
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10009.jpg
+albatross, mollymawk 0.450163
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.349065
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10010.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.752992
+albatross, mollymawk 0.132649
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10011.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.577636
+promontory, headland, head, foreland 0.248801
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10012.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.900366
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0603924
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10013.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.571833
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.389333
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10014.jpg
+speedboat 0.508416
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.155827
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10015.jpg
+projectile, missile 0.223713
+missile 0.152361
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10016.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.400229
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.08334
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10017.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.869759
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.121581
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10018.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.99192
+speedboat 0.00114976
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10019.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.709584
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 0.122377
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10020.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.403647
+dugong, Dugong dugon 0.220511
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10021.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.955904
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0332188
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10022.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.902438
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0948721
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10023.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.622494
+speedboat 0.211911
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10024.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.519629
+albatross, mollymawk 0.0550393
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10025.jpg
+geyser 0.955198
+Arctic fox, white fox, Alopex lagopus 0.00937327
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10026.jpg
+wing 0.329645
+speedboat 0.295449
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10027.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.27897
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.152272
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10028.jpg
+albatross, mollymawk 0.34741
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.336763
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10029.jpg
+submarine, pigboat, sub, U-boat 0.74043
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.18443
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10030.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.872899
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0709519
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10031.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.857889
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0811288
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10032.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.593666
+wreck 0.0556537
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10033.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.808832
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.10683
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10034.jpg
+seashore, coast, seacoast, sea-coast 0.415186
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.123406
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10035.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.970869
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0142616
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10036.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.966164
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0274009
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10037.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.891581
+red-breasted merganser, Mergus serrator 0.0277351
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10038.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.377642
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.316081
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10039.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.977074
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0107483
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10040.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.971466
+albatross, mollymawk 0.00578032
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10041.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.637429
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.336789
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10042.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.795835
+speedboat 0.0854121
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10043.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.820438
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.148433
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10044.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.958753
+wreck 0.00868321
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10045.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.887792
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 0.0260675
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10046.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.99557
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 0.00342141
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10047.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.557655
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.429047
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10048.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.344387
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.190123
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10049.jpg
+ski 0.503363
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.134009
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10050.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.922358
+fireboat 0.0208351
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10051.jpg
+otter 0.381991
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.364371
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10052.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.68125
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.181631
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10053.jpg
+jellyfish 0.580891
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.346206
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10054.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.257745
+albatross, mollymawk 0.227933
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10055.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.906943
+pelican 0.0218444
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10056.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.630103
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.32912
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10057.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.795526
+speedboat 0.0706374
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10058.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.84574
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.153084
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10059.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.921874
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0691068
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10060.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.689862
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.165545
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10061.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.956852
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0290977
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10062.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.9301
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0692336
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10063.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.944372
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0394824
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10064.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.782089
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.209658
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10065.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.369042
+submarine, pigboat, sub, U-boat 0.0966306
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10066.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.986335
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00929328
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10067.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.883405
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.116082
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10068.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.913381
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.084755
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10069.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.901914
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.096742
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10070.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.986624
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00822446
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10071.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.358644
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.145051
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10072.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.296638
+otter 0.141022
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10073.jpg
+albatross, mollymawk 0.447423
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.320415
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10074.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.792373
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.206374
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10075.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.541466
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.286033
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10076.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.590369
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.373067
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10077.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.923348
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0446665
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10078.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.85649
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.1424
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10079.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.49559
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.445675
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10080.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.835013
+volcano 0.0773413
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10081.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.976791
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0136876
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10082.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.697299
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.171344
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10083.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.982103
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0115673
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10084.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.990534
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00283315
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10085.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.944462
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.054889
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10086.jpg
+submarine, pigboat, sub, U-boat 0.393881
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.167104
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10087.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.941545
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0581477
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10088.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.974546
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00824453
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10089.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.423205
+paddle, boat paddle 0.251614
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10090.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.823057
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.107347
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10091.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.767897
+speedboat 0.172394
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10092.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.544654
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.449755
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10093.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.998832
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.000850486
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10094.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.772824
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.0560787
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10095.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.911287
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0668766
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10096.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.625013
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.370301
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10097.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.880659
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0374109
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10098.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.904954
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.0938973
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10099.jpg
+missile 0.352981
+projectile, missile 0.213591
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10100.jpg
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.16234
+submarine, pigboat, sub, U-boat 0.156893
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10101.jpg
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.568938
+hammerhead, hammerhead shark 0.122464
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10102.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.950436
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0339172
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10103.jpg
+promontory, headland, head, foreland 0.394702
+lakeside, lakeshore 0.362268
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10104.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.909366
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0854936
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10105.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.541718
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.448783
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10106.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.998236
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00108653
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10107.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.981381
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0186083
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10108.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.979554
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.016651
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10109.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.883361
+speedboat 0.0275362
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10110.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.937024
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0340404
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10111.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.968108
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0177511
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10112.jpg
+albatross, mollymawk 0.779737
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.16241
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10113.jpg
+promontory, headland, head, foreland 0.668906
+lakeside, lakeshore 0.237056
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10114.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.203707
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.161946
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10115.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.971098
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0275061
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10116.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.641673
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.274156
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10117.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.580676
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0952109
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10118.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.792709
+submarine, pigboat, sub, U-boat 0.0743932
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10119.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.806731
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.158436
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10120.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.456596
+lakeside, lakeshore 0.195402
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10121.jpg
+albatross, mollymawk 0.180508
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.144254
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10122.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.950375
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0489947
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10123.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.899012
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.10076
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10124.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.449364
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 0.0931043
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10125.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.452363
+albatross, mollymawk 0.169855
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10126.jpg
+albatross, mollymawk 0.853289
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0329656
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10127.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.834143
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.15652
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10128.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.986822
+promontory, headland, head, foreland 0.00466372
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10129.jpg
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.515755
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.292203
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10130.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.314011
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.0925542
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10131.jpg
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.584268
+hammerhead, hammerhead shark 0.326648
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10132.jpg
+promontory, headland, head, foreland 0.244669
+liner, ocean liner 0.120526
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10133.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.297113
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 0.166876
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10134.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.398058
+albatross, mollymawk 0.308918
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10135.jpg
+gar, garfish, garpike, billfish, Lepisosteus osseus 0.20842
+dugong, Dugong dugon 0.169582
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10136.jpg
+albatross, mollymawk 0.266123
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.156787
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10137.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.814322
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.174951
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10138.jpg
+dock, dockage, docking facility 0.348243
+pirate, pirate ship 0.268606
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10139.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.99778
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00113927
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10140.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.922708
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0663862
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10141.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.549156
+sandbar, sand bar 0.0869176
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10142.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.377489
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.218606
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10143.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.805311
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.160301
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10144.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.951817
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0207734
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10145.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.287778
+sandbar, sand bar 0.237019
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10146.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.527074
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.399892
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10147.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.711581
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.201478
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10148.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.798215
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.180179
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10149.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.924159
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0659528
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10150.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.662632
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.307329
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10151.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.937523
+breakwater, groin, groyne, mole, bulwark, seawall, jetty 0.0127601
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10152.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.98641
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0125783
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10153.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.994521
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00513923
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10154.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.771974
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.161449
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10155.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.595762
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.397867
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10156.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.760571
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.102596
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10157.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.846847
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.148554
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10158.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.518966
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.205614
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10159.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.500775
+lakeside, lakeshore 0.2332
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10160.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.736402
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.24339
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10161.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.997343
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.00191896
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10162.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.787334
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.10643
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10163.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.774727
+albatross, mollymawk 0.0710478
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10164.jpg
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.589652
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.348481
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10165.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.610614
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.387241
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10166.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.985084
+wreck 0.00805276
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10167.jpg
+submarine, pigboat, sub, U-boat 0.532595
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.23772
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10168.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.489395
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.245941
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10169.jpg
+sea lion 0.347883
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.342911
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10170.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.98039
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0119995
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10171.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.73532
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.264099
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10172.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.976979
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0148268
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10173.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.871084
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0557247
+./datasets/Animals_with_Attributes2/JPEGImages/blue+whale/blue+whale_10174.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.613623
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.271251

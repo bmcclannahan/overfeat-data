@@ -1,0 +1,3138 @@
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10001.jpg
+gazelle 0.92995
+impala, Aepyceros melampus 0.0695589
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10002.jpg
+gazelle 0.95215
+impala, Aepyceros melampus 0.0459292
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10003.jpg
+hartebeest 0.904109
+impala, Aepyceros melampus 0.0614321
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10004.jpg
+impala, Aepyceros melampus 0.937333
+gazelle 0.0507472
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10005.jpg
+impala, Aepyceros melampus 0.943498
+gazelle 0.0536243
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10006.jpg
+gazelle 0.52298
+impala, Aepyceros melampus 0.442483
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10007.jpg
+impala, Aepyceros melampus 0.548472
+gazelle 0.448656
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10008.jpg
+impala, Aepyceros melampus 0.844536
+gazelle 0.15508
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10009.jpg
+gazelle 0.845442
+impala, Aepyceros melampus 0.152207
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10010.jpg
+hartebeest 0.535056
+ibex, Capra ibex 0.276064
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10011.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.466562
+red fox, Vulpes vulpes 0.134781
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10012.jpg
+impala, Aepyceros melampus 0.741802
+hartebeest 0.153265
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10013.jpg
+gazelle 0.145752
+impala, Aepyceros melampus 0.0906274
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10014.jpg
+gazelle 0.735528
+impala, Aepyceros melampus 0.207271
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10015.jpg
+gazelle 0.193606
+impala, Aepyceros melampus 0.18444
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10016.jpg
+gazelle 0.828048
+impala, Aepyceros melampus 0.169566
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10017.jpg
+gazelle 0.994456
+impala, Aepyceros melampus 0.00552724
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10018.jpg
+impala, Aepyceros melampus 0.192008
+hartebeest 0.146394
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10019.jpg
+gazelle 0.519617
+impala, Aepyceros melampus 0.478497
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10020.jpg
+gazelle 0.957878
+impala, Aepyceros melampus 0.0420099
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10021.jpg
+llama 0.828447
+red wolf, maned wolf, Canis rufus, Canis niger 0.14106
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10022.jpg
+gazelle 0.795067
+impala, Aepyceros melampus 0.141018
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10023.jpg
+impala, Aepyceros melampus 0.919751
+hartebeest 0.0574052
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10024.jpg
+impala, Aepyceros melampus 0.966171
+gazelle 0.0338161
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10025.jpg
+impala, Aepyceros melampus 0.893407
+gazelle 0.106493
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10026.jpg
+hartebeest 0.305257
+gazelle 0.212197
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10027.jpg
+gazelle 0.957202
+impala, Aepyceros melampus 0.0427909
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10028.jpg
+impala, Aepyceros melampus 0.628106
+gazelle 0.369752
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10029.jpg
+impala, Aepyceros melampus 0.739626
+gazelle 0.259027
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10030.jpg
+impala, Aepyceros melampus 0.538599
+gazelle 0.284233
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10031.jpg
+impala, Aepyceros melampus 0.594747
+gazelle 0.396596
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10032.jpg
+impala, Aepyceros melampus 0.874086
+gazelle 0.0857981
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10033.jpg
+hartebeest 0.0971596
+impala, Aepyceros melampus 0.0579277
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10034.jpg
+hartebeest 0.883185
+impala, Aepyceros melampus 0.0718836
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10035.jpg
+impala, Aepyceros melampus 0.49839
+hartebeest 0.307429
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10036.jpg
+gazelle 0.981871
+impala, Aepyceros melampus 0.0181289
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10037.jpg
+impala, Aepyceros melampus 0.508333
+hartebeest 0.223921
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10038.jpg
+impala, Aepyceros melampus 0.836557
+gazelle 0.0906479
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10039.jpg
+gazelle 0.973825
+impala, Aepyceros melampus 0.0251458
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10040.jpg
+impala, Aepyceros melampus 0.989496
+gazelle 0.0104967
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10041.jpg
+gazelle 0.75343
+kite 0.0341877
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10042.jpg
+gazelle 0.84691
+impala, Aepyceros melampus 0.113146
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10043.jpg
+gazelle 0.982875
+impala, Aepyceros melampus 0.0170648
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10044.jpg
+gazelle 0.936351
+impala, Aepyceros melampus 0.0608035
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10045.jpg
+gazelle 0.944553
+impala, Aepyceros melampus 0.0546544
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10046.jpg
+gazelle 0.989294
+impala, Aepyceros melampus 0.0106839
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10047.jpg
+gazelle 0.795969
+impala, Aepyceros melampus 0.149432
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10048.jpg
+gazelle 0.708799
+impala, Aepyceros melampus 0.29002
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10049.jpg
+hartebeest 0.621399
+impala, Aepyceros melampus 0.280066
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10050.jpg
+gazelle 0.956134
+impala, Aepyceros melampus 0.0221479
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10051.jpg
+impala, Aepyceros melampus 0.42461
+gazelle 0.320945
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10052.jpg
+gazelle 0.99885
+impala, Aepyceros melampus 0.00115011
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10053.jpg
+gazelle 0.898821
+impala, Aepyceros melampus 0.0994774
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10054.jpg
+impala, Aepyceros melampus 0.885419
+gazelle 0.108427
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10055.jpg
+impala, Aepyceros melampus 0.756032
+gazelle 0.243962
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10056.jpg
+impala, Aepyceros melampus 0.662661
+hartebeest 0.191638
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10057.jpg
+gazelle 0.993862
+impala, Aepyceros melampus 0.00612613
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10058.jpg
+gazelle 0.22302
+dhole, Cuon alpinus 0.144293
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10059.jpg
+impala, Aepyceros melampus 0.729191
+gazelle 0.251208
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10060.jpg
+impala, Aepyceros melampus 0.8999
+gazelle 0.100042
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10061.jpg
+gazelle 0.730505
+impala, Aepyceros melampus 0.157756
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10062.jpg
+gazelle 0.970793
+impala, Aepyceros melampus 0.0291788
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10063.jpg
+gazelle 0.994753
+impala, Aepyceros melampus 0.0052307
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10064.jpg
+gazelle 0.988762
+impala, Aepyceros melampus 0.0112316
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10065.jpg
+gazelle 0.513857
+impala, Aepyceros melampus 0.469515
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10066.jpg
+gazelle 0.925627
+impala, Aepyceros melampus 0.0741117
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10067.jpg
+gazelle 0.497095
+impala, Aepyceros melampus 0.332435
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10068.jpg
+gazelle 0.627707
+impala, Aepyceros melampus 0.316407
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10069.jpg
+impala, Aepyceros melampus 0.605379
+gazelle 0.393735
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10070.jpg
+gazelle 0.965776
+impala, Aepyceros melampus 0.0342196
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10071.jpg
+gazelle 0.523173
+impala, Aepyceros melampus 0.4732
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10072.jpg
+impala, Aepyceros melampus 0.901368
+gazelle 0.096832
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10073.jpg
+gazelle 0.3793
+impala, Aepyceros melampus 0.375492
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10074.jpg
+gazelle 0.484544
+impala, Aepyceros melampus 0.434549
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10075.jpg
+gazelle 0.939103
+impala, Aepyceros melampus 0.0604517
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10076.jpg
+impala, Aepyceros melampus 0.592153
+gazelle 0.17539
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10077.jpg
+gazelle 0.873357
+impala, Aepyceros melampus 0.126347
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10078.jpg
+impala, Aepyceros melampus 0.979987
+gazelle 0.0196482
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10079.jpg
+gazelle 0.731734
+impala, Aepyceros melampus 0.251844
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10080.jpg
+impala, Aepyceros melampus 0.566602
+gazelle 0.368347
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10081.jpg
+impala, Aepyceros melampus 0.872882
+gazelle 0.107721
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10082.jpg
+gazelle 0.782452
+impala, Aepyceros melampus 0.216517
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10083.jpg
+hartebeest 0.5138
+impala, Aepyceros melampus 0.428359
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10084.jpg
+hartebeest 0.999952
+impala, Aepyceros melampus 4.46536e-05
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10085.jpg
+impala, Aepyceros melampus 0.719223
+gazelle 0.279508
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10086.jpg
+gazelle 0.812687
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.0671586
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10087.jpg
+gazelle 0.918982
+impala, Aepyceros melampus 0.0655624
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10088.jpg
+impala, Aepyceros melampus 0.692384
+gazelle 0.171611
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10089.jpg
+gazelle 0.935554
+impala, Aepyceros melampus 0.0644456
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10090.jpg
+impala, Aepyceros melampus 0.768222
+gazelle 0.227875
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10091.jpg
+impala, Aepyceros melampus 0.97232
+gazelle 0.0276798
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10092.jpg
+gazelle 0.94856
+impala, Aepyceros melampus 0.0512664
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10093.jpg
+impala, Aepyceros melampus 0.805407
+gazelle 0.192748
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10094.jpg
+gazelle 0.636461
+impala, Aepyceros melampus 0.347615
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10095.jpg
+gazelle 0.972363
+impala, Aepyceros melampus 0.0265368
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10096.jpg
+dowitcher 0.27118
+ruddy turnstone, Arenaria interpres 0.24791
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10097.jpg
+hartebeest 0.471038
+gazelle 0.309261
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10098.jpg
+gazelle 0.96161
+Ibizan hound, Ibizan Podenco 0.0198739
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10099.jpg
+gazelle 0.781637
+impala, Aepyceros melampus 0.21806
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10100.jpg
+gazelle 0.715549
+hartebeest 0.185687
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10101.jpg
+gazelle 0.589136
+impala, Aepyceros melampus 0.33029
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10102.jpg
+impala, Aepyceros melampus 0.698717
+gazelle 0.280678
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10103.jpg
+gazelle 0.565981
+impala, Aepyceros melampus 0.431525
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10104.jpg
+hartebeest 0.823811
+hyena, hyaena 0.0361332
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10105.jpg
+gazelle 0.591801
+hartebeest 0.19958
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10106.jpg
+impala, Aepyceros melampus 0.841343
+gazelle 0.158083
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10107.jpg
+breakwater, groin, groyne, mole, bulwark, seawall, jetty 0.177846
+king penguin, Aptenodytes patagonica 0.125187
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10108.jpg
+whippet 0.98253
+Saluki, gazelle hound 0.00953666
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10109.jpg
+dingo, warrigal, warragal, Canis dingo 0.518335
+coyote, prairie wolf, brush wolf, Canis latrans 0.162087
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10110.jpg
+oystercatcher, oyster catcher 0.488084
+white stork, Ciconia ciconia 0.19216
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10111.jpg
+lionfish 0.281659
+mushroom 0.261953
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10112.jpg
+barrow, garden cart, lawn cart, wheelbarrow 0.176555
+pool table, billiard table, snooker table 0.141006
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10113.jpg
+impala, Aepyceros melampus 0.948838
+gazelle 0.0511375
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10114.jpg
+gazelle 0.764024
+impala, Aepyceros melampus 0.073024
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10115.jpg
+vizsla, Hungarian pointer 0.552245
+Ibizan hound, Ibizan Podenco 0.0507278
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10116.jpg
+gazelle 0.961183
+impala, Aepyceros melampus 0.0362085
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10117.jpg
+gazelle 0.998943
+impala, Aepyceros melampus 0.00105721
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10118.jpg
+gazelle 0.534979
+ibex, Capra ibex 0.365474
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10119.jpg
+hartebeest 0.411777
+impala, Aepyceros melampus 0.168725
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10120.jpg
+impala, Aepyceros melampus 0.487364
+gazelle 0.458732
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10121.jpg
+sorrel 0.431006
+Arabian camel, dromedary, Camelus dromedarius 0.221496
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10122.jpg
+hartebeest 0.972143
+gazelle 0.0144716
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10123.jpg
+gazelle 0.795788
+impala, Aepyceros melampus 0.130682
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10124.jpg
+impala, Aepyceros melampus 0.641397
+gazelle 0.306116
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10125.jpg
+gazelle 0.988753
+impala, Aepyceros melampus 0.0110584
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10126.jpg
+gazelle 0.455573
+hartebeest 0.380579
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10127.jpg
+gazelle 0.417725
+hartebeest 0.35142
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10128.jpg
+gazelle 0.908468
+impala, Aepyceros melampus 0.0889002
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10129.jpg
+gazelle 0.721462
+ibex, Capra ibex 0.104618
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10130.jpg
+hartebeest 0.381716
+gazelle 0.261779
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10131.jpg
+impala, Aepyceros melampus 0.972121
+gazelle 0.0278084
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10132.jpg
+impala, Aepyceros melampus 0.939396
+gazelle 0.0603974
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10133.jpg
+impala, Aepyceros melampus 0.776333
+gazelle 0.183039
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10134.jpg
+impala, Aepyceros melampus 0.792231
+gazelle 0.203121
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10135.jpg
+gazelle 0.94831
+impala, Aepyceros melampus 0.0134448
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10136.jpg
+gazelle 0.620577
+ram, tup 0.109272
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10137.jpg
+ibex, Capra ibex 0.71656
+hartebeest 0.149637
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10138.jpg
+hartebeest 0.982932
+impala, Aepyceros melampus 0.0147187
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10139.jpg
+hartebeest 0.441774
+impala, Aepyceros melampus 0.391503
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10140.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.306765
+ibex, Capra ibex 0.176223
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10141.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.410518
+tusker 0.310468
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10142.jpg
+gazelle 0.592765
+impala, Aepyceros melampus 0.215512
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10143.jpg
+impala, Aepyceros melampus 0.34588
+gazelle 0.194099
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10144.jpg
+impala, Aepyceros melampus 0.476921
+gazelle 0.193155
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10145.jpg
+hartebeest 0.408072
+impala, Aepyceros melampus 0.171732
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10146.jpg
+gazelle 0.875333
+impala, Aepyceros melampus 0.116602
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10147.jpg
+gazelle 0.571428
+impala, Aepyceros melampus 0.343071
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10148.jpg
+impala, Aepyceros melampus 0.892582
+gazelle 0.10725
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10149.jpg
+warthog 0.55042
+hartebeest 0.210214
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10150.jpg
+impala, Aepyceros melampus 0.734125
+gazelle 0.264286
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10151.jpg
+impala, Aepyceros melampus 0.854464
+gazelle 0.10061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10152.jpg
+hartebeest 0.313202
+Arabian camel, dromedary, Camelus dromedarius 0.27575
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10153.jpg
+impala, Aepyceros melampus 0.457895
+gazelle 0.244254
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10154.jpg
+gazelle 0.594125
+impala, Aepyceros melampus 0.25255
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10155.jpg
+hartebeest 0.988283
+impala, Aepyceros melampus 0.0102649
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10156.jpg
+gazelle 0.977787
+impala, Aepyceros melampus 0.0221231
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10157.jpg
+ibex, Capra ibex 0.423123
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.2618
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10158.jpg
+wallaby, brush kangaroo 0.767911
+gazelle 0.0502528
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10159.jpg
+gazelle 0.991248
+impala, Aepyceros melampus 0.0078954
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10160.jpg
+impala, Aepyceros melampus 0.267194
+coyote, prairie wolf, brush wolf, Canis latrans 0.25498
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10161.jpg
+guenon, guenon monkey 0.653931
+patas, hussar monkey, Erythrocebus patas 0.157213
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10162.jpg
+gazelle 0.179004
+impala, Aepyceros melampus 0.12371
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10163.jpg
+Arabian camel, dromedary, Camelus dromedarius 0.849741
+African elephant, Loxodonta africana 0.0386877
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10164.jpg
+impala, Aepyceros melampus 0.680175
+gazelle 0.314031
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10165.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.350297
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.167801
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10166.jpg
+gazelle 0.504681
+impala, Aepyceros melampus 0.495231
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10167.jpg
+Welsh springer spaniel 0.166542
+Brittany spaniel 0.0825994
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10168.jpg
+hartebeest 0.753365
+vizsla, Hungarian pointer 0.141082
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10169.jpg
+gazelle 0.330093
+impala, Aepyceros melampus 0.326941
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10170.jpg
+gazelle 0.420741
+impala, Aepyceros melampus 0.245193
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10171.jpg
+gazelle 0.397337
+impala, Aepyceros melampus 0.390381
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10172.jpg
+ox 0.746456
+sorrel 0.157759
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10173.jpg
+impala, Aepyceros melampus 0.925244
+gazelle 0.0733862
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10174.jpg
+gazelle 0.254422
+hartebeest 0.181615
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10175.jpg
+gazelle 0.665461
+impala, Aepyceros melampus 0.333296
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10176.jpg
+impala, Aepyceros melampus 0.585171
+gazelle 0.352463
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10177.jpg
+dhole, Cuon alpinus 0.245635
+dingo, warrigal, warragal, Canis dingo 0.234926
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10178.jpg
+impala, Aepyceros melampus 0.842429
+gazelle 0.139257
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10179.jpg
+impala, Aepyceros melampus 0.76982
+gazelle 0.13756
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10180.jpg
+gazelle 0.94837
+impala, Aepyceros melampus 0.0256208
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10181.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.140987
+ringneck snake, ring-necked snake, ring snake 0.0975348
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10182.jpg
+hartebeest 0.764655
+gazelle 0.0859899
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10183.jpg
+gazelle 0.951374
+impala, Aepyceros melampus 0.043995
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10184.jpg
+gazelle 0.961518
+impala, Aepyceros melampus 0.0162899
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10185.jpg
+gazelle 0.993678
+impala, Aepyceros melampus 0.0048937
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10186.jpg
+hartebeest 0.582849
+gazelle 0.220322
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10187.jpg
+hartebeest 0.462522
+impala, Aepyceros melampus 0.345085
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10188.jpg
+impala, Aepyceros melampus 0.850788
+gazelle 0.147568
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10189.jpg
+hartebeest 0.567936
+impala, Aepyceros melampus 0.239965
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10190.jpg
+impala, Aepyceros melampus 0.830394
+gazelle 0.168361
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10191.jpg
+hartebeest 0.868123
+impala, Aepyceros melampus 0.0879115
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10192.jpg
+gazelle 0.55363
+impala, Aepyceros melampus 0.32585
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10193.jpg
+impala, Aepyceros melampus 0.973428
+gazelle 0.0252495
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10194.jpg
+gazelle 0.935396
+impala, Aepyceros melampus 0.0645451
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10195.jpg
+gazelle 0.915886
+impala, Aepyceros melampus 0.0798061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10196.jpg
+gazelle 0.692892
+impala, Aepyceros melampus 0.307089
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10197.jpg
+gazelle 0.796904
+ibex, Capra ibex 0.142654
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10198.jpg
+gazelle 0.995842
+impala, Aepyceros melampus 0.00415761
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10199.jpg
+gazelle 0.827265
+impala, Aepyceros melampus 0.150194
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10200.jpg
+impala, Aepyceros melampus 0.692796
+gazelle 0.224301
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10201.jpg
+impala, Aepyceros melampus 0.977251
+gazelle 0.0227429
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10202.jpg
+gazelle 0.687218
+hartebeest 0.0917117
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10203.jpg
+impala, Aepyceros melampus 0.718865
+gazelle 0.17543
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10204.jpg
+gazelle 0.978569
+impala, Aepyceros melampus 0.021431
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10205.jpg
+gazelle 0.868024
+bustard 0.101095
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10206.jpg
+gazelle 0.706045
+ibex, Capra ibex 0.15583
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10207.jpg
+impala, Aepyceros melampus 0.572831
+gazelle 0.424752
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10208.jpg
+gazelle 0.558722
+impala, Aepyceros melampus 0.258923
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10209.jpg
+gazelle 0.919492
+impala, Aepyceros melampus 0.0716699
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10210.jpg
+gazelle 0.486618
+llama 0.101094
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10211.jpg
+gazelle 0.98889
+impala, Aepyceros melampus 0.00694562
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10212.jpg
+gazelle 0.983842
+impala, Aepyceros melampus 0.0157622
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10213.jpg
+gazelle 0.544365
+impala, Aepyceros melampus 0.455239
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10214.jpg
+gazelle 0.799609
+impala, Aepyceros melampus 0.186548
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10215.jpg
+gazelle 0.955203
+impala, Aepyceros melampus 0.0445095
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10216.jpg
+gazelle 0.661368
+impala, Aepyceros melampus 0.318795
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10217.jpg
+impala, Aepyceros melampus 0.510383
+gazelle 0.478832
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10218.jpg
+gazelle 0.94483
+impala, Aepyceros melampus 0.0546272
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10219.jpg
+gazelle 0.527429
+impala, Aepyceros melampus 0.398297
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10220.jpg
+gazelle 0.97266
+impala, Aepyceros melampus 0.0270658
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10221.jpg
+gazelle 0.966509
+impala, Aepyceros melampus 0.0289827
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10222.jpg
+gazelle 0.632698
+impala, Aepyceros melampus 0.279559
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10223.jpg
+gazelle 0.772975
+hartebeest 0.127007
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10224.jpg
+hartebeest 0.933969
+impala, Aepyceros melampus 0.0356599
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10225.jpg
+hartebeest 0.768772
+impala, Aepyceros melampus 0.205277
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10226.jpg
+Ibizan hound, Ibizan Podenco 0.591855
+Saluki, gazelle hound 0.0868895
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10227.jpg
+impala, Aepyceros melampus 0.539792
+gazelle 0.398651
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10228.jpg
+gazelle 0.72695
+impala, Aepyceros melampus 0.118292
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10229.jpg
+gazelle 0.877012
+impala, Aepyceros melampus 0.114213
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10230.jpg
+proboscis monkey, Nasalis larvatus 0.310448
+patas, hussar monkey, Erythrocebus patas 0.290941
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10231.jpg
+gazelle 0.967571
+impala, Aepyceros melampus 0.0244953
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10232.jpg
+impala, Aepyceros melampus 0.618989
+gazelle 0.358219
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10233.jpg
+impala, Aepyceros melampus 0.888412
+gazelle 0.104774
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10234.jpg
+impala, Aepyceros melampus 0.600871
+gazelle 0.364974
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10235.jpg
+gazelle 0.69507
+impala, Aepyceros melampus 0.304758
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10236.jpg
+gazelle 0.740311
+impala, Aepyceros melampus 0.251913
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10237.jpg
+hartebeest 0.441899
+impala, Aepyceros melampus 0.384648
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10238.jpg
+impala, Aepyceros melampus 0.880744
+gazelle 0.11309
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10239.jpg
+impala, Aepyceros melampus 0.487978
+hartebeest 0.437907
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10240.jpg
+impala, Aepyceros melampus 0.837571
+gazelle 0.161233
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10241.jpg
+impala, Aepyceros melampus 0.930833
+gazelle 0.0691555
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10242.jpg
+gazelle 0.973603
+impala, Aepyceros melampus 0.0254231
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10243.jpg
+gazelle 0.964338
+impala, Aepyceros melampus 0.0296581
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10244.jpg
+gazelle 0.997932
+impala, Aepyceros melampus 0.00206491
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10245.jpg
+impala, Aepyceros melampus 0.77479
+gazelle 0.140913
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10246.jpg
+hartebeest 0.745482
+impala, Aepyceros melampus 0.230784
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10247.jpg
+impala, Aepyceros melampus 0.751735
+gazelle 0.165519
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10248.jpg
+impala, Aepyceros melampus 0.560044
+gazelle 0.223143
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10249.jpg
+gazelle 0.937902
+impala, Aepyceros melampus 0.0491278
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10250.jpg
+gazelle 0.968094
+impala, Aepyceros melampus 0.0242813
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10251.jpg
+gazelle 0.869992
+impala, Aepyceros melampus 0.126991
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10252.jpg
+impala, Aepyceros melampus 0.475019
+gazelle 0.384226
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10253.jpg
+impala, Aepyceros melampus 0.510645
+gazelle 0.333659
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10254.jpg
+gazelle 0.721961
+impala, Aepyceros melampus 0.277839
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10255.jpg
+impala, Aepyceros melampus 0.655952
+gazelle 0.342869
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10256.jpg
+gazelle 0.736961
+impala, Aepyceros melampus 0.26209
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10257.jpg
+gazelle 0.998287
+whippet 0.00122823
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10258.jpg
+gazelle 0.99963
+impala, Aepyceros melampus 0.00036955
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10259.jpg
+impala, Aepyceros melampus 0.525174
+gazelle 0.336195
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10260.jpg
+gazelle 0.996529
+impala, Aepyceros melampus 0.00245451
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10261.jpg
+impala, Aepyceros melampus 0.783221
+gazelle 0.214219
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10262.jpg
+gazelle 0.831795
+impala, Aepyceros melampus 0.168205
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10263.jpg
+impala, Aepyceros melampus 0.505805
+gazelle 0.49399
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10264.jpg
+impala, Aepyceros melampus 0.85591
+hartebeest 0.0954736
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10265.jpg
+impala, Aepyceros melampus 0.337982
+gazelle 0.319048
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10266.jpg
+impala, Aepyceros melampus 0.580976
+gazelle 0.372956
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10267.jpg
+gazelle 0.746278
+impala, Aepyceros melampus 0.178093
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10268.jpg
+gazelle 0.449048
+impala, Aepyceros melampus 0.434387
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10269.jpg
+impala, Aepyceros melampus 0.898556
+gazelle 0.0752772
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10270.jpg
+gazelle 0.997347
+impala, Aepyceros melampus 0.00240002
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10271.jpg
+hartebeest 0.904349
+impala, Aepyceros melampus 0.0886991
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10272.jpg
+gazelle 0.579589
+impala, Aepyceros melampus 0.414339
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10273.jpg
+gazelle 0.997822
+impala, Aepyceros melampus 0.00214415
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10274.jpg
+impala, Aepyceros melampus 0.942211
+gazelle 0.0568467
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10275.jpg
+gazelle 0.905317
+impala, Aepyceros melampus 0.094646
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10276.jpg
+gazelle 0.966814
+impala, Aepyceros melampus 0.0331601
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10277.jpg
+hartebeest 0.409524
+gazelle 0.33002
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10278.jpg
+gazelle 0.997072
+whippet 0.00137685
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10279.jpg
+gazelle 0.957007
+impala, Aepyceros melampus 0.041758
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10280.jpg
+gazelle 0.783484
+impala, Aepyceros melampus 0.214151
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10281.jpg
+gazelle 0.663573
+wallaby, brush kangaroo 0.144899
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10282.jpg
+impala, Aepyceros melampus 0.850495
+gazelle 0.14931
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10283.jpg
+gazelle 0.675462
+impala, Aepyceros melampus 0.301862
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10284.jpg
+gazelle 0.987607
+impala, Aepyceros melampus 0.0122186
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10285.jpg
+gazelle 0.887505
+impala, Aepyceros melampus 0.111775
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10286.jpg
+hartebeest 0.474576
+impala, Aepyceros melampus 0.469521
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10287.jpg
+gazelle 0.514183
+impala, Aepyceros melampus 0.485733
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10288.jpg
+gazelle 0.627003
+impala, Aepyceros melampus 0.293356
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10289.jpg
+impala, Aepyceros melampus 0.986442
+gazelle 0.0135502
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10290.jpg
+impala, Aepyceros melampus 0.625835
+gazelle 0.364419
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10291.jpg
+gazelle 0.466631
+ibex, Capra ibex 0.326968
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10292.jpg
+gazelle 0.686586
+impala, Aepyceros melampus 0.311414
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10293.jpg
+gazelle 0.920406
+impala, Aepyceros melampus 0.0792934
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10294.jpg
+gazelle 0.961826
+impala, Aepyceros melampus 0.0379664
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10295.jpg
+impala, Aepyceros melampus 0.749925
+gazelle 0.208971
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10296.jpg
+gazelle 0.999765
+impala, Aepyceros melampus 0.000227609
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10297.jpg
+gazelle 0.888985
+impala, Aepyceros melampus 0.110948
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10298.jpg
+gazelle 0.544424
+impala, Aepyceros melampus 0.444838
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10299.jpg
+impala, Aepyceros melampus 0.876265
+gazelle 0.123446
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10300.jpg
+gazelle 0.506338
+impala, Aepyceros melampus 0.493022
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10301.jpg
+impala, Aepyceros melampus 0.953571
+gazelle 0.0461441
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10302.jpg
+impala, Aepyceros melampus 0.59024
+gazelle 0.205532
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10303.jpg
+impala, Aepyceros melampus 0.790557
+hartebeest 0.111494
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10304.jpg
+gazelle 0.629432
+impala, Aepyceros melampus 0.354714
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10305.jpg
+gazelle 0.919053
+impala, Aepyceros melampus 0.0808927
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10306.jpg
+impala, Aepyceros melampus 0.724158
+gazelle 0.274041
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10307.jpg
+gazelle 0.830194
+impala, Aepyceros melampus 0.168464
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10308.jpg
+impala, Aepyceros melampus 0.700592
+gazelle 0.298637
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10309.jpg
+impala, Aepyceros melampus 0.841107
+gazelle 0.157865
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10310.jpg
+impala, Aepyceros melampus 0.917071
+gazelle 0.0541158
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10311.jpg
+hartebeest 0.990189
+impala, Aepyceros melampus 0.00527611
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10312.jpg
+impala, Aepyceros melampus 0.847168
+gazelle 0.143466
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10313.jpg
+gazelle 0.670271
+impala, Aepyceros melampus 0.328023
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10314.jpg
+gazelle 0.885523
+impala, Aepyceros melampus 0.11436
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10315.jpg
+impala, Aepyceros melampus 0.829085
+gazelle 0.151498
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10316.jpg
+impala, Aepyceros melampus 0.893308
+gazelle 0.106317
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10317.jpg
+gazelle 0.542236
+impala, Aepyceros melampus 0.404824
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10318.jpg
+gazelle 0.740845
+impala, Aepyceros melampus 0.255679
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10319.jpg
+impala, Aepyceros melampus 0.601015
+gazelle 0.221826
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10320.jpg
+impala, Aepyceros melampus 0.982665
+gazelle 0.0171417
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10321.jpg
+gazelle 0.868231
+impala, Aepyceros melampus 0.119975
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10322.jpg
+gazelle 0.323352
+impala, Aepyceros melampus 0.279964
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10323.jpg
+gazelle 0.818793
+impala, Aepyceros melampus 0.0955245
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10324.jpg
+hartebeest 0.592708
+impala, Aepyceros melampus 0.243422
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10325.jpg
+gazelle 0.999346
+impala, Aepyceros melampus 0.000654255
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10326.jpg
+impala, Aepyceros melampus 0.788027
+gazelle 0.186065
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10327.jpg
+gazelle 0.99698
+impala, Aepyceros melampus 0.00301994
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10328.jpg
+gazelle 0.760398
+impala, Aepyceros melampus 0.234858
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10329.jpg
+impala, Aepyceros melampus 0.592827
+hartebeest 0.300787
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10330.jpg
+gazelle 0.990992
+impala, Aepyceros melampus 0.00900757
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10331.jpg
+gazelle 0.996784
+impala, Aepyceros melampus 0.00321027
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10332.jpg
+gazelle 0.71896
+impala, Aepyceros melampus 0.27559
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10333.jpg
+impala, Aepyceros melampus 0.918845
+gazelle 0.0807566
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10334.jpg
+gazelle 0.682156
+impala, Aepyceros melampus 0.316881
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10335.jpg
+gazelle 0.83984
+impala, Aepyceros melampus 0.159392
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10336.jpg
+gazelle 0.912374
+impala, Aepyceros melampus 0.087601
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10337.jpg
+gazelle 0.814857
+impala, Aepyceros melampus 0.175151
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10338.jpg
+gazelle 0.683861
+impala, Aepyceros melampus 0.260188
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10339.jpg
+gazelle 0.985399
+impala, Aepyceros melampus 0.0141609
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10340.jpg
+impala, Aepyceros melampus 0.586736
+gazelle 0.412305
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10341.jpg
+impala, Aepyceros melampus 0.737685
+hartebeest 0.205063
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10342.jpg
+gazelle 0.953009
+impala, Aepyceros melampus 0.0469858
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10343.jpg
+gazelle 0.99863
+impala, Aepyceros melampus 0.00136959
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10344.jpg
+gazelle 0.989822
+impala, Aepyceros melampus 0.010175
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10345.jpg
+impala, Aepyceros melampus 0.723958
+gazelle 0.251643
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10346.jpg
+impala, Aepyceros melampus 0.707188
+gazelle 0.290295
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10347.jpg
+gazelle 0.866809
+impala, Aepyceros melampus 0.12691
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10348.jpg
+gazelle 0.63586
+impala, Aepyceros melampus 0.361248
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10349.jpg
+gazelle 0.918613
+impala, Aepyceros melampus 0.0813503
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10350.jpg
+gazelle 0.995959
+impala, Aepyceros melampus 0.00397574
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10351.jpg
+gazelle 0.863844
+impala, Aepyceros melampus 0.135985
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10352.jpg
+impala, Aepyceros melampus 0.988847
+gazelle 0.0103012
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10353.jpg
+hartebeest 0.973599
+impala, Aepyceros melampus 0.0223011
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10354.jpg
+impala, Aepyceros melampus 0.646238
+gazelle 0.33046
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10355.jpg
+gazelle 0.907108
+impala, Aepyceros melampus 0.089508
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10356.jpg
+gazelle 0.880704
+impala, Aepyceros melampus 0.118403
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10357.jpg
+impala, Aepyceros melampus 0.467641
+hartebeest 0.28653
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10358.jpg
+impala, Aepyceros melampus 0.671296
+gazelle 0.190358
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10359.jpg
+gazelle 0.958576
+impala, Aepyceros melampus 0.0412522
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10360.jpg
+impala, Aepyceros melampus 0.963406
+gazelle 0.0364688
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10361.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.558793
+ram, tup 0.164845
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10362.jpg
+gazelle 0.506534
+impala, Aepyceros melampus 0.492334
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10363.jpg
+gazelle 0.812674
+impala, Aepyceros melampus 0.18671
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10364.jpg
+ox 0.402945
+impala, Aepyceros melampus 0.307697
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10365.jpg
+ox 0.317331
+gazelle 0.242923
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10366.jpg
+lion, king of beasts, Panthera leo 0.264005
+patas, hussar monkey, Erythrocebus patas 0.0906165
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10367.jpg
+impala, Aepyceros melampus 0.577015
+gazelle 0.129759
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10368.jpg
+gazelle 0.469492
+hartebeest 0.437508
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10369.jpg
+impala, Aepyceros melampus 0.828095
+gazelle 0.171122
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10370.jpg
+hartebeest 0.555018
+gazelle 0.213749
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10371.jpg
+hartebeest 0.453447
+impala, Aepyceros melampus 0.405729
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10372.jpg
+hartebeest 0.904031
+impala, Aepyceros melampus 0.0809735
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10373.jpg
+gazelle 0.932554
+impala, Aepyceros melampus 0.0674062
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10374.jpg
+gazelle 0.989978
+impala, Aepyceros melampus 0.0100009
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10375.jpg
+gazelle 0.931704
+impala, Aepyceros melampus 0.0680259
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10376.jpg
+gazelle 0.976453
+impala, Aepyceros melampus 0.0233853
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10377.jpg
+impala, Aepyceros melampus 0.811459
+gazelle 0.163378
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10378.jpg
+impala, Aepyceros melampus 0.844379
+gazelle 0.154479
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10379.jpg
+gazelle 0.97551
+impala, Aepyceros melampus 0.0244131
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10380.jpg
+hartebeest 0.62723
+gazelle 0.261865
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10381.jpg
+impala, Aepyceros melampus 0.958661
+gazelle 0.0413131
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10382.jpg
+gazelle 0.982181
+impala, Aepyceros melampus 0.0176121
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10383.jpg
+gazelle 0.956813
+impala, Aepyceros melampus 0.0420492
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10384.jpg
+gazelle 0.878185
+impala, Aepyceros melampus 0.103615
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10385.jpg
+hartebeest 0.87338
+impala, Aepyceros melampus 0.0879982
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10386.jpg
+impala, Aepyceros melampus 0.885749
+gazelle 0.105153
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10387.jpg
+gazelle 0.863698
+impala, Aepyceros melampus 0.135745
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10388.jpg
+gazelle 0.991148
+impala, Aepyceros melampus 0.00884503
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10389.jpg
+gazelle 0.981283
+impala, Aepyceros melampus 0.0186198
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10390.jpg
+hartebeest 0.604952
+impala, Aepyceros melampus 0.36385
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10391.jpg
+hartebeest 0.728412
+impala, Aepyceros melampus 0.219377
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10392.jpg
+gazelle 0.998874
+impala, Aepyceros melampus 0.0011256
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10393.jpg
+gazelle 0.762439
+impala, Aepyceros melampus 0.233013
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10394.jpg
+gazelle 0.948024
+impala, Aepyceros melampus 0.0519608
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10395.jpg
+impala, Aepyceros melampus 0.664834
+gazelle 0.272809
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10396.jpg
+impala, Aepyceros melampus 0.790445
+gazelle 0.10669
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10397.jpg
+gazelle 0.970332
+impala, Aepyceros melampus 0.0278108
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10398.jpg
+dhole, Cuon alpinus 0.427514
+patas, hussar monkey, Erythrocebus patas 0.181308
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10399.jpg
+gazelle 0.516945
+ibex, Capra ibex 0.20757
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10400.jpg
+impala, Aepyceros melampus 0.859247
+gazelle 0.137287
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10401.jpg
+bustard 0.340671
+gazelle 0.310832
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10402.jpg
+gazelle 0.51404
+impala, Aepyceros melampus 0.433244
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10403.jpg
+gazelle 0.902414
+impala, Aepyceros melampus 0.0909678
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10404.jpg
+gazelle 0.981457
+impala, Aepyceros melampus 0.0185108
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10405.jpg
+seashore, coast, seacoast, sea-coast 0.141674
+Arabian camel, dromedary, Camelus dromedarius 0.122947
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10406.jpg
+gazelle 0.997832
+impala, Aepyceros melampus 0.00215932
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10407.jpg
+gazelle 0.565374
+impala, Aepyceros melampus 0.426067
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10408.jpg
+gazelle 0.846563
+impala, Aepyceros melampus 0.152434
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10409.jpg
+gazelle 0.650563
+hartebeest 0.186905
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10410.jpg
+impala, Aepyceros melampus 0.519221
+gazelle 0.472665
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10411.jpg
+impala, Aepyceros melampus 0.949617
+gazelle 0.050188
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10412.jpg
+impala, Aepyceros melampus 0.947966
+gazelle 0.0520131
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10413.jpg
+gazelle 0.905989
+impala, Aepyceros melampus 0.0940078
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10414.jpg
+gazelle 0.812647
+impala, Aepyceros melampus 0.17859
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10415.jpg
+impala, Aepyceros melampus 0.886546
+hartebeest 0.0706671
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10416.jpg
+impala, Aepyceros melampus 0.916162
+gazelle 0.0802228
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10417.jpg
+impala, Aepyceros melampus 0.487846
+gazelle 0.480407
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10418.jpg
+impala, Aepyceros melampus 0.525414
+gazelle 0.420856
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10419.jpg
+gazelle 0.54573
+impala, Aepyceros melampus 0.44226
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10420.jpg
+hartebeest 0.454604
+impala, Aepyceros melampus 0.248412
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10421.jpg
+impala, Aepyceros melampus 0.992379
+gazelle 0.00722376
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10422.jpg
+gazelle 0.784898
+impala, Aepyceros melampus 0.199772
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10423.jpg
+impala, Aepyceros melampus 0.797314
+gazelle 0.200113
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10424.jpg
+gazelle 0.738211
+impala, Aepyceros melampus 0.212809
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10425.jpg
+impala, Aepyceros melampus 0.381141
+hartebeest 0.331701
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10426.jpg
+impala, Aepyceros melampus 0.941341
+gazelle 0.0584775
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10427.jpg
+impala, Aepyceros melampus 0.660764
+gazelle 0.33919
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10428.jpg
+gazelle 0.955169
+impala, Aepyceros melampus 0.0436783
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10429.jpg
+gazelle 0.822381
+impala, Aepyceros melampus 0.175295
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10430.jpg
+gazelle 0.950061
+impala, Aepyceros melampus 0.0497888
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10431.jpg
+gazelle 0.780079
+impala, Aepyceros melampus 0.209791
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10432.jpg
+gazelle 0.750072
+impala, Aepyceros melampus 0.235113
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10433.jpg
+hartebeest 0.432095
+impala, Aepyceros melampus 0.428867
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10434.jpg
+gazelle 0.999241
+impala, Aepyceros melampus 0.000758868
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10435.jpg
+gazelle 0.976027
+impala, Aepyceros melampus 0.0239184
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10436.jpg
+gazelle 0.576434
+impala, Aepyceros melampus 0.325833
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10437.jpg
+gazelle 0.17819
+bittern 0.16134
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10438.jpg
+hartebeest 0.621589
+ibex, Capra ibex 0.275034
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10439.jpg
+gazelle 0.929233
+impala, Aepyceros melampus 0.0707061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10440.jpg
+impala, Aepyceros melampus 0.470426
+hartebeest 0.264412
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10441.jpg
+hartebeest 0.851594
+impala, Aepyceros melampus 0.136879
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10442.jpg
+impala, Aepyceros melampus 0.605315
+gazelle 0.198473
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10443.jpg
+hartebeest 0.936562
+impala, Aepyceros melampus 0.0351142
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10444.jpg
+hartebeest 0.980201
+impala, Aepyceros melampus 0.010374
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10445.jpg
+hartebeest 0.861055
+impala, Aepyceros melampus 0.132717
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10446.jpg
+hartebeest 0.969584
+impala, Aepyceros melampus 0.0265927
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10447.jpg
+impala, Aepyceros melampus 0.704161
+gazelle 0.214951
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10448.jpg
+gazelle 0.653965
+impala, Aepyceros melampus 0.204701
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10449.jpg
+gazelle 0.758745
+impala, Aepyceros melampus 0.230603
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10450.jpg
+gazelle 0.904219
+impala, Aepyceros melampus 0.093282
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10451.jpg
+gazelle 0.553046
+wallaby, brush kangaroo 0.224595
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10452.jpg
+gazelle 0.441009
+whippet 0.228093
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10453.jpg
+dingo, warrigal, warragal, Canis dingo 0.38652
+sea lion 0.338165
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10454.jpg
+impala, Aepyceros melampus 0.466235
+gazelle 0.462634
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10455.jpg
+gazelle 0.524466
+impala, Aepyceros melampus 0.475307
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10456.jpg
+impala, Aepyceros melampus 0.957544
+gazelle 0.0417405
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10457.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.287453
+red fox, Vulpes vulpes 0.235347
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10458.jpg
+impala, Aepyceros melampus 0.761136
+gazelle 0.125702
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10459.jpg
+gazelle 0.950347
+impala, Aepyceros melampus 0.0496308
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10460.jpg
+impala, Aepyceros melampus 0.501678
+gazelle 0.498313
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10461.jpg
+impala, Aepyceros melampus 0.794074
+gazelle 0.155694
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10462.jpg
+gazelle 0.987514
+impala, Aepyceros melampus 0.01244
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10463.jpg
+gazelle 0.570573
+impala, Aepyceros melampus 0.38311
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10464.jpg
+impala, Aepyceros melampus 0.478976
+gazelle 0.446395
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10465.jpg
+toy terrier 0.286152
+malamute, malemute, Alaskan malamute 0.0775354
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10466.jpg
+gazelle 0.509233
+impala, Aepyceros melampus 0.487475
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10467.jpg
+gazelle 0.436302
+hare 0.0810623
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10468.jpg
+gazelle 0.634656
+impala, Aepyceros melampus 0.342322
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10469.jpg
+gazelle 0.924426
+impala, Aepyceros melampus 0.0755607
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10470.jpg
+hartebeest 0.755351
+impala, Aepyceros melampus 0.203647
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10471.jpg
+impala, Aepyceros melampus 0.498619
+gazelle 0.261936
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10472.jpg
+impala, Aepyceros melampus 0.81883
+gazelle 0.179692
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10473.jpg
+impala, Aepyceros melampus 0.730146
+gazelle 0.268357
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10474.jpg
+gazelle 0.737408
+impala, Aepyceros melampus 0.260105
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10475.jpg
+impala, Aepyceros melampus 0.501088
+gazelle 0.460443
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10476.jpg
+impala, Aepyceros melampus 0.929812
+gazelle 0.0701875
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10477.jpg
+gazelle 0.982441
+llama 0.00966057
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10478.jpg
+gazelle 0.981438
+impala, Aepyceros melampus 0.0184911
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10479.jpg
+gazelle 0.686266
+hartebeest 0.17775
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10480.jpg
+impala, Aepyceros melampus 0.853167
+gazelle 0.137736
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10481.jpg
+gazelle 0.821117
+impala, Aepyceros melampus 0.17572
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10482.jpg
+gazelle 0.989381
+impala, Aepyceros melampus 0.0105802
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10483.jpg
+impala, Aepyceros melampus 0.916583
+gazelle 0.0750245
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10484.jpg
+gazelle 0.689698
+impala, Aepyceros melampus 0.289209
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10485.jpg
+gazelle 0.476131
+impala, Aepyceros melampus 0.254378
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10486.jpg
+impala, Aepyceros melampus 0.769147
+gazelle 0.2244
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10487.jpg
+impala, Aepyceros melampus 0.625086
+hartebeest 0.340554
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10488.jpg
+impala, Aepyceros melampus 0.882533
+gazelle 0.0897724
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10489.jpg
+gazelle 0.789757
+hartebeest 0.119911
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10490.jpg
+impala, Aepyceros melampus 0.570314
+gazelle 0.310331
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10491.jpg
+impala, Aepyceros melampus 0.986876
+gazelle 0.0129657
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10492.jpg
+impala, Aepyceros melampus 0.954558
+gazelle 0.0454202
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10493.jpg
+impala, Aepyceros melampus 0.974058
+gazelle 0.0251685
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10494.jpg
+gazelle 0.847778
+impala, Aepyceros melampus 0.151421
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10495.jpg
+impala, Aepyceros melampus 0.61249
+gazelle 0.217077
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10496.jpg
+gazelle 0.886653
+impala, Aepyceros melampus 0.109412
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10497.jpg
+hartebeest 0.964777
+impala, Aepyceros melampus 0.0263333
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10498.jpg
+gazelle 0.430304
+impala, Aepyceros melampus 0.302486
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10499.jpg
+gazelle 0.981498
+impala, Aepyceros melampus 0.0184979
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10500.jpg
+gazelle 0.969216
+impala, Aepyceros melampus 0.0181799
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10501.jpg
+gazelle 0.996902
+impala, Aepyceros melampus 0.00309786
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10502.jpg
+impala, Aepyceros melampus 0.76165
+hartebeest 0.137071
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10503.jpg
+gazelle 0.747714
+impala, Aepyceros melampus 0.252072
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10504.jpg
+impala, Aepyceros melampus 0.761259
+gazelle 0.129418
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10505.jpg
+gazelle 0.594538
+impala, Aepyceros melampus 0.395993
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10506.jpg
+hartebeest 0.874049
+impala, Aepyceros melampus 0.11096
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10507.jpg
+gazelle 0.755316
+impala, Aepyceros melampus 0.244082
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10508.jpg
+gazelle 0.998585
+impala, Aepyceros melampus 0.00141502
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10509.jpg
+gazelle 0.619024
+impala, Aepyceros melampus 0.380958
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10510.jpg
+impala, Aepyceros melampus 0.739404
+gazelle 0.260463
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10511.jpg
+impala, Aepyceros melampus 0.619447
+gazelle 0.294194
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10512.jpg
+gazelle 0.365068
+kit fox, Vulpes macrotis 0.348612
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10513.jpg
+impala, Aepyceros melampus 0.880765
+gazelle 0.109106
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10514.jpg
+impala, Aepyceros melampus 0.870157
+gazelle 0.125997
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10515.jpg
+gazelle 0.932342
+impala, Aepyceros melampus 0.0676125
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10516.jpg
+impala, Aepyceros melampus 0.82048
+gazelle 0.17952
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10517.jpg
+gazelle 0.559515
+impala, Aepyceros melampus 0.440393
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10518.jpg
+whippet 0.616732
+Saluki, gazelle hound 0.172882
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10519.jpg
+gazelle 0.747391
+impala, Aepyceros melampus 0.152333
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10520.jpg
+gazelle 0.977697
+impala, Aepyceros melampus 0.022298
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10521.jpg
+impala, Aepyceros melampus 0.883494
+gazelle 0.0827156
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10522.jpg
+gazelle 0.791357
+impala, Aepyceros melampus 0.205941
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10523.jpg
+impala, Aepyceros melampus 0.836119
+gazelle 0.121857
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10524.jpg
+impala, Aepyceros melampus 0.958376
+gazelle 0.041518
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10525.jpg
+Ibizan hound, Ibizan Podenco 0.204592
+dhole, Cuon alpinus 0.201024
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10526.jpg
+gazelle 0.99209
+impala, Aepyceros melampus 0.00787558
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10527.jpg
+gazelle 0.506129
+impala, Aepyceros melampus 0.310063
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10528.jpg
+impala, Aepyceros melampus 0.871315
+gazelle 0.0796087
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10529.jpg
+gazelle 0.447421
+hartebeest 0.278061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10530.jpg
+gazelle 0.985288
+impala, Aepyceros melampus 0.0147075
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10531.jpg
+impala, Aepyceros melampus 0.752968
+gazelle 0.229808
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10532.jpg
+impala, Aepyceros melampus 0.930114
+gazelle 0.0696858
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10533.jpg
+gazelle 0.814275
+impala, Aepyceros melampus 0.183759
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10534.jpg
+impala, Aepyceros melampus 0.506173
+gazelle 0.493287
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10535.jpg
+impala, Aepyceros melampus 0.964279
+gazelle 0.0353371
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10536.jpg
+hartebeest 0.361698
+gazelle 0.353047
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10537.jpg
+gazelle 0.899237
+impala, Aepyceros melampus 0.100609
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10538.jpg
+impala, Aepyceros melampus 0.851887
+gazelle 0.122905
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10539.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.198774
+wallaby, brush kangaroo 0.185284
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10540.jpg
+impala, Aepyceros melampus 0.639193
+gazelle 0.359722
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10541.jpg
+impala, Aepyceros melampus 0.950647
+dhole, Cuon alpinus 0.0181521
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10542.jpg
+gazelle 0.990225
+impala, Aepyceros melampus 0.0097695
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10543.jpg
+gazelle 0.995232
+impala, Aepyceros melampus 0.00475818
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10544.jpg
+gazelle 0.99968
+impala, Aepyceros melampus 0.000319878
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10545.jpg
+impala, Aepyceros melampus 0.906376
+gazelle 0.0936201
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10546.jpg
+gazelle 0.993498
+impala, Aepyceros melampus 0.00318822
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10547.jpg
+impala, Aepyceros melampus 0.796409
+gazelle 0.198821
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10548.jpg
+gazelle 0.911672
+impala, Aepyceros melampus 0.088
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10549.jpg
+impala, Aepyceros melampus 0.929915
+gazelle 0.0700768
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10550.jpg
+impala, Aepyceros melampus 0.927794
+gazelle 0.0697221
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10551.jpg
+impala, Aepyceros melampus 0.973466
+gazelle 0.0265336
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10552.jpg
+impala, Aepyceros melampus 0.987969
+hartebeest 0.00730449
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10553.jpg
+impala, Aepyceros melampus 0.967918
+gazelle 0.0316612
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10554.jpg
+impala, Aepyceros melampus 0.988505
+gazelle 0.0114034
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10555.jpg
+impala, Aepyceros melampus 0.841154
+gazelle 0.158846
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10556.jpg
+impala, Aepyceros melampus 0.666414
+hartebeest 0.23171
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10557.jpg
+impala, Aepyceros melampus 0.488627
+gazelle 0.31611
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10558.jpg
+impala, Aepyceros melampus 0.792553
+gazelle 0.202298
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10559.jpg
+impala, Aepyceros melampus 0.842365
+gazelle 0.157399
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10560.jpg
+impala, Aepyceros melampus 0.896261
+gazelle 0.103739
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10561.jpg
+hartebeest 0.586078
+impala, Aepyceros melampus 0.247236
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10562.jpg
+impala, Aepyceros melampus 0.447971
+hartebeest 0.190419
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10563.jpg
+impala, Aepyceros melampus 0.908531
+gazelle 0.0914542
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10564.jpg
+impala, Aepyceros melampus 0.981339
+gazelle 0.0186268
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10565.jpg
+impala, Aepyceros melampus 0.790384
+gazelle 0.208639
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10566.jpg
+impala, Aepyceros melampus 0.951455
+gazelle 0.0479753
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10567.jpg
+impala, Aepyceros melampus 0.908594
+gazelle 0.0900069
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10568.jpg
+impala, Aepyceros melampus 0.894012
+gazelle 0.105649
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10569.jpg
+impala, Aepyceros melampus 0.819225
+gazelle 0.180762
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10570.jpg
+impala, Aepyceros melampus 0.977284
+gazelle 0.0149893
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10571.jpg
+impala, Aepyceros melampus 0.899211
+gazelle 0.100756
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10572.jpg
+impala, Aepyceros melampus 0.900663
+gazelle 0.0991132
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10573.jpg
+impala, Aepyceros melampus 0.967134
+gazelle 0.0328293
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10574.jpg
+gazelle 0.728746
+impala, Aepyceros melampus 0.266389
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10575.jpg
+impala, Aepyceros melampus 0.910513
+gazelle 0.0828493
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10576.jpg
+impala, Aepyceros melampus 0.695054
+gazelle 0.273561
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10577.jpg
+warthog 0.407723
+baboon 0.286425
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10578.jpg
+gazelle 0.688632
+impala, Aepyceros melampus 0.311364
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10579.jpg
+hartebeest 0.8182
+impala, Aepyceros melampus 0.0863317
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10580.jpg
+impala, Aepyceros melampus 0.958014
+gazelle 0.0418676
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10581.jpg
+impala, Aepyceros melampus 0.93837
+gazelle 0.0616303
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10582.jpg
+impala, Aepyceros melampus 0.922464
+gazelle 0.0393812
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10583.jpg
+impala, Aepyceros melampus 0.98393
+gazelle 0.0160704
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10584.jpg
+impala, Aepyceros melampus 0.944388
+hartebeest 0.0452194
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10585.jpg
+hartebeest 0.736249
+impala, Aepyceros melampus 0.199443
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10586.jpg
+impala, Aepyceros melampus 0.945273
+gazelle 0.0531459
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10587.jpg
+impala, Aepyceros melampus 0.949071
+gazelle 0.0459353
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10588.jpg
+impala, Aepyceros melampus 0.963957
+gazelle 0.0311218
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10589.jpg
+gazelle 0.96761
+impala, Aepyceros melampus 0.0323744
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10590.jpg
+impala, Aepyceros melampus 0.897346
+gazelle 0.102093
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10591.jpg
+impala, Aepyceros melampus 0.936634
+hartebeest 0.0369859
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10592.jpg
+impala, Aepyceros melampus 0.912813
+gazelle 0.0870915
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10593.jpg
+impala, Aepyceros melampus 0.984254
+gazelle 0.0154261
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10594.jpg
+impala, Aepyceros melampus 0.610731
+gazelle 0.387974
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10595.jpg
+impala, Aepyceros melampus 0.943825
+gazelle 0.0495904
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10596.jpg
+impala, Aepyceros melampus 0.962129
+gazelle 0.0376863
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10597.jpg
+gazelle 0.999295
+impala, Aepyceros melampus 0.000705219
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10598.jpg
+impala, Aepyceros melampus 0.973259
+gazelle 0.0267408
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10599.jpg
+impala, Aepyceros melampus 0.949313
+gazelle 0.0475079
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10600.jpg
+impala, Aepyceros melampus 0.887196
+gazelle 0.112769
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10601.jpg
+impala, Aepyceros melampus 0.938556
+gazelle 0.0606424
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10602.jpg
+impala, Aepyceros melampus 0.950677
+gazelle 0.0492025
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10603.jpg
+gazelle 0.588521
+impala, Aepyceros melampus 0.411459
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10604.jpg
+gazelle 0.560995
+impala, Aepyceros melampus 0.438881
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10605.jpg
+impala, Aepyceros melampus 0.737458
+gazelle 0.260686
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10606.jpg
+impala, Aepyceros melampus 0.954159
+gazelle 0.0458365
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10607.jpg
+impala, Aepyceros melampus 0.900348
+gazelle 0.0993561
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10608.jpg
+impala, Aepyceros melampus 0.772323
+gazelle 0.227501
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10609.jpg
+dingo, warrigal, warragal, Canis dingo 0.207895
+gazelle 0.156823
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10610.jpg
+impala, Aepyceros melampus 0.675522
+gazelle 0.297372
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10611.jpg
+gazelle 0.41177
+hartebeest 0.292578
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10612.jpg
+impala, Aepyceros melampus 0.896456
+gazelle 0.103479
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10613.jpg
+gazelle 0.22559
+ibex, Capra ibex 0.142793
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10614.jpg
+gazelle 0.73827
+impala, Aepyceros melampus 0.261014
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10615.jpg
+gazelle 0.971429
+impala, Aepyceros melampus 0.0285653
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10616.jpg
+red wolf, maned wolf, Canis rufus, Canis niger 0.615673
+dingo, warrigal, warragal, Canis dingo 0.203409
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10617.jpg
+impala, Aepyceros melampus 0.631875
+gazelle 0.34612
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10618.jpg
+impala, Aepyceros melampus 0.536088
+hartebeest 0.276602
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10619.jpg
+gazelle 0.835709
+impala, Aepyceros melampus 0.164249
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10620.jpg
+impala, Aepyceros melampus 0.964229
+gazelle 0.0318133
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10621.jpg
+hartebeest 0.895118
+impala, Aepyceros melampus 0.0812261
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10622.jpg
+impala, Aepyceros melampus 0.993903
+gazelle 0.00609725
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10623.jpg
+gazelle 0.564549
+impala, Aepyceros melampus 0.360979
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10624.jpg
+impala, Aepyceros melampus 0.764484
+gazelle 0.150725
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10625.jpg
+impala, Aepyceros melampus 0.816645
+gazelle 0.144186
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10626.jpg
+impala, Aepyceros melampus 0.640545
+gazelle 0.276563
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10627.jpg
+gazelle 0.805482
+impala, Aepyceros melampus 0.097741
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10628.jpg
+gazelle 0.800021
+basenji 0.131088
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10629.jpg
+impala, Aepyceros melampus 0.821635
+gazelle 0.15358
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10630.jpg
+impala, Aepyceros melampus 0.87376
+gazelle 0.126127
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10631.jpg
+gazelle 0.990664
+impala, Aepyceros melampus 0.00928671
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10632.jpg
+impala, Aepyceros melampus 0.978005
+gazelle 0.0219893
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10633.jpg
+gazelle 0.186859
+kit fox, Vulpes macrotis 0.148193
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10634.jpg
+impala, Aepyceros melampus 0.627605
+gazelle 0.155483
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10635.jpg
+impala, Aepyceros melampus 0.778422
+gazelle 0.218653
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10636.jpg
+gazelle 0.997742
+impala, Aepyceros melampus 0.00225769
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10637.jpg
+impala, Aepyceros melampus 0.917608
+gazelle 0.0820266
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10638.jpg
+gazelle 0.766036
+impala, Aepyceros melampus 0.232417
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10639.jpg
+gazelle 0.612296
+impala, Aepyceros melampus 0.387681
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10640.jpg
+impala, Aepyceros melampus 0.91534
+gazelle 0.0845093
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10641.jpg
+gazelle 0.546867
+impala, Aepyceros melampus 0.40603
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10642.jpg
+impala, Aepyceros melampus 0.803437
+gazelle 0.173249
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10643.jpg
+gazelle 0.993854
+impala, Aepyceros melampus 0.00614646
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10644.jpg
+impala, Aepyceros melampus 0.860803
+gazelle 0.13838
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10645.jpg
+impala, Aepyceros melampus 0.929408
+gazelle 0.070592
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10646.jpg
+gazelle 0.637386
+impala, Aepyceros melampus 0.361806
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10647.jpg
+gazelle 0.83336
+impala, Aepyceros melampus 0.165989
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10648.jpg
+gazelle 0.73505
+impala, Aepyceros melampus 0.248449
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10649.jpg
+gazelle 0.952121
+impala, Aepyceros melampus 0.0473695
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10650.jpg
+gazelle 0.607674
+impala, Aepyceros melampus 0.316179
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10651.jpg
+gazelle 0.625083
+impala, Aepyceros melampus 0.344504
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10652.jpg
+impala, Aepyceros melampus 0.633006
+gazelle 0.213774
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10653.jpg
+impala, Aepyceros melampus 0.757176
+gazelle 0.240188
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10654.jpg
+impala, Aepyceros melampus 0.536155
+gazelle 0.456733
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10655.jpg
+hartebeest 0.863011
+gazelle 0.0784369
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10656.jpg
+impala, Aepyceros melampus 0.815598
+gazelle 0.121869
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10657.jpg
+impala, Aepyceros melampus 0.911925
+gazelle 0.0880574
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10658.jpg
+warthog 0.400348
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.130885
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10659.jpg
+impala, Aepyceros melampus 0.825878
+gazelle 0.145549
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10660.jpg
+hartebeest 0.519656
+impala, Aepyceros melampus 0.207079
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10661.jpg
+impala, Aepyceros melampus 0.850847
+gazelle 0.145259
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10662.jpg
+gazelle 0.990279
+impala, Aepyceros melampus 0.00942316
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10663.jpg
+impala, Aepyceros melampus 0.507179
+gazelle 0.364995
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10664.jpg
+gazelle 0.994248
+impala, Aepyceros melampus 0.00494293
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10665.jpg
+impala, Aepyceros melampus 0.633491
+hartebeest 0.291552
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10666.jpg
+gazelle 0.88117
+impala, Aepyceros melampus 0.0938032
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10667.jpg
+impala, Aepyceros melampus 0.850273
+gazelle 0.139294
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10668.jpg
+gazelle 0.99464
+impala, Aepyceros melampus 0.00536025
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10669.jpg
+impala, Aepyceros melampus 0.761457
+gazelle 0.237779
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10670.jpg
+impala, Aepyceros melampus 0.914265
+gazelle 0.0857347
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10671.jpg
+impala, Aepyceros melampus 0.722035
+gazelle 0.250652
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10672.jpg
+gazelle 0.594411
+impala, Aepyceros melampus 0.404468
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10673.jpg
+gazelle 0.920958
+impala, Aepyceros melampus 0.0761008
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10674.jpg
+gazelle 0.997659
+impala, Aepyceros melampus 0.00234116
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10675.jpg
+gazelle 0.988178
+impala, Aepyceros melampus 0.011357
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10676.jpg
+impala, Aepyceros melampus 0.848464
+gazelle 0.150461
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10677.jpg
+gazelle 0.987157
+impala, Aepyceros melampus 0.0121325
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10678.jpg
+impala, Aepyceros melampus 0.637547
+gazelle 0.292173
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10679.jpg
+gazelle 0.526414
+impala, Aepyceros melampus 0.222147
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10680.jpg
+gazelle 0.853009
+impala, Aepyceros melampus 0.0788985
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10681.jpg
+impala, Aepyceros melampus 0.946915
+gazelle 0.050376
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10682.jpg
+wallaby, brush kangaroo 0.246468
+lynx, catamount 0.229206
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10683.jpg
+gazelle 0.991779
+impala, Aepyceros melampus 0.00818636
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10684.jpg
+gazelle 0.565139
+hartebeest 0.361586
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10685.jpg
+impala, Aepyceros melampus 0.622155
+gazelle 0.353393
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10686.jpg
+impala, Aepyceros melampus 0.972416
+gazelle 0.0275785
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10687.jpg
+gazelle 0.971985
+impala, Aepyceros melampus 0.0279702
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10688.jpg
+impala, Aepyceros melampus 0.893082
+gazelle 0.106611
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10689.jpg
+Rhodesian ridgeback 0.229731
+mushroom 0.0960768
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10690.jpg
+gazelle 0.359882
+ibex, Capra ibex 0.218278
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10691.jpg
+gazelle 0.972796
+impala, Aepyceros melampus 0.0271049
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10692.jpg
+hare 0.45601
+kit fox, Vulpes macrotis 0.289685
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10693.jpg
+impala, Aepyceros melampus 0.728071
+hartebeest 0.230175
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10694.jpg
+hartebeest 0.597412
+impala, Aepyceros melampus 0.322596
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10695.jpg
+impala, Aepyceros melampus 0.505647
+gazelle 0.451903
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10696.jpg
+impala, Aepyceros melampus 0.652541
+gazelle 0.344566
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10697.jpg
+gazelle 0.961276
+impala, Aepyceros melampus 0.0386799
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10698.jpg
+gazelle 0.794259
+impala, Aepyceros melampus 0.201803
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10699.jpg
+ostrich, Struthio camelus 0.174542
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.153596
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10700.jpg
+hartebeest 0.480284
+impala, Aepyceros melampus 0.309736
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10701.jpg
+gazelle 0.606304
+impala, Aepyceros melampus 0.362094
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10702.jpg
+gazelle 0.979899
+impala, Aepyceros melampus 0.01956
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10703.jpg
+impala, Aepyceros melampus 0.459974
+gazelle 0.269833
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10704.jpg
+gazelle 0.820805
+impala, Aepyceros melampus 0.169846
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10705.jpg
+gazelle 0.747377
+impala, Aepyceros melampus 0.244707
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10706.jpg
+gazelle 0.909651
+impala, Aepyceros melampus 0.0903252
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10707.jpg
+gazelle 0.771336
+impala, Aepyceros melampus 0.22261
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10708.jpg
+gazelle 0.808277
+impala, Aepyceros melampus 0.191604
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10709.jpg
+gazelle 0.934538
+impala, Aepyceros melampus 0.0653391
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10710.jpg
+hartebeest 0.706304
+impala, Aepyceros melampus 0.199841
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10711.jpg
+gazelle 0.980947
+impala, Aepyceros melampus 0.0190419
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10712.jpg
+warthog 0.616447
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.253187
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10713.jpg
+gazelle 0.996311
+impala, Aepyceros melampus 0.00368581
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10714.jpg
+impala, Aepyceros melampus 0.930414
+gazelle 0.0691644
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10715.jpg
+impala, Aepyceros melampus 0.630425
+gazelle 0.368256
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10716.jpg
+impala, Aepyceros melampus 0.900303
+gazelle 0.0985646
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10717.jpg
+gazelle 0.978888
+impala, Aepyceros melampus 0.0200855
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10718.jpg
+gazelle 0.982097
+impala, Aepyceros melampus 0.0179033
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10719.jpg
+gazelle 0.991064
+impala, Aepyceros melampus 0.0061472
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10720.jpg
+gazelle 0.98646
+impala, Aepyceros melampus 0.0100609
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10721.jpg
+gazelle 0.887201
+impala, Aepyceros melampus 0.0621222
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10722.jpg
+impala, Aepyceros melampus 0.732343
+gazelle 0.266867
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10723.jpg
+impala, Aepyceros melampus 0.569394
+gazelle 0.425232
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10724.jpg
+gazelle 0.31734
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.113558
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10725.jpg
+gazelle 0.973997
+impala, Aepyceros melampus 0.0258843
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10726.jpg
+impala, Aepyceros melampus 0.931412
+gazelle 0.0378833
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10727.jpg
+impala, Aepyceros melampus 0.731423
+gazelle 0.251689
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10728.jpg
+impala, Aepyceros melampus 0.90232
+gazelle 0.0973988
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10729.jpg
+gazelle 0.472123
+impala, Aepyceros melampus 0.292514
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10730.jpg
+gazelle 0.991217
+impala, Aepyceros melampus 0.00815333
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10731.jpg
+impala, Aepyceros melampus 0.562377
+gazelle 0.437514
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10732.jpg
+gazelle 0.556501
+impala, Aepyceros melampus 0.441294
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10733.jpg
+gazelle 0.810393
+ibex, Capra ibex 0.106931
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10734.jpg
+gazelle 0.81679
+impala, Aepyceros melampus 0.181767
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10735.jpg
+gazelle 0.93106
+wallaby, brush kangaroo 0.0324833
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10736.jpg
+gazelle 0.986326
+impala, Aepyceros melampus 0.013533
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10737.jpg
+hartebeest 0.973034
+impala, Aepyceros melampus 0.0213398
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10738.jpg
+gazelle 0.88919
+impala, Aepyceros melampus 0.070338
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10739.jpg
+gazelle 0.991328
+impala, Aepyceros melampus 0.00785768
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10740.jpg
+impala, Aepyceros melampus 0.737716
+gazelle 0.250247
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10741.jpg
+impala, Aepyceros melampus 0.887068
+gazelle 0.108871
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10742.jpg
+impala, Aepyceros melampus 0.595009
+gazelle 0.404988
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10743.jpg
+impala, Aepyceros melampus 0.631759
+gazelle 0.296478
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10744.jpg
+gazelle 0.981269
+impala, Aepyceros melampus 0.018424
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10745.jpg
+hartebeest 0.91345
+gazelle 0.0475769
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10746.jpg
+gazelle 0.946101
+impala, Aepyceros melampus 0.0538985
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10747.jpg
+gazelle 0.525887
+impala, Aepyceros melampus 0.474067
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10748.jpg
+impala, Aepyceros melampus 0.942919
+gazelle 0.0555004
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10749.jpg
+hartebeest 0.678675
+impala, Aepyceros melampus 0.312847
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10750.jpg
+gazelle 0.585964
+impala, Aepyceros melampus 0.411142
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10751.jpg
+gazelle 0.904376
+impala, Aepyceros melampus 0.0947693
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10752.jpg
+hartebeest 0.468455
+impala, Aepyceros melampus 0.310482
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10753.jpg
+impala, Aepyceros melampus 0.736685
+gazelle 0.215229
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10754.jpg
+impala, Aepyceros melampus 0.850166
+gazelle 0.141013
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10755.jpg
+gazelle 0.869412
+impala, Aepyceros melampus 0.129214
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10756.jpg
+gazelle 0.62895
+ibex, Capra ibex 0.322773
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10757.jpg
+impala, Aepyceros melampus 0.955902
+gazelle 0.0397273
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10758.jpg
+gazelle 0.767933
+impala, Aepyceros melampus 0.232042
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10759.jpg
+gazelle 0.838751
+impala, Aepyceros melampus 0.149232
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10760.jpg
+gazelle 0.738872
+impala, Aepyceros melampus 0.243664
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10761.jpg
+gazelle 0.995737
+impala, Aepyceros melampus 0.00425933
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10762.jpg
+impala, Aepyceros melampus 0.976191
+gazelle 0.0235355
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10763.jpg
+gazelle 0.974778
+impala, Aepyceros melampus 0.0251187
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10764.jpg
+impala, Aepyceros melampus 0.981553
+gazelle 0.0177247
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10765.jpg
+impala, Aepyceros melampus 0.806126
+gazelle 0.192812
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10766.jpg
+impala, Aepyceros melampus 0.919198
+gazelle 0.0782433
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10767.jpg
+impala, Aepyceros melampus 0.742032
+hartebeest 0.157538
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10768.jpg
+gazelle 0.533006
+impala, Aepyceros melampus 0.451939
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10769.jpg
+gazelle 0.997434
+impala, Aepyceros melampus 0.00256315
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10770.jpg
+gazelle 0.919624
+ibex, Capra ibex 0.0403662
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10771.jpg
+impala, Aepyceros melampus 0.69557
+hartebeest 0.209208
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10772.jpg
+gazelle 0.950103
+impala, Aepyceros melampus 0.0496312
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10773.jpg
+impala, Aepyceros melampus 0.630982
+gazelle 0.325639
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10774.jpg
+gazelle 0.505138
+impala, Aepyceros melampus 0.184196
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10775.jpg
+gazelle 0.380296
+whippet 0.289272
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10776.jpg
+gazelle 0.700304
+impala, Aepyceros melampus 0.289546
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10777.jpg
+gazelle 0.389059
+basenji 0.245585
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10778.jpg
+hartebeest 0.27562
+lion, king of beasts, Panthera leo 0.108814
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10779.jpg
+impala, Aepyceros melampus 0.659473
+gazelle 0.324841
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10780.jpg
+gazelle 0.399139
+impala, Aepyceros melampus 0.373831
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10781.jpg
+gazelle 0.33363
+kit fox, Vulpes macrotis 0.325962
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10782.jpg
+gazelle 0.263842
+basenji 0.229526
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10783.jpg
+gazelle 0.781995
+impala, Aepyceros melampus 0.188957
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10784.jpg
+gazelle 0.576151
+impala, Aepyceros melampus 0.342773
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10785.jpg
+impala, Aepyceros melampus 0.929432
+gazelle 0.0421874
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10786.jpg
+hartebeest 0.457936
+gazelle 0.36134
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10787.jpg
+gazelle 0.662435
+impala, Aepyceros melampus 0.302741
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10788.jpg
+impala, Aepyceros melampus 0.319247
+gazelle 0.295606
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10789.jpg
+hartebeest 0.42778
+impala, Aepyceros melampus 0.350131
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10790.jpg
+Saluki, gazelle hound 0.45932
+Ibizan hound, Ibizan Podenco 0.367636
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10791.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.711135
+dhole, Cuon alpinus 0.101904
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10792.jpg
+hartebeest 0.423175
+gazelle 0.378934
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10793.jpg
+impala, Aepyceros melampus 0.49077
+gazelle 0.293065
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10794.jpg
+gazelle 0.242767
+impala, Aepyceros melampus 0.242542
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10795.jpg
+impala, Aepyceros melampus 0.475498
+hartebeest 0.364176
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10796.jpg
+gazelle 0.503763
+impala, Aepyceros melampus 0.337575
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10797.jpg
+impala, Aepyceros melampus 0.571145
+hartebeest 0.199278
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10798.jpg
+gazelle 0.856579
+impala, Aepyceros melampus 0.11949
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10799.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.564289
+ibex, Capra ibex 0.158145
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10800.jpg
+impala, Aepyceros melampus 0.512011
+hartebeest 0.310176
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10801.jpg
+impala, Aepyceros melampus 0.471146
+coyote, prairie wolf, brush wolf, Canis latrans 0.21708
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10802.jpg
+dhole, Cuon alpinus 0.095039
+patas, hussar monkey, Erythrocebus patas 0.0733749
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10803.jpg
+barrow, garden cart, lawn cart, wheelbarrow 0.147875
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0894466
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10804.jpg
+gazelle 0.728536
+impala, Aepyceros melampus 0.227715
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10805.jpg
+impala, Aepyceros melampus 0.545223
+gazelle 0.447592
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10806.jpg
+impala, Aepyceros melampus 0.514437
+gazelle 0.479026
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10807.jpg
+impala, Aepyceros melampus 0.707704
+hartebeest 0.0753908
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10808.jpg
+impala, Aepyceros melampus 0.969602
+gazelle 0.0302925
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10809.jpg
+impala, Aepyceros melampus 0.49315
+gazelle 0.475478
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10810.jpg
+impala, Aepyceros melampus 0.771133
+gazelle 0.125164
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10811.jpg
+gazelle 0.951306
+impala, Aepyceros melampus 0.0486879
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10812.jpg
+hartebeest 0.618434
+gazelle 0.219938
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10813.jpg
+ibex, Capra ibex 0.658514
+gazelle 0.187381
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10814.jpg
+gazelle 0.849818
+impala, Aepyceros melampus 0.135698
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10815.jpg
+llama 0.445961
+gazelle 0.334277
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10816.jpg
+hartebeest 0.526232
+impala, Aepyceros melampus 0.412061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10817.jpg
+hartebeest 0.846651
+impala, Aepyceros melampus 0.127373
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10818.jpg
+hartebeest 0.69214
+impala, Aepyceros melampus 0.20997
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10819.jpg
+impala, Aepyceros melampus 0.735532
+gazelle 0.0891121
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10820.jpg
+hartebeest 0.84401
+impala, Aepyceros melampus 0.136605
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10821.jpg
+impala, Aepyceros melampus 0.889867
+gazelle 0.10808
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10822.jpg
+hartebeest 0.948219
+impala, Aepyceros melampus 0.0382373
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10823.jpg
+gazelle 0.977532
+impala, Aepyceros melampus 0.0197918
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10824.jpg
+impala, Aepyceros melampus 0.506595
+gazelle 0.493374
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10825.jpg
+wild boar, boar, Sus scrofa 0.560405
+warthog 0.286845
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10826.jpg
+ox 0.343752
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.185041
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10827.jpg
+impala, Aepyceros melampus 0.885054
+gazelle 0.112352
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10828.jpg
+hartebeest 0.278057
+oxcart 0.204338
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10829.jpg
+gazelle 0.940938
+impala, Aepyceros melampus 0.0484913
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10830.jpg
+hartebeest 0.537011
+gazelle 0.307789
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10831.jpg
+Appenzeller 0.181658
+Greater Swiss Mountain dog 0.106726
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10832.jpg
+red fox, Vulpes vulpes 0.248269
+dingo, warrigal, warragal, Canis dingo 0.0900836
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10833.jpg
+hartebeest 0.458567
+oxcart 0.0815538
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10834.jpg
+ibex, Capra ibex 0.421579
+hartebeest 0.313445
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10835.jpg
+hartebeest 0.212029
+ibex, Capra ibex 0.20103
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10836.jpg
+ostrich, Struthio camelus 0.987564
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.00922641
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10837.jpg
+hartebeest 0.809149
+impala, Aepyceros melampus 0.064486
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10838.jpg
+sorrel 0.289537
+hartebeest 0.249768
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10839.jpg
+impala, Aepyceros melampus 0.581022
+gazelle 0.329987
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10840.jpg
+gazelle 0.550359
+impala, Aepyceros melampus 0.449222
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10841.jpg
+gazelle 0.972757
+impala, Aepyceros melampus 0.0259311
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10842.jpg
+gazelle 0.594168
+impala, Aepyceros melampus 0.19224
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10843.jpg
+Italian greyhound 0.306492
+Saluki, gazelle hound 0.270884
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10844.jpg
+gazelle 0.866098
+impala, Aepyceros melampus 0.0792463
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10845.jpg
+gazelle 0.985363
+impala, Aepyceros melampus 0.0105902
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10846.jpg
+gazelle 0.899895
+impala, Aepyceros melampus 0.0997704
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10847.jpg
+impala, Aepyceros melampus 0.829795
+gazelle 0.169744
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10848.jpg
+gazelle 0.976286
+impala, Aepyceros melampus 0.0220607
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10849.jpg
+impala, Aepyceros melampus 0.672536
+gazelle 0.292885
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10850.jpg
+gazelle 0.996938
+impala, Aepyceros melampus 0.00306156
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10851.jpg
+gazelle 0.971695
+impala, Aepyceros melampus 0.0282324
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10852.jpg
+impala, Aepyceros melampus 0.890439
+gazelle 0.105489
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10853.jpg
+impala, Aepyceros melampus 0.971382
+gazelle 0.0248564
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10854.jpg
+impala, Aepyceros melampus 0.836472
+gazelle 0.155245
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10855.jpg
+impala, Aepyceros melampus 0.52132
+gazelle 0.47657
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10856.jpg
+gazelle 0.994858
+impala, Aepyceros melampus 0.00506327
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10857.jpg
+gazelle 0.55106
+impala, Aepyceros melampus 0.42003
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10858.jpg
+impala, Aepyceros melampus 0.594446
+gazelle 0.405178
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10859.jpg
+impala, Aepyceros melampus 0.537676
+gazelle 0.456937
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10860.jpg
+gazelle 0.970338
+impala, Aepyceros melampus 0.0296364
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10861.jpg
+hartebeest 0.437304
+impala, Aepyceros melampus 0.375694
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10862.jpg
+impala, Aepyceros melampus 0.467917
+hartebeest 0.21183
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10863.jpg
+impala, Aepyceros melampus 0.742357
+gazelle 0.215314
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10864.jpg
+gazelle 0.899013
+impala, Aepyceros melampus 0.100928
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10865.jpg
+gazelle 0.934659
+impala, Aepyceros melampus 0.0653328
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10866.jpg
+impala, Aepyceros melampus 0.824764
+gazelle 0.13319
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10867.jpg
+gazelle 0.786393
+llama 0.128726
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10868.jpg
+gazelle 0.934418
+impala, Aepyceros melampus 0.0654973
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10869.jpg
+impala, Aepyceros melampus 0.844934
+gazelle 0.155053
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10870.jpg
+impala, Aepyceros melampus 0.995281
+gazelle 0.00471124
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10871.jpg
+gazelle 0.973324
+impala, Aepyceros melampus 0.0233184
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10872.jpg
+gazelle 0.991511
+impala, Aepyceros melampus 0.00846527
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10873.jpg
+gazelle 0.832425
+impala, Aepyceros melampus 0.121698
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10874.jpg
+gazelle 0.878307
+impala, Aepyceros melampus 0.107581
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10875.jpg
+hartebeest 0.499599
+gazelle 0.291628
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10876.jpg
+gazelle 0.439113
+impala, Aepyceros melampus 0.320437
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10877.jpg
+impala, Aepyceros melampus 0.651146
+gazelle 0.348815
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10878.jpg
+gazelle 0.971048
+impala, Aepyceros melampus 0.0284274
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10879.jpg
+impala, Aepyceros melampus 0.468947
+gazelle 0.44273
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10880.jpg
+gazelle 0.954959
+impala, Aepyceros melampus 0.044993
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10881.jpg
+impala, Aepyceros melampus 0.913343
+gazelle 0.0866572
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10882.jpg
+gazelle 0.940079
+impala, Aepyceros melampus 0.0599211
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10883.jpg
+gazelle 0.801266
+impala, Aepyceros melampus 0.18478
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10884.jpg
+gazelle 0.97871
+impala, Aepyceros melampus 0.0211049
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10885.jpg
+gazelle 0.750017
+impala, Aepyceros melampus 0.247702
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10886.jpg
+gazelle 0.950619
+impala, Aepyceros melampus 0.0490454
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10887.jpg
+gazelle 0.987255
+impala, Aepyceros melampus 0.00996603
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10888.jpg
+gazelle 0.813673
+impala, Aepyceros melampus 0.180563
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10889.jpg
+gazelle 0.770103
+impala, Aepyceros melampus 0.227843
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10890.jpg
+impala, Aepyceros melampus 0.498773
+gazelle 0.497056
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10891.jpg
+impala, Aepyceros melampus 0.414114
+gazelle 0.343165
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10892.jpg
+gazelle 0.637603
+impala, Aepyceros melampus 0.360688
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10893.jpg
+gazelle 0.750478
+impala, Aepyceros melampus 0.244943
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10894.jpg
+gazelle 0.855023
+impala, Aepyceros melampus 0.0652426
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10895.jpg
+gazelle 0.976127
+impala, Aepyceros melampus 0.0238684
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10896.jpg
+gazelle 0.915053
+impala, Aepyceros melampus 0.0456261
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10897.jpg
+gazelle 0.89113
+impala, Aepyceros melampus 0.108293
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10898.jpg
+impala, Aepyceros melampus 0.648626
+gazelle 0.349592
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10899.jpg
+impala, Aepyceros melampus 0.747979
+gazelle 0.251827
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10900.jpg
+impala, Aepyceros melampus 0.623822
+gazelle 0.369899
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10901.jpg
+impala, Aepyceros melampus 0.559095
+gazelle 0.400222
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10902.jpg
+gazelle 0.57059
+hartebeest 0.208189
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10903.jpg
+hartebeest 0.44441
+Arabian camel, dromedary, Camelus dromedarius 0.304568
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10904.jpg
+impala, Aepyceros melampus 0.972769
+gazelle 0.0247673
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10905.jpg
+impala, Aepyceros melampus 0.591361
+gazelle 0.290525
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10906.jpg
+gazelle 0.745962
+hartebeest 0.132474
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10907.jpg
+impala, Aepyceros melampus 0.732512
+gazelle 0.267345
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10908.jpg
+gazelle 0.93571
+impala, Aepyceros melampus 0.064039
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10909.jpg
+impala, Aepyceros melampus 0.639169
+gazelle 0.360379
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10910.jpg
+gazelle 0.871282
+impala, Aepyceros melampus 0.127459
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10911.jpg
+impala, Aepyceros melampus 0.962681
+gazelle 0.0352288
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10912.jpg
+gazelle 0.802946
+impala, Aepyceros melampus 0.196123
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10913.jpg
+impala, Aepyceros melampus 0.754411
+gazelle 0.201939
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10914.jpg
+impala, Aepyceros melampus 0.895614
+gazelle 0.101934
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10915.jpg
+impala, Aepyceros melampus 0.917103
+gazelle 0.0825679
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10916.jpg
+impala, Aepyceros melampus 0.909104
+gazelle 0.0908965
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10917.jpg
+impala, Aepyceros melampus 0.90522
+gazelle 0.0792275
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10918.jpg
+impala, Aepyceros melampus 0.907642
+gazelle 0.0813457
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10919.jpg
+impala, Aepyceros melampus 0.995289
+gazelle 0.00466844
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10920.jpg
+impala, Aepyceros melampus 0.945802
+gazelle 0.0535426
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10921.jpg
+impala, Aepyceros melampus 0.725803
+gazelle 0.247266
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10922.jpg
+impala, Aepyceros melampus 0.911097
+gazelle 0.0888855
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10923.jpg
+impala, Aepyceros melampus 0.795424
+gazelle 0.204159
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10924.jpg
+gazelle 0.963847
+impala, Aepyceros melampus 0.0361408
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10925.jpg
+impala, Aepyceros melampus 0.82833
+gazelle 0.171174
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10926.jpg
+hartebeest 0.911407
+impala, Aepyceros melampus 0.0607031
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10927.jpg
+gazelle 0.993524
+impala, Aepyceros melampus 0.00647618
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10928.jpg
+impala, Aepyceros melampus 0.447536
+gazelle 0.428675
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10929.jpg
+gazelle 0.995607
+impala, Aepyceros melampus 0.0043842
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10930.jpg
+gazelle 0.73258
+impala, Aepyceros melampus 0.238815
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10931.jpg
+gazelle 0.884118
+impala, Aepyceros melampus 0.104793
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10932.jpg
+gazelle 0.995314
+impala, Aepyceros melampus 0.00468588
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10933.jpg
+gazelle 0.994637
+impala, Aepyceros melampus 0.00536349
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10934.jpg
+impala, Aepyceros melampus 0.539998
+gazelle 0.458963
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10935.jpg
+gazelle 0.971379
+impala, Aepyceros melampus 0.0284732
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10936.jpg
+gazelle 0.949119
+impala, Aepyceros melampus 0.050877
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10937.jpg
+gazelle 0.999739
+impala, Aepyceros melampus 0.000261361
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10938.jpg
+gazelle 0.999959
+impala, Aepyceros melampus 4.09379e-05
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10939.jpg
+gazelle 0.89714
+impala, Aepyceros melampus 0.102817
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10940.jpg
+gazelle 0.66454
+impala, Aepyceros melampus 0.326246
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10941.jpg
+impala, Aepyceros melampus 0.939608
+gazelle 0.0595883
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10942.jpg
+gazelle 0.994508
+impala, Aepyceros melampus 0.00549177
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10943.jpg
+gazelle 0.957414
+impala, Aepyceros melampus 0.0415053
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10944.jpg
+gazelle 0.961343
+impala, Aepyceros melampus 0.0385468
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10945.jpg
+gazelle 0.898992
+impala, Aepyceros melampus 0.100167
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10946.jpg
+gazelle 0.941277
+impala, Aepyceros melampus 0.0576295
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10947.jpg
+gazelle 0.86782
+impala, Aepyceros melampus 0.131889
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10948.jpg
+gazelle 0.256758
+hare 0.236251
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10949.jpg
+gazelle 0.999217
+impala, Aepyceros melampus 0.000772576
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10950.jpg
+gazelle 0.927908
+impala, Aepyceros melampus 0.0697084
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10951.jpg
+gazelle 0.641711
+impala, Aepyceros melampus 0.356781
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10952.jpg
+gazelle 0.930025
+impala, Aepyceros melampus 0.0649935
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10953.jpg
+gazelle 0.989763
+impala, Aepyceros melampus 0.00998984
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10954.jpg
+gazelle 0.953756
+impala, Aepyceros melampus 0.0462399
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10955.jpg
+gazelle 0.994532
+impala, Aepyceros melampus 0.00539705
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10956.jpg
+gazelle 0.767278
+impala, Aepyceros melampus 0.232622
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10957.jpg
+gazelle 0.82124
+impala, Aepyceros melampus 0.175733
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10958.jpg
+gazelle 0.998674
+impala, Aepyceros melampus 0.00132606
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10959.jpg
+gazelle 0.981001
+impala, Aepyceros melampus 0.01898
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10960.jpg
+gazelle 0.99999
+impala, Aepyceros melampus 1.05064e-05
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10961.jpg
+gazelle 0.986875
+impala, Aepyceros melampus 0.0130753
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10962.jpg
+dogsled, dog sled, dog sleigh 0.897492
+Arabian camel, dromedary, Camelus dromedarius 0.0572987
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10963.jpg
+gazelle 0.756094
+hartebeest 0.0889516
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10964.jpg
+impala, Aepyceros melampus 0.739899
+gazelle 0.259935
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10965.jpg
+impala, Aepyceros melampus 0.879413
+gazelle 0.120467
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10966.jpg
+impala, Aepyceros melampus 0.88861
+gazelle 0.111289
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10967.jpg
+gazelle 0.9843
+impala, Aepyceros melampus 0.0157001
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10968.jpg
+gazelle 0.56064
+patas, hussar monkey, Erythrocebus patas 0.178626
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10969.jpg
+impala, Aepyceros melampus 0.652449
+gazelle 0.232649
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10970.jpg
+hartebeest 0.998057
+impala, Aepyceros melampus 0.00117809
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10971.jpg
+hartebeest 0.993596
+impala, Aepyceros melampus 0.0057166
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10972.jpg
+gazelle 0.90793
+impala, Aepyceros melampus 0.0850564
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10973.jpg
+gazelle 0.95279
+impala, Aepyceros melampus 0.0268939
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10974.jpg
+impala, Aepyceros melampus 0.653987
+gazelle 0.332808
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10975.jpg
+impala, Aepyceros melampus 0.938052
+gazelle 0.0618943
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10976.jpg
+impala, Aepyceros melampus 0.659811
+gazelle 0.282834
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10977.jpg
+impala, Aepyceros melampus 0.900205
+gazelle 0.0991954
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10978.jpg
+hartebeest 0.514542
+impala, Aepyceros melampus 0.453786
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10979.jpg
+impala, Aepyceros melampus 0.792725
+gazelle 0.206735
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10980.jpg
+impala, Aepyceros melampus 0.43776
+gazelle 0.405987
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10981.jpg
+gazelle 0.488032
+llama 0.269059
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10982.jpg
+gazelle 0.998796
+impala, Aepyceros melampus 0.00118182
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10983.jpg
+impala, Aepyceros melampus 0.946442
+gazelle 0.0535061
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10984.jpg
+impala, Aepyceros melampus 0.786298
+gazelle 0.118486
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10985.jpg
+hartebeest 0.97965
+impala, Aepyceros melampus 0.0188039
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10986.jpg
+impala, Aepyceros melampus 0.680051
+gazelle 0.319719
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10987.jpg
+gazelle 0.507224
+impala, Aepyceros melampus 0.47799
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10988.jpg
+impala, Aepyceros melampus 0.911214
+gazelle 0.088317
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10989.jpg
+impala, Aepyceros melampus 0.725495
+gazelle 0.274227
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10990.jpg
+gazelle 0.656654
+impala, Aepyceros melampus 0.261253
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10991.jpg
+gazelle 0.953921
+impala, Aepyceros melampus 0.0454889
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10992.jpg
+gazelle 0.997361
+impala, Aepyceros melampus 0.00251696
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10993.jpg
+impala, Aepyceros melampus 0.738455
+hartebeest 0.163067
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10994.jpg
+gazelle 0.984422
+impala, Aepyceros melampus 0.0147137
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10995.jpg
+gazelle 0.825792
+impala, Aepyceros melampus 0.173663
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10996.jpg
+gazelle 0.837488
+impala, Aepyceros melampus 0.147008
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10997.jpg
+gazelle 0.912691
+impala, Aepyceros melampus 0.0871361
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10998.jpg
+impala, Aepyceros melampus 0.697745
+gazelle 0.302105
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_10999.jpg
+impala, Aepyceros melampus 0.946992
+gazelle 0.0530019
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11000.jpg
+impala, Aepyceros melampus 0.781127
+gazelle 0.218784
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11001.jpg
+impala, Aepyceros melampus 0.912921
+gazelle 0.0816418
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11002.jpg
+impala, Aepyceros melampus 0.629541
+gazelle 0.370432
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11003.jpg
+impala, Aepyceros melampus 0.577772
+gazelle 0.146062
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11004.jpg
+impala, Aepyceros melampus 0.848055
+gazelle 0.151945
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11005.jpg
+hartebeest 0.974706
+impala, Aepyceros melampus 0.0205457
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11006.jpg
+gazelle 0.970579
+impala, Aepyceros melampus 0.0291141
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11007.jpg
+gazelle 0.801668
+impala, Aepyceros melampus 0.193398
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11008.jpg
+gazelle 0.550901
+impala, Aepyceros melampus 0.390691
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11009.jpg
+impala, Aepyceros melampus 0.88914
+gazelle 0.110337
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11010.jpg
+gazelle 0.760868
+impala, Aepyceros melampus 0.237985
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11011.jpg
+gazelle 0.924696
+impala, Aepyceros melampus 0.0744906
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11012.jpg
+gazelle 0.599263
+impala, Aepyceros melampus 0.397826
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11013.jpg
+impala, Aepyceros melampus 0.95132
+gazelle 0.0459701
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11014.jpg
+gazelle 0.992136
+impala, Aepyceros melampus 0.00785527
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11015.jpg
+dingo, warrigal, warragal, Canis dingo 0.875575
+impala, Aepyceros melampus 0.0492822
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11016.jpg
+impala, Aepyceros melampus 0.943949
+gazelle 0.0556235
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11017.jpg
+gazelle 0.934304
+impala, Aepyceros melampus 0.0652617
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11018.jpg
+gazelle 0.304763
+impala, Aepyceros melampus 0.149799
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11019.jpg
+gazelle 0.854866
+impala, Aepyceros melampus 0.144762
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11020.jpg
+impala, Aepyceros melampus 0.538217
+gazelle 0.401265
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11021.jpg
+gazelle 0.858284
+impala, Aepyceros melampus 0.141354
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11022.jpg
+hartebeest 0.617914
+gazelle 0.290609
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11023.jpg
+impala, Aepyceros melampus 0.936214
+gazelle 0.0632511
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11024.jpg
+gazelle 0.512015
+impala, Aepyceros melampus 0.481991
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11025.jpg
+impala, Aepyceros melampus 0.626431
+gazelle 0.150216
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11026.jpg
+gazelle 0.478437
+impala, Aepyceros melampus 0.420103
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11027.jpg
+impala, Aepyceros melampus 0.76095
+gazelle 0.239037
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11028.jpg
+gazelle 0.766757
+impala, Aepyceros melampus 0.224911
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11029.jpg
+gazelle 0.592708
+impala, Aepyceros melampus 0.40441
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11030.jpg
+gazelle 0.998471
+impala, Aepyceros melampus 0.00152899
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11031.jpg
+sorrel 0.663902
+flamingo 0.161824
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11032.jpg
+impala, Aepyceros melampus 0.53717
+wallaby, brush kangaroo 0.170027
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11033.jpg
+impala, Aepyceros melampus 0.556888
+gazelle 0.435944
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11034.jpg
+gazelle 0.977908
+impala, Aepyceros melampus 0.0218128
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11035.jpg
+impala, Aepyceros melampus 0.597809
+gazelle 0.39332
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11036.jpg
+impala, Aepyceros melampus 0.550255
+gazelle 0.448259
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11037.jpg
+gazelle 0.816921
+impala, Aepyceros melampus 0.1516
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11038.jpg
+impala, Aepyceros melampus 0.628421
+hartebeest 0.316297
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11039.jpg
+gazelle 0.690671
+impala, Aepyceros melampus 0.308462
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11040.jpg
+gazelle 0.816036
+impala, Aepyceros melampus 0.183604
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11041.jpg
+hartebeest 0.546376
+ibex, Capra ibex 0.291468
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11042.jpg
+impala, Aepyceros melampus 0.896506
+gazelle 0.098058
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11043.jpg
+ibex, Capra ibex 0.624513
+hartebeest 0.331975
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11044.jpg
+gazelle 0.872433
+impala, Aepyceros melampus 0.127346
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11045.jpg
+gazelle 0.496593
+ibex, Capra ibex 0.27761
+./datasets/Animals_with_Attributes2/JPEGImages/antelope/antelope_11046.jpg
+impala, Aepyceros melampus 0.51274
+gazelle 0.275619

@@ -1,0 +1,1149 @@
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10001.jpg
+wreck 0.264111
+cicada, cicala 0.187047
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10002.jpg
+ant, emmet, pismire 0.44917
+fiddler crab 0.121284
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10003.jpg
+vulture 0.211803
+bald eagle, American eagle, Haliaeetus leucocephalus 0.193183
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10004.jpg
+sea lion 0.195765
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.14322
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10005.jpg
+indri, indris, Indri indri, Indri brevicaudatus 0.222303
+colobus, colobus monkey 0.222209
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10006.jpg
+violin, fiddle 0.346814
+lighter, light, igniter, ignitor 0.261036
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10007.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.175606
+ant, emmet, pismire 0.121045
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10008.jpg
+Airedale, Airedale terrier 0.0814859
+German short-haired pointer 0.0770204
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10009.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.55986
+mousetrap 0.380401
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10010.jpg
+squirrel monkey, Saimiri sciureus 0.0562183
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.039122
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10011.jpg
+wood rabbit, cottontail, cottontail rabbit 0.193043
+hamster 0.162761
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10012.jpg
+oystercatcher, oyster catcher 0.355939
+red-breasted merganser, Mergus serrator 0.345059
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10013.jpg
+cockroach, roach 0.708469
+miniature pinscher 0.0389498
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10014.jpg
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus 0.0921849
+shovel 0.0572747
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10015.jpg
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui 0.103123
+hermit crab 0.0737593
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10016.jpg
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa 0.357806
+gyromitra 0.0752394
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10017.jpg
+warthog 0.397372
+wild boar, boar, Sus scrofa 0.173681
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10018.jpg
+mongoose 0.172452
+macaque 0.170207
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10019.jpg
+black-footed ferret, ferret, Mustela nigripes 0.498801
+marmoset 0.230473
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10020.jpg
+marmoset 0.371389
+titi, titi monkey 0.145453
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10021.jpg
+hatchet 0.0714175
+agama 0.0636607
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10022.jpg
+marmoset 0.240696
+titi, titi monkey 0.121823
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10023.jpg
+mousetrap 0.148467
+photocopier 0.099217
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10024.jpg
+howler monkey, howler 0.151551
+titi, titi monkey 0.0502318
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10025.jpg
+kite 0.24549
+warplane, military plane 0.212554
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10026.jpg
+snail 0.338279
+ringlet, ringlet butterfly 0.198515
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10027.jpg
+Chesapeake Bay retriever 0.209288
+baboon 0.100118
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10028.jpg
+chocolate sauce, chocolate syrup 0.0865527
+grasshopper, hopper 0.0661805
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10029.jpg
+squirrel monkey, Saimiri sciureus 0.427469
+marmoset 0.210407
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10030.jpg
+marmoset 0.0957576
+fig 0.0885919
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10031.jpg
+schipperke 0.129629
+mousetrap 0.0521351
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10032.jpg
+red-breasted merganser, Mergus serrator 0.365351
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.25114
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10033.jpg
+water ouzel, dipper 0.950902
+red-breasted merganser, Mergus serrator 0.0177977
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10034.jpg
+green lizard, Lacerta viridis 0.180632
+bittern 0.142894
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10035.jpg
+kelpie 0.213454
+Norwegian elkhound, elkhound 0.1219
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10036.jpg
+howler monkey, howler 0.846533
+hornbill 0.0781975
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10037.jpg
+beaver 0.218155
+otter 0.208703
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10038.jpg
+steel drum 0.0463052
+bucket, pail 0.0385801
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10039.jpg
+mouse, computer mouse 0.128795
+sleeping bag 0.102709
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10040.jpg
+bee 0.195917
+snail 0.153587
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10041.jpg
+coucal 0.298759
+bulbul 0.14922
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10042.jpg
+reel 0.0917137
+revolver, six-gun, six-shooter 0.0729993
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10043.jpg
+cliff dwelling 0.804909
+cliff, drop, drop-off 0.0588944
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10044.jpg
+megalith, megalithic structure 0.547091
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.194468
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10045.jpg
+vulture 0.468998
+spider monkey, Ateles geoffroyi 0.0969952
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10046.jpg
+tripod 0.214265
+bicycle-built-for-two, tandem bicycle, tandem 0.160548
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10047.jpg
+white stork, Ciconia ciconia 0.193143
+flagpole, flagstaff 0.173577
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10048.jpg
+squirrel monkey, Saimiri sciureus 0.145723
+marmoset 0.122599
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10049.jpg
+hornbill 0.204147
+window screen 0.106801
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10050.jpg
+howler monkey, howler 0.141662
+custard apple 0.129178
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10051.jpg
+German short-haired pointer 0.286676
+Great Dane 0.219516
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10052.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.107064
+tarantula 0.0902691
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10053.jpg
+slug 0.107046
+agama 0.103418
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10054.jpg
+horizontal bar, high bar 0.43759
+parallel bars, bars 0.122502
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10055.jpg
+bee 0.133504
+titi, titi monkey 0.0813129
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10056.jpg
+flatworm, platyhelminth 0.423575
+wolf spider, hunting spider 0.122737
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10057.jpg
+jacamar 0.361029
+bulbul 0.0731522
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10058.jpg
+kite 0.2937
+vulture 0.289153
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10059.jpg
+water snake 0.135064
+little blue heron, Egretta caerulea 0.104156
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10060.jpg
+spider monkey, Ateles geoffroyi 0.570004
+howler monkey, howler 0.0973181
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10061.jpg
+mouse, computer mouse 0.0907796
+tabby, tabby cat 0.0666008
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10062.jpg
+mousetrap 0.408155
+Norwegian elkhound, elkhound 0.159087
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10063.jpg
+feather boa, boa 0.19581
+fur coat 0.157692
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10064.jpg
+cockroach, roach 0.224938
+stingray 0.184944
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10065.jpg
+brambling, Fringilla montifringilla 0.103909
+vulture 0.0912988
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10066.jpg
+howler monkey, howler 0.683847
+spider monkey, Ateles geoffroyi 0.131258
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10067.jpg
+leafhopper 0.324743
+cockroach, roach 0.127276
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10068.jpg
+barn spider, Araneus cavaticus 0.169719
+tarantula 0.13102
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10069.jpg
+Sussex spaniel 0.0841318
+tabby, tabby cat 0.0577141
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10070.jpg
+guenon, guenon monkey 0.0844909
+chainlink fence 0.0323741
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10071.jpg
+hummingbird 0.552409
+leafhopper 0.0927305
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10072.jpg
+Egyptian cat 0.119914
+snail 0.0549118
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10073.jpg
+weasel 0.104187
+ringlet, ringlet butterfly 0.0815445
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10074.jpg
+laptop, laptop computer 0.279502
+Irish terrier 0.0747122
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10075.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.167733
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.162373
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10076.jpg
+Norwich terrier 0.353178
+cairn, cairn terrier 0.229727
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10077.jpg
+black-footed ferret, ferret, Mustela nigripes 0.433741
+Siamese cat, Siamese 0.12944
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10078.jpg
+grey fox, gray fox, Urocyon cinereoargenteus 0.257139
+mousetrap 0.122683
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10079.jpg
+pinwheel 0.144928
+academic gown, academic robe, judge's robe 0.119271
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10080.jpg
+bee 0.332848
+guinea pig, Cavia cobaya 0.0623556
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10081.jpg
+titi, titi monkey 0.188631
+hamster 0.129763
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10082.jpg
+Boston bull, Boston terrier 0.105792
+Italian greyhound 0.0836577
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10083.jpg
+parachute, chute 0.339346
+alp 0.166542
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10084.jpg
+bee 0.205702
+acorn 0.117325
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10085.jpg
+rhinoceros beetle 0.191294
+howler monkey, howler 0.150356
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10086.jpg
+leaf beetle, chrysomelid 0.181962
+fly 0.0906473
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10087.jpg
+magpie 0.164593
+hornbill 0.0611587
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10088.jpg
+Siamese cat, Siamese 0.119746
+lynx, catamount 0.0929068
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10089.jpg
+titi, titi monkey 0.411925
+marmoset 0.16698
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10090.jpg
+miniature poodle 0.181578
+Bouvier des Flandres, Bouviers des Flandres 0.109704
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10091.jpg
+radiator 0.265711
+Siamese cat, Siamese 0.128952
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10092.jpg
+fountain pen 0.516443
+crossword puzzle, crossword 0.176405
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10093.jpg
+cockroach, roach 0.398187
+mousetrap 0.194307
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10094.jpg
+dung beetle 0.0837673
+hermit crab 0.0782983
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10095.jpg
+bulbul 0.0358734
+rhinoceros beetle 0.03514
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10096.jpg
+howler monkey, howler 0.401432
+spider monkey, Ateles geoffroyi 0.192112
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10097.jpg
+warplane, military plane 0.387444
+wing 0.0829019
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10098.jpg
+vulture 0.583469
+bald eagle, American eagle, Haliaeetus leucocephalus 0.207088
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10099.jpg
+horizontal bar, high bar 0.536399
+parallel bars, bars 0.0466285
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10100.jpg
+magpie 0.476338
+hornbill 0.104123
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10101.jpg
+hummingbird 0.168126
+spider monkey, Ateles geoffroyi 0.109346
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10102.jpg
+howler monkey, howler 0.271501
+bald eagle, American eagle, Haliaeetus leucocephalus 0.161763
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10103.jpg
+custard apple 0.240865
+coucal 0.0653411
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10104.jpg
+beaver 0.124074
+king penguin, Aptenodytes patagonica 0.114547
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10105.jpg
+conch 0.373354
+plastic bag 0.0608599
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10106.jpg
+marmoset 0.444285
+titi, titi monkey 0.121406
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10107.jpg
+kelpie 0.563486
+mink 0.0726643
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10108.jpg
+bee eater 0.559694
+jacamar 0.101273
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10109.jpg
+Brabancon griffon 0.310852
+affenpinscher, monkey pinscher, monkey dog 0.119092
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10110.jpg
+ocarina, sweet potato 0.274451
+beer bottle 0.124917
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10111.jpg
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus 0.181005
+wallaby, brush kangaroo 0.136762
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10112.jpg
+harp 0.174522
+redbone 0.0695255
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10113.jpg
+dung beetle 0.0715324
+cricket 0.0454309
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10114.jpg
+nail 0.62947
+screw 0.103171
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10115.jpg
+walking stick, walkingstick, stick insect 0.505823
+mantis, mantid 0.0576436
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10116.jpg
+basenji 0.0435732
+shield, buckler 0.042882
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10117.jpg
+assault rifle, assault gun 0.0905625
+spider monkey, Ateles geoffroyi 0.0858055
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10118.jpg
+Bedlington terrier 0.233735
+Irish wolfhound 0.0576041
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10119.jpg
+mousetrap 0.241168
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.178479
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10120.jpg
+marmoset 0.797916
+titi, titi monkey 0.160493
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10121.jpg
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui 0.721374
+loggerhead, loggerhead turtle, Caretta caretta 0.0658726
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10122.jpg
+loggerhead, loggerhead turtle, Caretta caretta 0.16283
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui 0.0761345
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10123.jpg
+schipperke 0.605147
+hamster 0.181483
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10124.jpg
+mink 0.412969
+black-footed ferret, ferret, Mustela nigripes 0.155424
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10125.jpg
+gong, tam-tam 0.212153
+bolo tie, bolo, bola tie, bola 0.0592556
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10126.jpg
+sunglass 0.559602
+sunglasses, dark glasses, shades 0.21017
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10127.jpg
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui 0.378753
+mink 0.162515
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10128.jpg
+brown bear, bruin, Ursus arctos 0.175339
+Chesapeake Bay retriever 0.170667
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10129.jpg
+Siamese cat, Siamese 0.173754
+Chihuahua 0.0534787
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10130.jpg
+chiton, coat-of-mail shell, sea cradle, polyplacophore 0.242813
+water snake 0.146164
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10131.jpg
+toy poodle 0.22991
+chow, chow chow 0.0787395
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10132.jpg
+mousetrap 0.292282
+hamster 0.215359
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10133.jpg
+Siamese cat, Siamese 0.799541
+bee 0.126009
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10134.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.510565
+spider monkey, Ateles geoffroyi 0.143438
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10135.jpg
+cockroach, roach 0.592888
+tile roof 0.0311042
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10136.jpg
+Border terrier 0.162304
+Airedale, Airedale terrier 0.116154
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10137.jpg
+hyena, hyaena 0.130628
+mink 0.119411
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10138.jpg
+capuchin, ringtail, Cebus capucinus 0.349513
+squirrel monkey, Saimiri sciureus 0.19423
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10139.jpg
+kite 0.479818
+vulture 0.127704
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10140.jpg
+electric ray, crampfish, numbfish, torpedo 0.226948
+stingray 0.122741
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10141.jpg
+tank, army tank, armored combat vehicle, armoured combat vehicle 0.0542941
+boa constrictor, Constrictor constrictor 0.0427312
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10142.jpg
+hen 0.151989
+marmoset 0.0390263
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10143.jpg
+black and gold garden spider, Argiope aurantia 0.414173
+acorn 0.18537
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10144.jpg
+marmoset 0.601045
+titi, titi monkey 0.247203
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10145.jpg
+tarantula 0.435146
+wolf spider, hunting spider 0.290524
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10146.jpg
+cockroach, roach 0.516837
+rhinoceros beetle 0.0605289
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10147.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.983115
+axolotl, mud puppy, Ambystoma mexicanum 0.00536558
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10148.jpg
+mousetrap 0.674733
+weasel 0.0811934
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10149.jpg
+wombat 0.253441
+black-footed ferret, ferret, Mustela nigripes 0.22372
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10150.jpg
+mongoose 0.165627
+hyena, hyaena 0.0659941
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10151.jpg
+mink 0.367661
+mongoose 0.115398
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10152.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.229084
+mousetrap 0.151064
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10153.jpg
+night snake, Hypsiglena torquata 0.172844
+mud turtle 0.117029
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10154.jpg
+mink 0.29697
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.168269
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10155.jpg
+flatworm, platyhelminth 0.222623
+sea cucumber, holothurian 0.0885415
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10156.jpg
+black-footed ferret, ferret, Mustela nigripes 0.493659
+weasel 0.258258
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10157.jpg
+bee 0.308012
+pomegranate 0.0554966
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10158.jpg
+Chesapeake Bay retriever 0.507878
+Irish terrier 0.0937905
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10159.jpg
+wombat 0.336418
+mink 0.276621
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10160.jpg
+kelpie 0.260798
+Doberman, Doberman pinscher 0.202105
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10161.jpg
+barn 0.322216
+worm fence, snake fence, snake-rail fence, Virginia fence 0.0221566
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10162.jpg
+shower curtain 0.153873
+jigsaw puzzle 0.0987132
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10163.jpg
+fiddler crab 0.186994
+fox squirrel, eastern fox squirrel, Sciurus niger 0.155719
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10164.jpg
+weasel 0.241373
+Chesapeake Bay retriever 0.11636
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10165.jpg
+kite 0.292503
+brambling, Fringilla montifringilla 0.102406
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10166.jpg
+vulture 0.135721
+kite 0.0801871
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10167.jpg
+kite 0.485164
+vulture 0.412828
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10168.jpg
+beaver 0.640844
+mousetrap 0.0535719
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10169.jpg
+mink 0.794295
+weasel 0.0470548
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10170.jpg
+mink 0.190928
+marmot 0.0906906
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10171.jpg
+ringneck snake, ring-necked snake, ring snake 0.323037
+fiddler crab 0.176999
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10172.jpg
+Scotch terrier, Scottish terrier, Scottie 0.107692
+Doberman, Doberman pinscher 0.0907972
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10173.jpg
+cicada, cicala 0.218826
+frilled lizard, Chlamydosaurus kingi 0.0983011
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10174.jpg
+slug 0.0923566
+mink 0.0754294
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10175.jpg
+toaster 0.081219
+mousetrap 0.0708585
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10176.jpg
+wild boar, boar, Sus scrofa 0.423733
+mongoose 0.214921
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10177.jpg
+vulture 0.383001
+kite 0.211481
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10178.jpg
+grasshopper, hopper 0.11608
+cricket 0.0868312
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10179.jpg
+marmoset 0.606823
+mink 0.0677336
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10180.jpg
+nail 0.17141
+wolf spider, hunting spider 0.0940615
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10181.jpg
+tarantula 0.573034
+wolf spider, hunting spider 0.159809
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10182.jpg
+spider monkey, Ateles geoffroyi 0.0911448
+guenon, guenon monkey 0.0743401
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10183.jpg
+cockroach, roach 0.217003
+barn spider, Araneus cavaticus 0.0974265
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10184.jpg
+plow, plough 0.201999
+disk brake, disc brake 0.0833034
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10185.jpg
+black-and-tan coonhound 0.368212
+Rottweiler 0.110603
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10186.jpg
+chainlink fence 0.333672
+orangutan, orang, orangutang, Pongo pygmaeus 0.238596
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10187.jpg
+mink 0.293132
+howler monkey, howler 0.0629945
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10188.jpg
+admiral 0.836359
+ringlet, ringlet butterfly 0.0988389
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10189.jpg
+mask 0.0922387
+wig 0.0708376
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10190.jpg
+sewing machine 0.0513365
+tarantula 0.0181662
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10191.jpg
+fire screen, fireguard 0.234856
+upright, upright piano 0.115007
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10192.jpg
+scorpion 0.211248
+tarantula 0.174951
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10193.jpg
+kite 0.408676
+black stork, Ciconia nigra 0.148958
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10194.jpg
+magpie 0.156089
+howler monkey, howler 0.133177
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10195.jpg
+toucan 0.213644
+robin, American robin, Turdus migratorius 0.137065
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10196.jpg
+little blue heron, Egretta caerulea 0.458438
+European gallinule, Porphyrio porphyrio 0.29402
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10197.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.289658
+whippet 0.166526
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10198.jpg
+fire screen, fireguard 0.152463
+accordion, piano accordion, squeeze box 0.0961795
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10199.jpg
+Rottweiler 0.108996
+howler monkey, howler 0.105016
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10200.jpg
+bee 0.476703
+cicada, cicala 0.0931693
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10201.jpg
+puffer, pufferfish, blowfish, globefish 0.109308
+jellyfish 0.0428289
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10202.jpg
+pelican 0.0958268
+porcupine, hedgehog 0.0532664
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10203.jpg
+Chihuahua 0.303633
+muzzle 0.0856517
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10204.jpg
+capuchin, ringtail, Cebus capucinus 0.810105
+titi, titi monkey 0.0793498
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10205.jpg
+throne 0.102291
+Egyptian cat 0.0939079
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10206.jpg
+isopod 0.196551
+hermit crab 0.139908
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10207.jpg
+howler monkey, howler 0.715387
+spider monkey, Ateles geoffroyi 0.0751799
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10208.jpg
+hornbill 0.512778
+howler monkey, howler 0.378968
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10209.jpg
+mink 0.118486
+rhinoceros beetle 0.061816
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10210.jpg
+hummingbird 0.138786
+coucal 0.126099
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10211.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.333406
+chimpanzee, chimp, Pan troglodytes 0.0829839
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10212.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.355902
+three-toed sloth, ai, Bradypus tridactylus 0.222995
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10213.jpg
+Airedale, Airedale terrier 0.0687802
+puffer, pufferfish, blowfish, globefish 0.0685839
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10214.jpg
+American chameleon, anole, Anolis carolinensis 0.420494
+green lizard, Lacerta viridis 0.205756
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10215.jpg
+butternut squash 0.179403
+bell pepper 0.102471
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10216.jpg
+rhinoceros beetle 0.42838
+ground beetle, carabid beetle 0.151645
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10217.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.371479
+kite 0.339026
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10218.jpg
+banded gecko 0.0604658
+snail 0.0583658
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10219.jpg
+paintbrush 0.11049
+komondor 0.10118
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10220.jpg
+howler monkey, howler 0.321273
+vulture 0.106784
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10221.jpg
+howler monkey, howler 0.278301
+hornbill 0.130046
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10222.jpg
+chainlink fence 0.0480398
+brambling, Fringilla montifringilla 0.0471568
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10223.jpg
+wild boar, boar, Sus scrofa 0.633052
+hog, pig, grunter, squealer, Sus scrofa 0.320648
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10224.jpg
+Gila monster, Heloderma suspectum 0.219752
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui 0.0918497
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10225.jpg
+centipede 0.052967
+meerkat, mierkat 0.0473911
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10226.jpg
+triceratops 0.169222
+Scotch terrier, Scottish terrier, Scottie 0.0487375
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10227.jpg
+admiral 0.208743
+mink 0.0534215
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10228.jpg
+snow leopard, ounce, Panthera uncia 0.531642
+puffer, pufferfish, blowfish, globefish 0.186389
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10229.jpg
+puffer, pufferfish, blowfish, globefish 0.558384
+loggerhead, loggerhead turtle, Caretta caretta 0.0667934
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10230.jpg
+lycaenid, lycaenid butterfly 0.564092
+hummingbird 0.202565
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10231.jpg
+wolf spider, hunting spider 0.16934
+hermit crab 0.154306
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10232.jpg
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa 0.30097
+dung beetle 0.208715
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10233.jpg
+stole 0.182861
+spider web, spider's web 0.132052
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10234.jpg
+harvestman, daddy longlegs, Phalangium opilio 0.281691
+hare 0.193306
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10235.jpg
+Mexican hairless 0.279946
+Italian greyhound 0.216902
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10236.jpg
+marmoset 0.248475
+black-footed ferret, ferret, Mustela nigripes 0.173822
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10237.jpg
+wing 0.40407
+volcano 0.180889
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10238.jpg
+warthog 0.246981
+fur coat 0.0797283
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10239.jpg
+fiddler crab 0.225229
+slug 0.183932
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10240.jpg
+capuchin, ringtail, Cebus capucinus 0.105639
+Rottweiler 0.102261
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10241.jpg
+tick 0.532475
+slug 0.0790052
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10242.jpg
+walking stick, walkingstick, stick insect 0.0286742
+marmoset 0.0194677
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10243.jpg
+starfish, sea star 0.089802
+Egyptian cat 0.0735409
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10244.jpg
+weasel 0.645705
+mink 0.100032
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10245.jpg
+puffer, pufferfish, blowfish, globefish 0.60806
+lionfish 0.0855741
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10246.jpg
+mongoose 0.232492
+common newt, Triturus vulgaris 0.171556
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10247.jpg
+wood rabbit, cottontail, cottontail rabbit 0.5296
+wombat 0.104552
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10248.jpg
+chiton, coat-of-mail shell, sea cradle, polyplacophore 0.0573591
+Staffordshire bullterrier, Staffordshire bull terrier 0.0415887
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10249.jpg
+mink 0.220965
+mousetrap 0.1149
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10250.jpg
+vine snake 0.21439
+ringlet, ringlet butterfly 0.174476
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10251.jpg
+Mexican hairless 0.974585
+wallaby, brush kangaroo 0.0152208
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10252.jpg
+stingray 0.160224
+polecat, fitch, foulmart, foumart, Mustela putorius 0.154599
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10253.jpg
+wombat 0.279287
+hamster 0.086518
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10254.jpg
+chiton, coat-of-mail shell, sea cradle, polyplacophore 0.657697
+trilobite 0.173873
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10255.jpg
+American egret, great white heron, Egretta albus 0.390077
+quill, quill pen 0.137455
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10256.jpg
+tarantula 0.274756
+barn spider, Araneus cavaticus 0.121999
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10257.jpg
+black-footed ferret, ferret, Mustela nigripes 0.245982
+weasel 0.185318
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10258.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.332411
+Persian cat 0.23701
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10259.jpg
+three-toed sloth, ai, Bradypus tridactylus 0.729831
+bald eagle, American eagle, Haliaeetus leucocephalus 0.160333
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10260.jpg
+wombat 0.392995
+beaver 0.0973627
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10261.jpg
+fiddler crab 0.0701513
+acorn 0.0675329
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10262.jpg
+sea slug, nudibranch 0.183471
+lionfish 0.168749
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10263.jpg
+wild boar, boar, Sus scrofa 0.426689
+beaver 0.127429
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10264.jpg
+Brabancon griffon 0.235535
+malinois 0.234567
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10265.jpg
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias 0.246878
+stingray 0.227884
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10266.jpg
+dung beetle 0.527275
+rhinoceros beetle 0.109482
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10267.jpg
+kite 0.096729
+ringlet, ringlet butterfly 0.0720825
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10268.jpg
+tarantula 0.328981
+bee 0.0656491
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10269.jpg
+stinkhorn, carrion fungus 0.178492
+ram, tup 0.0755605
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10270.jpg
+quill, quill pen 0.258423
+conch 0.210529
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10271.jpg
+Norwegian elkhound, elkhound 0.205533
+malinois 0.125377
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10272.jpg
+hen 0.137474
+house finch, linnet, Carpodacus mexicanus 0.0520657
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10273.jpg
+tree frog, tree-frog 0.596015
+African chameleon, Chamaeleo chamaeleon 0.133388
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10274.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.128573
+marmoset 0.0716592
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10275.jpg
+three-toed sloth, ai, Bradypus tridactylus 0.294184
+titi, titi monkey 0.212325
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10276.jpg
+suit, suit of clothes 0.121294
+mask 0.0875801
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10277.jpg
+basset, basset hound 0.141516
+bloodhound, sleuthhound 0.136256
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10278.jpg
+cockroach, roach 0.17017
+sea lion 0.0723982
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10279.jpg
+Yorkshire terrier 0.0690768
+marmoset 0.0655796
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10280.jpg
+Siamese cat, Siamese 0.315883
+Chihuahua 0.109571
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10281.jpg
+acorn 0.316515
+earthstar 0.126578
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10282.jpg
+spoonbill 0.271022
+hammerhead, hammerhead shark 0.246977
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10283.jpg
+whippet 0.399078
+fiddler crab 0.0720914
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10284.jpg
+titi, titi monkey 0.323791
+macaque 0.214525
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10285.jpg
+electric ray, crampfish, numbfish, torpedo 0.385956
+stingray 0.283547
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10286.jpg
+bee 0.312102
+titi, titi monkey 0.139584
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10287.jpg
+mink 0.379374
+mongoose 0.199204
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10288.jpg
+Norwich terrier 0.166146
+Egyptian cat 0.159098
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10289.jpg
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis 0.119777
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.101831
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10290.jpg
+electric ray, crampfish, numbfish, torpedo 0.148934
+stingray 0.123138
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10291.jpg
+axolotl, mud puppy, Ambystoma mexicanum 0.0688337
+tarantula 0.0540237
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10292.jpg
+umbrella 0.268829
+bow 0.119906
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10293.jpg
+hammerhead, hammerhead shark 0.262007
+stingray 0.20027
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10294.jpg
+cairn, cairn terrier 0.100977
+silky terrier, Sydney silky 0.0567605
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10295.jpg
+armadillo 0.386121
+boa constrictor, Constrictor constrictor 0.13751
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10296.jpg
+frilled lizard, Chlamydosaurus kingi 0.195575
+sorrel 0.118399
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10297.jpg
+French bulldog 0.18232
+Chihuahua 0.17279
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10298.jpg
+fur coat 0.291488
+cloak 0.0978619
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10299.jpg
+hammerhead, hammerhead shark 0.247973
+hummingbird 0.08918
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10300.jpg
+rhinoceros beetle 0.149942
+muzzle 0.0640291
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10301.jpg
+bee 0.265336
+hummingbird 0.0519133
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10302.jpg
+pug, pug-dog 0.182788
+tarantula 0.122574
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10303.jpg
+Dungeness crab, Cancer magister 0.245979
+rock crab, Cancer irroratus 0.0660185
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10304.jpg
+Siamese cat, Siamese 0.812482
+lynx, catamount 0.0466758
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10305.jpg
+isopod 0.0923354
+chambered nautilus, pearly nautilus, nautilus 0.0796942
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10306.jpg
+plastic bag 0.106802
+little blue heron, Egretta caerulea 0.101239
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10307.jpg
+mink 0.398202
+weasel 0.127064
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10308.jpg
+black-footed ferret, ferret, Mustela nigripes 0.283312
+weasel 0.281801
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10309.jpg
+ladle 0.116338
+electric ray, crampfish, numbfish, torpedo 0.113193
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10310.jpg
+mousetrap 0.221569
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus 0.0890573
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10311.jpg
+snail 0.150203
+ladle 0.0864256
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10312.jpg
+conch 0.310298
+electric ray, crampfish, numbfish, torpedo 0.0609848
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10313.jpg
+Chesapeake Bay retriever 0.185894
+Doberman, Doberman pinscher 0.0996385
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10314.jpg
+ant, emmet, pismire 0.18266
+rhinoceros beetle 0.139814
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10315.jpg
+electric ray, crampfish, numbfish, torpedo 0.437801
+hammerhead, hammerhead shark 0.325693
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10316.jpg
+mink 0.169338
+wombat 0.152512
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10317.jpg
+mousetrap 0.197013
+wolf spider, hunting spider 0.174924
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10318.jpg
+ringlet, ringlet butterfly 0.0813952
+frilled lizard, Chlamydosaurus kingi 0.0573405
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10319.jpg
+fly 0.189822
+cicada, cicala 0.186767
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10320.jpg
+mink 0.475401
+skunk, polecat, wood pussy 0.0580591
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10321.jpg
+wood rabbit, cottontail, cottontail rabbit 0.485896
+hare 0.175407
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10322.jpg
+mink 0.591937
+weasel 0.0950207
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10323.jpg
+common iguana, iguana, Iguana iguana 0.322531
+frilled lizard, Chlamydosaurus kingi 0.115006
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10324.jpg
+wombat 0.118046
+Mexican hairless 0.0851373
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10325.jpg
+caldron, cauldron 0.0731101
+bucket, pail 0.0635381
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10326.jpg
+hyena, hyaena 0.118043
+Irish wolfhound 0.110028
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10327.jpg
+Pekinese, Pekingese, Peke 0.376065
+black-footed ferret, ferret, Mustela nigripes 0.0466966
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10328.jpg
+robin, American robin, Turdus migratorius 0.145605
+slug 0.0497191
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10329.jpg
+drake 0.169184
+European gallinule, Porphyrio porphyrio 0.089616
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10330.jpg
+Bernese mountain dog 0.211827
+Appenzeller 0.125561
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10331.jpg
+hornbill 0.29436
+squirrel monkey, Saimiri sciureus 0.223094
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10332.jpg
+knot 0.147634
+barn spider, Araneus cavaticus 0.0930867
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10333.jpg
+cairn, cairn terrier 0.60226
+West Highland white terrier 0.0934906
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10334.jpg
+harp 0.183813
+hair spray 0.137675
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10335.jpg
+cricket 0.213543
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.157489
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10336.jpg
+tick 0.318177
+cockroach, roach 0.232817
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10337.jpg
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa 0.826534
+puffer, pufferfish, blowfish, globefish 0.0481591
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10338.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.222581
+weasel 0.211637
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10339.jpg
+Doberman, Doberman pinscher 0.357315
+Staffordshire bullterrier, Staffordshire bull terrier 0.140141
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10340.jpg
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.673842
+leaf beetle, chrysomelid 0.125486
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10341.jpg
+spoonbill 0.251861
+pinwheel 0.227303
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10342.jpg
+knot 0.151845
+hair spray 0.0753238
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10343.jpg
+crayfish, crawfish, crawdad, crawdaddy 0.847579
+fiddler crab 0.0381388
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10344.jpg
+frilled lizard, Chlamydosaurus kingi 0.280655
+agama 0.214165
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10345.jpg
+frilled lizard, Chlamydosaurus kingi 0.628964
+marmoset 0.164287
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10346.jpg
+mud turtle 0.483707
+terrapin 0.257907
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10347.jpg
+slug 0.0642787
+ant, emmet, pismire 0.0349413
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10348.jpg
+sea urchin 0.172793
+flatworm, platyhelminth 0.145372
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10349.jpg
+wood rabbit, cottontail, cottontail rabbit 0.76148
+mousetrap 0.12042
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10350.jpg
+African crocodile, Nile crocodile, Crocodylus niloticus 0.459843
+American alligator, Alligator mississipiensis 0.0596899
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10351.jpg
+rhinoceros beetle 0.221583
+Staffordshire bullterrier, Staffordshire bull terrier 0.0700997
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10352.jpg
+ringlet, ringlet butterfly 0.217074
+tarantula 0.0731815
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10353.jpg
+hornbill 0.295233
+hummingbird 0.0528478
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10354.jpg
+nail 0.465815
+cliff, drop, drop-off 0.0906549
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10355.jpg
+porcupine, hedgehog 0.118762
+sea urchin 0.0956669
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10356.jpg
+hummingbird 0.281719
+bulbul 0.193697
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10357.jpg
+hog, pig, grunter, squealer, Sus scrofa 0.259728
+wood rabbit, cottontail, cottontail rabbit 0.245918
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10358.jpg
+ringlet, ringlet butterfly 0.312624
+robin, American robin, Turdus migratorius 0.0752451
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10359.jpg
+sea anemone, anemone 0.1838
+crayfish, crawfish, crawdad, crawdaddy 0.0912733
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10360.jpg
+birdhouse 0.24501
+Christmas stocking 0.0336968
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10361.jpg
+kite 0.137604
+bald eagle, American eagle, Haliaeetus leucocephalus 0.128996
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10362.jpg
+wallaby, brush kangaroo 0.200288
+mongoose 0.160816
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10363.jpg
+Irish terrier 0.414847
+Lakeland terrier 0.207185
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10364.jpg
+weasel 0.358422
+black-footed ferret, ferret, Mustela nigripes 0.307891
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10365.jpg
+marmoset 0.100645
+capuchin, ringtail, Cebus capucinus 0.0909902
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10366.jpg
+guinea pig, Cavia cobaya 0.924144
+mongoose 0.048599
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10367.jpg
+kelpie 0.0504701
+Norwegian elkhound, elkhound 0.0294121
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10368.jpg
+robin, American robin, Turdus migratorius 0.834541
+brambling, Fringilla montifringilla 0.0298103
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10369.jpg
+hartebeest 0.281018
+impala, Aepyceros melampus 0.0936619
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10370.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.244682
+orangutan, orang, orangutang, Pongo pygmaeus 0.215444
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10371.jpg
+marmoset 0.106213
+coucal 0.0772369
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10372.jpg
+cock 0.362263
+hummingbird 0.303776
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10373.jpg
+spider monkey, Ateles geoffroyi 0.775333
+gibbon, Hylobates lar 0.0548385
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10374.jpg
+guinea pig, Cavia cobaya 0.40213
+beaver 0.174412
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10375.jpg
+cliff dwelling 0.232994
+porcupine, hedgehog 0.108595
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10376.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.454362
+hornbill 0.233843
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10377.jpg
+admiral 0.680247
+hornbill 0.100356
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10378.jpg
+three-toed sloth, ai, Bradypus tridactylus 0.204373
+bald eagle, American eagle, Haliaeetus leucocephalus 0.0914434
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10379.jpg
+hamster 0.413013
+mink 0.0539238
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10380.jpg
+macaque 0.740109
+ram, tup 0.165615
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10381.jpg
+Egyptian cat 0.162589
+red fox, Vulpes vulpes 0.108883
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10382.jpg
+rhinoceros beetle 0.156953
+mousetrap 0.155536
+./datasets/Animals_with_Attributes2/JPEGImages/bat/bat_10383.jpg
+tarantula 0.743216
+marmoset 0.0496434

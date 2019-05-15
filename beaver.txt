@@ -1,0 +1,579 @@
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10001.jpg
+flat-coated retriever 0.199747
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.151043
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10002.jpg
+beaver 0.994959
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.00405589
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10003.jpg
+beaver 0.851424
+porcupine, hedgehog 0.0728153
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10004.jpg
+beaver 0.168457
+water ouzel, dipper 0.0892621
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10005.jpg
+beaver 0.946134
+otter 0.0383487
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10006.jpg
+beaver 0.285206
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.250146
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10007.jpg
+beaver 0.961694
+otter 0.0123964
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10008.jpg
+beaver 0.999975
+otter 2.45453e-05
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10009.jpg
+beaver 0.542403
+otter 0.0901658
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10010.jpg
+beaver 0.939123
+mink 0.0250627
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10011.jpg
+beaver 0.999749
+wombat 0.000101289
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10012.jpg
+otter 0.918834
+beaver 0.0389298
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10013.jpg
+bullfrog, Rana catesbeiana 0.584172
+terrapin 0.0414824
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10014.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.668202
+otter 0.113345
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10015.jpg
+porcupine, hedgehog 0.432392
+beaver 0.152058
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10016.jpg
+water snake 0.988504
+night snake, Hypsiglena torquata 0.00618957
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10017.jpg
+mink 0.255448
+polecat, fitch, foulmart, foumart, Mustela putorius 0.161346
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10018.jpg
+briard 0.363589
+Bouvier des Flandres, Bouviers des Flandres 0.214151
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10019.jpg
+beaver 0.505011
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.147205
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10020.jpg
+beaver 0.42855
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.263647
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10021.jpg
+beaver 0.966424
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.0211515
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10022.jpg
+beaver 0.264409
+loggerhead, loggerhead turtle, Caretta caretta 0.113715
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10023.jpg
+beaver 0.793639
+otter 0.106774
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10024.jpg
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus 0.760978
+dugong, Dugong dugon 0.0453904
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10025.jpg
+beaver 0.883657
+mink 0.0575594
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10026.jpg
+beaver 0.409868
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.318852
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10027.jpg
+sea snake 0.288925
+stingray 0.14914
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10028.jpg
+brown bear, bruin, Ursus arctos 0.36572
+bison 0.144714
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10029.jpg
+otter 0.602682
+Welsh springer spaniel 0.0775656
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10030.jpg
+beaver 0.842084
+otter 0.082723
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10031.jpg
+beaver 0.630327
+mink 0.269931
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10032.jpg
+beaver 0.974885
+mink 0.0229105
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10033.jpg
+canoe 0.191693
+speedboat 0.158824
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10034.jpg
+beaver 0.260985
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.145734
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10035.jpg
+beaver 0.637811
+marmot 0.233794
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10036.jpg
+beaver 0.982385
+otter 0.0153809
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10037.jpg
+beaver 0.998493
+otter 0.00148527
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10038.jpg
+beaver 0.995125
+marmot 0.00144282
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10039.jpg
+beaver 0.685989
+Border terrier 0.0818567
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10040.jpg
+speedboat 0.999198
+beaver 0.000166099
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10041.jpg
+beaver 0.99677
+mink 0.00227478
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10042.jpg
+American alligator, Alligator mississipiensis 0.189472
+African crocodile, Nile crocodile, Crocodylus niloticus 0.160743
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10043.jpg
+mink 0.716796
+beaver 0.249365
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10044.jpg
+beaver 0.357683
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.286541
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10045.jpg
+Chesapeake Bay retriever 0.207752
+Airedale, Airedale terrier 0.0996423
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10046.jpg
+airship, dirigible 0.328193
+wing 0.301971
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10047.jpg
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.326368
+limpkin, Aramus pictus 0.223369
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10048.jpg
+vulture 0.508368
+bald eagle, American eagle, Haliaeetus leucocephalus 0.0773802
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10049.jpg
+ant, emmet, pismire 0.220997
+schipperke 0.183274
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10050.jpg
+sea lion 0.440577
+otter 0.131323
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10051.jpg
+beaver 0.421315
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.339185
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10052.jpg
+beaver 0.971079
+otter 0.0254298
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10053.jpg
+beaver 0.99362
+otter 0.00439804
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10054.jpg
+beaver 0.774611
+water snake 0.107095
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10055.jpg
+water snake 0.183893
+American alligator, Alligator mississipiensis 0.0894655
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10056.jpg
+echidna, spiny anteater, anteater 0.142507
+gyromitra 0.138248
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10057.jpg
+stingray 0.0924347
+king penguin, Aptenodytes patagonica 0.0830311
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10058.jpg
+plow, plough 0.0756385
+beaver 0.0619793
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10059.jpg
+beaver 0.823315
+otter 0.0414693
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10060.jpg
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.273043
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.0896032
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10061.jpg
+beaver 0.833149
+little blue heron, Egretta caerulea 0.0300901
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10062.jpg
+beaver 0.895814
+mink 0.0630745
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10063.jpg
+beaver 0.466507
+echidna, spiny anteater, anteater 0.271181
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10064.jpg
+beaver 0.923271
+porcupine, hedgehog 0.0331643
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10065.jpg
+beaver 0.411249
+porcupine, hedgehog 0.341623
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10066.jpg
+beaver 0.803059
+mink 0.0816185
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10067.jpg
+beaver 0.63684
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.262517
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10068.jpg
+speedboat 0.357408
+beaver 0.115102
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10069.jpg
+sea lion 0.29758
+marmot 0.128659
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10070.jpg
+wombat 0.656307
+mink 0.0877315
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10071.jpg
+beaver 0.929371
+porcupine, hedgehog 0.0351325
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10072.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.322327
+mink 0.150746
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10073.jpg
+mink 0.451435
+otter 0.153598
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10074.jpg
+slug 0.372226
+otter 0.177012
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10075.jpg
+sea lion 0.208567
+beaver 0.169485
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10076.jpg
+polecat, fitch, foulmart, foumart, Mustela putorius 0.458881
+weasel 0.263986
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10077.jpg
+beaver 0.995134
+mink 0.00484844
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10078.jpg
+paintbrush 0.123375
+envelope 0.0887215
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10079.jpg
+beaver 0.878965
+otter 0.0526519
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10080.jpg
+beaver 0.991105
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.00489072
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10081.jpg
+beaver 0.988344
+mink 0.0114509
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10082.jpg
+beaver 0.418311
+shopping cart 0.113604
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10083.jpg
+beaver 0.940968
+mink 0.0242232
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10084.jpg
+beaver 0.773019
+fox squirrel, eastern fox squirrel, Sciurus niger 0.0699718
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10085.jpg
+beaver 0.97614
+wild boar, boar, Sus scrofa 0.0106806
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10086.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.320208
+beaver 0.235641
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10087.jpg
+beaver 0.615004
+mink 0.231305
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10088.jpg
+American alligator, Alligator mississipiensis 0.804799
+beaver 0.0763845
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10089.jpg
+otter 0.497894
+beaver 0.262792
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10090.jpg
+beaver 0.745667
+marmot 0.141413
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10091.jpg
+African crocodile, Nile crocodile, Crocodylus niloticus 0.208152
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.138571
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10092.jpg
+bison 0.279375
+brown bear, bruin, Ursus arctos 0.0936952
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10093.jpg
+beaver 0.636437
+mink 0.242558
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10094.jpg
+wild boar, boar, Sus scrofa 0.7453
+hog, pig, grunter, squealer, Sus scrofa 0.124163
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10095.jpg
+beaver 0.999878
+otter 6.55713e-05
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10096.jpg
+beaver 0.952872
+otter 0.0462373
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10097.jpg
+beaver 0.704955
+otter 0.241487
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10098.jpg
+beaver 0.327024
+black-footed ferret, ferret, Mustela nigripes 0.113619
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10099.jpg
+beaver 0.875906
+mink 0.0774799
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10100.jpg
+beaver 0.520417
+otter 0.24913
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10101.jpg
+wombat 0.710514
+beaver 0.184679
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10102.jpg
+Border terrier 0.0898357
+lion, king of beasts, Panthera leo 0.058901
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10103.jpg
+red-breasted merganser, Mergus serrator 0.205022
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.174169
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10104.jpg
+vulture 0.221525
+mink 0.156077
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10105.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.573375
+beaver 0.185874
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10106.jpg
+beaver 0.999338
+otter 0.00026996
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10107.jpg
+wombat 0.835306
+beaver 0.0979651
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10108.jpg
+beaver 0.617484
+wood rabbit, cottontail, cottontail rabbit 0.0972959
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10109.jpg
+brown bear, bruin, Ursus arctos 0.407483
+wombat 0.352087
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10110.jpg
+sea lion 0.107189
+otter 0.0974747
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10111.jpg
+beaver 0.895295
+otter 0.0766571
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10112.jpg
+beaver 0.999615
+otter 0.000268895
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10113.jpg
+beaver 0.999892
+mink 5.98641e-05
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10114.jpg
+beaver 0.986143
+marmot 0.0118893
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10115.jpg
+beaver 0.593896
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.321082
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10116.jpg
+African crocodile, Nile crocodile, Crocodylus niloticus 0.285465
+beaver 0.224862
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10117.jpg
+drake 0.163678
+paintbrush 0.0898315
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10118.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.161238
+three-toed sloth, ai, Bradypus tridactylus 0.0708097
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10119.jpg
+beaver 0.92585
+mink 0.031989
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10120.jpg
+wreck 0.362597
+beaver 0.153821
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10121.jpg
+beaver 0.838408
+otter 0.139379
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10122.jpg
+eel 0.625571
+sea lion 0.240619
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10123.jpg
+echidna, spiny anteater, anteater 0.498388
+polecat, fitch, foulmart, foumart, Mustela putorius 0.141329
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10124.jpg
+beaver 0.581728
+marmot 0.267965
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10125.jpg
+beaver 0.46842
+bittern 0.393063
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10126.jpg
+beaver 0.957171
+porcupine, hedgehog 0.0405371
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10127.jpg
+American alligator, Alligator mississipiensis 0.46892
+bullfrog, Rana catesbeiana 0.100705
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10128.jpg
+beaver 0.989174
+marmot 0.00734988
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10129.jpg
+beaver 0.442941
+mink 0.359291
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10130.jpg
+porcupine, hedgehog 0.714121
+beaver 0.117634
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10131.jpg
+beaver 0.979827
+marmot 0.016282
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10132.jpg
+red-breasted merganser, Mergus serrator 0.42366
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.0918993
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10133.jpg
+otter 0.302903
+sea lion 0.0676499
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10134.jpg
+American alligator, Alligator mississipiensis 0.364044
+beaver 0.120397
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10135.jpg
+beaver 0.533778
+porcupine, hedgehog 0.0670863
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10136.jpg
+beaver 0.9251
+mink 0.061656
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10137.jpg
+beaver 0.998718
+otter 0.000747144
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10138.jpg
+water ouzel, dipper 0.814076
+mink 0.0280537
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10139.jpg
+beaver 0.91101
+water snake 0.0263662
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10140.jpg
+beaver 0.803882
+mink 0.0870684
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10141.jpg
+snorkel 0.308492
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.192935
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10142.jpg
+beaver 0.999596
+otter 0.000157537
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10143.jpg
+beaver 0.978333
+mink 0.00723046
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10144.jpg
+beaver 0.986754
+mink 0.00620312
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10145.jpg
+marmot 0.774576
+beaver 0.146262
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10146.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.376462
+sea lion 0.145993
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10147.jpg
+marmot 0.684949
+beaver 0.117192
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10148.jpg
+beaver 0.943038
+mink 0.0210398
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10149.jpg
+wild boar, boar, Sus scrofa 0.190292
+timber wolf, grey wolf, gray wolf, Canis lupus 0.0539648
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10150.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.394404
+African crocodile, Nile crocodile, Crocodylus niloticus 0.128253
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10151.jpg
+beaver 0.931415
+wombat 0.0518614
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10152.jpg
+sea lion 0.264202
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.188434
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10153.jpg
+mud turtle 0.299194
+terrapin 0.16156
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10154.jpg
+beaver 0.999708
+otter 0.000270945
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10155.jpg
+beaver 0.952464
+otter 0.047207
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10156.jpg
+beaver 0.981219
+otter 0.0079643
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10157.jpg
+marmot 0.427444
+beaver 0.389019
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10158.jpg
+beaver 0.827818
+mink 0.0627256
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10159.jpg
+wild boar, boar, Sus scrofa 0.382097
+porcupine, hedgehog 0.302188
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10160.jpg
+beaver 0.104575
+lion, king of beasts, Panthera leo 0.0897388
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10161.jpg
+beaver 0.994362
+otter 0.00433891
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10162.jpg
+beaver 0.457622
+otter 0.176372
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10163.jpg
+beaver 0.999655
+mink 0.000220262
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10164.jpg
+marmot 0.691108
+beaver 0.190196
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10165.jpg
+beaver 0.635361
+porcupine, hedgehog 0.315507
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10166.jpg
+beaver 0.979088
+otter 0.017639
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10167.jpg
+beaver 0.851193
+otter 0.143796
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10168.jpg
+beaver 0.951759
+otter 0.0478031
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10169.jpg
+beaver 0.977442
+porcupine, hedgehog 0.0184012
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10170.jpg
+cicada, cicala 0.966765
+mud turtle 0.0073607
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10171.jpg
+beaver 0.882428
+marmot 0.115564
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10172.jpg
+beaver 0.940901
+marmot 0.0468189
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10173.jpg
+beaver 0.884726
+otter 0.0522942
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10174.jpg
+marmot 0.3539
+grey fox, gray fox, Urocyon cinereoargenteus 0.238866
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10175.jpg
+beaver 0.906251
+otter 0.0646237
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10176.jpg
+beaver 0.714956
+American coot, marsh hen, mud hen, water hen, Fulica americana 0.216225
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10177.jpg
+mink 0.280043
+sloth bear, Melursus ursinus, Ursus ursinus 0.157837
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10178.jpg
+water snake 0.315766
+beaver 0.227996
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10179.jpg
+beaver 0.862102
+cicada, cicala 0.0583699
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10180.jpg
+beaver 0.92231
+otter 0.0670422
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10181.jpg
+beaver 0.999646
+mink 0.00027339
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10182.jpg
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.381589
+European gallinule, Porphyrio porphyrio 0.220692
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10183.jpg
+beaver 0.964008
+otter 0.0125862
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10184.jpg
+beaver 0.615375
+mink 0.244516
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10185.jpg
+beaver 0.999793
+otter 9.42339e-05
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10186.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.257001
+sloth bear, Melursus ursinus, Ursus ursinus 0.208924
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10187.jpg
+beaver 0.860576
+porcupine, hedgehog 0.119354
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10188.jpg
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.258694
+African crocodile, Nile crocodile, Crocodylus niloticus 0.199674
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10189.jpg
+beaver 0.964784
+otter 0.0251746
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10190.jpg
+beaver 0.813863
+otter 0.0888613
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10191.jpg
+beaver 0.999915
+marmot 4.5473e-05
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10192.jpg
+lynx, catamount 0.317438
+tiger cat 0.112703
+./datasets/Animals_with_Attributes2/JPEGImages/beaver/beaver_10193.jpg
+beaver 0.994837
+otter 0.00219274

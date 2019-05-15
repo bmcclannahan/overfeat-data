@@ -1,0 +1,2184 @@
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10001.jpg
+titi, titi monkey 0.575828
+marmoset 0.222742
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10002.jpg
+chimpanzee, chimp, Pan troglodytes 0.750973
+gorilla, Gorilla gorilla 0.181358
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10003.jpg
+chimpanzee, chimp, Pan troglodytes 0.460785
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.0240017
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10004.jpg
+chimpanzee, chimp, Pan troglodytes 0.993335
+gorilla, Gorilla gorilla 0.00652749
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10005.jpg
+chimpanzee, chimp, Pan troglodytes 0.99883
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000590743
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10006.jpg
+chimpanzee, chimp, Pan troglodytes 0.899479
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.072708
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10007.jpg
+capuchin, ringtail, Cebus capucinus 0.191172
+squirrel monkey, Saimiri sciureus 0.110006
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10008.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.891148
+spider monkey, Ateles geoffroyi 0.0579136
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10009.jpg
+sliding door 0.322132
+lumbermill, sawmill 0.130402
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10010.jpg
+marmoset 0.23714
+guenon, guenon monkey 0.166023
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10011.jpg
+capuchin, ringtail, Cebus capucinus 0.421206
+guenon, guenon monkey 0.217529
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10012.jpg
+chimpanzee, chimp, Pan troglodytes 0.57151
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.220668
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10013.jpg
+chimpanzee, chimp, Pan troglodytes 0.549695
+groenendael 0.175988
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10014.jpg
+chimpanzee, chimp, Pan troglodytes 0.984676
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00770427
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10015.jpg
+chimpanzee, chimp, Pan troglodytes 0.983928
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00936475
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10016.jpg
+chimpanzee, chimp, Pan troglodytes 0.723459
+baboon 0.0921234
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10017.jpg
+chimpanzee, chimp, Pan troglodytes 0.904439
+mask 0.0504133
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10018.jpg
+chimpanzee, chimp, Pan troglodytes 0.997417
+gorilla, Gorilla gorilla 0.00137178
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10019.jpg
+chimpanzee, chimp, Pan troglodytes 0.99802
+macaque 0.000825414
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10020.jpg
+chimpanzee, chimp, Pan troglodytes 0.732121
+gorilla, Gorilla gorilla 0.25465
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10021.jpg
+chimpanzee, chimp, Pan troglodytes 0.992078
+macaque 0.00516495
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10022.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.346635
+sloth bear, Melursus ursinus, Ursus ursinus 0.255465
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10023.jpg
+chimpanzee, chimp, Pan troglodytes 0.333407
+spider monkey, Ateles geoffroyi 0.217991
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10024.jpg
+chimpanzee, chimp, Pan troglodytes 0.612894
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.271823
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10025.jpg
+chimpanzee, chimp, Pan troglodytes 0.936684
+gorilla, Gorilla gorilla 0.0627426
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10026.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.226308
+tusker 0.0871413
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10027.jpg
+chimpanzee, chimp, Pan troglodytes 0.987842
+gorilla, Gorilla gorilla 0.00756124
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10028.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.662149
+howler monkey, howler 0.093065
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10029.jpg
+chimpanzee, chimp, Pan troglodytes 0.794106
+gorilla, Gorilla gorilla 0.12636
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10030.jpg
+chimpanzee, chimp, Pan troglodytes 0.952115
+gorilla, Gorilla gorilla 0.0399188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10031.jpg
+langur 0.268413
+capuchin, ringtail, Cebus capucinus 0.17734
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10032.jpg
+chimpanzee, chimp, Pan troglodytes 0.926916
+capuchin, ringtail, Cebus capucinus 0.0107531
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10033.jpg
+marmoset 0.644292
+chimpanzee, chimp, Pan troglodytes 0.107031
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10034.jpg
+chimpanzee, chimp, Pan troglodytes 0.687207
+gorilla, Gorilla gorilla 0.231978
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10035.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.253938
+colobus, colobus monkey 0.09864
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10036.jpg
+chimpanzee, chimp, Pan troglodytes 0.889888
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0924535
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10037.jpg
+fountain 0.107007
+parallel bars, bars 0.104541
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10038.jpg
+steel arch bridge 0.449533
+greenhouse, nursery, glasshouse 0.0849468
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10039.jpg
+chimpanzee, chimp, Pan troglodytes 0.999371
+spider monkey, Ateles geoffroyi 0.00026158
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10040.jpg
+chimpanzee, chimp, Pan troglodytes 0.955024
+spider monkey, Ateles geoffroyi 0.0221429
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10041.jpg
+chimpanzee, chimp, Pan troglodytes 0.324491
+titi, titi monkey 0.0915738
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10042.jpg
+chimpanzee, chimp, Pan troglodytes 0.946556
+gorilla, Gorilla gorilla 0.0409095
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10043.jpg
+chimpanzee, chimp, Pan troglodytes 0.765061
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.167011
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10044.jpg
+chimpanzee, chimp, Pan troglodytes 0.908118
+gorilla, Gorilla gorilla 0.0787542
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10045.jpg
+chimpanzee, chimp, Pan troglodytes 0.87255
+flat-coated retriever 0.0323552
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10046.jpg
+chimpanzee, chimp, Pan troglodytes 0.396944
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.379411
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10047.jpg
+chimpanzee, chimp, Pan troglodytes 0.999301
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000314155
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10048.jpg
+colobus, colobus monkey 0.534704
+howler monkey, howler 0.132456
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10049.jpg
+chimpanzee, chimp, Pan troglodytes 0.652161
+gorilla, Gorilla gorilla 0.314275
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10050.jpg
+chimpanzee, chimp, Pan troglodytes 0.605967
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.195809
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10051.jpg
+vulture 0.197298
+hen 0.142343
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10052.jpg
+chimpanzee, chimp, Pan troglodytes 0.8989
+gorilla, Gorilla gorilla 0.0890892
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10053.jpg
+gorilla, Gorilla gorilla 0.581788
+chimpanzee, chimp, Pan troglodytes 0.31697
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10054.jpg
+bow 0.0901899
+prison, prison house 0.0898614
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10055.jpg
+chimpanzee, chimp, Pan troglodytes 0.955703
+sloth bear, Melursus ursinus, Ursus ursinus 0.020166
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10056.jpg
+chimpanzee, chimp, Pan troglodytes 0.983364
+spider monkey, Ateles geoffroyi 0.00922853
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10057.jpg
+chimpanzee, chimp, Pan troglodytes 0.968135
+gorilla, Gorilla gorilla 0.0122992
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10058.jpg
+stretcher 0.0563333
+shoji 0.0417347
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10059.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.270075
+spider monkey, Ateles geoffroyi 0.222016
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10060.jpg
+chimpanzee, chimp, Pan troglodytes 0.46334
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.140649
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10061.jpg
+baboon 0.383954
+warthog 0.22265
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10062.jpg
+chimpanzee, chimp, Pan troglodytes 0.507595
+gorilla, Gorilla gorilla 0.395443
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10063.jpg
+chimpanzee, chimp, Pan troglodytes 0.746323
+gorilla, Gorilla gorilla 0.228515
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10064.jpg
+chimpanzee, chimp, Pan troglodytes 0.722255
+gorilla, Gorilla gorilla 0.199386
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10065.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.502952
+gorilla, Gorilla gorilla 0.324239
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10066.jpg
+langur 0.42671
+spider monkey, Ateles geoffroyi 0.405074
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10067.jpg
+baboon 0.59143
+macaque 0.181993
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10068.jpg
+gorilla, Gorilla gorilla 0.467638
+chimpanzee, chimp, Pan troglodytes 0.313084
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10069.jpg
+giant schnauzer 0.410695
+Bouvier des Flandres, Bouviers des Flandres 0.149542
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10070.jpg
+spider monkey, Ateles geoffroyi 0.206072
+chimpanzee, chimp, Pan troglodytes 0.098383
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10071.jpg
+Madagascar cat, ring-tailed lemur, Lemur catta 0.0846476
+padlock 0.0425101
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10072.jpg
+chimpanzee, chimp, Pan troglodytes 0.844213
+gorilla, Gorilla gorilla 0.129659
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10073.jpg
+vulture 0.391278
+bald eagle, American eagle, Haliaeetus leucocephalus 0.256155
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10074.jpg
+chimpanzee, chimp, Pan troglodytes 0.368002
+gorilla, Gorilla gorilla 0.146064
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10075.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.165823
+chimpanzee, chimp, Pan troglodytes 0.158736
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10076.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.636994
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.16742
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10077.jpg
+howler monkey, howler 0.635131
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.130211
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10078.jpg
+chimpanzee, chimp, Pan troglodytes 0.984784
+gorilla, Gorilla gorilla 0.00863876
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10079.jpg
+Brabancon griffon 0.500937
+chimpanzee, chimp, Pan troglodytes 0.201258
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10080.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.341674
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.266861
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10081.jpg
+chimpanzee, chimp, Pan troglodytes 0.656612
+gorilla, Gorilla gorilla 0.252611
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10082.jpg
+chimpanzee, chimp, Pan troglodytes 0.874933
+rifle 0.0214678
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10083.jpg
+chimpanzee, chimp, Pan troglodytes 0.708323
+gorilla, Gorilla gorilla 0.0877332
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10084.jpg
+chimpanzee, chimp, Pan troglodytes 0.847654
+gorilla, Gorilla gorilla 0.147481
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10085.jpg
+chimpanzee, chimp, Pan troglodytes 0.784328
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.171762
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10086.jpg
+colobus, colobus monkey 0.434142
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.230627
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10087.jpg
+chimpanzee, chimp, Pan troglodytes 0.875412
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0815322
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10088.jpg
+langur 0.215929
+gorilla, Gorilla gorilla 0.214253
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10089.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.627787
+gorilla, Gorilla gorilla 0.149633
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10090.jpg
+gorilla, Gorilla gorilla 0.738159
+chimpanzee, chimp, Pan troglodytes 0.188701
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10091.jpg
+chimpanzee, chimp, Pan troglodytes 0.585696
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.260936
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10092.jpg
+gorilla, Gorilla gorilla 0.949516
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0193843
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10093.jpg
+chimpanzee, chimp, Pan troglodytes 0.711037
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.191988
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10094.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.36434
+chimpanzee, chimp, Pan troglodytes 0.311013
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10095.jpg
+chimpanzee, chimp, Pan troglodytes 0.76873
+gorilla, Gorilla gorilla 0.0712043
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10096.jpg
+chime, bell, gong 0.10872
+gibbon, Hylobates lar 0.099816
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10097.jpg
+chimpanzee, chimp, Pan troglodytes 0.733071
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.134091
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10098.jpg
+chimpanzee, chimp, Pan troglodytes 0.899258
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0735426
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10099.jpg
+gorilla, Gorilla gorilla 0.481693
+chimpanzee, chimp, Pan troglodytes 0.330657
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10100.jpg
+chimpanzee, chimp, Pan troglodytes 0.99626
+gorilla, Gorilla gorilla 0.00200281
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10101.jpg
+chimpanzee, chimp, Pan troglodytes 0.847275
+ox 0.0296726
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10102.jpg
+chimpanzee, chimp, Pan troglodytes 0.401998
+Staffordshire bullterrier, Staffordshire bull terrier 0.336804
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10103.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.328114
+African elephant, Loxodonta africana 0.187806
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10104.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.555252
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.27976
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10105.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.31258
+tusker 0.258075
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10106.jpg
+chimpanzee, chimp, Pan troglodytes 0.683897
+gorilla, Gorilla gorilla 0.290827
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10107.jpg
+gorilla, Gorilla gorilla 0.520076
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.306163
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10108.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.535265
+chimpanzee, chimp, Pan troglodytes 0.307673
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10109.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.31386
+chimpanzee, chimp, Pan troglodytes 0.279454
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10110.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.729648
+knot 0.01841
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10111.jpg
+chimpanzee, chimp, Pan troglodytes 0.891851
+bison 0.0371482
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10112.jpg
+chimpanzee, chimp, Pan troglodytes 0.982335
+gorilla, Gorilla gorilla 0.00759143
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10113.jpg
+chimpanzee, chimp, Pan troglodytes 0.727015
+gorilla, Gorilla gorilla 0.134563
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10114.jpg
+chimpanzee, chimp, Pan troglodytes 0.355163
+spider monkey, Ateles geoffroyi 0.272539
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10115.jpg
+chimpanzee, chimp, Pan troglodytes 0.89559
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0163625
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10116.jpg
+chimpanzee, chimp, Pan troglodytes 0.999486
+gorilla, Gorilla gorilla 0.000414682
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10117.jpg
+chimpanzee, chimp, Pan troglodytes 0.993313
+gorilla, Gorilla gorilla 0.00303253
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10118.jpg
+chimpanzee, chimp, Pan troglodytes 0.942618
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0274259
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10119.jpg
+chimpanzee, chimp, Pan troglodytes 0.971893
+gorilla, Gorilla gorilla 0.0276412
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10120.jpg
+polecat, fitch, foulmart, foumart, Mustela putorius 0.505819
+chimpanzee, chimp, Pan troglodytes 0.200789
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10121.jpg
+chimpanzee, chimp, Pan troglodytes 0.991881
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00490053
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10122.jpg
+chimpanzee, chimp, Pan troglodytes 0.901111
+orangutan, orang, orangutang, Pongo pygmaeus 0.0639425
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10123.jpg
+chimpanzee, chimp, Pan troglodytes 0.995669
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00204601
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10124.jpg
+Tibetan mastiff 0.0677449
+giant schnauzer 0.0528074
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10125.jpg
+vulture 0.492056
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0916261
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10126.jpg
+soccer ball 0.297724
+croquet ball 0.149916
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10127.jpg
+chimpanzee, chimp, Pan troglodytes 0.999289
+gorilla, Gorilla gorilla 0.000379643
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10128.jpg
+warthog 0.221184
+Labrador retriever 0.211932
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10129.jpg
+chimpanzee, chimp, Pan troglodytes 0.838171
+gorilla, Gorilla gorilla 0.157136
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10130.jpg
+boa constrictor, Constrictor constrictor 0.203735
+padlock 0.0690785
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10131.jpg
+chimpanzee, chimp, Pan troglodytes 0.972223
+gorilla, Gorilla gorilla 0.0270283
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10132.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.450625
+gibbon, Hylobates lar 0.180619
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10133.jpg
+gorilla, Gorilla gorilla 0.549555
+langur 0.0810375
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10134.jpg
+chimpanzee, chimp, Pan troglodytes 0.379415
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.187967
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10135.jpg
+chimpanzee, chimp, Pan troglodytes 0.9991
+gorilla, Gorilla gorilla 0.00072547
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10136.jpg
+chimpanzee, chimp, Pan troglodytes 0.509676
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.163848
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10137.jpg
+chimpanzee, chimp, Pan troglodytes 0.888305
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0383197
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10138.jpg
+mink 0.199741
+jaguar, panther, Panthera onca, Felis onca 0.115505
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10139.jpg
+gorilla, Gorilla gorilla 0.716419
+chimpanzee, chimp, Pan troglodytes 0.275659
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10140.jpg
+gorilla, Gorilla gorilla 0.496915
+spider monkey, Ateles geoffroyi 0.223983
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10141.jpg
+chimpanzee, chimp, Pan troglodytes 0.285145
+flat-coated retriever 0.267215
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10142.jpg
+hornbill 0.315998
+vulture 0.228867
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10143.jpg
+gorilla, Gorilla gorilla 0.786979
+chimpanzee, chimp, Pan troglodytes 0.128099
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10144.jpg
+chimpanzee, chimp, Pan troglodytes 0.898944
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0302859
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10145.jpg
+chimpanzee, chimp, Pan troglodytes 0.97666
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.0134484
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10146.jpg
+langur 0.296863
+gibbon, Hylobates lar 0.241713
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10147.jpg
+chimpanzee, chimp, Pan troglodytes 0.99828
+gorilla, Gorilla gorilla 0.00103311
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10148.jpg
+chimpanzee, chimp, Pan troglodytes 0.999678
+gorilla, Gorilla gorilla 0.000266957
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10149.jpg
+chimpanzee, chimp, Pan troglodytes 0.973759
+lion, king of beasts, Panthera leo 0.012232
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10150.jpg
+chimpanzee, chimp, Pan troglodytes 0.984037
+gorilla, Gorilla gorilla 0.0102511
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10151.jpg
+langur 0.309892
+chimpanzee, chimp, Pan troglodytes 0.149545
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10152.jpg
+chimpanzee, chimp, Pan troglodytes 0.58656
+guenon, guenon monkey 0.150031
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10153.jpg
+chimpanzee, chimp, Pan troglodytes 0.98228
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00681592
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10154.jpg
+gorilla, Gorilla gorilla 0.561471
+chimpanzee, chimp, Pan troglodytes 0.208761
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10155.jpg
+chimpanzee, chimp, Pan troglodytes 0.541975
+hornbill 0.390164
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10156.jpg
+chimpanzee, chimp, Pan troglodytes 0.987685
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00669609
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10157.jpg
+chimpanzee, chimp, Pan troglodytes 0.713124
+prison, prison house 0.0887199
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10158.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.393125
+warthog 0.340421
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10159.jpg
+chimpanzee, chimp, Pan troglodytes 0.928306
+gorilla, Gorilla gorilla 0.0345173
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10160.jpg
+chimpanzee, chimp, Pan troglodytes 0.549573
+gorilla, Gorilla gorilla 0.323978
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10161.jpg
+howler monkey, howler 0.377721
+gibbon, Hylobates lar 0.185519
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10162.jpg
+chimpanzee, chimp, Pan troglodytes 0.773496
+gorilla, Gorilla gorilla 0.179788
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10163.jpg
+chimpanzee, chimp, Pan troglodytes 0.558379
+spider monkey, Ateles geoffroyi 0.138723
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10164.jpg
+chimpanzee, chimp, Pan troglodytes 0.877852
+gorilla, Gorilla gorilla 0.0760454
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10165.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.442251
+chimpanzee, chimp, Pan troglodytes 0.439552
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10166.jpg
+chimpanzee, chimp, Pan troglodytes 0.85923
+gorilla, Gorilla gorilla 0.103834
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10167.jpg
+howler monkey, howler 0.730636
+spider monkey, Ateles geoffroyi 0.140799
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10168.jpg
+chimpanzee, chimp, Pan troglodytes 0.987107
+gorilla, Gorilla gorilla 0.00687828
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10169.jpg
+capuchin, ringtail, Cebus capucinus 0.744024
+three-toed sloth, ai, Bradypus tridactylus 0.0825768
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10170.jpg
+chimpanzee, chimp, Pan troglodytes 0.956654
+gorilla, Gorilla gorilla 0.0371492
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10171.jpg
+chimpanzee, chimp, Pan troglodytes 0.871097
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.106867
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10172.jpg
+chimpanzee, chimp, Pan troglodytes 0.591204
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.367662
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10173.jpg
+chimpanzee, chimp, Pan troglodytes 0.512717
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.466436
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10174.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.679241
+chimpanzee, chimp, Pan troglodytes 0.187648
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10175.jpg
+schipperke 0.0705491
+wallaby, brush kangaroo 0.0599715
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10176.jpg
+chimpanzee, chimp, Pan troglodytes 0.984589
+gorilla, Gorilla gorilla 0.0146261
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10177.jpg
+chimpanzee, chimp, Pan troglodytes 0.903748
+gorilla, Gorilla gorilla 0.0617473
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10178.jpg
+chimpanzee, chimp, Pan troglodytes 0.452298
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.205392
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10179.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.806556
+chimpanzee, chimp, Pan troglodytes 0.115658
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10180.jpg
+chimpanzee, chimp, Pan troglodytes 0.418936
+sloth bear, Melursus ursinus, Ursus ursinus 0.209059
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10181.jpg
+chimpanzee, chimp, Pan troglodytes 0.938756
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0328024
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10182.jpg
+gorilla, Gorilla gorilla 0.723144
+chimpanzee, chimp, Pan troglodytes 0.161081
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10183.jpg
+chimpanzee, chimp, Pan troglodytes 0.987258
+gorilla, Gorilla gorilla 0.0107574
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10184.jpg
+marmot 0.31665
+sloth bear, Melursus ursinus, Ursus ursinus 0.263206
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10185.jpg
+chimpanzee, chimp, Pan troglodytes 0.525334
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.449748
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10186.jpg
+chimpanzee, chimp, Pan troglodytes 0.124293
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.10992
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10187.jpg
+chimpanzee, chimp, Pan troglodytes 0.854238
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.0801804
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10188.jpg
+chimpanzee, chimp, Pan troglodytes 0.959795
+guenon, guenon monkey 0.0089862
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10189.jpg
+chimpanzee, chimp, Pan troglodytes 0.64799
+whippet 0.107896
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10190.jpg
+oxcart 0.485077
+ox 0.234592
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10191.jpg
+chimpanzee, chimp, Pan troglodytes 0.620144
+gorilla, Gorilla gorilla 0.357819
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10192.jpg
+baboon 0.591511
+macaque 0.239447
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10193.jpg
+gorilla, Gorilla gorilla 0.263646
+bison 0.186879
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10194.jpg
+langur 0.205322
+guenon, guenon monkey 0.200361
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10195.jpg
+common iguana, iguana, Iguana iguana 0.125129
+weevil 0.0631211
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10196.jpg
+chimpanzee, chimp, Pan troglodytes 0.982226
+gorilla, Gorilla gorilla 0.0121334
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10197.jpg
+chimpanzee, chimp, Pan troglodytes 0.991859
+gorilla, Gorilla gorilla 0.00400567
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10198.jpg
+chimpanzee, chimp, Pan troglodytes 0.594405
+guenon, guenon monkey 0.0929346
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10199.jpg
+Gordon setter 0.59258
+chimpanzee, chimp, Pan troglodytes 0.291377
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10200.jpg
+chimpanzee, chimp, Pan troglodytes 0.664182
+gorilla, Gorilla gorilla 0.2693
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10201.jpg
+jay 0.161779
+indigo bunting, indigo finch, indigo bird, Passerina cyanea 0.0771068
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10202.jpg
+chimpanzee, chimp, Pan troglodytes 0.930946
+guenon, guenon monkey 0.0245292
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10203.jpg
+Gordon setter 0.748989
+chimpanzee, chimp, Pan troglodytes 0.0534515
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10204.jpg
+chimpanzee, chimp, Pan troglodytes 0.998356
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00106588
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10205.jpg
+chimpanzee, chimp, Pan troglodytes 0.583688
+spider monkey, Ateles geoffroyi 0.192022
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10206.jpg
+chimpanzee, chimp, Pan troglodytes 0.982541
+spider monkey, Ateles geoffroyi 0.00806268
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10207.jpg
+worm fence, snake fence, snake-rail fence, Virginia fence 0.279517
+birdhouse 0.125194
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10208.jpg
+marmoset 0.3645
+chimpanzee, chimp, Pan troglodytes 0.214562
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10209.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.212914
+sloth bear, Melursus ursinus, Ursus ursinus 0.169253
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10210.jpg
+chimpanzee, chimp, Pan troglodytes 0.184595
+German shepherd, German shepherd dog, German police dog, alsatian 0.181737
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10211.jpg
+three-toed sloth, ai, Bradypus tridactylus 0.222849
+chimpanzee, chimp, Pan troglodytes 0.110112
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10212.jpg
+macaque 0.791367
+chimpanzee, chimp, Pan troglodytes 0.0787072
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10213.jpg
+chimpanzee, chimp, Pan troglodytes 0.723109
+orangutan, orang, orangutang, Pongo pygmaeus 0.0400312
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10214.jpg
+chimpanzee, chimp, Pan troglodytes 0.95081
+gorilla, Gorilla gorilla 0.0409172
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10215.jpg
+chimpanzee, chimp, Pan troglodytes 0.992919
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00344583
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10216.jpg
+chimpanzee, chimp, Pan troglodytes 0.970509
+gorilla, Gorilla gorilla 0.0168956
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10217.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.496602
+chimpanzee, chimp, Pan troglodytes 0.314601
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10218.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.210166
+gorilla, Gorilla gorilla 0.15182
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10219.jpg
+chimpanzee, chimp, Pan troglodytes 0.714772
+gorilla, Gorilla gorilla 0.223596
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10220.jpg
+chimpanzee, chimp, Pan troglodytes 0.991402
+gorilla, Gorilla gorilla 0.006939
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10221.jpg
+chimpanzee, chimp, Pan troglodytes 0.796884
+vulture 0.099103
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10222.jpg
+chimpanzee, chimp, Pan troglodytes 0.461298
+vulture 0.154909
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10223.jpg
+marmoset 0.131217
+spider monkey, Ateles geoffroyi 0.114709
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10224.jpg
+chimpanzee, chimp, Pan troglodytes 0.38226
+gorilla, Gorilla gorilla 0.210717
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10225.jpg
+chimpanzee, chimp, Pan troglodytes 0.944811
+gorilla, Gorilla gorilla 0.0334326
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10226.jpg
+spider monkey, Ateles geoffroyi 0.355373
+marmoset 0.146976
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10227.jpg
+chimpanzee, chimp, Pan troglodytes 0.991942
+gorilla, Gorilla gorilla 0.00772682
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10228.jpg
+chimpanzee, chimp, Pan troglodytes 0.759595
+marmoset 0.094585
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10229.jpg
+chimpanzee, chimp, Pan troglodytes 0.383893
+langur 0.166952
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10230.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.331393
+chimpanzee, chimp, Pan troglodytes 0.287207
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10231.jpg
+chimpanzee, chimp, Pan troglodytes 0.835131
+titi, titi monkey 0.0704077
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10232.jpg
+chimpanzee, chimp, Pan troglodytes 0.649829
+gorilla, Gorilla gorilla 0.299652
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10233.jpg
+gorilla, Gorilla gorilla 0.123635
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.107296
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10234.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.557456
+gorilla, Gorilla gorilla 0.285162
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10235.jpg
+chimpanzee, chimp, Pan troglodytes 0.189391
+orangutan, orang, orangutang, Pongo pygmaeus 0.133551
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10236.jpg
+chimpanzee, chimp, Pan troglodytes 0.9733
+orangutan, orang, orangutang, Pongo pygmaeus 0.0112692
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10237.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.722258
+chimpanzee, chimp, Pan troglodytes 0.187419
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10238.jpg
+langur 0.379125
+coucal 0.123402
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10239.jpg
+chimpanzee, chimp, Pan troglodytes 0.324103
+howler monkey, howler 0.260858
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10240.jpg
+chimpanzee, chimp, Pan troglodytes 0.836286
+gorilla, Gorilla gorilla 0.0935037
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10241.jpg
+chimpanzee, chimp, Pan troglodytes 0.999592
+gorilla, Gorilla gorilla 0.000257942
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10242.jpg
+chimpanzee, chimp, Pan troglodytes 0.993929
+baboon 0.00229769
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10243.jpg
+chimpanzee, chimp, Pan troglodytes 0.561047
+gorilla, Gorilla gorilla 0.298452
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10244.jpg
+chimpanzee, chimp, Pan troglodytes 0.643965
+spider monkey, Ateles geoffroyi 0.128232
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10245.jpg
+chimpanzee, chimp, Pan troglodytes 0.329512
+spider monkey, Ateles geoffroyi 0.175287
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10246.jpg
+gorilla, Gorilla gorilla 0.686521
+chimpanzee, chimp, Pan troglodytes 0.312823
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10247.jpg
+gorilla, Gorilla gorilla 0.464763
+chimpanzee, chimp, Pan troglodytes 0.29877
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10248.jpg
+chimpanzee, chimp, Pan troglodytes 0.909515
+gorilla, Gorilla gorilla 0.0856612
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10249.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.963374
+chimpanzee, chimp, Pan troglodytes 0.0233784
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10250.jpg
+chimpanzee, chimp, Pan troglodytes 0.587355
+gorilla, Gorilla gorilla 0.258042
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10251.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.386079
+howler monkey, howler 0.115966
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10252.jpg
+chimpanzee, chimp, Pan troglodytes 0.995659
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00326392
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10253.jpg
+gorilla, Gorilla gorilla 0.579697
+orangutan, orang, orangutang, Pongo pygmaeus 0.189636
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10254.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.492486
+chimpanzee, chimp, Pan troglodytes 0.19074
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10255.jpg
+chimpanzee, chimp, Pan troglodytes 0.507227
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.22891
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10256.jpg
+chimpanzee, chimp, Pan troglodytes 0.278238
+gorilla, Gorilla gorilla 0.0928491
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10257.jpg
+chimpanzee, chimp, Pan troglodytes 0.932666
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0383539
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10258.jpg
+langur 0.262611
+chimpanzee, chimp, Pan troglodytes 0.226492
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10259.jpg
+chimpanzee, chimp, Pan troglodytes 0.369326
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.24864
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10260.jpg
+tripod 0.122969
+ballplayer, baseball player 0.0369084
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10261.jpg
+chimpanzee, chimp, Pan troglodytes 0.764379
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.146482
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10262.jpg
+chimpanzee, chimp, Pan troglodytes 0.989056
+Gordon setter 0.00785613
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10263.jpg
+chimpanzee, chimp, Pan troglodytes 0.789233
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.113457
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10264.jpg
+chimpanzee, chimp, Pan troglodytes 0.675197
+spider monkey, Ateles geoffroyi 0.0623352
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10265.jpg
+colobus, colobus monkey 0.443299
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.405827
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10266.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.633395
+sloth bear, Melursus ursinus, Ursus ursinus 0.13672
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10267.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.408811
+three-toed sloth, ai, Bradypus tridactylus 0.192075
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10268.jpg
+chimpanzee, chimp, Pan troglodytes 0.523518
+gorilla, Gorilla gorilla 0.197168
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10269.jpg
+chimpanzee, chimp, Pan troglodytes 0.308064
+Scottish deerhound, deerhound 0.129378
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10270.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.467564
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.147258
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10271.jpg
+langur 0.29083
+colobus, colobus monkey 0.224253
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10272.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.461707
+chimpanzee, chimp, Pan troglodytes 0.209236
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10273.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.442873
+chimpanzee, chimp, Pan troglodytes 0.275209
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10274.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.491968
+sloth bear, Melursus ursinus, Ursus ursinus 0.443971
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10275.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.45588
+chimpanzee, chimp, Pan troglodytes 0.374472
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10276.jpg
+chimpanzee, chimp, Pan troglodytes 0.963847
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0325285
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10277.jpg
+cloak 0.0233923
+coffeepot 0.0224031
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10278.jpg
+marmoset 0.376567
+spider monkey, Ateles geoffroyi 0.196962
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10279.jpg
+chimpanzee, chimp, Pan troglodytes 0.955694
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0440651
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10280.jpg
+chimpanzee, chimp, Pan troglodytes 0.932482
+gorilla, Gorilla gorilla 0.0379821
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10281.jpg
+chimpanzee, chimp, Pan troglodytes 0.882342
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0521043
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10282.jpg
+chimpanzee, chimp, Pan troglodytes 0.702583
+gorilla, Gorilla gorilla 0.185529
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10283.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.581935
+chimpanzee, chimp, Pan troglodytes 0.0600842
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10284.jpg
+chimpanzee, chimp, Pan troglodytes 0.170579
+horizontal bar, high bar 0.132194
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10285.jpg
+Bouvier des Flandres, Bouviers des Flandres 0.302171
+briard 0.15471
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10286.jpg
+drumstick 0.0920189
+plunger, plumber's helper 0.0456539
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10287.jpg
+gorilla, Gorilla gorilla 0.777987
+chimpanzee, chimp, Pan troglodytes 0.208146
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10288.jpg
+pole 0.12648
+traffic light, traffic signal, stoplight 0.112449
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10289.jpg
+chimpanzee, chimp, Pan troglodytes 0.99765
+gorilla, Gorilla gorilla 0.00218233
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10290.jpg
+three-toed sloth, ai, Bradypus tridactylus 0.672948
+chimpanzee, chimp, Pan troglodytes 0.147468
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10291.jpg
+chimpanzee, chimp, Pan troglodytes 0.524082
+macaque 0.216705
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10292.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.329142
+spider monkey, Ateles geoffroyi 0.264948
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10293.jpg
+flat-coated retriever 0.234702
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.152856
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10294.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.312813
+chimpanzee, chimp, Pan troglodytes 0.0916806
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10295.jpg
+chainlink fence 0.153153
+worm fence, snake fence, snake-rail fence, Virginia fence 0.0767097
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10296.jpg
+spider monkey, Ateles geoffroyi 0.534198
+gorilla, Gorilla gorilla 0.264608
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10297.jpg
+chimpanzee, chimp, Pan troglodytes 0.986454
+gorilla, Gorilla gorilla 0.00822847
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10298.jpg
+gorilla, Gorilla gorilla 0.474901
+chimpanzee, chimp, Pan troglodytes 0.467712
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10299.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.431023
+chimpanzee, chimp, Pan troglodytes 0.213286
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10300.jpg
+capuchin, ringtail, Cebus capucinus 0.469028
+spider monkey, Ateles geoffroyi 0.174561
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10301.jpg
+gorilla, Gorilla gorilla 0.543785
+chimpanzee, chimp, Pan troglodytes 0.296406
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10302.jpg
+chimpanzee, chimp, Pan troglodytes 0.219974
+polecat, fitch, foulmart, foumart, Mustela putorius 0.155666
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10303.jpg
+Italian greyhound 0.482903
+beagle 0.0636601
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10304.jpg
+chimpanzee, chimp, Pan troglodytes 0.845706
+macaque 0.0395863
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10305.jpg
+gorilla, Gorilla gorilla 0.783949
+chimpanzee, chimp, Pan troglodytes 0.205709
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10306.jpg
+gorilla, Gorilla gorilla 0.461865
+chimpanzee, chimp, Pan troglodytes 0.352997
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10307.jpg
+chimpanzee, chimp, Pan troglodytes 0.951681
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.018832
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10308.jpg
+gibbon, Hylobates lar 0.375188
+capuchin, ringtail, Cebus capucinus 0.133935
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10309.jpg
+chimpanzee, chimp, Pan troglodytes 0.156559
+porcupine, hedgehog 0.151922
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10310.jpg
+chimpanzee, chimp, Pan troglodytes 0.278934
+guenon, guenon monkey 0.193016
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10311.jpg
+chimpanzee, chimp, Pan troglodytes 0.932924
+spider monkey, Ateles geoffroyi 0.0442914
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10312.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.990494
+chimpanzee, chimp, Pan troglodytes 0.00835076
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10313.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.433215
+gibbon, Hylobates lar 0.246752
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10314.jpg
+chimpanzee, chimp, Pan troglodytes 0.783201
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0837464
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10315.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.600948
+chimpanzee, chimp, Pan troglodytes 0.206914
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10316.jpg
+spider monkey, Ateles geoffroyi 0.228111
+colobus, colobus monkey 0.164353
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10317.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.324641
+chimpanzee, chimp, Pan troglodytes 0.275161
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10318.jpg
+chimpanzee, chimp, Pan troglodytes 0.344773
+gorilla, Gorilla gorilla 0.336987
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10319.jpg
+chimpanzee, chimp, Pan troglodytes 0.926886
+gorilla, Gorilla gorilla 0.0389412
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10320.jpg
+chimpanzee, chimp, Pan troglodytes 0.999226
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000716057
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10321.jpg
+gorilla, Gorilla gorilla 0.67759
+chimpanzee, chimp, Pan troglodytes 0.179908
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10322.jpg
+chimpanzee, chimp, Pan troglodytes 0.948285
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0190385
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10323.jpg
+chimpanzee, chimp, Pan troglodytes 0.999968
+siamang, Hylobates syndactylus, Symphalangus syndactylus 3.19259e-05
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10324.jpg
+chimpanzee, chimp, Pan troglodytes 0.485184
+gorilla, Gorilla gorilla 0.407024
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10325.jpg
+chimpanzee, chimp, Pan troglodytes 0.939268
+gorilla, Gorilla gorilla 0.0527865
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10326.jpg
+chimpanzee, chimp, Pan troglodytes 0.492169
+sloth bear, Melursus ursinus, Ursus ursinus 0.231851
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10327.jpg
+gorilla, Gorilla gorilla 0.501788
+chimpanzee, chimp, Pan troglodytes 0.461367
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10328.jpg
+chimpanzee, chimp, Pan troglodytes 0.856012
+gorilla, Gorilla gorilla 0.0503144
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10329.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.158987
+standard schnauzer 0.148395
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10330.jpg
+curly-coated retriever 0.326578
+chimpanzee, chimp, Pan troglodytes 0.255892
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10331.jpg
+chimpanzee, chimp, Pan troglodytes 0.924331
+gorilla, Gorilla gorilla 0.0472965
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10332.jpg
+chimpanzee, chimp, Pan troglodytes 0.555043
+howler monkey, howler 0.179223
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10333.jpg
+chimpanzee, chimp, Pan troglodytes 0.792684
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.16722
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10334.jpg
+chimpanzee, chimp, Pan troglodytes 0.867898
+gorilla, Gorilla gorilla 0.0925977
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10335.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.915142
+howler monkey, howler 0.0553694
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10336.jpg
+chimpanzee, chimp, Pan troglodytes 0.657914
+gorilla, Gorilla gorilla 0.33528
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10337.jpg
+chimpanzee, chimp, Pan troglodytes 0.951688
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0223159
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10338.jpg
+chimpanzee, chimp, Pan troglodytes 0.599256
+patas, hussar monkey, Erythrocebus patas 0.0809044
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10339.jpg
+chimpanzee, chimp, Pan troglodytes 0.336854
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.311842
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10340.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.448935
+gibbon, Hylobates lar 0.129738
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10341.jpg
+chimpanzee, chimp, Pan troglodytes 0.819658
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0848342
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10342.jpg
+chimpanzee, chimp, Pan troglodytes 0.850768
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.139635
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10343.jpg
+bulbul 0.116139
+chickadee 0.0598326
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10344.jpg
+chimpanzee, chimp, Pan troglodytes 0.696534
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.122664
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10345.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.559074
+gorilla, Gorilla gorilla 0.0661044
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10346.jpg
+chimpanzee, chimp, Pan troglodytes 0.623852
+sloth bear, Melursus ursinus, Ursus ursinus 0.282403
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10347.jpg
+chimpanzee, chimp, Pan troglodytes 0.917423
+gorilla, Gorilla gorilla 0.0573228
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10348.jpg
+chimpanzee, chimp, Pan troglodytes 0.462706
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.297466
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10349.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.390183
+gorilla, Gorilla gorilla 0.127308
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10350.jpg
+gorilla, Gorilla gorilla 0.419073
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.310661
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10351.jpg
+chimpanzee, chimp, Pan troglodytes 0.467197
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.228418
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10352.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.327381
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.220789
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10353.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.588151
+chimpanzee, chimp, Pan troglodytes 0.196976
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10354.jpg
+chimpanzee, chimp, Pan troglodytes 0.308406
+flat-coated retriever 0.180616
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10355.jpg
+sea lion 0.246985
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.138261
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10356.jpg
+chimpanzee, chimp, Pan troglodytes 0.999815
+gorilla, Gorilla gorilla 0.00014033
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10357.jpg
+chimpanzee, chimp, Pan troglodytes 0.572643
+gorilla, Gorilla gorilla 0.271425
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10358.jpg
+chimpanzee, chimp, Pan troglodytes 0.333165
+gorilla, Gorilla gorilla 0.209671
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10359.jpg
+chimpanzee, chimp, Pan troglodytes 0.691861
+macaque 0.0930833
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10360.jpg
+chimpanzee, chimp, Pan troglodytes 0.438264
+gorilla, Gorilla gorilla 0.387962
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10361.jpg
+chimpanzee, chimp, Pan troglodytes 0.778136
+gorilla, Gorilla gorilla 0.0719543
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10362.jpg
+chimpanzee, chimp, Pan troglodytes 0.0991493
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0987817
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10363.jpg
+chimpanzee, chimp, Pan troglodytes 0.993424
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00494821
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10364.jpg
+chimpanzee, chimp, Pan troglodytes 0.964699
+gorilla, Gorilla gorilla 0.0334864
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10365.jpg
+chimpanzee, chimp, Pan troglodytes 0.405027
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.221702
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10366.jpg
+chimpanzee, chimp, Pan troglodytes 0.497822
+gorilla, Gorilla gorilla 0.321188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10367.jpg
+chimpanzee, chimp, Pan troglodytes 0.999673
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000140828
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10368.jpg
+chimpanzee, chimp, Pan troglodytes 0.996786
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00166877
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10369.jpg
+chimpanzee, chimp, Pan troglodytes 0.509122
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.121381
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10370.jpg
+colobus, colobus monkey 0.380814
+Madagascar cat, ring-tailed lemur, Lemur catta 0.0924002
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10371.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.313081
+chimpanzee, chimp, Pan troglodytes 0.222446
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10372.jpg
+chimpanzee, chimp, Pan troglodytes 0.997537
+spider monkey, Ateles geoffroyi 0.00109569
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10373.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.31329
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.297622
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10374.jpg
+gorilla, Gorilla gorilla 0.793496
+chimpanzee, chimp, Pan troglodytes 0.117992
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10375.jpg
+gorilla, Gorilla gorilla 0.516105
+chimpanzee, chimp, Pan troglodytes 0.129294
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10376.jpg
+flat-coated retriever 0.306604
+Newfoundland, Newfoundland dog 0.135346
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10377.jpg
+chimpanzee, chimp, Pan troglodytes 0.829205
+gorilla, Gorilla gorilla 0.103956
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10378.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.111861
+wallaby, brush kangaroo 0.0783639
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10379.jpg
+langur 0.787716
+baboon 0.166195
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10380.jpg
+gorilla, Gorilla gorilla 0.680279
+chimpanzee, chimp, Pan troglodytes 0.160647
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10381.jpg
+chimpanzee, chimp, Pan troglodytes 0.584362
+gorilla, Gorilla gorilla 0.311682
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10382.jpg
+hourglass 0.0478592
+sewing machine 0.0302421
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10383.jpg
+shoe shop, shoe-shop, shoe store 0.0611655
+moped 0.0460799
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10384.jpg
+colobus, colobus monkey 0.223202
+indri, indris, Indri indri, Indri brevicaudatus 0.164674
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10385.jpg
+chimpanzee, chimp, Pan troglodytes 0.826719
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.122136
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10386.jpg
+lumbermill, sawmill 0.281292
+butcher shop, meat market 0.0443414
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10387.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.546105
+swing 0.202358
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10388.jpg
+capuchin, ringtail, Cebus capucinus 0.201485
+spider monkey, Ateles geoffroyi 0.14089
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10389.jpg
+parallel bars, bars 0.466358
+horizontal bar, high bar 0.180759
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10390.jpg
+chimpanzee, chimp, Pan troglodytes 0.742254
+orangutan, orang, orangutang, Pongo pygmaeus 0.241607
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10391.jpg
+mink 0.319421
+hen 0.0650598
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10392.jpg
+chimpanzee, chimp, Pan troglodytes 0.96144
+gorilla, Gorilla gorilla 0.0351616
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10393.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.560173
+chimpanzee, chimp, Pan troglodytes 0.254484
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10394.jpg
+chimpanzee, chimp, Pan troglodytes 0.115448
+spider monkey, Ateles geoffroyi 0.113208
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10395.jpg
+chimpanzee, chimp, Pan troglodytes 0.942606
+gorilla, Gorilla gorilla 0.056673
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10396.jpg
+chimpanzee, chimp, Pan troglodytes 0.872405
+gorilla, Gorilla gorilla 0.0938516
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10397.jpg
+capuchin, ringtail, Cebus capucinus 0.130849
+spider monkey, Ateles geoffroyi 0.125468
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10398.jpg
+chimpanzee, chimp, Pan troglodytes 0.966617
+baboon 0.00755757
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10399.jpg
+chimpanzee, chimp, Pan troglodytes 0.797989
+gorilla, Gorilla gorilla 0.0859398
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10400.jpg
+chimpanzee, chimp, Pan troglodytes 0.90205
+gorilla, Gorilla gorilla 0.0957427
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10401.jpg
+chimpanzee, chimp, Pan troglodytes 0.875742
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.100386
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10402.jpg
+giant schnauzer 0.715015
+standard schnauzer 0.107692
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10403.jpg
+chimpanzee, chimp, Pan troglodytes 0.207548
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.134408
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10404.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.237344
+schipperke 0.175809
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10405.jpg
+chimpanzee, chimp, Pan troglodytes 0.999788
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000155977
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10406.jpg
+chimpanzee, chimp, Pan troglodytes 0.997682
+gorilla, Gorilla gorilla 0.00225774
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10407.jpg
+chimpanzee, chimp, Pan troglodytes 0.99031
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00425633
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10408.jpg
+chimpanzee, chimp, Pan troglodytes 0.219337
+gorilla, Gorilla gorilla 0.178217
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10409.jpg
+chimpanzee, chimp, Pan troglodytes 0.881227
+gorilla, Gorilla gorilla 0.0832698
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10410.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.46008
+spider monkey, Ateles geoffroyi 0.227857
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10411.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.467182
+chimpanzee, chimp, Pan troglodytes 0.109026
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10412.jpg
+chimpanzee, chimp, Pan troglodytes 0.975701
+gorilla, Gorilla gorilla 0.00557188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10413.jpg
+chimpanzee, chimp, Pan troglodytes 0.391285
+macaque 0.141327
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10414.jpg
+chimpanzee, chimp, Pan troglodytes 0.999379
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000366539
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10415.jpg
+flat-coated retriever 0.207855
+chimpanzee, chimp, Pan troglodytes 0.18724
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10416.jpg
+chimpanzee, chimp, Pan troglodytes 0.944649
+gorilla, Gorilla gorilla 0.0177088
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10417.jpg
+chimpanzee, chimp, Pan troglodytes 0.992485
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00707529
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10418.jpg
+chimpanzee, chimp, Pan troglodytes 0.426832
+Tibetan mastiff 0.130283
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10419.jpg
+spider monkey, Ateles geoffroyi 0.347902
+chimpanzee, chimp, Pan troglodytes 0.277472
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10420.jpg
+chimpanzee, chimp, Pan troglodytes 0.90391
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0489618
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10421.jpg
+chimpanzee, chimp, Pan troglodytes 0.224728
+langur 0.153042
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10422.jpg
+chimpanzee, chimp, Pan troglodytes 0.401522
+Gordon setter 0.0663856
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10423.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.207929
+chimpanzee, chimp, Pan troglodytes 0.17803
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10424.jpg
+wallaby, brush kangaroo 0.0749289
+baboon 0.0527924
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10425.jpg
+howler monkey, howler 0.345173
+chimpanzee, chimp, Pan troglodytes 0.105313
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10426.jpg
+chimpanzee, chimp, Pan troglodytes 0.627057
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.205188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10427.jpg
+chimpanzee, chimp, Pan troglodytes 0.379548
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.318815
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10428.jpg
+gorilla, Gorilla gorilla 0.70086
+chimpanzee, chimp, Pan troglodytes 0.123108
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10429.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.387756
+gorilla, Gorilla gorilla 0.153648
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10430.jpg
+chimpanzee, chimp, Pan troglodytes 0.626786
+gorilla, Gorilla gorilla 0.137555
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10431.jpg
+chimpanzee, chimp, Pan troglodytes 0.83544
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0286031
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10432.jpg
+chimpanzee, chimp, Pan troglodytes 0.689341
+gorilla, Gorilla gorilla 0.239441
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10433.jpg
+guenon, guenon monkey 0.339738
+colobus, colobus monkey 0.287574
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10434.jpg
+gorilla, Gorilla gorilla 0.575935
+chimpanzee, chimp, Pan troglodytes 0.209637
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10435.jpg
+chimpanzee, chimp, Pan troglodytes 0.821362
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.125203
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10436.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.29051
+chimpanzee, chimp, Pan troglodytes 0.273843
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10437.jpg
+colobus, colobus monkey 0.340392
+guenon, guenon monkey 0.0991485
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10438.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.531841
+gibbon, Hylobates lar 0.130581
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10439.jpg
+gorilla, Gorilla gorilla 0.340181
+chimpanzee, chimp, Pan troglodytes 0.213402
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10440.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.783297
+chimpanzee, chimp, Pan troglodytes 0.200452
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10441.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.74377
+sloth bear, Melursus ursinus, Ursus ursinus 0.102178
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10442.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.715234
+sloth bear, Melursus ursinus, Ursus ursinus 0.17568
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10443.jpg
+chimpanzee, chimp, Pan troglodytes 0.55568
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.203177
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10444.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.942874
+spider monkey, Ateles geoffroyi 0.0342459
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10445.jpg
+chimpanzee, chimp, Pan troglodytes 0.245221
+Bouvier des Flandres, Bouviers des Flandres 0.178204
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10446.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.616925
+chimpanzee, chimp, Pan troglodytes 0.101356
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10447.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.345441
+gorilla, Gorilla gorilla 0.255856
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10448.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.264545
+howler monkey, howler 0.0817881
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10449.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.320659
+gorilla, Gorilla gorilla 0.179045
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10450.jpg
+chimpanzee, chimp, Pan troglodytes 0.26999
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.1765
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10451.jpg
+chimpanzee, chimp, Pan troglodytes 0.147884
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.143446
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10452.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.243635
+colobus, colobus monkey 0.184398
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10453.jpg
+gorilla, Gorilla gorilla 0.570248
+howler monkey, howler 0.176456
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10454.jpg
+chimpanzee, chimp, Pan troglodytes 0.731682
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.143502
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10455.jpg
+chimpanzee, chimp, Pan troglodytes 0.999081
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000408217
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10456.jpg
+chimpanzee, chimp, Pan troglodytes 0.44017
+spider monkey, Ateles geoffroyi 0.276749
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10457.jpg
+chimpanzee, chimp, Pan troglodytes 0.540726
+gorilla, Gorilla gorilla 0.392012
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10458.jpg
+chimpanzee, chimp, Pan troglodytes 0.97847
+guenon, guenon monkey 0.00675419
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10459.jpg
+chimpanzee, chimp, Pan troglodytes 0.805503
+gorilla, Gorilla gorilla 0.0894871
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10460.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.797772
+chimpanzee, chimp, Pan troglodytes 0.101644
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10461.jpg
+chimpanzee, chimp, Pan troglodytes 0.243384
+spider monkey, Ateles geoffroyi 0.118539
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10462.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.519222
+chimpanzee, chimp, Pan troglodytes 0.402349
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10463.jpg
+chimpanzee, chimp, Pan troglodytes 0.592431
+gorilla, Gorilla gorilla 0.0630333
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10464.jpg
+chimpanzee, chimp, Pan troglodytes 0.946144
+gorilla, Gorilla gorilla 0.0284465
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10465.jpg
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.255377
+flat-coated retriever 0.206335
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10466.jpg
+chimpanzee, chimp, Pan troglodytes 0.769513
+gorilla, Gorilla gorilla 0.143678
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10467.jpg
+chimpanzee, chimp, Pan troglodytes 0.201452
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.144984
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10468.jpg
+chimpanzee, chimp, Pan troglodytes 0.897226
+gorilla, Gorilla gorilla 0.0961115
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10469.jpg
+gorilla, Gorilla gorilla 0.65776
+chimpanzee, chimp, Pan troglodytes 0.327195
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10470.jpg
+chimpanzee, chimp, Pan troglodytes 0.564563
+black stork, Ciconia nigra 0.0559668
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10471.jpg
+giant schnauzer 0.268108
+Bouvier des Flandres, Bouviers des Flandres 0.0988248
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10472.jpg
+flat-coated retriever 0.356026
+chimpanzee, chimp, Pan troglodytes 0.251115
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10473.jpg
+chimpanzee, chimp, Pan troglodytes 0.9908
+gorilla, Gorilla gorilla 0.00583394
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10474.jpg
+chimpanzee, chimp, Pan troglodytes 0.972243
+gorilla, Gorilla gorilla 0.0230312
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10475.jpg
+chimpanzee, chimp, Pan troglodytes 0.935616
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.040141
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10476.jpg
+chimpanzee, chimp, Pan troglodytes 0.517438
+gorilla, Gorilla gorilla 0.394795
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10477.jpg
+chimpanzee, chimp, Pan troglodytes 0.949698
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0451153
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10478.jpg
+chimpanzee, chimp, Pan troglodytes 0.923894
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0407745
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10479.jpg
+chimpanzee, chimp, Pan troglodytes 0.635405
+gorilla, Gorilla gorilla 0.18955
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10480.jpg
+chimpanzee, chimp, Pan troglodytes 0.94926
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0468214
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10481.jpg
+chimpanzee, chimp, Pan troglodytes 0.972376
+gorilla, Gorilla gorilla 0.0130059
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10482.jpg
+chimpanzee, chimp, Pan troglodytes 0.957185
+spider monkey, Ateles geoffroyi 0.0285755
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10483.jpg
+swing 0.0643079
+German short-haired pointer 0.0601793
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10484.jpg
+chimpanzee, chimp, Pan troglodytes 0.994049
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00233716
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10485.jpg
+chimpanzee, chimp, Pan troglodytes 0.902828
+gorilla, Gorilla gorilla 0.0784221
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10486.jpg
+Indian elephant, Elephas maximus 0.564914
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.256936
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10487.jpg
+Indian elephant, Elephas maximus 0.344903
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis 0.200481
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10488.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0377019
+gyromitra 0.0345059
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10489.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.252865
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.237067
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10490.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.463213
+chimpanzee, chimp, Pan troglodytes 0.307896
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10491.jpg
+gorilla, Gorilla gorilla 0.529438
+chimpanzee, chimp, Pan troglodytes 0.41534
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10492.jpg
+chimpanzee, chimp, Pan troglodytes 0.866568
+spider monkey, Ateles geoffroyi 0.0759018
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10493.jpg
+chimpanzee, chimp, Pan troglodytes 0.990527
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00590683
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10494.jpg
+prison, prison house 0.636274
+crib, cot 0.0836894
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10495.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.346227
+chimpanzee, chimp, Pan troglodytes 0.211875
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10496.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.338096
+spider monkey, Ateles geoffroyi 0.322062
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10497.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.578999
+colobus, colobus monkey 0.200241
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10498.jpg
+chimpanzee, chimp, Pan troglodytes 0.936912
+gorilla, Gorilla gorilla 0.0494876
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10499.jpg
+chimpanzee, chimp, Pan troglodytes 0.48935
+sloth bear, Melursus ursinus, Ursus ursinus 0.17556
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10500.jpg
+paddlewheel, paddle wheel 0.23539
+schipperke 0.0903965
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10501.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.19641
+spider monkey, Ateles geoffroyi 0.106031
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10502.jpg
+Indian cobra, Naja naja 0.0915596
+mongoose 0.0607056
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10503.jpg
+spider monkey, Ateles geoffroyi 0.231997
+chimpanzee, chimp, Pan troglodytes 0.19677
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10504.jpg
+chimpanzee, chimp, Pan troglodytes 0.547631
+Rottweiler 0.0565023
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10505.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.467735
+chimpanzee, chimp, Pan troglodytes 0.17515
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10506.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.518928
+chimpanzee, chimp, Pan troglodytes 0.246157
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10507.jpg
+gorilla, Gorilla gorilla 0.759553
+chimpanzee, chimp, Pan troglodytes 0.17879
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10508.jpg
+gorilla, Gorilla gorilla 0.512464
+chimpanzee, chimp, Pan troglodytes 0.286369
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10509.jpg
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.128197
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.081415
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10510.jpg
+chimpanzee, chimp, Pan troglodytes 0.909996
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0686321
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10511.jpg
+howler monkey, howler 0.713177
+titi, titi monkey 0.100398
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10512.jpg
+howler monkey, howler 0.884476
+gorilla, Gorilla gorilla 0.0287042
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10513.jpg
+marmoset 0.30563
+chimpanzee, chimp, Pan troglodytes 0.225424
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10514.jpg
+macaw 0.585179
+guenon, guenon monkey 0.13751
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10515.jpg
+chimpanzee, chimp, Pan troglodytes 0.40069
+titi, titi monkey 0.272777
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10516.jpg
+chimpanzee, chimp, Pan troglodytes 0.561227
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.27119
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10517.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.411027
+howler monkey, howler 0.22127
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10518.jpg
+guenon, guenon monkey 0.289773
+langur 0.257186
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10519.jpg
+howler monkey, howler 0.293516
+orangutan, orang, orangutang, Pongo pygmaeus 0.212303
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10520.jpg
+gorilla, Gorilla gorilla 0.858842
+chimpanzee, chimp, Pan troglodytes 0.0575207
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10521.jpg
+gorilla, Gorilla gorilla 0.337562
+chimpanzee, chimp, Pan troglodytes 0.315268
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10522.jpg
+chimpanzee, chimp, Pan troglodytes 0.997955
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00193733
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10523.jpg
+picket fence, paling 0.0912468
+chimpanzee, chimp, Pan troglodytes 0.0565766
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10524.jpg
+Scottish deerhound, deerhound 0.619963
+baboon 0.0839565
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10525.jpg
+chimpanzee, chimp, Pan troglodytes 0.865975
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.06688
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10526.jpg
+chimpanzee, chimp, Pan troglodytes 0.819937
+gorilla, Gorilla gorilla 0.121008
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10527.jpg
+gorilla, Gorilla gorilla 0.571856
+chimpanzee, chimp, Pan troglodytes 0.412056
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10528.jpg
+chimpanzee, chimp, Pan troglodytes 0.860893
+gorilla, Gorilla gorilla 0.043015
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10529.jpg
+chimpanzee, chimp, Pan troglodytes 0.97673
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0223236
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10530.jpg
+chimpanzee, chimp, Pan troglodytes 0.694035
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.101261
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10531.jpg
+chimpanzee, chimp, Pan troglodytes 0.526068
+gorilla, Gorilla gorilla 0.11482
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10532.jpg
+howler monkey, howler 0.451266
+capuchin, ringtail, Cebus capucinus 0.108103
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10533.jpg
+howler monkey, howler 0.536566
+spider monkey, Ateles geoffroyi 0.197971
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10534.jpg
+chimpanzee, chimp, Pan troglodytes 0.95678
+gorilla, Gorilla gorilla 0.0392107
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10535.jpg
+howler monkey, howler 0.384738
+gorilla, Gorilla gorilla 0.139544
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10536.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.532046
+Border collie 0.0527253
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10537.jpg
+chimpanzee, chimp, Pan troglodytes 0.999902
+gorilla, Gorilla gorilla 7.37497e-05
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10538.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.376107
+Bernese mountain dog 0.163157
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10539.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.607698
+sloth bear, Melursus ursinus, Ursus ursinus 0.369316
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10540.jpg
+chimpanzee, chimp, Pan troglodytes 0.336041
+spider monkey, Ateles geoffroyi 0.0517005
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10541.jpg
+chimpanzee, chimp, Pan troglodytes 0.634722
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.35039
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10542.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.729703
+gorilla, Gorilla gorilla 0.0840194
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10543.jpg
+echidna, spiny anteater, anteater 0.183514
+briard 0.103441
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10544.jpg
+gorilla, Gorilla gorilla 0.842675
+chimpanzee, chimp, Pan troglodytes 0.151911
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10545.jpg
+chimpanzee, chimp, Pan troglodytes 0.999721
+gorilla, Gorilla gorilla 0.000118909
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10546.jpg
+chimpanzee, chimp, Pan troglodytes 0.878842
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.027725
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10547.jpg
+chimpanzee, chimp, Pan troglodytes 0.998167
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000600351
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10548.jpg
+chimpanzee, chimp, Pan troglodytes 0.967961
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00748964
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10549.jpg
+chimpanzee, chimp, Pan troglodytes 0.797259
+gorilla, Gorilla gorilla 0.151165
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10550.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.403191
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.290861
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10551.jpg
+chimpanzee, chimp, Pan troglodytes 0.456428
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.344336
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10552.jpg
+chimpanzee, chimp, Pan troglodytes 0.214182
+sloth bear, Melursus ursinus, Ursus ursinus 0.163862
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10553.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.363355
+chimpanzee, chimp, Pan troglodytes 0.341409
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10554.jpg
+chimpanzee, chimp, Pan troglodytes 0.805301
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.162373
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10555.jpg
+chimpanzee, chimp, Pan troglodytes 0.968267
+gorilla, Gorilla gorilla 0.0144255
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10556.jpg
+flat-coated retriever 0.667779
+Afghan hound, Afghan 0.0843183
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10557.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.119481
+toucan 0.111942
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10558.jpg
+chimpanzee, chimp, Pan troglodytes 0.348255
+macaque 0.16035
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10559.jpg
+spider monkey, Ateles geoffroyi 0.45132
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.28038
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10560.jpg
+chimpanzee, chimp, Pan troglodytes 0.959349
+gorilla, Gorilla gorilla 0.0369055
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10561.jpg
+chimpanzee, chimp, Pan troglodytes 0.544224
+macaque 0.178186
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10562.jpg
+chimpanzee, chimp, Pan troglodytes 0.368501
+hornbill 0.160351
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10563.jpg
+chimpanzee, chimp, Pan troglodytes 0.993635
+gorilla, Gorilla gorilla 0.0042234
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10564.jpg
+chimpanzee, chimp, Pan troglodytes 0.726903
+bald eagle, American eagle, Haliaeetus leucocephalus 0.0703297
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10565.jpg
+gorilla, Gorilla gorilla 0.343256
+chimpanzee, chimp, Pan troglodytes 0.317525
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10566.jpg
+chimpanzee, chimp, Pan troglodytes 0.562041
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.234447
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10567.jpg
+chimpanzee, chimp, Pan troglodytes 0.728356
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0935474
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10568.jpg
+chimpanzee, chimp, Pan troglodytes 0.466949
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.237577
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10569.jpg
+chimpanzee, chimp, Pan troglodytes 0.849663
+gorilla, Gorilla gorilla 0.0850894
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10570.jpg
+chimpanzee, chimp, Pan troglodytes 0.999931
+siamang, Hylobates syndactylus, Symphalangus syndactylus 3.05221e-05
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10571.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.715246
+Bouvier des Flandres, Bouviers des Flandres 0.0706889
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10572.jpg
+chimpanzee, chimp, Pan troglodytes 0.56572
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.2731
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10573.jpg
+box turtle, box tortoise 0.0919863
+armadillo 0.0777646
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10574.jpg
+chimpanzee, chimp, Pan troglodytes 0.950199
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0437554
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10575.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.440825
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.290994
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10576.jpg
+chimpanzee, chimp, Pan troglodytes 0.800872
+gorilla, Gorilla gorilla 0.133015
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10577.jpg
+Madagascar cat, ring-tailed lemur, Lemur catta 0.386166
+great grey owl, great gray owl, Strix nebulosa 0.0861985
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10578.jpg
+chimpanzee, chimp, Pan troglodytes 0.999989
+siamang, Hylobates syndactylus, Symphalangus syndactylus 5.92019e-06
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10579.jpg
+chimpanzee, chimp, Pan troglodytes 0.776866
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.11495
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10580.jpg
+chimpanzee, chimp, Pan troglodytes 0.99806
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000609405
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10581.jpg
+chimpanzee, chimp, Pan troglodytes 0.774303
+gorilla, Gorilla gorilla 0.105141
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10582.jpg
+chimpanzee, chimp, Pan troglodytes 0.7883
+gorilla, Gorilla gorilla 0.177984
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10583.jpg
+chimpanzee, chimp, Pan troglodytes 0.217627
+howler monkey, howler 0.179612
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10584.jpg
+chimpanzee, chimp, Pan troglodytes 0.603172
+gorilla, Gorilla gorilla 0.132168
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10585.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.396939
+chimpanzee, chimp, Pan troglodytes 0.266827
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10586.jpg
+capuchin, ringtail, Cebus capucinus 0.285731
+kit fox, Vulpes macrotis 0.0959594
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10587.jpg
+spider monkey, Ateles geoffroyi 0.282667
+gorilla, Gorilla gorilla 0.258138
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10588.jpg
+chimpanzee, chimp, Pan troglodytes 0.97978
+gorilla, Gorilla gorilla 0.0118071
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10589.jpg
+orangutan, orang, orangutang, Pongo pygmaeus 0.498423
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus 0.19504
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10590.jpg
+spider monkey, Ateles geoffroyi 0.179022
+marmoset 0.106334
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10591.jpg
+chimpanzee, chimp, Pan troglodytes 0.969727
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0282102
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10592.jpg
+chimpanzee, chimp, Pan troglodytes 0.998305
+gorilla, Gorilla gorilla 0.00111478
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10593.jpg
+gorilla, Gorilla gorilla 0.341059
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.170936
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10594.jpg
+chimpanzee, chimp, Pan troglodytes 0.687635
+gorilla, Gorilla gorilla 0.218424
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10595.jpg
+chimpanzee, chimp, Pan troglodytes 0.201299
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.190867
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10596.jpg
+chimpanzee, chimp, Pan troglodytes 0.905469
+flat-coated retriever 0.0200075
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10597.jpg
+leafhopper 0.136876
+leaf beetle, chrysomelid 0.0748875
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10598.jpg
+chimpanzee, chimp, Pan troglodytes 0.968749
+sloth bear, Melursus ursinus, Ursus ursinus 0.0219581
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10599.jpg
+bobsled, bobsleigh, bob 0.406204
+racket, racquet 0.0414336
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10600.jpg
+chimpanzee, chimp, Pan troglodytes 0.996719
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00269948
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10601.jpg
+chimpanzee, chimp, Pan troglodytes 0.937352
+gorilla, Gorilla gorilla 0.0550842
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10602.jpg
+chimpanzee, chimp, Pan troglodytes 0.131082
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.0841784
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10603.jpg
+chimpanzee, chimp, Pan troglodytes 0.996747
+gorilla, Gorilla gorilla 0.00289482
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10604.jpg
+lumbermill, sawmill 0.217764
+gorilla, Gorilla gorilla 0.110352
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10605.jpg
+chimpanzee, chimp, Pan troglodytes 0.538524
+spider monkey, Ateles geoffroyi 0.180661
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10606.jpg
+chimpanzee, chimp, Pan troglodytes 0.540465
+spider monkey, Ateles geoffroyi 0.237325
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10607.jpg
+chimpanzee, chimp, Pan troglodytes 0.746339
+gorilla, Gorilla gorilla 0.239695
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10608.jpg
+chimpanzee, chimp, Pan troglodytes 0.994409
+gorilla, Gorilla gorilla 0.00332864
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10609.jpg
+chimpanzee, chimp, Pan troglodytes 0.495306
+flat-coated retriever 0.349424
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10610.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.135756
+chimpanzee, chimp, Pan troglodytes 0.125412
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10611.jpg
+chimpanzee, chimp, Pan troglodytes 0.480895
+gorilla, Gorilla gorilla 0.188365
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10612.jpg
+chimpanzee, chimp, Pan troglodytes 0.86217
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.103389
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10613.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.544739
+gibbon, Hylobates lar 0.219921
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10614.jpg
+chimpanzee, chimp, Pan troglodytes 0.883885
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0687638
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10615.jpg
+chimpanzee, chimp, Pan troglodytes 0.781548
+gorilla, Gorilla gorilla 0.0655778
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10616.jpg
+titi, titi monkey 0.182506
+howler monkey, howler 0.132732
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10617.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.77748
+spider monkey, Ateles geoffroyi 0.175048
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10618.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.431805
+gorilla, Gorilla gorilla 0.420888
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10619.jpg
+chimpanzee, chimp, Pan troglodytes 0.772881
+gorilla, Gorilla gorilla 0.184992
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10620.jpg
+chimpanzee, chimp, Pan troglodytes 0.964372
+spider monkey, Ateles geoffroyi 0.0150422
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10621.jpg
+Newfoundland, Newfoundland dog 0.153543
+spider monkey, Ateles geoffroyi 0.134913
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10622.jpg
+chimpanzee, chimp, Pan troglodytes 0.997828
+spider monkey, Ateles geoffroyi 0.000853646
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10623.jpg
+chimpanzee, chimp, Pan troglodytes 0.999956
+gorilla, Gorilla gorilla 2.42143e-05
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10624.jpg
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.248941
+hog, pig, grunter, squealer, Sus scrofa 0.183332
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10625.jpg
+chimpanzee, chimp, Pan troglodytes 0.994348
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0021746
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10626.jpg
+indri, indris, Indri indri, Indri brevicaudatus 0.26592
+colobus, colobus monkey 0.153191
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10627.jpg
+mongoose 0.135235
+red fox, Vulpes vulpes 0.0661872
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10628.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.515311
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.213931
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10629.jpg
+langur 0.498842
+colobus, colobus monkey 0.250794
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10630.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.394696
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.200971
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10631.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.432702
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.394348
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10632.jpg
+spider monkey, Ateles geoffroyi 0.292712
+bow 0.088823
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10633.jpg
+chimpanzee, chimp, Pan troglodytes 0.997091
+gorilla, Gorilla gorilla 0.00195718
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10634.jpg
+chimpanzee, chimp, Pan troglodytes 0.961893
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0174567
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10635.jpg
+chimpanzee, chimp, Pan troglodytes 0.244832
+Newfoundland, Newfoundland dog 0.176476
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10636.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.637296
+gorilla, Gorilla gorilla 0.205619
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10637.jpg
+chimpanzee, chimp, Pan troglodytes 0.768547
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.112465
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10638.jpg
+chimpanzee, chimp, Pan troglodytes 0.833825
+gorilla, Gorilla gorilla 0.140213
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10639.jpg
+chimpanzee, chimp, Pan troglodytes 0.982491
+orangutan, orang, orangutang, Pongo pygmaeus 0.00655891
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10640.jpg
+lumbermill, sawmill 0.40895
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.0972783
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10641.jpg
+chimpanzee, chimp, Pan troglodytes 0.826565
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.108987
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10642.jpg
+toyshop 0.0683308
+feather boa, boa 0.0607396
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10643.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.423279
+gibbon, Hylobates lar 0.202188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10644.jpg
+chimpanzee, chimp, Pan troglodytes 0.991517
+gorilla, Gorilla gorilla 0.00728182
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10645.jpg
+marmoset 0.249077
+greenhouse, nursery, glasshouse 0.0514256
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10646.jpg
+chimpanzee, chimp, Pan troglodytes 0.963502
+gorilla, Gorilla gorilla 0.0176215
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10647.jpg
+bald eagle, American eagle, Haliaeetus leucocephalus 0.107143
+flagpole, flagstaff 0.0999147
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10648.jpg
+colobus, colobus monkey 0.81842
+guenon, guenon monkey 0.0640433
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10649.jpg
+chimpanzee, chimp, Pan troglodytes 0.760695
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.161967
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10650.jpg
+chimpanzee, chimp, Pan troglodytes 0.561407
+marmoset 0.160499
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10651.jpg
+chimpanzee, chimp, Pan troglodytes 0.989091
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00705212
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10652.jpg
+chimpanzee, chimp, Pan troglodytes 0.989007
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00779338
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10653.jpg
+chimpanzee, chimp, Pan troglodytes 0.881213
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0928281
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10654.jpg
+chimpanzee, chimp, Pan troglodytes 0.935105
+spider monkey, Ateles geoffroyi 0.0170388
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10655.jpg
+reel 0.0597074
+chimpanzee, chimp, Pan troglodytes 0.0421176
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10656.jpg
+Newfoundland, Newfoundland dog 0.52681
+gorilla, Gorilla gorilla 0.118677
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10657.jpg
+chimpanzee, chimp, Pan troglodytes 0.9526
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0196413
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10658.jpg
+tusker 0.658537
+African elephant, Loxodonta africana 0.0842664
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10659.jpg
+chimpanzee, chimp, Pan troglodytes 0.99971
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000212244
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10660.jpg
+chimpanzee, chimp, Pan troglodytes 0.931377
+macaque 0.0334025
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10661.jpg
+chimpanzee, chimp, Pan troglodytes 0.617333
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.213102
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10662.jpg
+spider monkey, Ateles geoffroyi 0.35907
+chimpanzee, chimp, Pan troglodytes 0.33151
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10663.jpg
+chimpanzee, chimp, Pan troglodytes 0.999444
+sloth bear, Melursus ursinus, Ursus ursinus 0.000163318
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10664.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.140079
+vulture 0.120362
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10665.jpg
+ox 0.351128
+ram, tup 0.160513
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10666.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.874117
+spider monkey, Ateles geoffroyi 0.0545954
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10667.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.403401
+brown bear, bruin, Ursus arctos 0.223642
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10668.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.639639
+howler monkey, howler 0.146732
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10669.jpg
+howler monkey, howler 0.456879
+spider monkey, Ateles geoffroyi 0.267214
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10670.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.307504
+sloth bear, Melursus ursinus, Ursus ursinus 0.261072
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10671.jpg
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.63765
+sloth bear, Melursus ursinus, Ursus ursinus 0.186421
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10672.jpg
+hummingbird 0.0979223
+hornbill 0.0785188
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10673.jpg
+spider monkey, Ateles geoffroyi 0.697198
+capuchin, ringtail, Cebus capucinus 0.177795
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10674.jpg
+howler monkey, howler 0.568458
+capuchin, ringtail, Cebus capucinus 0.151011
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10675.jpg
+Brabancon griffon 0.207844
+chimpanzee, chimp, Pan troglodytes 0.139628
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10676.jpg
+chimpanzee, chimp, Pan troglodytes 0.99911
+macaque 0.000334268
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10677.jpg
+ram, tup 0.363857
+llama 0.299959
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10678.jpg
+chimpanzee, chimp, Pan troglodytes 0.499766
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.19821
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10679.jpg
+porcupine, hedgehog 0.203571
+wild boar, boar, Sus scrofa 0.183593
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10680.jpg
+gorilla, Gorilla gorilla 0.467003
+orangutan, orang, orangutang, Pongo pygmaeus 0.299781
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10681.jpg
+chimpanzee, chimp, Pan troglodytes 0.998544
+spider monkey, Ateles geoffroyi 0.000448226
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10682.jpg
+chimpanzee, chimp, Pan troglodytes 0.942043
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0525676
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10683.jpg
+chimpanzee, chimp, Pan troglodytes 0.546564
+Newfoundland, Newfoundland dog 0.146959
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10684.jpg
+langur 0.494388
+guenon, guenon monkey 0.172706
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10685.jpg
+spider monkey, Ateles geoffroyi 0.304369
+gibbon, Hylobates lar 0.212083
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10686.jpg
+guenon, guenon monkey 0.274825
+spider monkey, Ateles geoffroyi 0.151874
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10687.jpg
+chimpanzee, chimp, Pan troglodytes 0.996591
+gorilla, Gorilla gorilla 0.00256751
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10688.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.912108
+chimpanzee, chimp, Pan troglodytes 0.0735598
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10689.jpg
+chimpanzee, chimp, Pan troglodytes 0.983103
+gorilla, Gorilla gorilla 0.00365561
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10690.jpg
+chimpanzee, chimp, Pan troglodytes 0.999651
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000223595
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10691.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.43452
+chimpanzee, chimp, Pan troglodytes 0.343581
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10692.jpg
+macaque 0.269346
+chimpanzee, chimp, Pan troglodytes 0.242264
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10693.jpg
+chimpanzee, chimp, Pan troglodytes 0.969249
+vulture 0.0084975
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10694.jpg
+colobus, colobus monkey 0.788191
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0644834
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10695.jpg
+Great Dane 0.10274
+gorilla, Gorilla gorilla 0.0578227
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10696.jpg
+chimpanzee, chimp, Pan troglodytes 0.994264
+spider monkey, Ateles geoffroyi 0.000967657
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10697.jpg
+chimpanzee, chimp, Pan troglodytes 0.999274
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.000646723
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10698.jpg
+chimpanzee, chimp, Pan troglodytes 1
+dumbbell 0
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10699.jpg
+chimpanzee, chimp, Pan troglodytes 0.997417
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00146664
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10700.jpg
+chimpanzee, chimp, Pan troglodytes 0.909735
+gorilla, Gorilla gorilla 0.0820078
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10701.jpg
+chimpanzee, chimp, Pan troglodytes 0.970569
+macaque 0.0175811
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10702.jpg
+chimpanzee, chimp, Pan troglodytes 0.985507
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.00646746
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10703.jpg
+chimpanzee, chimp, Pan troglodytes 0.479468
+spider monkey, Ateles geoffroyi 0.240775
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10704.jpg
+sloth bear, Melursus ursinus, Ursus ursinus 0.462085
+chimpanzee, chimp, Pan troglodytes 0.211024
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10705.jpg
+chimpanzee, chimp, Pan troglodytes 0.999995
+siamang, Hylobates syndactylus, Symphalangus syndactylus 4.96834e-06
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10706.jpg
+chimpanzee, chimp, Pan troglodytes 0.999162
+spider monkey, Ateles geoffroyi 0.000324473
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10707.jpg
+chimpanzee, chimp, Pan troglodytes 0.881252
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0161406
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10708.jpg
+Newfoundland, Newfoundland dog 0.303914
+groenendael 0.200199
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10709.jpg
+chimpanzee, chimp, Pan troglodytes 0.986176
+gorilla, Gorilla gorilla 0.0135667
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10710.jpg
+chimpanzee, chimp, Pan troglodytes 0.570825
+gorilla, Gorilla gorilla 0.351042
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10711.jpg
+chimpanzee, chimp, Pan troglodytes 0.709054
+gorilla, Gorilla gorilla 0.208575
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10712.jpg
+chimpanzee, chimp, Pan troglodytes 0.853349
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.0714559
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10713.jpg
+chimpanzee, chimp, Pan troglodytes 0.727632
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.230986
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10714.jpg
+indri, indris, Indri indri, Indri brevicaudatus 0.151251
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.134472
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10715.jpg
+chimpanzee, chimp, Pan troglodytes 0.553113
+groom, bridegroom 0.0152067
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10716.jpg
+chimpanzee, chimp, Pan troglodytes 0.845652
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.102508
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10717.jpg
+fur coat 0.193973
+ram, tup 0.125345
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10718.jpg
+chimpanzee, chimp, Pan troglodytes 0.953448
+howler monkey, howler 0.0172486
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10719.jpg
+siamang, Hylobates syndactylus, Symphalangus syndactylus 0.787518
+chimpanzee, chimp, Pan troglodytes 0.179844
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10720.jpg
+chimpanzee, chimp, Pan troglodytes 0.971851
+guenon, guenon monkey 0.00586166
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10721.jpg
+chimpanzee, chimp, Pan troglodytes 0.573086
+gorilla, Gorilla gorilla 0.238341
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10722.jpg
+chimpanzee, chimp, Pan troglodytes 0.811774
+gorilla, Gorilla gorilla 0.110189
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10723.jpg
+chimpanzee, chimp, Pan troglodytes 0.314467
+hornbill 0.164916
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10724.jpg
+chimpanzee, chimp, Pan troglodytes 0.997733
+American black bear, black bear, Ursus americanus, Euarctos americanus 0.00158129
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10725.jpg
+chimpanzee, chimp, Pan troglodytes 0.619253
+gorilla, Gorilla gorilla 0.269856
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10726.jpg
+chimpanzee, chimp, Pan troglodytes 0.969034
+gorilla, Gorilla gorilla 0.0143567
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10727.jpg
+horse cart, horse-cart 0.230064
+oxcart 0.0356197
+./datasets/Animals_with_Attributes2/JPEGImages/chimpanzee/chimpanzee_10728.jpg
+prison, prison house 0.395349
+African grey, African gray, Psittacus erithacus 0.180698

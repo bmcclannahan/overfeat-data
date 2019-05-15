@@ -1,0 +1,1647 @@
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10001.jpg
+dalmatian, coach dog, carriage dog 0.999277
+Great Dane 0.000448563
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10002.jpg
+shopping cart 0.180962
+shopping basket 0.127416
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10003.jpg
+dalmatian, coach dog, carriage dog 0.818424
+Great Dane 0.0824151
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10004.jpg
+dalmatian, coach dog, carriage dog 0.949975
+Great Dane 0.0385379
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10005.jpg
+dalmatian, coach dog, carriage dog 0.993781
+Great Dane 0.00615952
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10006.jpg
+dalmatian, coach dog, carriage dog 0.603438
+Great Dane 0.378259
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10007.jpg
+chocolate sauce, chocolate syrup 0.286222
+ice cream, icecream 0.101912
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10008.jpg
+dalmatian, coach dog, carriage dog 0.952995
+Great Dane 0.0396137
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10009.jpg
+dalmatian, coach dog, carriage dog 0.911392
+Great Dane 0.0868652
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10010.jpg
+dalmatian, coach dog, carriage dog 0.943039
+Great Dane 0.0273123
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10011.jpg
+dalmatian, coach dog, carriage dog 0.851005
+Great Dane 0.0575756
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10012.jpg
+dalmatian, coach dog, carriage dog 0.998755
+Great Dane 0.000696353
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10013.jpg
+dalmatian, coach dog, carriage dog 0.997513
+English setter 0.0012363
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10014.jpg
+dalmatian, coach dog, carriage dog 0.999466
+Great Dane 0.000521112
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10015.jpg
+dalmatian, coach dog, carriage dog 0.96707
+Great Dane 0.0314486
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10016.jpg
+dalmatian, coach dog, carriage dog 0.349337
+plastic bag 0.0331797
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10017.jpg
+rugby ball 0.148224
+football helmet 0.0878676
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10018.jpg
+dalmatian, coach dog, carriage dog 0.95204
+English setter 0.0224557
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10019.jpg
+dalmatian, coach dog, carriage dog 0.980274
+English setter 0.0176118
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10020.jpg
+dalmatian, coach dog, carriage dog 0.990349
+muzzle 0.0030443
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10021.jpg
+hyena, hyaena 0.374526
+German short-haired pointer 0.303855
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10022.jpg
+dalmatian, coach dog, carriage dog 0.864652
+English springer, English springer spaniel 0.0281228
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10023.jpg
+dalmatian, coach dog, carriage dog 0.999769
+English setter 0.000153098
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10024.jpg
+dalmatian, coach dog, carriage dog 0.802986
+cannon 0.0504421
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10025.jpg
+dalmatian, coach dog, carriage dog 0.965677
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0170722
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10026.jpg
+dalmatian, coach dog, carriage dog 0.989803
+jaguar, panther, Panthera onca, Felis onca 0.00427569
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10027.jpg
+dalmatian, coach dog, carriage dog 0.994323
+Great Dane 0.00528251
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10028.jpg
+dalmatian, coach dog, carriage dog 0.941177
+Great Dane 0.0345641
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10029.jpg
+dalmatian, coach dog, carriage dog 0.979379
+Great Dane 0.0202689
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10030.jpg
+English setter 0.462719
+dalmatian, coach dog, carriage dog 0.3046
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10031.jpg
+dalmatian, coach dog, carriage dog 0.439703
+Great Dane 0.141157
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10032.jpg
+dalmatian, coach dog, carriage dog 0.970873
+Great Dane 0.0268604
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10033.jpg
+dalmatian, coach dog, carriage dog 0.99831
+Great Dane 0.00162356
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10034.jpg
+dalmatian, coach dog, carriage dog 0.862931
+English setter 0.116583
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10035.jpg
+dalmatian, coach dog, carriage dog 0.967554
+Great Dane 0.0114311
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10036.jpg
+dalmatian, coach dog, carriage dog 0.952946
+Great Dane 0.0387034
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10037.jpg
+dalmatian, coach dog, carriage dog 0.986629
+Great Dane 0.0119956
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10038.jpg
+dalmatian, coach dog, carriage dog 0.233
+Great Dane 0.0961193
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10039.jpg
+dalmatian, coach dog, carriage dog 0.966581
+English setter 0.0219263
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10040.jpg
+dalmatian, coach dog, carriage dog 0.999418
+English setter 0.00045504
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10041.jpg
+dalmatian, coach dog, carriage dog 0.149384
+crash helmet 0.0931379
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10042.jpg
+dalmatian, coach dog, carriage dog 0.996316
+Great Dane 0.00339094
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10043.jpg
+dalmatian, coach dog, carriage dog 0.996615
+Great Dane 0.00333901
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10044.jpg
+dalmatian, coach dog, carriage dog 0.996166
+snow leopard, ounce, Panthera uncia 0.00291371
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10045.jpg
+Saluki, gazelle hound 0.427519
+whippet 0.197299
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10046.jpg
+dalmatian, coach dog, carriage dog 0.924706
+EntleBucher 0.00937429
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10047.jpg
+dalmatian, coach dog, carriage dog 0.341885
+English setter 0.279254
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10048.jpg
+dalmatian, coach dog, carriage dog 0.29295
+English setter 0.132445
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10049.jpg
+dalmatian, coach dog, carriage dog 0.993675
+Great Dane 0.00554607
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10050.jpg
+dalmatian, coach dog, carriage dog 0.971794
+English setter 0.0132704
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10051.jpg
+dalmatian, coach dog, carriage dog 0.640124
+Great Dane 0.0662796
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10052.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.375392
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier 0.224532
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10053.jpg
+dalmatian, coach dog, carriage dog 0.980012
+English setter 0.0162899
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10054.jpg
+English setter 0.57689
+dalmatian, coach dog, carriage dog 0.331793
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10055.jpg
+dalmatian, coach dog, carriage dog 0.951077
+Great Dane 0.0424855
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10056.jpg
+Staffordshire bullterrier, Staffordshire bull terrier 0.21765
+Boston bull, Boston terrier 0.206885
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10057.jpg
+dalmatian, coach dog, carriage dog 0.574904
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.328883
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10058.jpg
+dalmatian, coach dog, carriage dog 0.947926
+Great Dane 0.051405
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10059.jpg
+horse cart, horse-cart 0.116977
+Great Dane 0.0745078
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10060.jpg
+dalmatian, coach dog, carriage dog 0.174748
+fur coat 0.127912
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10061.jpg
+dalmatian, coach dog, carriage dog 0.718545
+Great Dane 0.24234
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10062.jpg
+dalmatian, coach dog, carriage dog 0.985473
+muzzle 0.0122842
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10063.jpg
+boxer 0.419688
+basenji 0.0735156
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10064.jpg
+Great Dane 0.555116
+German short-haired pointer 0.195182
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10065.jpg
+Great Dane 0.695205
+dalmatian, coach dog, carriage dog 0.224049
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10066.jpg
+dalmatian, coach dog, carriage dog 0.973328
+Great Dane 0.0266205
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10067.jpg
+Great Dane 0.372582
+Staffordshire bullterrier, Staffordshire bull terrier 0.144646
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10068.jpg
+dalmatian, coach dog, carriage dog 0.621467
+Great Dane 0.374331
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10069.jpg
+terrapin 0.0694762
+dalmatian, coach dog, carriage dog 0.0483393
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10070.jpg
+dalmatian, coach dog, carriage dog 0.424515
+Great Dane 0.36536
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10071.jpg
+dalmatian, coach dog, carriage dog 0.799904
+Great Dane 0.0805709
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10072.jpg
+dogsled, dog sled, dog sleigh 0.840478
+Eskimo dog, husky 0.125345
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10073.jpg
+ski 0.424364
+puck, hockey puck 0.185017
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10074.jpg
+dogsled, dog sled, dog sleigh 0.48529
+dalmatian, coach dog, carriage dog 0.18708
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10075.jpg
+dalmatian, coach dog, carriage dog 0.869863
+Great Dane 0.0795884
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10076.jpg
+dalmatian, coach dog, carriage dog 0.918707
+Great Dane 0.066516
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10077.jpg
+porcupine, hedgehog 0.427581
+Newfoundland, Newfoundland dog 0.160586
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10078.jpg
+Great Dane 0.244454
+dalmatian, coach dog, carriage dog 0.156543
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10079.jpg
+dalmatian, coach dog, carriage dog 0.196151
+king snake, kingsnake 0.136004
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10080.jpg
+dalmatian, coach dog, carriage dog 0.902087
+Great Dane 0.0976032
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10081.jpg
+English springer, English springer spaniel 0.312039
+English setter 0.123759
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10082.jpg
+dalmatian, coach dog, carriage dog 0.690078
+Great Dane 0.0967106
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10083.jpg
+whippet 0.513968
+vizsla, Hungarian pointer 0.0987148
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10084.jpg
+Doberman, Doberman pinscher 0.594173
+Great Dane 0.251098
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10085.jpg
+whippet 0.643691
+Great Dane 0.233495
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10086.jpg
+Rhodesian ridgeback 0.436755
+boxer 0.398704
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10087.jpg
+Great Dane 0.701198
+dalmatian, coach dog, carriage dog 0.26514
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10088.jpg
+rugby ball 0.216423
+EntleBucher 0.14195
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10089.jpg
+dalmatian, coach dog, carriage dog 0.860605
+Great Dane 0.0955021
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10090.jpg
+oystercatcher, oyster catcher 0.253468
+drake 0.089976
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10091.jpg
+Great Dane 0.427982
+dalmatian, coach dog, carriage dog 0.310683
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10092.jpg
+dalmatian, coach dog, carriage dog 0.946675
+Great Dane 0.0445338
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10093.jpg
+dalmatian, coach dog, carriage dog 0.390635
+English setter 0.174317
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10094.jpg
+dalmatian, coach dog, carriage dog 0.558975
+bluetick 0.159499
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10095.jpg
+Italian greyhound 0.279799
+Chihuahua 0.180131
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10096.jpg
+dalmatian, coach dog, carriage dog 0.99664
+Great Dane 0.00333903
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10097.jpg
+dalmatian, coach dog, carriage dog 0.561347
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.310316
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10098.jpg
+dalmatian, coach dog, carriage dog 0.92559
+Great Dane 0.065387
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10099.jpg
+dalmatian, coach dog, carriage dog 0.824543
+Great Dane 0.162028
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10100.jpg
+Great Dane 0.612706
+dalmatian, coach dog, carriage dog 0.385526
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10101.jpg
+dalmatian, coach dog, carriage dog 0.829763
+Great Dane 0.0719448
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10102.jpg
+crutch 0.0827802
+poncho 0.0244593
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10103.jpg
+dalmatian, coach dog, carriage dog 0.970432
+English setter 0.00505366
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10104.jpg
+dalmatian, coach dog, carriage dog 0.975545
+Great Dane 0.0243571
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10105.jpg
+dalmatian, coach dog, carriage dog 0.983649
+Great Dane 0.0148182
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10106.jpg
+dalmatian, coach dog, carriage dog 0.99876
+Great Dane 0.000413699
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10107.jpg
+dalmatian, coach dog, carriage dog 0.992636
+Great Dane 0.00731418
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10108.jpg
+dalmatian, coach dog, carriage dog 0.991237
+Great Dane 0.00875709
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10109.jpg
+dalmatian, coach dog, carriage dog 0.976291
+Great Dane 0.0237088
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10110.jpg
+dalmatian, coach dog, carriage dog 0.977351
+Great Dane 0.00456356
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10111.jpg
+dalmatian, coach dog, carriage dog 0.777505
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.212953
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10112.jpg
+dalmatian, coach dog, carriage dog 0.972968
+Great Dane 0.0269691
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10113.jpg
+dalmatian, coach dog, carriage dog 0.83369
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.140407
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10114.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.920181
+dalmatian, coach dog, carriage dog 0.0467378
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10115.jpg
+dalmatian, coach dog, carriage dog 0.480442
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.194316
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10116.jpg
+dalmatian, coach dog, carriage dog 0.886332
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0850231
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10117.jpg
+dalmatian, coach dog, carriage dog 0.555611
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.416488
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10118.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.975582
+dalmatian, coach dog, carriage dog 0.0221709
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10119.jpg
+dalmatian, coach dog, carriage dog 0.939287
+jaguar, panther, Panthera onca, Felis onca 0.0176419
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10120.jpg
+dalmatian, coach dog, carriage dog 0.301072
+English setter 0.25283
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10121.jpg
+Great Dane 0.585362
+dalmatian, coach dog, carriage dog 0.405388
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10122.jpg
+dalmatian, coach dog, carriage dog 0.974678
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0201492
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10123.jpg
+Great Dane 0.420916
+boxer 0.14973
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10124.jpg
+dalmatian, coach dog, carriage dog 0.997144
+English setter 0.00173547
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10125.jpg
+dalmatian, coach dog, carriage dog 0.528045
+Great Dane 0.215627
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10126.jpg
+dalmatian, coach dog, carriage dog 0.998704
+Great Dane 0.00110484
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10127.jpg
+dalmatian, coach dog, carriage dog 0.811535
+Great Dane 0.184459
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10128.jpg
+dalmatian, coach dog, carriage dog 0.87652
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0693831
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10129.jpg
+dalmatian, coach dog, carriage dog 0.828904
+Great Dane 0.170286
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10130.jpg
+dalmatian, coach dog, carriage dog 0.972908
+Great Dane 0.026552
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10131.jpg
+dalmatian, coach dog, carriage dog 0.999221
+Great Dane 0.000603038
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10132.jpg
+dalmatian, coach dog, carriage dog 0.999419
+cheetah, chetah, Acinonyx jubatus 0.000264217
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10133.jpg
+dalmatian, coach dog, carriage dog 0.294346
+English setter 0.287865
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10134.jpg
+dalmatian, coach dog, carriage dog 0.985109
+Great Dane 0.00706416
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10135.jpg
+dalmatian, coach dog, carriage dog 0.197417
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.093147
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10136.jpg
+dalmatian, coach dog, carriage dog 0.617662
+black stork, Ciconia nigra 0.0973055
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10137.jpg
+dalmatian, coach dog, carriage dog 0.641033
+muzzle 0.323406
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10138.jpg
+dalmatian, coach dog, carriage dog 0.994078
+Great Dane 0.00391149
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10139.jpg
+dalmatian, coach dog, carriage dog 0.956724
+Great Dane 0.0214953
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10140.jpg
+dalmatian, coach dog, carriage dog 0.1693
+Great Dane 0.167912
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10141.jpg
+dalmatian, coach dog, carriage dog 0.951314
+Great Dane 0.0486858
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10142.jpg
+dalmatian, coach dog, carriage dog 0.422357
+Great Dane 0.141567
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10143.jpg
+dalmatian, coach dog, carriage dog 0.952606
+Great Dane 0.0271268
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10144.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.559773
+dalmatian, coach dog, carriage dog 0.0724029
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10145.jpg
+dalmatian, coach dog, carriage dog 0.928575
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0666475
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10146.jpg
+dalmatian, coach dog, carriage dog 0.704355
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.13578
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10147.jpg
+dalmatian, coach dog, carriage dog 0.726063
+Great Dane 0.23177
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10148.jpg
+dalmatian, coach dog, carriage dog 0.57644
+Great Dane 0.402083
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10149.jpg
+dalmatian, coach dog, carriage dog 0.98279
+Great Dane 0.0118679
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10150.jpg
+pug, pug-dog 0.325547
+French bulldog 0.140568
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10151.jpg
+Boston bull, Boston terrier 0.100573
+ice cream, icecream 0.083125
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10152.jpg
+dalmatian, coach dog, carriage dog 0.947723
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0274572
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10153.jpg
+dalmatian, coach dog, carriage dog 0.626407
+Great Dane 0.163624
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10154.jpg
+dalmatian, coach dog, carriage dog 0.358794
+puck, hockey puck 0.105366
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10155.jpg
+dalmatian, coach dog, carriage dog 0.745355
+Great Dane 0.247534
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10156.jpg
+dalmatian, coach dog, carriage dog 0.127542
+Eskimo dog, husky 0.11895
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10157.jpg
+television, television system 0.21713
+monitor 0.0893598
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10158.jpg
+dalmatian, coach dog, carriage dog 0.966249
+Great Dane 0.0297033
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10159.jpg
+dalmatian, coach dog, carriage dog 0.913432
+Great Dane 0.0796264
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10160.jpg
+king snake, kingsnake 0.293294
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.170373
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10161.jpg
+dalmatian, coach dog, carriage dog 0.9794
+Great Dane 0.017411
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10162.jpg
+Great Dane 0.211318
+dogsled, dog sled, dog sleigh 0.132641
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10163.jpg
+Cardigan, Cardigan Welsh corgi 0.135867
+pencil box, pencil case 0.0998652
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10164.jpg
+great grey owl, great gray owl, Strix nebulosa 0.321143
+chickadee 0.0669061
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10165.jpg
+dalmatian, coach dog, carriage dog 0.518025
+German short-haired pointer 0.0771974
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10166.jpg
+dalmatian, coach dog, carriage dog 0.896945
+Great Dane 0.0856114
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10167.jpg
+ski 0.790268
+German short-haired pointer 0.0256419
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10168.jpg
+Great Dane 0.85164
+Walker hound, Walker foxhound 0.0257452
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10169.jpg
+dalmatian, coach dog, carriage dog 0.824012
+Great Dane 0.163978
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10170.jpg
+dalmatian, coach dog, carriage dog 0.920303
+Great Dane 0.0694377
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10171.jpg
+dalmatian, coach dog, carriage dog 0.284089
+Great Dane 0.250975
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10172.jpg
+ski 0.318929
+German short-haired pointer 0.232355
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10173.jpg
+Great Dane 0.714075
+dalmatian, coach dog, carriage dog 0.246754
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10174.jpg
+dalmatian, coach dog, carriage dog 0.99345
+Great Dane 0.0063664
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10175.jpg
+dalmatian, coach dog, carriage dog 0.994504
+Great Dane 0.00518294
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10176.jpg
+dalmatian, coach dog, carriage dog 0.795914
+Great Dane 0.196594
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10177.jpg
+dalmatian, coach dog, carriage dog 0.85215
+Great Dane 0.137762
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10178.jpg
+dalmatian, coach dog, carriage dog 0.860122
+Great Dane 0.138338
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10179.jpg
+dalmatian, coach dog, carriage dog 0.817887
+Great Dane 0.13143
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10180.jpg
+dalmatian, coach dog, carriage dog 0.804057
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0550302
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10181.jpg
+dalmatian, coach dog, carriage dog 0.762699
+Great Dane 0.115313
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10182.jpg
+dalmatian, coach dog, carriage dog 0.961575
+Great Dane 0.0358083
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10183.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.146591
+ptarmigan 0.092733
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10184.jpg
+dalmatian, coach dog, carriage dog 0.939488
+English setter 0.0232744
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10185.jpg
+dalmatian, coach dog, carriage dog 0.878585
+Great Dane 0.119291
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10186.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.58533
+dalmatian, coach dog, carriage dog 0.322936
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10187.jpg
+dalmatian, coach dog, carriage dog 0.997208
+Great Dane 0.00258754
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10188.jpg
+dalmatian, coach dog, carriage dog 0.998037
+Great Dane 0.000982164
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10189.jpg
+dalmatian, coach dog, carriage dog 0.98914
+Great Dane 0.00983272
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10190.jpg
+dalmatian, coach dog, carriage dog 0.968635
+Great Dane 0.0209296
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10191.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.27088
+dalmatian, coach dog, carriage dog 0.268525
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10192.jpg
+dalmatian, coach dog, carriage dog 0.959562
+German short-haired pointer 0.0145174
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10193.jpg
+dalmatian, coach dog, carriage dog 0.950244
+German short-haired pointer 0.0442707
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10194.jpg
+dalmatian, coach dog, carriage dog 0.988804
+Great Dane 0.00872162
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10195.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.177666
+dalmatian, coach dog, carriage dog 0.0931761
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10196.jpg
+dalmatian, coach dog, carriage dog 0.554701
+whippet 0.130598
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10197.jpg
+dalmatian, coach dog, carriage dog 0.986138
+muzzle 0.00395786
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10198.jpg
+cannon 0.297671
+crash helmet 0.0452058
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10199.jpg
+whippet 0.543606
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0885163
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10200.jpg
+dalmatian, coach dog, carriage dog 0.990638
+English setter 0.00544039
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10201.jpg
+dalmatian, coach dog, carriage dog 0.856749
+English setter 0.0888873
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10202.jpg
+Border collie 0.255636
+Saluki, gazelle hound 0.246441
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10203.jpg
+muzzle 0.129434
+dalmatian, coach dog, carriage dog 0.0590096
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10204.jpg
+dalmatian, coach dog, carriage dog 0.567767
+jaguar, panther, Panthera onca, Felis onca 0.149653
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10205.jpg
+Great Dane 0.933355
+dalmatian, coach dog, carriage dog 0.0471386
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10206.jpg
+dalmatian, coach dog, carriage dog 0.852601
+tiger, Panthera tigris 0.0242033
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10207.jpg
+dalmatian, coach dog, carriage dog 0.999301
+English setter 0.000407522
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10208.jpg
+dalmatian, coach dog, carriage dog 0.999395
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.000326627
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10209.jpg
+dalmatian, coach dog, carriage dog 0.998926
+Great Dane 0.000502774
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10210.jpg
+dalmatian, coach dog, carriage dog 0.988214
+Great Dane 0.00188369
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10211.jpg
+dalmatian, coach dog, carriage dog 0.812951
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch 0.0299813
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10212.jpg
+dalmatian, coach dog, carriage dog 0.99795
+muzzle 0.000837929
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10213.jpg
+dalmatian, coach dog, carriage dog 0.892763
+muzzle 0.0391023
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10214.jpg
+snow leopard, ounce, Panthera uncia 0.377061
+dalmatian, coach dog, carriage dog 0.305257
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10215.jpg
+dalmatian, coach dog, carriage dog 0.801623
+Great Dane 0.0853536
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10216.jpg
+dalmatian, coach dog, carriage dog 0.97067
+Great Dane 0.0178336
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10217.jpg
+Border collie 0.267813
+Bernese mountain dog 0.126768
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10218.jpg
+dalmatian, coach dog, carriage dog 0.851625
+muzzle 0.0930348
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10219.jpg
+mountain bike, all-terrain bike, off-roader 0.28007
+dalmatian, coach dog, carriage dog 0.234254
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10220.jpg
+dalmatian, coach dog, carriage dog 0.73589
+Great Dane 0.242355
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10221.jpg
+dalmatian, coach dog, carriage dog 0.877065
+Great Dane 0.122054
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10222.jpg
+dalmatian, coach dog, carriage dog 0.4944
+mountain bike, all-terrain bike, off-roader 0.246897
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10223.jpg
+dalmatian, coach dog, carriage dog 0.658174
+Great Dane 0.25953
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10224.jpg
+Great Dane 0.360439
+dalmatian, coach dog, carriage dog 0.141001
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10225.jpg
+dalmatian, coach dog, carriage dog 0.880253
+Great Dane 0.0636441
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10226.jpg
+dalmatian, coach dog, carriage dog 0.983133
+Great Dane 0.00916512
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10227.jpg
+dalmatian, coach dog, carriage dog 0.963629
+English setter 0.0249939
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10228.jpg
+dalmatian, coach dog, carriage dog 0.971726
+English setter 0.0114521
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10229.jpg
+Great Dane 0.655646
+dalmatian, coach dog, carriage dog 0.256198
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10230.jpg
+dalmatian, coach dog, carriage dog 0.585486
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.30676
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10231.jpg
+dalmatian, coach dog, carriage dog 0.858034
+Great Dane 0.117799
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10232.jpg
+dalmatian, coach dog, carriage dog 0.998476
+jaguar, panther, Panthera onca, Felis onca 0.000776407
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10233.jpg
+dalmatian, coach dog, carriage dog 0.974267
+Great Dane 0.0256723
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10234.jpg
+dalmatian, coach dog, carriage dog 0.974956
+Great Dane 0.0147523
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10235.jpg
+dalmatian, coach dog, carriage dog 0.95928
+Great Dane 0.00685829
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10236.jpg
+Saluki, gazelle hound 0.147554
+mountain bike, all-terrain bike, off-roader 0.143121
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10237.jpg
+dalmatian, coach dog, carriage dog 0.68857
+Great Dane 0.297995
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10238.jpg
+English setter 0.55918
+dalmatian, coach dog, carriage dog 0.311048
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10239.jpg
+dalmatian, coach dog, carriage dog 0.823483
+English setter 0.100211
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10240.jpg
+dalmatian, coach dog, carriage dog 0.853006
+Great Dane 0.139044
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10241.jpg
+mountain bike, all-terrain bike, off-roader 0.841645
+dalmatian, coach dog, carriage dog 0.0274464
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10242.jpg
+dalmatian, coach dog, carriage dog 0.963717
+Great Dane 0.0353831
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10243.jpg
+dalmatian, coach dog, carriage dog 0.96224
+Great Dane 0.0250645
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10244.jpg
+dalmatian, coach dog, carriage dog 0.919134
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.051415
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10245.jpg
+dalmatian, coach dog, carriage dog 0.713641
+malamute, malemute, Alaskan malamute 0.0665193
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10246.jpg
+dalmatian, coach dog, carriage dog 0.982934
+muzzle 0.00692569
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10247.jpg
+dalmatian, coach dog, carriage dog 0.999262
+jaguar, panther, Panthera onca, Felis onca 0.000170156
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10248.jpg
+dalmatian, coach dog, carriage dog 0.97584
+Great Dane 0.023992
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10249.jpg
+dalmatian, coach dog, carriage dog 0.984189
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.00980751
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10250.jpg
+dalmatian, coach dog, carriage dog 0.836934
+Great Dane 0.156696
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10251.jpg
+dalmatian, coach dog, carriage dog 0.998459
+Great Dane 0.00119565
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10252.jpg
+dalmatian, coach dog, carriage dog 0.999895
+Great Dane 0.000105275
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10253.jpg
+dalmatian, coach dog, carriage dog 0.996865
+muzzle 0.00134608
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10254.jpg
+dalmatian, coach dog, carriage dog 0.822454
+Border collie 0.107608
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10255.jpg
+dalmatian, coach dog, carriage dog 0.999982
+Great Dane 1.80501e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10256.jpg
+dalmatian, coach dog, carriage dog 0.996143
+Great Dane 0.0021266
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10257.jpg
+dalmatian, coach dog, carriage dog 0.999963
+Great Dane 2.70103e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10258.jpg
+dalmatian, coach dog, carriage dog 0.896062
+whippet 0.0459389
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10259.jpg
+dalmatian, coach dog, carriage dog 0.874954
+Great Dane 0.0477065
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10260.jpg
+vulture 0.327465
+cheetah, chetah, Acinonyx jubatus 0.161832
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10261.jpg
+whippet 0.451299
+Saluki, gazelle hound 0.224593
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10262.jpg
+dalmatian, coach dog, carriage dog 0.957728
+Great Dane 0.0338028
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10263.jpg
+dalmatian, coach dog, carriage dog 0.988909
+Great Dane 0.0110863
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10264.jpg
+dalmatian, coach dog, carriage dog 0.974735
+Great Dane 0.0251966
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10265.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.344828
+dalmatian, coach dog, carriage dog 0.206766
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10266.jpg
+dalmatian, coach dog, carriage dog 0.278247
+Great Dane 0.0513409
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10267.jpg
+dalmatian, coach dog, carriage dog 0.990235
+Great Dane 0.00674428
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10268.jpg
+dalmatian, coach dog, carriage dog 0.927886
+Great Dane 0.0714262
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10269.jpg
+dalmatian, coach dog, carriage dog 0.938954
+Great Dane 0.0593849
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10270.jpg
+dalmatian, coach dog, carriage dog 0.945217
+Great Dane 0.0420829
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10271.jpg
+dalmatian, coach dog, carriage dog 0.983842
+Great Dane 0.0151422
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10272.jpg
+dalmatian, coach dog, carriage dog 0.955925
+Great Dane 0.0408728
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10273.jpg
+Eskimo dog, husky 0.0840027
+Siberian husky 0.0566334
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10274.jpg
+dalmatian, coach dog, carriage dog 0.879039
+muzzle 0.0593175
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10275.jpg
+dalmatian, coach dog, carriage dog 0.758399
+Great Dane 0.131029
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10276.jpg
+dalmatian, coach dog, carriage dog 0.974937
+Great Dane 0.0116603
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10277.jpg
+dalmatian, coach dog, carriage dog 0.995792
+English setter 0.00377616
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10278.jpg
+dalmatian, coach dog, carriage dog 0.61137
+Great Dane 0.171814
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10279.jpg
+dalmatian, coach dog, carriage dog 0.989298
+Great Dane 0.0102139
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10280.jpg
+dalmatian, coach dog, carriage dog 0.756441
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0324285
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10281.jpg
+dalmatian, coach dog, carriage dog 0.954311
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0213334
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10282.jpg
+dalmatian, coach dog, carriage dog 0.910969
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0843823
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10283.jpg
+dalmatian, coach dog, carriage dog 0.832436
+muzzle 0.149571
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10284.jpg
+dalmatian, coach dog, carriage dog 0.903857
+Great Dane 0.0548997
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10285.jpg
+dalmatian, coach dog, carriage dog 0.0579272
+golden retriever 0.0552893
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10286.jpg
+dalmatian, coach dog, carriage dog 0.999415
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.000349783
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10287.jpg
+dalmatian, coach dog, carriage dog 0.9818
+muzzle 0.00905427
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10288.jpg
+dalmatian, coach dog, carriage dog 0.978279
+jaguar, panther, Panthera onca, Felis onca 0.00630526
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10289.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.691378
+dalmatian, coach dog, carriage dog 0.238108
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10290.jpg
+dalmatian, coach dog, carriage dog 0.937379
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0307087
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10291.jpg
+dalmatian, coach dog, carriage dog 0.990964
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.00282429
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10292.jpg
+dalmatian, coach dog, carriage dog 0.997458
+Great Dane 0.00239212
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10293.jpg
+dalmatian, coach dog, carriage dog 0.942793
+English setter 0.0474072
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10294.jpg
+dalmatian, coach dog, carriage dog 0.50621
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.485224
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10295.jpg
+dalmatian, coach dog, carriage dog 0.949862
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0132714
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10296.jpg
+dalmatian, coach dog, carriage dog 0.976257
+Great Dane 0.0167208
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10297.jpg
+dalmatian, coach dog, carriage dog 0.982917
+Great Dane 0.00735909
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10298.jpg
+dalmatian, coach dog, carriage dog 0.887897
+Great Dane 0.109276
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10299.jpg
+dalmatian, coach dog, carriage dog 0.964255
+Great Dane 0.0136774
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10300.jpg
+dalmatian, coach dog, carriage dog 0.850168
+jaguar, panther, Panthera onca, Felis onca 0.0410902
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10301.jpg
+dalmatian, coach dog, carriage dog 0.992865
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.00436152
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10302.jpg
+dalmatian, coach dog, carriage dog 0.950994
+English setter 0.0389604
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10303.jpg
+dalmatian, coach dog, carriage dog 0.943633
+Great Dane 0.0283806
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10304.jpg
+dalmatian, coach dog, carriage dog 0.792328
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0258879
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10305.jpg
+dalmatian, coach dog, carriage dog 0.983419
+English setter 0.00764519
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10306.jpg
+Great Dane 0.618333
+dalmatian, coach dog, carriage dog 0.380192
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10307.jpg
+dalmatian, coach dog, carriage dog 0.889709
+Great Dane 0.109653
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10308.jpg
+dalmatian, coach dog, carriage dog 0.999923
+Great Dane 6.92058e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10309.jpg
+dalmatian, coach dog, carriage dog 0.999389
+English setter 0.000415253
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10310.jpg
+dalmatian, coach dog, carriage dog 0.947258
+Great Dane 0.0377552
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10311.jpg
+dalmatian, coach dog, carriage dog 0.854682
+Great Dane 0.137202
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10312.jpg
+dalmatian, coach dog, carriage dog 0.993942
+Great Dane 0.00402929
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10313.jpg
+dalmatian, coach dog, carriage dog 0.814277
+Great Dane 0.124275
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10314.jpg
+dalmatian, coach dog, carriage dog 0.379197
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.291744
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10315.jpg
+dalmatian, coach dog, carriage dog 0.881308
+Great Dane 0.0490026
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10316.jpg
+Great Dane 0.392213
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.145245
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10317.jpg
+Leonberg 0.239487
+golden retriever 0.0476682
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10318.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.731434
+tiger, Panthera tigris 0.0452057
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10319.jpg
+dalmatian, coach dog, carriage dog 0.976834
+garden spider, Aranea diademata 0.0107197
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10320.jpg
+dalmatian, coach dog, carriage dog 0.771741
+Great Dane 0.216175
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10321.jpg
+dalmatian, coach dog, carriage dog 0.657361
+Great Dane 0.194711
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10322.jpg
+Boston bull, Boston terrier 0.219091
+muzzle 0.186636
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10323.jpg
+football helmet 0.995386
+soccer ball 0.00135673
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10324.jpg
+soccer ball 0.992767
+muzzle 0.0014748
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10325.jpg
+dalmatian, coach dog, carriage dog 0.99744
+jaguar, panther, Panthera onca, Felis onca 0.00117064
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10326.jpg
+dalmatian, coach dog, carriage dog 0.999655
+Great Dane 0.000157129
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10327.jpg
+dalmatian, coach dog, carriage dog 0.770345
+ruddy turnstone, Arenaria interpres 0.098044
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10328.jpg
+dalmatian, coach dog, carriage dog 0.902389
+German short-haired pointer 0.0299658
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10329.jpg
+dalmatian, coach dog, carriage dog 0.979159
+EntleBucher 0.00457354
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10330.jpg
+EntleBucher 0.137704
+Great Dane 0.0497988
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10331.jpg
+dalmatian, coach dog, carriage dog 0.874289
+Great Dane 0.0936676
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10332.jpg
+hippopotamus, hippo, river horse, Hippopotamus amphibius 0.175483
+English setter 0.156116
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10333.jpg
+dalmatian, coach dog, carriage dog 0.992955
+Great Dane 0.00350083
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10334.jpg
+dalmatian, coach dog, carriage dog 0.980683
+English setter 0.00665849
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10335.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.287871
+mountain bike, all-terrain bike, off-roader 0.120051
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10336.jpg
+dalmatian, coach dog, carriage dog 0.98561
+Great Dane 0.0128331
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10337.jpg
+dalmatian, coach dog, carriage dog 0.948544
+jaguar, panther, Panthera onca, Felis onca 0.0484025
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10338.jpg
+Welsh springer spaniel 0.227081
+German short-haired pointer 0.0627358
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10339.jpg
+dalmatian, coach dog, carriage dog 0.999813
+English setter 8.46003e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10340.jpg
+dalmatian, coach dog, carriage dog 0.889601
+muzzle 0.0533341
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10341.jpg
+dalmatian, coach dog, carriage dog 0.999448
+Great Dane 0.00055208
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10342.jpg
+dalmatian, coach dog, carriage dog 0.987934
+Great Dane 0.0120051
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10343.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.669384
+dalmatian, coach dog, carriage dog 0.151755
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10344.jpg
+dalmatian, coach dog, carriage dog 0.842753
+jaguar, panther, Panthera onca, Felis onca 0.0609599
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10345.jpg
+dalmatian, coach dog, carriage dog 0.989857
+Great Dane 0.00721728
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10346.jpg
+dalmatian, coach dog, carriage dog 0.988797
+Great Dane 0.0107398
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10347.jpg
+German short-haired pointer 0.70958
+Great Dane 0.11809
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10348.jpg
+dalmatian, coach dog, carriage dog 0.950944
+muzzle 0.0330174
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10349.jpg
+Saluki, gazelle hound 0.0960378
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0777505
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10350.jpg
+dalmatian, coach dog, carriage dog 0.942966
+Great Dane 0.0177083
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10351.jpg
+dalmatian, coach dog, carriage dog 0.985045
+muzzle 0.00902108
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10352.jpg
+Saluki, gazelle hound 0.23007
+whippet 0.0908968
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10353.jpg
+Rhodesian ridgeback 0.222197
+dalmatian, coach dog, carriage dog 0.181114
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10354.jpg
+whippet 0.585645
+Great Dane 0.161197
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10355.jpg
+whippet 0.107347
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.104618
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10356.jpg
+Great Dane 0.67129
+dalmatian, coach dog, carriage dog 0.245619
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10357.jpg
+dalmatian, coach dog, carriage dog 0.984161
+Great Dane 0.00582261
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10358.jpg
+dalmatian, coach dog, carriage dog 0.725093
+Great Dane 0.264907
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10359.jpg
+dalmatian, coach dog, carriage dog 0.936131
+football helmet 0.0324141
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10360.jpg
+bow tie, bow-tie, bowtie 0.142378
+Boston bull, Boston terrier 0.134192
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10361.jpg
+dalmatian, coach dog, carriage dog 0.392694
+Great Dane 0.228101
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10362.jpg
+dalmatian, coach dog, carriage dog 0.534454
+German short-haired pointer 0.138338
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10363.jpg
+dalmatian, coach dog, carriage dog 0.878257
+Great Dane 0.120355
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10364.jpg
+dalmatian, coach dog, carriage dog 0.898526
+Great Dane 0.0698644
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10365.jpg
+dalmatian, coach dog, carriage dog 0.919727
+Great Dane 0.0799685
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10366.jpg
+dalmatian, coach dog, carriage dog 0.999643
+snow leopard, ounce, Panthera uncia 0.000229072
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10367.jpg
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus 0.961282
+lacewing, lacewing fly 0.0151318
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10368.jpg
+dalmatian, coach dog, carriage dog 0.689915
+Great Dane 0.187284
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10369.jpg
+dalmatian, coach dog, carriage dog 0.933254
+Great Dane 0.0272538
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10370.jpg
+dalmatian, coach dog, carriage dog 0.967875
+Great Dane 0.0283094
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10371.jpg
+dalmatian, coach dog, carriage dog 0.930931
+Great Dane 0.0690643
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10372.jpg
+dalmatian, coach dog, carriage dog 0.989284
+Great Dane 0.00928878
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10373.jpg
+dalmatian, coach dog, carriage dog 0.542988
+Great Dane 0.254741
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10374.jpg
+dalmatian, coach dog, carriage dog 0.98243
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0102339
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10375.jpg
+dalmatian, coach dog, carriage dog 0.774171
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.127523
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10376.jpg
+dalmatian, coach dog, carriage dog 0.948925
+English setter 0.0469171
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10377.jpg
+dalmatian, coach dog, carriage dog 0.914129
+English setter 0.0680482
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10378.jpg
+dalmatian, coach dog, carriage dog 0.832255
+Great Dane 0.0880341
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10379.jpg
+dalmatian, coach dog, carriage dog 0.427798
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.145479
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10380.jpg
+king snake, kingsnake 0.260749
+bustard 0.098677
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10381.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.550757
+dalmatian, coach dog, carriage dog 0.158352
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10382.jpg
+great grey owl, great gray owl, Strix nebulosa 0.463327
+macaw 0.242528
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10383.jpg
+English setter 0.284375
+English springer, English springer spaniel 0.163631
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10384.jpg
+dalmatian, coach dog, carriage dog 0.831449
+Great Dane 0.0483975
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10385.jpg
+dalmatian, coach dog, carriage dog 0.889726
+Great Dane 0.103449
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10386.jpg
+dalmatian, coach dog, carriage dog 0.500891
+Great Dane 0.360223
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10387.jpg
+Great Dane 0.379753
+dalmatian, coach dog, carriage dog 0.351238
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10388.jpg
+dalmatian, coach dog, carriage dog 0.993439
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.00270705
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10389.jpg
+dalmatian, coach dog, carriage dog 0.993264
+Great Dane 0.00561399
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10390.jpg
+dalmatian, coach dog, carriage dog 0.427952
+German short-haired pointer 0.167514
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10391.jpg
+dalmatian, coach dog, carriage dog 0.999451
+Great Dane 0.000548588
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10392.jpg
+dalmatian, coach dog, carriage dog 0.888774
+English setter 0.0933581
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10393.jpg
+cicada, cicala 0.258658
+grasshopper, hopper 0.219887
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10394.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.367169
+dalmatian, coach dog, carriage dog 0.301425
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10395.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.386672
+dalmatian, coach dog, carriage dog 0.367195
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10396.jpg
+dalmatian, coach dog, carriage dog 0.931057
+Great Dane 0.0674284
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10397.jpg
+Great Dane 0.4074
+dalmatian, coach dog, carriage dog 0.259444
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10398.jpg
+dalmatian, coach dog, carriage dog 0.721621
+puck, hockey puck 0.205689
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10399.jpg
+dalmatian, coach dog, carriage dog 0.89864
+Great Dane 0.100772
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10400.jpg
+dalmatian, coach dog, carriage dog 0.905835
+Great Dane 0.0358539
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10401.jpg
+dalmatian, coach dog, carriage dog 0.971128
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.017792
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10402.jpg
+dalmatian, coach dog, carriage dog 0.917945
+Great Dane 0.0590335
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10403.jpg
+dalmatian, coach dog, carriage dog 0.977724
+Great Dane 0.0188504
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10404.jpg
+dalmatian, coach dog, carriage dog 0.911439
+German short-haired pointer 0.0416325
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10405.jpg
+dalmatian, coach dog, carriage dog 0.987401
+Great Dane 0.00516983
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10406.jpg
+mountain bike, all-terrain bike, off-roader 0.787667
+bicycle-built-for-two, tandem bicycle, tandem 0.109888
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10407.jpg
+racer, race car, racing car 0.244308
+sports car, sport car 0.134689
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10408.jpg
+dalmatian, coach dog, carriage dog 0.989713
+Great Dane 0.00589621
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10409.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.961413
+dalmatian, coach dog, carriage dog 0.022075
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10410.jpg
+dalmatian, coach dog, carriage dog 0.371414
+chain 0.0293684
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10411.jpg
+dalmatian, coach dog, carriage dog 0.941534
+Great Dane 0.0582948
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10412.jpg
+dalmatian, coach dog, carriage dog 0.995581
+Great Dane 0.00434035
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10413.jpg
+dalmatian, coach dog, carriage dog 0.977836
+English setter 0.01378
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10414.jpg
+dalmatian, coach dog, carriage dog 0.753349
+German short-haired pointer 0.0639917
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10415.jpg
+dalmatian, coach dog, carriage dog 0.99556
+Great Dane 0.00428131
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10416.jpg
+dalmatian, coach dog, carriage dog 0.999473
+Great Dane 0.000319401
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10417.jpg
+dalmatian, coach dog, carriage dog 0.308546
+Great Dane 0.0420488
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10418.jpg
+dalmatian, coach dog, carriage dog 0.99324
+Great Dane 0.0067259
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10419.jpg
+dalmatian, coach dog, carriage dog 0.978925
+Great Dane 0.00778698
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10420.jpg
+dalmatian, coach dog, carriage dog 0.995461
+Great Dane 0.00365855
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10421.jpg
+dalmatian, coach dog, carriage dog 0.894178
+Great Dane 0.0174265
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10422.jpg
+bakery, bakeshop, bakehouse 0.24798
+tobacco shop, tobacconist shop, tobacconist 0.0495693
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10423.jpg
+dalmatian, coach dog, carriage dog 0.936528
+Great Dane 0.0548866
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10424.jpg
+dalmatian, coach dog, carriage dog 0.915426
+whippet 0.036907
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10425.jpg
+dalmatian, coach dog, carriage dog 0.962875
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0244629
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10426.jpg
+dalmatian, coach dog, carriage dog 0.99338
+Great Dane 0.00520871
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10427.jpg
+dalmatian, coach dog, carriage dog 0.474094
+German short-haired pointer 0.101195
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10428.jpg
+dalmatian, coach dog, carriage dog 0.976483
+Great Dane 0.0142487
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10429.jpg
+English setter 0.319644
+dalmatian, coach dog, carriage dog 0.181151
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10430.jpg
+dalmatian, coach dog, carriage dog 0.628937
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.158166
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10431.jpg
+dalmatian, coach dog, carriage dog 0.882945
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.0481514
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10432.jpg
+Scottish deerhound, deerhound 0.0736989
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.063936
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10433.jpg
+Border collie 0.213294
+English setter 0.101442
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10434.jpg
+dalmatian, coach dog, carriage dog 0.949452
+Great Dane 0.04377
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10435.jpg
+dalmatian, coach dog, carriage dog 0.991521
+Great Dane 0.00686374
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10436.jpg
+dalmatian, coach dog, carriage dog 0.539666
+Great Dane 0.0748065
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10437.jpg
+dalmatian, coach dog, carriage dog 0.892454
+Great Dane 0.0938544
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10438.jpg
+dalmatian, coach dog, carriage dog 0.979188
+Great Dane 0.00593665
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10439.jpg
+dalmatian, coach dog, carriage dog 0.575301
+English setter 0.0611064
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10440.jpg
+dalmatian, coach dog, carriage dog 0.98203
+Great Dane 0.00986716
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10441.jpg
+dalmatian, coach dog, carriage dog 0.328456
+banded gecko 0.159361
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10442.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.749328
+English foxhound 0.0272323
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10443.jpg
+dalmatian, coach dog, carriage dog 0.177204
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.135925
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10444.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.385618
+dalmatian, coach dog, carriage dog 0.341151
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10445.jpg
+Gila monster, Heloderma suspectum 0.142138
+rock crab, Cancer irroratus 0.0543736
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10446.jpg
+dalmatian, coach dog, carriage dog 0.37912
+cheetah, chetah, Acinonyx jubatus 0.0889397
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10447.jpg
+dalmatian, coach dog, carriage dog 0.865044
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.101239
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10448.jpg
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.269325
+dalmatian, coach dog, carriage dog 0.107127
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10449.jpg
+dalmatian, coach dog, carriage dog 0.890627
+Great Dane 0.0248781
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10450.jpg
+dalmatian, coach dog, carriage dog 0.777272
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.165522
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10451.jpg
+dalmatian, coach dog, carriage dog 0.449584
+football helmet 0.111946
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10452.jpg
+dalmatian, coach dog, carriage dog 0.986364
+English setter 0.00997599
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10453.jpg
+dalmatian, coach dog, carriage dog 0.587634
+EntleBucher 0.205042
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10454.jpg
+dalmatian, coach dog, carriage dog 0.815032
+king snake, kingsnake 0.0431949
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10455.jpg
+dalmatian, coach dog, carriage dog 0.839269
+Great Dane 0.148555
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10456.jpg
+dalmatian, coach dog, carriage dog 0.999745
+Great Dane 0.000254918
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10457.jpg
+dalmatian, coach dog, carriage dog 0.857038
+French bulldog 0.0216575
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10458.jpg
+dalmatian, coach dog, carriage dog 0.757461
+Great Dane 0.227633
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10459.jpg
+dalmatian, coach dog, carriage dog 0.998972
+Great Dane 0.000781949
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10460.jpg
+dalmatian, coach dog, carriage dog 0.632884
+English setter 0.191302
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10461.jpg
+dalmatian, coach dog, carriage dog 0.955692
+English setter 0.0306146
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10462.jpg
+dalmatian, coach dog, carriage dog 0.999345
+kuvasz 0.000241707
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10463.jpg
+dalmatian, coach dog, carriage dog 0.993764
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus 0.00372159
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10464.jpg
+dalmatian, coach dog, carriage dog 0.641878
+Great Dane 0.0410699
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10465.jpg
+dalmatian, coach dog, carriage dog 0.951795
+Great Dane 0.0315277
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10466.jpg
+dalmatian, coach dog, carriage dog 0.863397
+ice cream, icecream 0.0868898
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10467.jpg
+German short-haired pointer 0.524734
+English setter 0.347093
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10468.jpg
+dalmatian, coach dog, carriage dog 0.993815
+Great Dane 0.00610452
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10469.jpg
+dalmatian, coach dog, carriage dog 0.99065
+Great Dane 0.00929862
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10470.jpg
+dalmatian, coach dog, carriage dog 0.999452
+Great Dane 0.00019068
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10471.jpg
+Scottish deerhound, deerhound 0.0664355
+Arabian camel, dromedary, Camelus dromedarius 0.0569285
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10472.jpg
+dalmatian, coach dog, carriage dog 0.955883
+English setter 0.0118536
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10473.jpg
+dalmatian, coach dog, carriage dog 0.992969
+Great Dane 0.00394973
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10474.jpg
+dalmatian, coach dog, carriage dog 0.208136
+Gila monster, Heloderma suspectum 0.106538
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10475.jpg
+Labrador retriever 0.259054
+dalmatian, coach dog, carriage dog 0.244763
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10476.jpg
+dalmatian, coach dog, carriage dog 0.999542
+Great Dane 0.000125409
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10477.jpg
+dalmatian, coach dog, carriage dog 0.945932
+wooden spoon 0.00711142
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10478.jpg
+dalmatian, coach dog, carriage dog 0.982363
+ice cream, icecream 0.00474998
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10479.jpg
+dalmatian, coach dog, carriage dog 0.264216
+whippet 0.260366
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10480.jpg
+dalmatian, coach dog, carriage dog 0.999869
+Great Dane 7.15116e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10481.jpg
+dalmatian, coach dog, carriage dog 0.999975
+Great Dane 2.47018e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10482.jpg
+dogsled, dog sled, dog sleigh 0.342922
+swimming trunks, bathing trunks 0.156017
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10483.jpg
+dalmatian, coach dog, carriage dog 0.971124
+Great Dane 0.00825542
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10484.jpg
+dalmatian, coach dog, carriage dog 0.99956
+Great Dane 0.00027169
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10485.jpg
+dalmatian, coach dog, carriage dog 0.997641
+Great Dane 0.00101544
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10486.jpg
+dalmatian, coach dog, carriage dog 0.207507
+horse cart, horse-cart 0.0462985
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10487.jpg
+dalmatian, coach dog, carriage dog 0.964107
+Great Dane 0.032492
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10488.jpg
+dalmatian, coach dog, carriage dog 0.97986
+Staffordshire bullterrier, Staffordshire bull terrier 0.00702026
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10489.jpg
+dalmatian, coach dog, carriage dog 0.966188
+Great Dane 0.0336153
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10490.jpg
+lakeside, lakeshore 0.314333
+ruddy turnstone, Arenaria interpres 0.132905
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10491.jpg
+dalmatian, coach dog, carriage dog 0.909389
+Great Dane 0.0905273
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10492.jpg
+dalmatian, coach dog, carriage dog 0.303256
+wreck 0.157225
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10493.jpg
+dalmatian, coach dog, carriage dog 0.265541
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca 0.134088
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10494.jpg
+dalmatian, coach dog, carriage dog 0.928156
+Great Dane 0.0591344
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10495.jpg
+dalmatian, coach dog, carriage dog 0.999618
+Great Dane 0.000349171
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10496.jpg
+dalmatian, coach dog, carriage dog 0.999571
+Great Dane 0.000413449
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10497.jpg
+dalmatian, coach dog, carriage dog 0.999856
+Great Dane 0.000144283
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10498.jpg
+Great Dane 0.338324
+German short-haired pointer 0.21737
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10499.jpg
+dalmatian, coach dog, carriage dog 0.992682
+Great Dane 0.0026584
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10500.jpg
+dalmatian, coach dog, carriage dog 0.999465
+Great Dane 0.000531364
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10501.jpg
+dogsled, dog sled, dog sleigh 0.995331
+Eskimo dog, husky 0.00434
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10502.jpg
+dalmatian, coach dog, carriage dog 0.997109
+Great Dane 0.000537231
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10503.jpg
+dalmatian, coach dog, carriage dog 0.999977
+Great Dane 2.28256e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10504.jpg
+dalmatian, coach dog, carriage dog 0.999544
+Great Dane 0.000447557
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10505.jpg
+dalmatian, coach dog, carriage dog 0.996395
+Great Dane 0.0035697
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10506.jpg
+dalmatian, coach dog, carriage dog 0.999418
+Great Dane 0.000582244
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10507.jpg
+football helmet 0.226318
+soccer ball 0.133302
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10508.jpg
+borzoi, Russian wolfhound 0.28376
+Saluki, gazelle hound 0.120828
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10509.jpg
+dalmatian, coach dog, carriage dog 0.993307
+Great Dane 0.00236372
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10510.jpg
+dalmatian, coach dog, carriage dog 0.982206
+Great Dane 0.012992
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10511.jpg
+dalmatian, coach dog, carriage dog 0.998929
+Great Dane 0.000769368
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10512.jpg
+English setter 0.364735
+Saluki, gazelle hound 0.203116
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10513.jpg
+dalmatian, coach dog, carriage dog 0.122752
+oystercatcher, oyster catcher 0.0562774
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10514.jpg
+mask 0.235259
+paper towel 0.194883
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10515.jpg
+dalmatian, coach dog, carriage dog 0.996116
+Great Dane 0.0032968
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10516.jpg
+dalmatian, coach dog, carriage dog 0.948941
+Great Dane 0.0226768
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10517.jpg
+dalmatian, coach dog, carriage dog 0.989106
+Great Dane 0.00371171
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10518.jpg
+dalmatian, coach dog, carriage dog 0.836565
+cradle 0.0536822
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10519.jpg
+dalmatian, coach dog, carriage dog 0.567956
+ruddy turnstone, Arenaria interpres 0.165837
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10520.jpg
+dalmatian, coach dog, carriage dog 0.999598
+English setter 0.000333494
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10521.jpg
+dalmatian, coach dog, carriage dog 0.820662
+Great Dane 0.0556529
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10522.jpg
+dalmatian, coach dog, carriage dog 0.999205
+snow leopard, ounce, Panthera uncia 0.000411594
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10523.jpg
+Chihuahua 0.200444
+French bulldog 0.112861
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10524.jpg
+dalmatian, coach dog, carriage dog 0.999919
+Great Dane 8.0853e-05
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10525.jpg
+dalmatian, coach dog, carriage dog 0.909922
+Great Dane 0.0874055
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10526.jpg
+dalmatian, coach dog, carriage dog 0.996571
+muzzle 0.00241127
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10527.jpg
+dalmatian, coach dog, carriage dog 0.999869
+Great Dane 0.000130679
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10528.jpg
+dalmatian, coach dog, carriage dog 0.869185
+Great Dane 0.130486
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10529.jpg
+dalmatian, coach dog, carriage dog 0.979467
+Great Dane 0.0120647
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10530.jpg
+dalmatian, coach dog, carriage dog 0.517271
+muzzle 0.0584398
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10531.jpg
+dalmatian, coach dog, carriage dog 0.995629
+Great Dane 0.00425833
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10532.jpg
+dalmatian, coach dog, carriage dog 0.998891
+Great Dane 0.000907872
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10533.jpg
+dalmatian, coach dog, carriage dog 0.929869
+jaguar, panther, Panthera onca, Felis onca 0.0296137
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10534.jpg
+unicycle, monocycle 0.161688
+Greater Swiss Mountain dog 0.0881216
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10535.jpg
+dalmatian, coach dog, carriage dog 0.998274
+English setter 0.00073077
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10536.jpg
+dalmatian, coach dog, carriage dog 0.999846
+Great Dane 0.000140546
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10537.jpg
+dalmatian, coach dog, carriage dog 0.857927
+Great Dane 0.0725104
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10538.jpg
+dalmatian, coach dog, carriage dog 0.999877
+Great Dane 0.000116491
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10539.jpg
+dalmatian, coach dog, carriage dog 0.891927
+borzoi, Russian wolfhound 0.0202546
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10540.jpg
+dalmatian, coach dog, carriage dog 0.565964
+Great Dane 0.361745
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10541.jpg
+lawn mower, mower 0.13915
+shovel 0.131414
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10542.jpg
+dalmatian, coach dog, carriage dog 0.999986
+Great Dane 8.06784e-06
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10543.jpg
+dalmatian, coach dog, carriage dog 0.999815
+Great Dane 0.00016548
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10544.jpg
+dalmatian, coach dog, carriage dog 0.993407
+Great Dane 0.00343717
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10545.jpg
+dalmatian, coach dog, carriage dog 0.797765
+Eskimo dog, husky 0.0288595
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10546.jpg
+dalmatian, coach dog, carriage dog 0.840775
+Great Dane 0.0378787
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10547.jpg
+dalmatian, coach dog, carriage dog 0.994422
+Great Dane 0.002934
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10548.jpg
+Great Dane 0.598734
+dalmatian, coach dog, carriage dog 0.125915
+./datasets/Animals_with_Attributes2/JPEGImages/dalmatian/dalmatian_10549.jpg
+Indian cobra, Naja naja 0.587162
+banded gecko 0.142697
